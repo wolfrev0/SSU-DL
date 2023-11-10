@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run(Debug)",
+			"type": "shell",
+			"command": "ulimit -s 1048576 && cargo run",
+		},
+		{
+			"label": "Run(Release)",
+			"type": "shell",
+			"command": "ulimit -s 1048576 && /usr/bin/time -v cargo run --release 2> >(awk '/User/||/System/||/Elap/||/Max/')",
+			"dependsOn": ["Create submit.rs"],
+		},
+		{
+			"label": "Build(Debug)",
+			"type": "shell",
+			"command": "cargo build",
+		},
+	],
+}
