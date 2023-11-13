@@ -51,6 +51,10 @@ impl ComputationGraph {
 		self.adj[y].pred.push((x, yi));
 	}
 
+	fn topological_order() -> Vec<usize> {
+		todo!();
+	}
+
 	//return (outputs, gradients) of current graph
 	pub fn run(&self, init: Vec<(usize, Array4<f32>)>) -> (Vec<Array4<f32>>, Vec<Array4<f32>>) {
 		let mut snk = usize::MAX;
@@ -89,6 +93,8 @@ impl ComputationGraph {
 		dp_grad[snk] = Some(Array4::ones(output_shape));
 
 		//a.k.a backward propagation
+		//TODO: BFS won't be fit when graph is not tree. (ex: residual block)
+		//use topological_order()
 		let mut q = VecDeque::new();
 		q.push_back(snk);
 		while let Some(x) = q.pop_front() {
