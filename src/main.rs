@@ -12,18 +12,30 @@ fn main() {
 	let input_data =
 		Array4::<f32>::from_shape_vec((1, 1, 2, 3), vec![0., 1., 2., 3., 4., 5.]).unwrap();
 
-	let weight = g.alloc();
-	let weight_data = Array4::<f32>::from_shape_vec((1, 1, 3, 1), vec![0., 1., 2.]).unwrap();
+	let weight1 = g.alloc();
+	let weight1_data = Array4::<f32>::from_shape_vec((1, 1, 3, 1), vec![0., 1., 2.]).unwrap();
+
+	let weight2 = g.alloc();
+	let weight2_data = Array4::<f32>::from_shape_vec((1, 1, 1, 2), vec![1., 1.]).unwrap();
 
 	let fc1 = g.alloc();
 	g.adj[fc1].op = (fully_connected, fully_connected_back);
 	g.connect(input, fc1);
-	g.connect(weight, fc1);
+	g.connect(weight1, fc1);
 
-	let (res, _) = g.run(vec![
+	let fc2 = g.alloc();
+	g.adj[fc2].op = (fully_connected, fully_connected_back);
+	g.connect(weight2, fc2);
+	g.connect(fc1, fc2);
+
+	let (res, grad) = g.run(vec![
 		(input, input_data.clone()),
-		(weight, weight_data.clone()),
+		(weight1, weight1_data.clone()),
+		(weight2, weight2_data.clone()),
 	]);
-	dbg!(input_data.clone(), weight_data.clone(), res[fc1].clone());
-	assert!(is_equal(res[fc1].iter(), [5., 14.].iter()));
+	println!("{}", res[fc2]);
+	println!("{}", grad[fc2]);
+	for i in grad {
+		println!("grad {}", i);
+	}
 }

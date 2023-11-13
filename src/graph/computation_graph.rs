@@ -99,12 +99,15 @@ impl ComputationGraph {
 			for (y, _) in self.adj[x].pred.iter() {
 				input.push(self.get_outputs_dfs(&mut dp_out, *y));
 			}
-			let grads_local = self.adj[x].op.1(&input);
+			input.push(dp_grad[x].to_owned().unwrap());
+			let input_grads = self.adj[x].op.1(&input);
 			for i in 0..self.adj[x].pred.len() {
-				dp_grad[self.adj[x].pred[i].0] = match &dp_grad[self.adj[x].pred[i].0] {
-					None => Some(grads_local[i].clone()),
-					Some(val) => Some(val + dp_grad[x].as_ref().unwrap() * &grads_local[i]),
+				let y = self.adj[x].pred[i].0;
+				dp_grad[y] = match &dp_grad[y] {
+					None => Some(input_grads[i].clone()),
+					Some(val) => Some(val + &input_grads[i]),
 				};
+				q.push_back(y);
 			}
 		}
 
@@ -140,31 +143,6 @@ mod tests {
 	};
 
 	#[test]
-	#[ignore] //fully_connected_back() not implemented
-	fn test_matmul() {
-		let mut g = ComputationGraph::new();
-
-		let input = g.alloc();
-		let input_data =
-			Array4::<f32>::from_shape_vec((1, 1, 2, 3), vec![0., 1., 2., 3., 4., 5.]).unwrap();
-
-		let weight = g.alloc();
-		let weight_data = Array4::<f32>::from_shape_vec((1, 1, 3, 1), vec![0., 1., 2.]).unwrap();
-
-		let fc1 = g.alloc();
-		g.adj[fc1].op = (fully_connected, fully_connected_back);
-		g.connect(input, fc1);
-		g.connect(weight, fc1);
-
-		let (res, _) = g.run(vec![
-			(input, input_data.clone()),
-			(weight, weight_data.clone()),
-		]);
-		dbg!(input_data.clone(), weight_data.clone(), res[fc1].clone());
-		assert!(is_equal(res[fc1].iter(), [5., 14.].iter()));
-	}
-
-	#[test]
 	fn test_relu() {
 		let mut g = ComputationGraph::new();
 
@@ -177,7 +155,6 @@ mod tests {
 		g.connect(input, hidden);
 
 		let (out, grad) = g.run(vec![(input, input_data.clone())]);
-		dbg!(input_data.clone());
 		assert!(is_equal(
 			out[hidden].iter(),
 			[0., 1., 0., 3., 0., 5.].iter()
@@ -186,5 +163,79 @@ mod tests {
 			grad[input].iter(),
 			[0., 1., 0., 1., 0., 1.].iter()
 		));
+	}
+
+	#[test]
+	fn test_matmul() {
+		/* REFERENCE CODE
+		import torch
+
+		# Create two matrices with sequential values
+		A = torch.arange(6, dtype=torch.float32).reshape(2, 3).requires_grad_()
+		B = torch.arange(3, dtype=torch.float32).reshape(3, 1).requires_grad_()
+
+		# Matrix multiplication
+		C = torch.mm(A, B)
+
+		# Define a scalar loss function (for example, the sum of all elements in C)
+		loss = C.sum()
+
+		# Compute gradients
+		loss.backward()
+
+		# Access the gradients
+		grad_A = A.grad
+		grad_B = B.grad
+
+		# Print the results
+		print("Matrix A:")
+		print(A)
+		print("\nMatrix B:")
+		print(B)
+		print("\nMatrix C (result of A*B):")
+		print(C)
+		print("\nGradient of A:")
+		print(grad_A)
+		print("\nGradient of B:")
+		print(grad_B) */
+		let mut g = ComputationGraph::new();
+
+		let input = g.alloc();
+		let input_data =
+			Array4::<f32>::from_shape_vec((1, 1, 2, 3), vec![0., 1., 2., 3., 4., 5.]).unwrap();
+
+		let weight1 = g.alloc();
+		let weight1_data = Array4::<f32>::from_shape_vec((1, 1, 3, 1), vec![0., 1., 2.]).unwrap();
+
+		let weight2 = g.alloc();
+		let weight2_data = Array4::<f32>::from_shape_vec((1, 1, 1, 2), vec![1., 1.]).unwrap();
+
+		let fc1 = g.alloc();
+		g.adj[fc1].op = (fully_connected, fully_connected_back);
+		g.connect(input, fc1);
+		g.connect(weight1, fc1);
+
+		let fc2 = g.alloc();
+		g.adj[fc2].op = (fully_connected, fully_connected_back);
+		g.connect(weight2, fc2);
+		g.connect(fc1, fc2);
+
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(weight1, weight1_data.clone()),
+			(weight2, weight2_data.clone()),
+		]);
+		assert!(is_equal(res[fc2].iter(), [19.].iter()));
+		assert!(is_equal(grad[fc2].iter(), [1.].iter()));
+
+		assert!(is_equal(res[fc1].iter(), [5., 14.].iter()));
+		assert!(is_equal(grad[fc1].iter(), [1., 1.].iter()));
+
+		assert!(is_equal(
+			grad[input].iter(),
+			[0., 1., 2., 0., 1., 2.].iter()
+		));
+		assert!(is_equal(grad[weight1].iter(), [3., 5., 7.].iter()));
+		assert!(is_equal(grad[weight2].iter(), [5., 14.].iter()));
 	}
 }

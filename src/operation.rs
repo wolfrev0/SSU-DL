@@ -1,4 +1,4 @@
-use ndarray::{Array4, Axis};
+use ndarray::{s, Array4, Axis};
 
 //fwd와 bwd 설명
 //fwd(input_1, input_2, ..., input_N) -> output
@@ -11,10 +11,23 @@ use ndarray::{Array4, Axis};
 pub fn identity(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	input[0].clone()
 }
+//input[-1]=output_grad_sum
 //input[0]=input
 //output[0]=input_gradient_local
 pub fn identity_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	vec![input[0].clone()]
+}
+
+fn bfyx_matmul(a: &Array4<f32>, b: &Array4<f32>) -> Array4<f32> {
+	let mut ret = Array4::zeros((a.shape()[0], a.shape()[1], a.shape()[2], b.shape()[3]));
+	for i in 0..a.shape()[0] {
+		for j in 0..a.shape()[1] {
+			let cur = a.slice(s![i, j, .., ..]).dot(&b.slice(s![i, j, .., ..]));
+			// Update the result array
+			ret.slice_mut(s![i, j, .., ..]).assign(&cur);
+		}
+	}
+	ret
 }
 
 //input[0]=input
@@ -35,7 +48,7 @@ pub fn fully_connected(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	);
 	assert!(b0 == b1 && f0 == f1 && x0 == y1);
 	let mut ret = Array4::zeros((b0, f0, y0, x1));
-	// let a = array![[3, 4], [1, 2]].row_;
+	//TODO: use bfyx_matmul()
 	for bi in 0..b0 {
 		for fi in 0..f0 {
 			ret.index_axis_mut(Axis(0), bi)
@@ -50,12 +63,17 @@ pub fn fully_connected(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	}
 	ret
 }
+
+//input[-1]=output_grad_sum
 //input[0]=input
 //input[1]=weight
 //output[0]=input_grad
 //output[0]=weight_grad_local
 pub fn fully_connected_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
-	todo!();
+	vec![
+		bfyx_matmul(&input[2], &input[1].clone().permuted_axes([0, 1, 3, 2])),
+		bfyx_matmul(&input[0].clone().permuted_axes([0, 1, 3, 2]), &input[2]),
+	]
 }
 
 //input[0]=input
@@ -69,15 +87,10 @@ pub fn relu(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	ret
 }
 
+//input[-1]=output_grad_sum
 //input[0]=input
 //output[0]=input_grad_local
 pub fn relu_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
-	let (b, f, y, x) = (
-		input[0].shape()[0],
-		input[0].shape()[1],
-		input[0].shape()[2],
-		input[0].shape()[3],
-	);
 	let mask = input[0].mapv(|x| if x > 0.0 { 1.0 } else { 0.0 });
-	vec![mask; 1]
+	vec![mask * &input[1]; 1]
 }
