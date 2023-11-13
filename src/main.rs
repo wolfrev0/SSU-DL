@@ -1,8 +1,9 @@
 use dlrs::{
 	graph::computation_graph::ComputationGraph,
-	operation::{fully_connected, fully_connected_back},
+	misc::util::is_equal,
+	operation::{fully_connected, fully_connected_back, relu, relu_back},
 };
-use ndarray::{array, Array4};
+use ndarray::Array4;
 
 fn main() {
 	let mut g = ComputationGraph::new();
@@ -19,9 +20,10 @@ fn main() {
 	g.connect(input, fc1);
 	g.connect(weight, fc1);
 
-	let res = g.run(vec![
+	let (res, _) = g.run(vec![
 		(input, input_data.clone()),
 		(weight, weight_data.clone()),
 	]);
 	dbg!(input_data.clone(), weight_data.clone(), res[fc1].clone());
+	assert!(is_equal(res[fc1].iter(), [5., 14.].iter()));
 }
