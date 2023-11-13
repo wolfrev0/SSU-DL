@@ -169,26 +169,13 @@ mod tests {
 	fn test_matmul() {
 		/* REFERENCE CODE
 		import torch
-		torch.manual_seed(0)
-
-		# Create two matrices with sequential values
 		A = torch.arange(6, dtype=torch.float32).reshape(2, 3).requires_grad_()
 		B = torch.arange(3, dtype=torch.float32).reshape(3, 1).requires_grad_()
-
-		# Matrix multiplication
 		C = torch.mm(A, B)
-
-		# Define a scalar loss function (for example, the sum of all elements in C)
 		loss = C.sum()
-
-		# Compute gradients
 		loss.backward()
-
-		# Access the gradients
 		grad_A = A.grad
 		grad_B = B.grad
-
-		# Print the results
 		print("Matrix A:")
 		print(A)
 		print("\nMatrix B:")
@@ -198,7 +185,7 @@ mod tests {
 		print("\nGradient of A:")
 		print(grad_A)
 		print("\nGradient of B:")
-		print(grad_B) */
+		print(grad_B)*/
 		let mut g = ComputationGraph::new();
 
 		let input = g.alloc();
@@ -245,46 +232,28 @@ mod tests {
 		/*REFERENCE CODE
 		import torch
 		import torch.nn as nn
-		torch.manual_seed(0)
-
-		# Define the neural network class
+		torch.manual_seed(11111)
 		class SimpleNet(nn.Module):
 			def __init__(self, input_size, hidden_size, output_size):
 				super(SimpleNet, self).__init__()
-
-				# Linear layer 1
 				self.fc1 = nn.Linear(input_size, hidden_size, False)
-				# ReLU activation 1
 				self.relu1 = nn.ReLU()
-
-				# Linear layer 2
 				self.fc2 = nn.Linear(hidden_size, output_size, False)
-				# ReLU activation 2
 				self.relu2 = nn.ReLU()
 
 			def forward(self, x):
-				# Forward pass
 				x = self.relu1(self.fc1(x))
 				x = self.relu2(self.fc2(x))
 				return x
 
-		# Create an instance of the SimpleNet
-		input_size = 10
-		hidden_size = 5
-		output_size = 1
+		input_size = 8
+		hidden_size = 6
+		output_size = 4
 
 		model = SimpleNet(input_size, hidden_size, output_size)
-
-		# Example input
-		example_input = torch.rand((1, input_size))-0.2
-
-		# Forward pass through the network
+		example_input = torch.rand((1, input_size))
 		output = model(example_input)
 
-		# Backward pass to calculate gradients
-		output.backward()
-
-		# Print the model architecture and values
 		print(model)
 		print("\nInput:")
 		print(example_input)
@@ -295,42 +264,44 @@ mod tests {
 		print("\nOutput:")
 		print(output)
 
-		# Print gradients
+		output.backward(gradient=torch.tensor([[1.,1.,1.,1.]]))
 		print("\nGradients of Linear Layer 1 weights:")
 		print(model.fc1.weight.grad)
-
 		print("\nGradients of Linear Layer 2 weights:")
-		print(model.fc2.weight.grad)
-				 */
+		print(model.fc2.weight.grad)*/
 		let mut g = ComputationGraph::new();
 
 		let input = g.alloc();
 		let input_data = Array4::<f32>::from_shape_vec(
-			(1, 1, 10, 1),
+			(1, 1, 8, 1),
 			vec![
-				0.0056, 0.3932, -0.0877, -0.0465, 0.0417, 0.5262, 0.5011, 0.0038, 0.4511, 0.5745,
+				0.7608, 0.9041, 0.9830, 0.3026, 0.3139, 0.1113, 0.2464, 0.9967,
 			],
 		)
 		.unwrap();
 
 		let weight1 = g.alloc();
 		let weight1_data = Array4::<f32>::from_shape_vec(
-			(1, 1, 5, 10),
+			(1, 1, 6, 8),
 			vec![
-				-0.0024, 0.1696, -0.2603, -0.2327, -0.1218, 0.0848, -0.0063, 0.2507, -0.0281,
-				0.0837, -0.0956, -0.0622, -0.3021, -0.2094, -0.1304, 0.0117, 0.1250, 0.1897,
-				-0.2144, -0.1377, 0.1149, 0.2626, -0.0651, 0.2366, -0.0510, 0.0335, 0.2863,
-				-0.2934, -0.1991, -0.0801, -0.1233, 0.2732, -0.2050, -0.1456, -0.2209, -0.2962,
-				-0.1846, 0.2718, 0.1411, 0.1533, 0.0166, -0.1621, 0.0535, -0.2953, -0.2285,
-				-0.1630, 0.1995, 0.1854, -0.1402, -0.0114,
+				0.1806, 0.0927, 0.0754, -0.1094, 0.0388, -0.2083, -0.3351, -0.2591, 0.2947,
+				-0.2373, 0.2207, -0.2163, 0.0163, 0.1468, -0.3526, 0.3319, -0.2321, 0.1037,
+				-0.2045, -0.1501, 0.2676, 0.3087, 0.3164, -0.0726, -0.1910, 0.2309, -0.2953,
+				-0.0291, -0.1337, 0.2855, -0.0138, 0.0819, 0.0396, 0.1394, 0.2698, -0.1355,
+				-0.1322, -0.2800, -0.3354, 0.1577, 0.3326, -0.1080, 0.0047, -0.1543, 0.0193,
+				-0.0340, -0.3209, 0.0165,
 			],
 		)
 		.unwrap();
 
 		let weight2 = g.alloc();
 		let weight2_data = Array4::<f32>::from_shape_vec(
-			(1, 1, 1, 5),
-			vec![0.2860, 0.4446, 0.1775, 0.0604, 0.2999],
+			(1, 1, 4, 6),
+			vec![
+				0.1992, 0.1353, -0.3798, -0.1454, 0.3411, 0.0315, -0.3327, -0.1407, -0.1425,
+				0.1139, -0.3173, 0.1386, 0.2275, -0.1266, -0.0111, 0.1349, 0.2610, -0.1336,
+				-0.2452, 0.0849, 0.2613, 0.2177, -0.0315, -0.0740,
+			],
 		)
 		.unwrap();
 
@@ -360,19 +331,27 @@ mod tests {
 		for i in grad.iter() {
 			println!("{}", i);
 		}
-		assert!(is_equal(res[relu2].iter(), [0.0725].iter()));
 		assert!(is_equal(
-			grad[weight2].iter(),
-			[0.1731, 0.0000, 0.1206, 0.0266, 0.0000].iter()
+			res[relu2].iter(),
+			[0.1898, 0.0000, 0.0387, 0.0203].iter()
 		));
 		assert!(is_equal(
 			grad[weight1].iter(),
 			[
-				0.0016, 0.1125, -0.0251, -0.0133, 0.0119, 0.1505, 0.1433, 0.0011, 0.1290, 0.1643,
-				0.0000, 0.0000, -0.0000, -0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
-				0.0010, 0.0698, -0.0156, -0.0083, 0.0074, 0.0934, 0.0889, 0.0007, 0.0801, 0.1020,
-				0.0003, 0.0238, -0.0053, -0.0028, 0.0025, 0.0318, 0.0303, 0.0002, 0.0273, 0.0347,
-				0.0000, 0.0000, -0.0000, -0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000
+				0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0712, 0.0846,
+				0.0920, 0.0283, 0.0294, 0.0104, 0.0231, 0.0933, 0.0000, 0.0000, 0.0000, 0.0000,
+				0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+				0.0000, 0.0000, 0.4341, 0.5159, 0.5609, 0.1727, 0.1791, 0.0635, 0.1406, 0.5687,
+				-0.1339, -0.1592, -0.1730, -0.0533, -0.0553, -0.0196, -0.0434, -0.1755
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[weight2].iter(),
+			[
+				0.0000, 0.4265, 0.0000, 0.0000, 0.3823, 0.0529, 0.0000, 0.0000, 0.0000, 0.0000,
+				0.0000, 0.0000, 0.0000, 0.4265, 0.0000, 0.0000, 0.3823, 0.0529, 0.0000, 0.4265,
+				0.0000, 0.0000, 0.3823, 0.0529
 			]
 			.iter()
 		));
