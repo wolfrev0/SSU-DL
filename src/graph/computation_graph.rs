@@ -169,6 +169,7 @@ mod tests {
 	fn test_matmul() {
 		/* REFERENCE CODE
 		import torch
+		torch.manual_seed(0)
 
 		# Create two matrices with sequential values
 		A = torch.arange(6, dtype=torch.float32).reshape(2, 3).requires_grad_()
@@ -237,5 +238,143 @@ mod tests {
 		));
 		assert!(is_equal(grad[weight1].iter(), [3., 5., 7.].iter()));
 		assert!(is_equal(grad[weight2].iter(), [5., 14.].iter()));
+	}
+
+	#[test]
+	fn fc_relu_fc_relu() {
+		/*REFERENCE CODE
+		import torch
+		import torch.nn as nn
+		torch.manual_seed(0)
+
+		# Define the neural network class
+		class SimpleNet(nn.Module):
+			def __init__(self, input_size, hidden_size, output_size):
+				super(SimpleNet, self).__init__()
+
+				# Linear layer 1
+				self.fc1 = nn.Linear(input_size, hidden_size, False)
+				# ReLU activation 1
+				self.relu1 = nn.ReLU()
+
+				# Linear layer 2
+				self.fc2 = nn.Linear(hidden_size, output_size, False)
+				# ReLU activation 2
+				self.relu2 = nn.ReLU()
+
+			def forward(self, x):
+				# Forward pass
+				x = self.relu1(self.fc1(x))
+				x = self.relu2(self.fc2(x))
+				return x
+
+		# Create an instance of the SimpleNet
+		input_size = 10
+		hidden_size = 5
+		output_size = 1
+
+		model = SimpleNet(input_size, hidden_size, output_size)
+
+		# Example input
+		example_input = torch.rand((1, input_size))-0.2
+
+		# Forward pass through the network
+		output = model(example_input)
+
+		# Backward pass to calculate gradients
+		output.backward()
+
+		# Print the model architecture and values
+		print(model)
+		print("\nInput:")
+		print(example_input)
+		print("\nWeights of Linear Layer 1:")
+		print(model.fc1.weight)
+		print("\nWeights of Linear Layer 2:")
+		print(model.fc2.weight)
+		print("\nOutput:")
+		print(output)
+
+		# Print gradients
+		print("\nGradients of Linear Layer 1 weights:")
+		print(model.fc1.weight.grad)
+
+		print("\nGradients of Linear Layer 2 weights:")
+		print(model.fc2.weight.grad)
+				 */
+		let mut g = ComputationGraph::new();
+
+		let input = g.alloc();
+		let input_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 10, 1),
+			vec![
+				0.0056, 0.3932, -0.0877, -0.0465, 0.0417, 0.5262, 0.5011, 0.0038, 0.4511, 0.5745,
+			],
+		)
+		.unwrap();
+
+		let weight1 = g.alloc();
+		let weight1_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 5, 10),
+			vec![
+				-0.0024, 0.1696, -0.2603, -0.2327, -0.1218, 0.0848, -0.0063, 0.2507, -0.0281,
+				0.0837, -0.0956, -0.0622, -0.3021, -0.2094, -0.1304, 0.0117, 0.1250, 0.1897,
+				-0.2144, -0.1377, 0.1149, 0.2626, -0.0651, 0.2366, -0.0510, 0.0335, 0.2863,
+				-0.2934, -0.1991, -0.0801, -0.1233, 0.2732, -0.2050, -0.1456, -0.2209, -0.2962,
+				-0.1846, 0.2718, 0.1411, 0.1533, 0.0166, -0.1621, 0.0535, -0.2953, -0.2285,
+				-0.1630, 0.1995, 0.1854, -0.1402, -0.0114,
+			],
+		)
+		.unwrap();
+
+		let weight2 = g.alloc();
+		let weight2_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 1, 5),
+			vec![0.2860, 0.4446, 0.1775, 0.0604, 0.2999],
+		)
+		.unwrap();
+
+		let fc1 = g.alloc();
+		g.adj[fc1].op = (fully_connected, fully_connected_back);
+		g.connect(weight1, fc1);
+		g.connect(input, fc1);
+
+		let relu1 = g.alloc();
+		g.adj[relu1].op = (relu, relu_back);
+		g.connect(fc1, relu1);
+
+		let fc2 = g.alloc();
+		g.adj[fc2].op = (fully_connected, fully_connected_back);
+		g.connect(weight2, fc2);
+		g.connect(relu1, fc2);
+
+		let relu2 = g.alloc();
+		g.adj[relu2].op = (relu, relu_back);
+		g.connect(fc2, relu2);
+
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(weight1, weight1_data.clone()),
+			(weight2, weight2_data.clone()),
+		]);
+		for i in grad.iter() {
+			println!("{}", i);
+		}
+		assert!(is_equal(res[relu2].iter(), [0.0725].iter()));
+		assert!(is_equal(
+			grad[weight2].iter(),
+			[0.1731, 0.0000, 0.1206, 0.0266, 0.0000].iter()
+		));
+		assert!(is_equal(
+			grad[weight1].iter(),
+			[
+				0.0016, 0.1125, -0.0251, -0.0133, 0.0119, 0.1505, 0.1433, 0.0011, 0.1290, 0.1643,
+				0.0000, 0.0000, -0.0000, -0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+				0.0010, 0.0698, -0.0156, -0.0083, 0.0074, 0.0934, 0.0889, 0.0007, 0.0801, 0.1020,
+				0.0003, 0.0238, -0.0053, -0.0028, 0.0025, 0.0318, 0.0303, 0.0002, 0.0273, 0.0347,
+				0.0000, 0.0000, -0.0000, -0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000
+			]
+			.iter()
+		));
 	}
 }
