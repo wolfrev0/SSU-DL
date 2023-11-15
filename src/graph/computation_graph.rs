@@ -56,13 +56,20 @@ impl ComputationGraph {
 	}
 
 	//return (outputs, gradients) of current graph
-	pub fn run(&self, init: Vec<(usize, Array4<f32>)>) -> (Vec<Array4<f32>>, Vec<Array4<f32>>) {
+	pub fn run(
+		&self,
+		terminal_init: Vec<(usize, Array4<f32>)>,
+	) -> (Vec<Array4<f32>>, Vec<Array4<f32>>) {
 		let mut snk = usize::MAX;
 		let mut dp_out = vec![Option::None; self.adj.len()];
-		for (i, x) in init {
+		for (i, x) in terminal_init {
 			assert!(
 				self.adj[i].is_terminal(),
 				"Only terminal nodes can have initial value"
+			);
+			assert!(
+				self.adj[i].op == (identity, identity_back),
+				"Operation of terminal node should identity"
 			);
 			dp_out[i] = Some(self.adj[i].op.0(&vec![x; 1]).clone())
 		}

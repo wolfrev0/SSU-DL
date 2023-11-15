@@ -13,7 +13,7 @@ pub fn identity(input: &Vec<Array4<f32>>) -> Array4<f32> {
 }
 //input[-1]=output_grad_sum
 //input[0]=input
-//output[0]=input_gradient_local
+//output[0]=input_gradient
 pub fn identity_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	vec![input[0].clone()]
 }
@@ -68,7 +68,7 @@ pub fn fully_connected(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[0]=input
 //input[1]=weight
 //output[0]=input_grad
-//output[0]=weight_grad_local
+//output[1]=weight_grad
 pub fn fully_connected_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	vec![
 		bfyx_matmul(&input[2], &input[1].clone().permuted_axes([0, 1, 3, 2])),
@@ -89,8 +89,24 @@ pub fn relu(input: &Vec<Array4<f32>>) -> Array4<f32> {
 
 //input[-1]=output_grad_sum
 //input[0]=input
-//output[0]=input_grad_local
+//output[0]=input_grad
 pub fn relu_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	let mask = input[0].mapv(|x| if x > 0.0 { 1.0 } else { 0.0 });
 	vec![mask * &input[1]; 1]
+}
+
+//input[0]=input0
+//input[1]=input1
+//output[0]=output
+pub fn eltwise_add(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	input[0].clone() + &input[1]
+}
+
+//input[-1]=output_grad_sum
+//input[0]=input0
+//input[1]=input1
+//output[0]=input0_grad
+//output[0]=input1_grad
+pub fn eltwise_add_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	vec![input[2].clone(), input[2].clone()]
 }
