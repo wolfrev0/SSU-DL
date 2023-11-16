@@ -19,6 +19,22 @@ pub fn identity_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 }
 
 fn bfyx_matmul(a: &Array4<f32>, b: &Array4<f32>) -> Array4<f32> {
+	// let mut ret = Array4::zeros((b0, f0, y0, x1));
+	// for bi in 0..b0 {
+	// 	for fi in 0..f0 {
+	// 		ret.index_axis_mut(Axis(0), bi)
+	// 			.index_axis_mut(Axis(0), fi)
+	// 			.assign(
+	// 				&input[0]
+	// 					.index_axis(Axis(0), bi)
+	// 					.index_axis(Axis(0), fi)
+	// 					.dot(&input[1].index_axis(Axis(0), bi).index_axis(Axis(0), fi)),
+	// 			);
+	// 	}
+	// }
+	let (b0, f0, y0, x0) = (a.shape()[0], a.shape()[1], a.shape()[2], a.shape()[3]);
+	let (b1, f1, y1, x1) = (b.shape()[0], b.shape()[1], b.shape()[2], b.shape()[3]);
+	assert!(b0 == b1 && f0 == f1 && x0 == y1);
 	let mut ret = Array4::zeros((a.shape()[0], a.shape()[1], a.shape()[2], b.shape()[3]));
 	for i in 0..a.shape()[0] {
 		for j in 0..a.shape()[1] {
@@ -34,34 +50,7 @@ fn bfyx_matmul(a: &Array4<f32>, b: &Array4<f32>) -> Array4<f32> {
 //input[1]=weight
 //output[0]=output
 pub fn fully_connected(input: &Vec<Array4<f32>>) -> Array4<f32> {
-	let (b0, f0, y0, x0) = (
-		input[0].shape()[0],
-		input[0].shape()[1],
-		input[0].shape()[2],
-		input[0].shape()[3],
-	);
-	let (b1, f1, y1, x1) = (
-		input[1].shape()[0],
-		input[1].shape()[1],
-		input[1].shape()[2],
-		input[1].shape()[3],
-	);
-	assert!(b0 == b1 && f0 == f1 && x0 == y1);
-	let mut ret = Array4::zeros((b0, f0, y0, x1));
-	//TODO: use bfyx_matmul()
-	for bi in 0..b0 {
-		for fi in 0..f0 {
-			ret.index_axis_mut(Axis(0), bi)
-				.index_axis_mut(Axis(0), fi)
-				.assign(
-					&input[0]
-						.index_axis(Axis(0), bi)
-						.index_axis(Axis(0), fi)
-						.dot(&input[1].index_axis(Axis(0), bi).index_axis(Axis(0), fi)),
-				);
-		}
-	}
-	ret
+	bfyx_matmul(&input[0], &input[1])
 }
 
 //input[-1]=output_grad_sum
