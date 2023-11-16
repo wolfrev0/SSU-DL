@@ -97,7 +97,7 @@ impl ComputationGraph {
 			output_snk_shape[2],
 			output_snk_shape[3],
 		);
-		dp_grad[snk] = Some(Array4::ones(output_shape));
+		dp_grad[snk] = dp_out[snk].clone(); //Some(Array4::ones(output_shape));
 
 		//a.k.a backward propagation
 		//TODO: BFS won't be fit when graph is not tree. (ex: residual block)

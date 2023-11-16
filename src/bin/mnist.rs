@@ -6,8 +6,9 @@ use dlrs::{
 		softmax_cross_entropy, softmax_cross_entropy_back,
 	},
 };
-use ndarray::Array4;
-use rand::Rng;
+use mnist::{Mnist, MnistBuilder};
+use ndarray::{s, Array4};
+use rand::{rngs::StdRng, Rng, SeedableRng};
 /*
 import torch
 import torch.nn as nn
@@ -86,31 +87,34 @@ with torch.no_grad():
 		correct += (predicted == labels).sum().item()
 print('Accuracy on the test images after learning: %d %%' % (100 * correct / total))
 */
-fn main() {
-	let mut rng = rand::thread_rng();
 
+fn main() {
+	let chunk = 1;
 	let mut g = ComputationGraph::new();
+	let mut rng = StdRng::seed_from_u64(123);
 
 	let input = g.alloc();
-	let input_data =
-		Array4::<f32>::from_shape_fn((1, 1, 28 * 28, 1), |_| rng.gen_range(-0.1..=0.1));
+	// let input_data =
+	// 	Array4::<f32>::from_shape_fn((1, 1, 28 * 28, 1), |_| rng.gen_range(-0.1..=0.1));
 
 	let weight1 = g.alloc();
-	let weight1_data =
+	let mut weight1_data =
 		Array4::<f32>::from_shape_fn((1, 1, 128, 28 * 28), |_| rng.gen_range(-0.1..=0.1));
 
 	let weight2 = g.alloc();
-	let weight2_data = Array4::<f32>::from_shape_fn((1, 1, 10, 128), |_| rng.gen_range(-0.1..=0.1));
+	let mut weight2_data =
+		Array4::<f32>::from_shape_fn((1, 1, 10, 128), |_| rng.gen_range(-0.1..=0.1));
 
 	let bias1 = g.alloc();
-	let bias1_data = Array4::<f32>::from_shape_fn((1, 1, 128, 1), |_| rng.gen_range(-0.1..=0.1));
+	let mut bias1_data =
+		Array4::<f32>::from_shape_fn((1, 1, 128, 1), |_| rng.gen_range(-0.1..=0.1));
 
 	let bias2 = g.alloc();
-	let bias2_data = Array4::<f32>::from_shape_fn((1, 1, 10, 1), |_| rng.gen_range(-0.1..=0.1));
+	let mut bias2_data = Array4::<f32>::from_shape_fn((1, 1, 10, 1), |_| rng.gen_range(-0.1..=0.1));
 
 	let truth = g.alloc();
-	let truth_data =
-		Array4::<f32>::from_shape_fn((1, 1, 10, 1), |(_, _, i, _)| if i == 3 { 1. } else { 0. });
+	// let truth_data =
+	// 	Array4::<f32>::from_shape_fn((1, 1, 10, 1), |(_, _, i, _)| if i == 3 { 1. } else { 0. });
 
 	let fc1 = g.alloc();
 	g.adj[fc1].op = (fully_connected, fully_connected_back);
@@ -141,14 +145,62 @@ fn main() {
 	g.connect(eltw_add2, smce);
 	g.connect(truth, smce);
 
-	let (res, grad) = g.run(vec![
-		(input, input_data.clone()),
-		(weight1, weight1_data.clone()),
-		(weight2, weight2_data.clone()),
-		(bias1, bias1_data.clone()),
-		(bias2, bias2_data.clone()),
-		(truth, truth_data.clone()),
-	]);
-	dbg!(&res[smce]);
-	dbg!(&grad[eltw_add2]);
+	const TRAIN_DATA_SIZE: usize = 50000;
+	const VALIDATION_DATA_SIZE: usize = 10000;
+	const TEST_DATA_SIZE: usize = 10000;
+	let Mnist {
+		trn_img,
+		trn_lbl,
+		val_img,
+		val_lbl,
+		tst_img,
+		tst_lbl,
+	} = MnistBuilder::new()
+		.download_and_extract()
+		.label_format_one_hot()
+		.training_set_length(TRAIN_DATA_SIZE as u32)
+		.validation_set_length(VALIDATION_DATA_SIZE as u32)
+		.test_set_length(TEST_DATA_SIZE as u32)
+		.finalize();
+
+	let train_data = Array4::from_shape_vec((TRAIN_DATA_SIZE, 1, 28 * 28, 1), trn_img)
+		.unwrap()
+		.map(|x| *x as f32 / 256.0);
+
+	let train_labels: Array4<f32> = Array4::from_shape_vec((50_000, 1, 10, 1), trn_lbl)
+		.unwrap()
+		.map(|x| *x as f32);
+
+	for epoch in 0..3 {
+		println!("##### epoch {} #####", epoch);
+		//TODO: shuffle along batch axis
+		for i in 0..TRAIN_DATA_SIZE / chunk {
+			let input_data = train_data
+				.slice(s![i * chunk..(i + 1) * chunk, .., .., ..])
+				.to_owned();
+			let truth_data = train_labels
+				.slice(s![i * chunk..(i + 1) * chunk, .., .., ..])
+				.to_owned();
+
+			let (res, grad) = g.run(vec![
+				(input, input_data.clone()),
+				(weight1, weight1_data.clone()),
+				(weight2, weight2_data.clone()),
+				(bias1, bias1_data.clone()),
+				(bias2, bias2_data.clone()),
+				(truth, truth_data.clone()),
+			]);
+			if i % 300 == 0 {
+				dbg!(i, &res[smce], &grad[eltw_add2]);
+			}
+			weight1_data -= &(grad[weight1].clone() * 0.01);
+			weight2_data -= &(grad[weight2].clone() * 0.01);
+			bias1_data -= &(grad[bias1].clone() * 0.01);
+			bias2_data -= &(grad[bias2].clone() * 0.01);
+		}
+	}
+	// println!(
+	// 	"The first digit is a {:?}",
+	// 	train_labels.slice(s![image_num, ..])
+	// );
 }
