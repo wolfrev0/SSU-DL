@@ -97,7 +97,7 @@ impl ComputationGraph {
 			output_snk_shape[2],
 			output_snk_shape[3],
 		);
-		dp_grad[snk] = dp_out[snk].clone(); //Some(Array4::ones(output_shape));
+		dp_grad[snk] = Some(Array4::ones(output_shape));
 
 		//a.k.a backward propagation
 		//TODO: BFS won't be fit when graph is not tree. (ex: residual block)
@@ -159,7 +159,6 @@ mod tests {
 	};
 
 	#[test]
-	#[ignore] //TODO: dp_grad[snk] = dp_out[snk].clone(); //Some(Array4::ones(output_shape)); 이거 변경때문에 다시 계산해줘야함
 	fn test_relu() {
 		let mut g = ComputationGraph::new();
 
@@ -183,7 +182,6 @@ mod tests {
 	}
 
 	#[test]
-	#[ignore] //TODO: dp_grad[snk] = dp_out[snk].clone(); //Some(Array4::ones(output_shape)); 이거 변경때문에 다시 계산해줘야함
 	fn test_matmul() {
 		/* REFERENCE CODE
 		import torch
@@ -246,7 +244,6 @@ mod tests {
 	}
 
 	#[test]
-	#[ignore] //TODO: dp_grad[snk] = dp_out[snk].clone(); //Some(Array4::ones(output_shape)); 이거 변경때문에 다시 계산해줘야함
 	fn fc_relu_fc_relu() {
 		/*REFERENCE CODE
 		import torch
@@ -381,7 +378,6 @@ mod tests {
 	#[test]
 	fn cross_entropy() {}
 	#[test]
-	#[ignore] //TODO: dp_grad[snk] = dp_out[snk].clone(); //Some(Array4::ones(output_shape)); 이거 변경때문에 다시 계산해줘야함
 	fn softmax_cross_entropy_test() {
 		/*REFERENCE CODE
 		import torch
