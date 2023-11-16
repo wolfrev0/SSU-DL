@@ -152,7 +152,10 @@ mod tests {
 	use crate::{
 		graph::computation_graph::ComputationGraph,
 		misc::util::is_equal,
-		operation::{fully_connected, fully_connected_back, relu, relu_back},
+		operation::{
+			fully_connected, fully_connected_back, relu, relu_back, softmax_cross_entropy,
+			softmax_cross_entropy_back,
+		},
 	};
 
 	#[test]
@@ -367,6 +370,59 @@ mod tests {
 				0.0000, 0.0000, 0.3823, 0.0529
 			]
 			.iter()
+		));
+	}
+
+	#[test]
+	fn softmax() {}
+	#[test]
+	fn cross_entropy() {}
+	#[test]
+	fn softmax_cross_entropy_test() {
+		/*REFERENCE CODE
+		import torch
+		import torch.nn.functional as F
+		torch.manual_seed(123)
+		num_classes = 3
+		logits = torch.randn(1, num_classes, requires_grad=True)
+		target = torch.randint(0, num_classes, (1,))
+		softmax_output = F.softmax(logits, dim=1)
+		cross_entropy_loss = F.cross_entropy(logits, target)
+		cross_entropy_loss.backward()
+		gradients = logits.grad
+		print("Logits:", logits)
+		print("Softmax output:", softmax_output)
+		print("Target:", target)
+		print("Cross Entropy Loss:", cross_entropy_loss.item())
+		print("Gradients:", gradients)*/
+		let mut g = ComputationGraph::new();
+
+		let input = g.alloc();
+		let input_data =
+			Array4::<f32>::from_shape_vec((1, 1, 3, 1), vec![-0.1115, 0.1204, -0.3696]).unwrap();
+
+		let truth = g.alloc();
+		let truth_data = Array4::<f32>::from_shape_vec((1, 1, 3, 1), vec![0., 0., 1.]).unwrap();
+
+		let sc = g.alloc();
+		g.adj[sc].op = (softmax_cross_entropy, softmax_cross_entropy_back);
+		g.connect(input, sc);
+		g.connect(truth, sc);
+
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(truth, truth_data.clone()),
+		]);
+		for i in res.iter() {
+			println!("{}", i);
+		}
+		for i in grad.iter() {
+			println!("{}", i);
+		}
+		assert!(is_equal(res[sc].iter(), [1.3678419589996338].iter()));
+		assert!(is_equal(
+			grad[input].iter(),
+			[0.3297, 0.4157, -0.7453].iter()
 		));
 	}
 }
