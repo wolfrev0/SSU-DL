@@ -3,6 +3,7 @@ use dlrs::{
 	misc::util::is_equal,
 	operation::{
 		eltwise_add, eltwise_add_back, fully_connected, fully_connected_back, relu, relu_back,
+		softmax_cross_entropy, softmax_cross_entropy_back,
 	},
 };
 use ndarray::Array4;
@@ -27,6 +28,7 @@ class SimpleNN(nn.Module):
 		self.fc1 = nn.Linear(28 * 28, 128)
 		self.relu = nn.ReLU()
 		self.fc2 = nn.Linear(128, 10)
+		#nn.CrossEntropyLoss()가 softmax를 씌우기 때문에 softmax는 여기서 생략한다고 함.
 
 	def forward(self, x):
 		x = self.flatten(x)
@@ -106,6 +108,10 @@ fn main() {
 	let bias2 = g.alloc();
 	let bias2_data = Array4::<f32>::from_shape_fn((1, 1, 10, 1), |_| rng.gen_range(-0.1..=0.1));
 
+	let truth = g.alloc();
+	let truth_data =
+		Array4::<f32>::from_shape_fn((1, 1, 10, 1), |(_, _, i, _)| if i == 3 { 1. } else { 0. });
+
 	let fc1 = g.alloc();
 	g.adj[fc1].op = (fully_connected, fully_connected_back);
 	g.connect(weight1, fc1);
@@ -130,12 +136,19 @@ fn main() {
 	g.connect(fc2, eltw_add2);
 	g.connect(bias2, eltw_add2);
 
+	let smce = g.alloc();
+	g.adj[smce].op = (softmax_cross_entropy, softmax_cross_entropy_back);
+	g.connect(eltw_add2, smce);
+	g.connect(truth, smce);
+
 	let (res, grad) = g.run(vec![
 		(input, input_data.clone()),
 		(weight1, weight1_data.clone()),
 		(weight2, weight2_data.clone()),
 		(bias1, bias1_data.clone()),
 		(bias2, bias2_data.clone()),
+		(truth, truth_data.clone()),
 	]);
-	dbg!(&res[eltw_add2]);
+	dbg!(&res[smce]);
+	dbg!(&grad[eltw_add2]);
 }
