@@ -114,6 +114,7 @@ pub fn eltwise_add_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 //input[0]=input
 //output[0]=output
 pub fn softmax(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	//TODO: support b>1 f>1 case
 	let ret = input[0].map(|x| x.exp());
 	let denom = ret.sum();
 	ret / denom
@@ -127,6 +128,7 @@ pub fn softmax_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 //input[1]=truth
 //output[0]=output
 pub fn cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	//TODO: support b>1 f>1 case
 	Array4::from_elem((1, 1, 1, 1), (input[0].map(|x| -x.ln()) * &input[1]).sum())
 }
 
@@ -136,6 +138,7 @@ pub fn cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //output[0]=input_grad
 //output[0]=truth_grad
 pub fn cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	//TODO: support b>1 f>1 case
 	vec![
 		-input[1].clone() / &input[0] * &input[2],
 		input[0].map(|x| -x.ln()) * &input[2],
@@ -146,6 +149,7 @@ pub fn cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 //input[1]=truth
 //output[0]=output
 pub fn softmax_cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	//TODO: support b>1 f>1 case
 	let ret = input[0].map(|x| x.exp());
 	let denom = ret.sum();
 	let softmax_out = ret / denom;
@@ -161,6 +165,7 @@ pub fn softmax_cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //output[0]=input_grad
 //output[0]=truth_grad
 pub fn softmax_cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	//TODO: support b>1 f>1 case
 	let ret = input[0].map(|x| x.exp());
 	let denom = ret.sum();
 	let softmax_out = ret / denom;
