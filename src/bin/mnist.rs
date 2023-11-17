@@ -89,7 +89,7 @@ print('Accuracy on the test images after learning: %d %%' % (100 * correct / tot
 */
 
 fn main() {
-	let chunk = 1;
+	let chunk = 50;
 	let mut g = ComputationGraph::new();
 	let mut rng = StdRng::seed_from_u64(123);
 

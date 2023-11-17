@@ -34,7 +34,7 @@ fn bfyx_matmul(a: &Array4<f32>, b: &Array4<f32>) -> Array4<f32> {
 	// }
 	let (b0, f0, y0, x0) = (a.shape()[0], a.shape()[1], a.shape()[2], a.shape()[3]);
 	let (b1, f1, y1, x1) = (b.shape()[0], b.shape()[1], b.shape()[2], b.shape()[3]);
-	assert!(b0 == b1 && f0 == f1 && x0 == y1);
+	assert!(f0 == f1 && x0 == y1);
 	let mut ret = Array4::zeros((a.shape()[0], a.shape()[1], a.shape()[2], b.shape()[3]));
 	for i in 0..b0 {
 		for j in 0..f0 {
@@ -150,7 +150,7 @@ pub fn softmax_cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
 		input[1].shape()[2],
 		input[1].shape()[3],
 	);
-	assert!(b0 == b1 && f0 == f1 && y0 == y1 && x0 == x1);
+	assert!(f0 == f1 && y0 == y1 && x0 == x1);
 	let mut ret = Array4::zeros((b0, 1, 1, 1));
 	for i in 0..b0 {
 		let m0exp = input[0].slice(s![i, .., .., ..]).map(|x| x.exp());
@@ -184,7 +184,7 @@ pub fn softmax_cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> 
 		input[1].shape()[3],
 	);
 	let (b2, f2, y2, x2) = (1, 1, 1, 1);
-	assert!(b0 == b1 && f0 == f1 && y0 == y1 && x0 == x1);
+	assert!(f0 == f1 && y0 == y1 && x0 == x1);
 	let mut ret0 = Array4::zeros((b0, 1, y1, x2));
 	let mut ret1 = Array4::zeros((b0, 1, y0, x2));
 	for i in 0..b0 {
