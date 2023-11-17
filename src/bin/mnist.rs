@@ -1,6 +1,5 @@
 use dlrs::{
 	graph::computation_graph::ComputationGraph,
-	misc::util::is_equal,
 	operation::{
 		eltwise_add, eltwise_add_back, fully_connected, fully_connected_back, relu, relu_back,
 		softmax_cross_entropy, softmax_cross_entropy_back,
@@ -8,7 +7,7 @@ use dlrs::{
 };
 use mnist::{Mnist, MnistBuilder};
 use ndarray::{s, Array4};
-use rand::{rngs::StdRng, Rng, SeedableRng};
+use rand::{rngs::StdRng, seq::SliceRandom, Rng, SeedableRng};
 /*
 import torch
 import torch.nn as nn
@@ -89,9 +88,10 @@ print('Accuracy on the test images after learning: %d %%' % (100 * correct / tot
 */
 
 fn main() {
-	let chunk = 50;
+	let chunk_size = 50;
+	let learning_rate = 0.01;
 	let mut g = ComputationGraph::new();
-	let mut rng = StdRng::seed_from_u64(123);
+	let mut rng = StdRng::seed_from_u64(1234);
 
 	let input = g.alloc();
 	// let input_data =
@@ -166,22 +166,55 @@ fn main() {
 	let train_data = Array4::from_shape_vec((TRAIN_DATA_SIZE, 1, 28 * 28, 1), trn_img)
 		.unwrap()
 		.map(|x| *x as f32 / 256.0);
-
-	let train_labels: Array4<f32> = Array4::from_shape_vec((50_000, 1, 10, 1), trn_lbl)
+	let train_labels: Array4<f32> = Array4::from_shape_vec((TRAIN_DATA_SIZE, 1, 10, 1), trn_lbl)
 		.unwrap()
 		.map(|x| *x as f32);
 
-	for epoch in 0..3 {
-		println!("##### epoch {} #####", epoch);
-		//TODO: shuffle along batch axis
-		for i in 0..TRAIN_DATA_SIZE / chunk {
+	let validation_data = Array4::from_shape_vec((VALIDATION_DATA_SIZE, 1, 28 * 28, 1), val_img)
+		.unwrap()
+		.map(|x| *x as f32 / 256.0);
+	let validation_labels: Array4<f32> =
+		Array4::from_shape_vec((VALIDATION_DATA_SIZE, 1, 10, 1), val_lbl)
+			.unwrap()
+			.map(|x| *x as f32);
+
+	let test_data = Array4::from_shape_vec((TEST_DATA_SIZE, 1, 28 * 28, 1), tst_img)
+		.unwrap()
+		.map(|x| *x as f32 / 256.0);
+	let test_labels: Array4<f32> = Array4::from_shape_vec((TEST_DATA_SIZE, 1, 10, 1), tst_lbl)
+		.unwrap()
+		.map(|x| *x as f32);
+
+	{
+		println!("##### Test #####");
+		let input_data = test_data.clone();
+		let truth_data = test_labels.clone();
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(weight1, weight1_data.clone()),
+			(weight2, weight2_data.clone()),
+			(bias1, bias1_data.clone()),
+			(bias2, bias2_data.clone()),
+			(truth, truth_data.clone()),
+		]);
+		println!("Cross Entropy Error: {}", res[smce].mean().unwrap());
+	}
+
+	println!("##### Learn #####");
+	for epoch in 0..5 {
+		println!("----- epoch {} -----", epoch);
+		let mut chunks = Vec::new();
+		for i in 0..TRAIN_DATA_SIZE / chunk_size {
 			let input_data = train_data
-				.slice(s![i * chunk..(i + 1) * chunk, .., .., ..])
+				.slice(s![i * chunk_size..(i + 1) * chunk_size, .., .., ..])
 				.to_owned();
 			let truth_data = train_labels
-				.slice(s![i * chunk..(i + 1) * chunk, .., .., ..])
+				.slice(s![i * chunk_size..(i + 1) * chunk_size, .., .., ..])
 				.to_owned();
-
+			chunks.push((input_data, truth_data));
+		}
+		chunks.shuffle(&mut rng);
+		for (input_data, truth_data) in chunks {
 			let (res, grad) = g.run(vec![
 				(input, input_data.clone()),
 				(weight1, weight1_data.clone()),
@@ -190,17 +223,40 @@ fn main() {
 				(bias2, bias2_data.clone()),
 				(truth, truth_data.clone()),
 			]);
-			if i % 300 == 0 {
-				dbg!(i, &res[smce], &grad[eltw_add2]);
-			}
-			weight1_data -= &(grad[weight1].clone() * 0.01);
-			weight2_data -= &(grad[weight2].clone() * 0.01);
-			bias1_data -= &(grad[bias1].clone() * 0.01);
-			bias2_data -= &(grad[bias2].clone() * 0.01);
+			weight1_data -= &(grad[weight1].clone() * learning_rate);
+			weight2_data -= &(grad[weight2].clone() * learning_rate);
+			bias1_data -= &(grad[bias1].clone() * learning_rate);
+			bias2_data -= &(grad[bias2].clone() * learning_rate);
+		}
+		{
+			let input_data = validation_data.clone();
+			let truth_data = validation_labels.clone();
+			let (res, grad) = g.run(vec![
+				(input, input_data.clone()),
+				(weight1, weight1_data.clone()),
+				(weight2, weight2_data.clone()),
+				(bias1, bias1_data.clone()),
+				(bias2, bias2_data.clone()),
+				(truth, truth_data.clone()),
+			]);
+			println!(
+				"Cross Entropy Error (validation): {}",
+				res[smce].mean().unwrap()
+			);
 		}
 	}
-	// println!(
-	// 	"The first digit is a {:?}",
-	// 	train_labels.slice(s![image_num, ..])
-	// );
+	{
+		println!("##### Test #####");
+		let input_data = test_data.clone();
+		let truth_data = test_labels.clone();
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(weight1, weight1_data.clone()),
+			(weight2, weight2_data.clone()),
+			(bias1, bias1_data.clone()),
+			(bias2, bias2_data.clone()),
+			(truth, truth_data.clone()),
+		]);
+		println!("Cross Entropy Error (test): {}", res[smce].mean().unwrap());
+	}
 }
