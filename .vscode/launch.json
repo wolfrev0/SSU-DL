@@ -11,7 +11,8 @@
 			"cargo": {
 				"args": [
 					"build",
-					"--package=dlrs"
+					"--package=dlrs",
+					"--bin=${fileBasenameNoExtension}",
 				],
 				"filter": {
 					"kind": "bin"
