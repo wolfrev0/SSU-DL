@@ -13,7 +13,7 @@ fn main() {
 	let chunk_size = 50;
 	let learning_rate = 0.01;
 	let mut g = ComputationGraph::new();
-	let mut rng = StdRng::seed_from_u64(1234);
+	let mut rng = StdRng::seed_from_u64(987);
 
 	let input = g.alloc();
 	// let input_data =
