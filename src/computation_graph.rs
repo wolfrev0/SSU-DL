@@ -150,12 +150,12 @@ mod tests {
 	use ndarray::Array4;
 
 	use crate::{
-		graph::computation_graph::ComputationGraph,
-		misc::util::is_equal,
+		computation_graph::ComputationGraph,
 		operation::{
 			fully_connected, fully_connected_back, relu, relu_back, softmax_cross_entropy,
 			softmax_cross_entropy_back,
 		},
+		util::is_equal,
 	};
 
 	#[test]

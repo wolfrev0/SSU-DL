@@ -1,5 +1,5 @@
 use dlrs::{
-	graph::computation_graph::ComputationGraph,
+	computation_graph::ComputationGraph,
 	operation::{
 		eltwise_add, eltwise_add_back, fully_connected, fully_connected_back, relu, relu_back,
 		softmax_cross_entropy, softmax_cross_entropy_back,
