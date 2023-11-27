@@ -152,8 +152,8 @@ mod tests {
 	use crate::{
 		computation_graph::ComputationGraph,
 		operation::{
-			fully_connected, fully_connected_back, relu, relu_back, softmax_cross_entropy,
-			softmax_cross_entropy_back,
+			eltwise_add, eltwise_add_back, fully_connected, fully_connected_back, relu, relu_back,
+			softmax_cross_entropy, softmax_cross_entropy_back,
 		},
 		util::is_equal,
 	};
@@ -423,6 +423,236 @@ mod tests {
 		assert!(is_equal(
 			grad[input].iter(),
 			[0.3297, 0.4157, -0.7453].iter()
+		));
+	}
+	#[test]
+	fn fc_relu_resi_fc_relu() {
+		/*REFERENCE CODE
+		import torch
+		import torch.nn as nn
+		torch.manual_seed(11111)
+		class SimpleNet(nn.Module):
+			def __init__(self, input_size, hidden_size, output_size):
+				super(SimpleNet, self).__init__()
+				self.fc1 = nn.Linear(input_size, hidden_size, False)
+				self.relu1 = nn.ReLU()
+				self.fc2 = nn.Linear(hidden_size, output_size, False)
+				self.relu2 = nn.ReLU()
+
+			def forward(self, x):
+				x_resi = x
+				x = self.relu1(self.fc1(x))
+				x = x + x_resi #residual connection
+				x = self.relu2(self.fc2(x))
+				return x
+
+		input_size = 4
+		hidden_size = 4
+		output_size = 2
+
+		model = SimpleNet(input_size, hidden_size, output_size)
+		example_input = torch.rand((1, input_size))
+		output = model(example_input)
+
+		print(model)
+		print("\nInput:")
+		print(example_input)
+		print("\nWeights of Linear Layer 1:")
+		print(model.fc1.weight)
+		print("\nWeights of Linear Layer 2:")
+		print(model.fc2.weight)
+		print("\nOutput:")
+		print(output)
+
+		output.backward(gradient=torch.tensor([[1.,1.]]))
+		print("\nGradients of Linear Layer 1 weights:")
+		print(model.fc1.weight.grad)
+		print("\nGradients of Linear Layer 2 weights:")
+		print(model.fc2.weight.grad)*/
+		let mut g = ComputationGraph::new();
+
+		let input = g.alloc();
+		let input_data =
+			Array4::<f32>::from_shape_vec((1, 1, 4, 1), vec![0.2300, 0.8265, 0.0824, 0.4588])
+				.unwrap();
+
+		let weight1 = g.alloc();
+		let weight1_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 4, 4),
+			vec![
+				0.2554, 0.1311, 0.1066, -0.1548, 0.0549, -0.2946, -0.4739, -0.3664, 0.4168,
+				-0.3356, 0.3121, -0.3059, 0.0231, 0.2076, -0.4987, 0.4694,
+			],
+		)
+		.unwrap();
+
+		let weight2 = g.alloc();
+		let weight2_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 2, 4),
+			vec![
+				-0.3282, 0.1467, -0.2893, -0.2123, 0.3784, 0.4366, 0.4475, -0.1026,
+			],
+		)
+		.unwrap();
+
+		let fc1 = g.alloc();
+		g.adj[fc1].op = (fully_connected, fully_connected_back);
+		g.connect(weight1, fc1);
+		g.connect(input, fc1);
+
+		let relu1 = g.alloc();
+		g.adj[relu1].op = (relu, relu_back);
+		g.connect(fc1, relu1);
+
+		let resi = g.alloc();
+		g.adj[resi].op = (eltwise_add, eltwise_add_back);
+		g.connect(input, resi);
+		g.connect(relu1, resi);
+
+		let fc2 = g.alloc();
+		g.adj[fc2].op = (fully_connected, fully_connected_back);
+		g.connect(weight2, fc2);
+		g.connect(resi, fc2);
+
+		let relu2 = g.alloc();
+		g.adj[relu2].op = (relu, relu_back);
+		g.connect(fc2, relu2);
+
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(weight1, weight1_data.clone()),
+			(weight2, weight2_data.clone()),
+		]);
+		for i in grad.iter() {
+			println!("{}", i);
+		}
+		assert!(is_equal(res[relu2].iter(), [0.0000, 0.4413].iter()));
+		assert!(is_equal(
+			grad[weight1].iter(),
+			[
+				0.0870, 0.3128, 0.0312, 0.1736, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+				0.0000, 0.0000, -0.0236, -0.0848, -0.0085, -0.0471
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[weight2].iter(),
+			[0.0000, 0.0000, 0.0000, 0.0000, 0.3348, 0.8265, 0.0824, 0.8100].iter()
+		));
+	}
+	#[test]
+	fn fc_relu_fc_relu_resi() {
+		/*REFERENCE CODE
+		import torch
+		import torch.nn as nn
+		torch.manual_seed(11111)
+		class SimpleNet(nn.Module):
+			def __init__(self, input_size, hidden_size, output_size):
+				super(SimpleNet, self).__init__()
+				self.fc1 = nn.Linear(input_size, hidden_size, False)
+				self.relu1 = nn.ReLU()
+				self.fc2 = nn.Linear(hidden_size, output_size, False)
+				self.relu2 = nn.ReLU()
+
+			def forward(self, x):
+				x = self.relu1(self.fc1(x))
+				x_resi = x
+				x = self.relu2(self.fc2(x))
+				x = x + x_resi #residual connection
+				return x
+
+		input_size = 4
+		hidden_size = 3
+		output_size = 3
+
+		model = SimpleNet(input_size, hidden_size, output_size)
+		example_input = torch.rand((1, input_size))
+		output = model(example_input)
+
+		print(model)
+		print("\nInput:")
+		print(example_input)
+		print("\nWeights of Linear Layer 1:")
+		print(model.fc1.weight)
+		print("\nWeights of Linear Layer 2:")
+		print(model.fc2.weight)
+		print("\nOutput:")
+		print(output)
+
+		output.backward(gradient=torch.tensor([[1.,1.,1.]]))
+		print("\nGradients of Linear Layer 1 weights:")
+		print(model.fc1.weight.grad)
+		print("\nGradients of Linear Layer 2 weights:")
+		print(model.fc2.weight.grad)*/
+		let mut g = ComputationGraph::new();
+
+		let input = g.alloc();
+		let input_data =
+			Array4::<f32>::from_shape_vec((1, 1, 4, 1), vec![0.9366, 0.9475, 0.3974, 0.2300])
+				.unwrap();
+
+		let weight1 = g.alloc();
+		let weight1_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 3, 4),
+			vec![
+				0.2554, 0.1311, 0.1066, -0.1548, 0.0549, -0.2946, -0.4739, -0.3664, 0.4168,
+				-0.3356, 0.3121, -0.3059,
+			],
+		)
+		.unwrap();
+
+		let weight2 = g.alloc();
+		let weight2_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 3, 3),
+			vec![
+				0.0266, 0.2398, -0.5758, 0.5420, -0.3790, 0.1694, -0.3340, -0.2452, 0.4370,
+			],
+		)
+		.unwrap();
+
+		let fc1 = g.alloc();
+		g.adj[fc1].op = (fully_connected, fully_connected_back);
+		g.connect(weight1, fc1);
+		g.connect(input, fc1);
+
+		let relu1 = g.alloc();
+		g.adj[relu1].op = (relu, relu_back);
+		g.connect(fc1, relu1);
+
+		let fc2 = g.alloc();
+		g.adj[fc2].op = (fully_connected, fully_connected_back);
+		g.connect(weight2, fc2);
+		g.connect(relu1, fc2);
+
+		let relu2 = g.alloc();
+		g.adj[relu2].op = (relu, relu_back);
+		g.connect(fc2, relu2);
+
+		let resi = g.alloc();
+		g.adj[resi].op = (eltwise_add, eltwise_add_back);
+		g.connect(relu1, resi);
+		g.connect(relu2, resi);
+
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(weight1, weight1_data.clone()),
+			(weight2, weight2_data.clone()),
+		]);
+		for i in grad.iter() {
+			println!("{}", i);
+		}
+		assert!(is_equal(res[relu2].iter(), [0.3702, 0.2220, 0.1260].iter()));
+		assert!(is_equal(
+			grad[weight1].iter(),
+			[
+				1.4442, 1.4611, 0.6127, 0.3546, 0.0000, 0.0000, 0.0000, 0.0000, 1.0952, 1.1080,
+				0.4647, 0.2689
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[weight2].iter(),
+			[0.0000, 0.0000, 0.0000, 0.3702, 0.0000, 0.1260, 0.0000, 0.0000, 0.0000].iter()
 		));
 	}
 }
