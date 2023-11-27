@@ -641,7 +641,7 @@ mod tests {
 		for i in grad.iter() {
 			println!("{}", i);
 		}
-		assert!(is_equal(res[relu2].iter(), [0.3702, 0.2220, 0.1260].iter()));
+		assert!(is_equal(res[resi].iter(), [0.3702, 0.2220, 0.1260].iter()));
 		assert!(is_equal(
 			grad[weight1].iter(),
 			[
