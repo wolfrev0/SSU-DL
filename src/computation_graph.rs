@@ -51,8 +51,26 @@ impl ComputationGraph {
 		self.adj[y].pred.push((x, yi));
 	}
 
-	fn topological_order() -> Vec<usize> {
-		todo!();
+	fn topological_order(&self) -> Vec<usize> {
+		let n = self.adj.len();
+		let mut ret = Vec::new();
+		let mut deg = (0..n).map(|x| self.adj[x].pred.len()).collect::<Vec<_>>();
+		let mut q = VecDeque::new();
+		for i in 0..n {
+			if deg[i] == 0 {
+				q.push_back(i);
+			}
+		}
+		while let Some(x) = q.pop_front() {
+			ret.push(x);
+			for (y, _) in self.adj[x].succ.iter() {
+				deg[*y] -= 1;
+				if deg[*y] == 0 {
+					q.push_back(*y);
+				}
+			}
+		}
+		ret
 	}
 
 	//return (outputs, gradients) of current graph
@@ -102,9 +120,12 @@ impl ComputationGraph {
 		//a.k.a backward propagation
 		//TODO: BFS won't be fit when graph is not tree. (ex: residual block)
 		//use topological_order()
-		let mut q = VecDeque::new();
-		q.push_back(snk);
-		while let Some(x) = q.pop_front() {
+		let ord = {
+			let mut tmp = self.topological_order();
+			tmp.reverse();
+			tmp
+		};
+		for x in ord {
 			if self.adj[x].is_terminal() {
 				continue;
 			}
@@ -120,7 +141,6 @@ impl ComputationGraph {
 					None => Some(input_grads[i].clone()),
 					Some(val) => Some(val + &input_grads[i]),
 				};
-				q.push_back(y);
 			}
 		}
 
