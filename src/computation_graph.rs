@@ -677,7 +677,7 @@ mod tests {
 		));
 	}
 	#[test]
-	fn attention_test() {
+	fn attention_fwd_test() {
 		/*REFERENCE CODE
 		import torch
 		import torch.nn as nn
@@ -791,13 +791,7 @@ mod tests {
 			]
 			.iter()
 		));
-		// assert!(is_equal(
-		// 	grad[wq].iter(),
-		// 	[
-		// 		-0.0026, -0.0018, -0.0021, -0.0025, 0.0003, 0.0002, 0.0003, 0.0003, -0.0021,
-		// 		-0.0014, -0.0017, -0.0020, -0.0021, -0.0014, -0.0017, -0.0020
-		// 	]
-		// 	.iter()
-		// ));
+		// todo!("gradient assertion");
+		// assert!(is_equal(grad[wq].iter(), [].iter()));
 	}
 }

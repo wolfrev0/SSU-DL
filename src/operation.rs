@@ -208,6 +208,9 @@ pub fn softmax_cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> 
 //output[0]=output
 /*NOTE: This implementation is transposed compared to known formula(https://heekangpark.github.io/nlp/attention#kramdown_%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-attention-mechanism) and implementations(refer REFERENCE_CODE section). Because I'm not comfortable with (input * matrix * matrix * ...) notation, I transposed it to get (...*matrix*matrix*input) notation.
 */
+#[deprecated(
+	note = "please construct attention explicitly using matmul and sofmax_y in computation graph. I'm too lazy to calculate attention backprop manually :("
+)]
 pub fn attention(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	/*REFERENCE_CODE
 	import torch
@@ -292,6 +295,9 @@ pub fn attention(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[1]=Wq_grad
 //input[2]=Wk_grad
 //input[3]=Wv_grad
+#[deprecated(
+	note = "please construct attention explicitly using matmul and sofmax_y in computation graph. I'm too lazy to calculate attention backprop manually :("
+)]
 pub fn attention_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	let mut ret = input.clone();
 	ret.pop();
