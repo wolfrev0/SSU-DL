@@ -200,3 +200,100 @@ pub fn softmax_cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> 
 	}
 	vec![ret0, ret1]
 }
+
+//input[0]=input
+//input[1]=Wq
+//input[2]=Wk
+//input[3]=Wv
+//output[0]=output
+/*NOTE: This implementation is transposed compared to known formula(https://heekangpark.github.io/nlp/attention#kramdown_%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-attention-mechanism) and implementations(refer REFERENCE_CODE section). Because I'm not comfortable with (input * matrix * matrix * ...) notation, I transposed it to get (...*matrix*matrix*input) notation.
+*/
+pub fn attention(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	/*REFERENCE_CODE
+	import torch
+	import torch.nn as nn
+	import torch.nn.functional as F
+
+	torch.manual_seed(12)
+
+	class SelfAttention(nn.Module):
+		def __init__(self, hidden_size):
+			super(SelfAttention, self).__init__()
+			self.hidden_size = hidden_size
+			self.W_q = nn.Linear(hidden_size, hidden_size, bias=False)
+			self.W_k = nn.Linear(hidden_size, hidden_size, bias=False)
+			self.W_v = nn.Linear(hidden_size, hidden_size, bias=False)
+
+		def forward(self, x):
+			Q = self.W_q(x)
+			K = self.W_k(x)
+			V = self.W_v(x)
+			scores = torch.matmul(Q, K.transpose(-2, -1)) / torch.sqrt(torch.tensor(self.hidden_size, dtype=torch.float32))
+			attention_weights = F.softmax(scores, dim=-1)
+			attended_values = torch.matmul(attention_weights, V)
+			return attended_values
+
+	# Test the SelfAttention module
+	hidden_size = 4
+
+	example_input = torch.rand((3, hidden_size))
+	attention_module = SelfAttention(hidden_size)
+	output = attention_module(example_input)
+
+	print(attention_module)
+	print("\nInput:")
+	print(example_input)
+	print("\nW_q:")
+	print(attention_module.W_q.weight)
+	print("\nW_k:")
+	print(attention_module.W_k.weight)
+	print("\nW_v:")
+	print(attention_module.W_v.weight)
+	print("\nAttention Module Weights:")
+	print(attention_module.parameters())
+	print("\nOutput:")
+	print(output)
+
+	output.backward(gradient=torch.tensor([[1., 1., 1., 1.],[1., 1., 1., 1.],[1., 1., 1., 1.]]))
+	print("\nGradients of Linear Layer Q weights:")
+	print(attention_module.W_q.weight.grad)
+	print("\nGradients of Linear Layer K weights:")
+	print(attention_module.W_k.weight.grad)
+	print("\nGradients of Linear Layer V weights:")
+	print(attention_module.W_v.weight.grad)
+	*/
+	let (x, wq, wk, wv) = (&input[0], &input[1], &input[2], &input[3]);
+	let (q, k, v) = (bfyx_matmul(wq, x), bfyx_matmul(wk, x), bfyx_matmul(wv, x));
+	//TODO: assert shape(wq)==shape(wk)==shape(wv)==(b,f,hidden,hidden)
+	let mut scores =
+		bfyx_matmul(&k.permuted_axes([0, 1, 3, 2]), &q) / (input[1].shape()[3] as f32).sqrt();
+
+	//Softmax by y axis
+	for b in 0..scores.shape()[0] {
+		for f in 0..scores.shape()[1] {
+			for x in 0..scores.shape()[3] {
+				let mut m0exp = scores.slice_mut(s![b, f, .., x]);
+				m0exp.map_mut(|x| *x = x.exp());
+				let denom = m0exp.sum();
+				m0exp /= denom;
+			}
+		}
+	}
+
+	bfyx_matmul(&v, &scores)
+}
+
+//input[-1]=output_grad_sum
+//input[0]=input
+//input[1]=Wq
+//input[2]=Wk
+//input[3]=Wv
+//input[0]=input_grad
+//input[1]=Wq_grad
+//input[2]=Wk_grad
+//input[3]=Wv_grad
+pub fn attention_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	let mut ret = input.clone();
+	ret.pop();
+	ret
+}

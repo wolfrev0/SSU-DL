@@ -172,8 +172,9 @@ mod tests {
 	use crate::{
 		computation_graph::ComputationGraph,
 		operation::{
-			eltwise_add, eltwise_add_back, fully_connected, fully_connected_back, relu, relu_back,
-			softmax_cross_entropy, softmax_cross_entropy_back,
+			attention, attention_back, eltwise_add, eltwise_add_back, fully_connected,
+			fully_connected_back, relu, relu_back, softmax_cross_entropy,
+			softmax_cross_entropy_back,
 		},
 		util::is_equal,
 	};
@@ -674,5 +675,129 @@ mod tests {
 			grad[weight2].iter(),
 			[0.0000, 0.0000, 0.0000, 0.3702, 0.0000, 0.1260, 0.0000, 0.0000, 0.0000].iter()
 		));
+	}
+	#[test]
+	fn attention_test() {
+		/*REFERENCE CODE
+		import torch
+		import torch.nn as nn
+		import torch.nn.functional as F
+
+		torch.manual_seed(12)
+
+		class SelfAttention(nn.Module):
+			def __init__(self, hidden_size):
+				super(SelfAttention, self).__init__()
+				self.hidden_size = hidden_size
+				self.W_q = nn.Linear(hidden_size, hidden_size, bias=False)
+				self.W_k = nn.Linear(hidden_size, hidden_size, bias=False)
+				self.W_v = nn.Linear(hidden_size, hidden_size, bias=False)
+
+			def forward(self, x):
+				Q = self.W_q(x)
+				K = self.W_k(x)
+				V = self.W_v(x)
+				scores = torch.matmul(Q, K.transpose(-2, -1)) / torch.sqrt(torch.tensor(self.hidden_size, dtype=torch.float32))
+				attention_weights = F.softmax(scores, dim=-1)
+				attended_values = torch.matmul(attention_weights, V)
+				return attended_values
+
+		# Test the SelfAttention module
+		hidden_size = 4
+
+		example_input = torch.rand((3, hidden_size))
+		attention_module = SelfAttention(hidden_size)
+		output = attention_module(example_input)
+
+		print(attention_module)
+		print("\nInput:")
+		print(example_input)
+		print("\nW_q:")
+		print(attention_module.W_q.weight)
+		print("\nW_k:")
+		print(attention_module.W_k.weight)
+		print("\nW_v:")
+		print(attention_module.W_v.weight)
+		print("\nAttention Module Weights:")
+		print(attention_module.parameters())
+		print("\nOutput:")
+		print(output)*/
+		let mut g = ComputationGraph::new();
+
+		let input = g.alloc();
+		let input_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 4, 3),
+			vec![
+				0.4657, 0.4086, 0.7312, 0.2328, 0.1272, 0.7224, 0.4527, 0.6373, 0.1992, 0.5871,
+				0.2421, 0.6948,
+			],
+		)
+		.unwrap();
+
+		let wq = g.alloc();
+		let wq_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 4, 4),
+			vec![
+				0.0830, 0.1318, 0.0559, -0.3738, 0.4790, 0.3443, -0.3744, -0.0544, 0.1601, -0.4446,
+				-0.3427, 0.3137, 0.2216, -0.2283, -0.1997, 0.1099,
+			],
+		)
+		.unwrap();
+
+		let wk = g.alloc();
+		let wk_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 4, 4),
+			vec![
+				0.0784, 0.1083, -0.0661, 0.3813, -0.1784, -0.2396, -0.2434, -0.3128, 0.1423,
+				-0.3214, -0.3565, 0.2490, 0.2275, -0.3359, -0.1727, -0.3761,
+			],
+		)
+		.unwrap();
+
+		let wv = g.alloc();
+		let wv_data = Array4::<f32>::from_shape_vec(
+			(1, 1, 4, 4),
+			vec![
+				0.1138, -0.0465, 0.2659, -0.3200, -0.1662, 0.4526, 0.3919, 0.4859, 0.1348, 0.3811,
+				0.4391, -0.3827, -0.3658, 0.4405, 0.1803, 0.0556,
+			],
+		)
+		.unwrap();
+
+		let att = g.alloc();
+		g.adj[att].op = (attention, attention_back);
+		g.connect(input, att);
+		g.connect(wq, att);
+		g.connect(wk, att);
+		g.connect(wv, att);
+
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(wq, wq_data.clone()),
+			(wk, wk_data.clone()),
+			(wv, wv_data.clone()),
+		]);
+		for i in res.iter() {
+			println!("{}", i);
+		}
+		// for i in grad.iter() {
+		// 	println!("{}", i);
+		// }
+		assert!(is_equal(
+			res[att].iter(),
+			[
+				-0.0028, -0.0040, -0.0009, 0.4882, 0.4895, 0.4862, 0.2045, 0.2041, 0.2052, 0.0684,
+				0.0689, 0.0677
+			]
+			.iter()
+		));
+		// assert!(is_equal(
+		// 	grad[wq].iter(),
+		// 	[
+		// 		-0.0026, -0.0018, -0.0021, -0.0025, 0.0003, 0.0002, 0.0003, 0.0003, -0.0021,
+		// 		-0.0014, -0.0017, -0.0020, -0.0021, -0.0014, -0.0017, -0.0020
+		// 	]
+		// 	.iter()
+		// ));
 	}
 }
