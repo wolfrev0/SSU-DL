@@ -383,10 +383,10 @@ pub fn attention(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[1]=Wq
 //input[2]=Wk
 //input[3]=Wv
-//input[0]=input_grad
-//input[1]=Wq_grad
-//input[2]=Wk_grad
-//input[3]=Wv_grad
+//output[0]=input_grad
+//output[1]=Wq_grad
+//output[2]=Wk_grad
+//output[3]=Wv_grad
 #[deprecated(
 	note = "please construct attention explicitly using matmul and sofmax_y in computation graph. I'm too lazy to calculate attention backprop manually :("
 )]
@@ -394,4 +394,16 @@ pub fn attention_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	let mut ret = input.clone();
 	ret.pop();
 	ret
+}
+
+//input[0]=input
+//output[0]=transposed
+pub fn transpose_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	input[0].clone().permuted_axes([0, 1, 3, 2])
+}
+//input[-1]=output_grad_sum
+//input[0]=input
+//output[1]=input_grad
+pub fn transpose_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	vec![input[1].clone().permuted_axes([0, 1, 3, 2])]
 }
