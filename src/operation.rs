@@ -100,17 +100,109 @@ pub fn eltwise_add_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	vec![input[2].clone(), input[2].clone()]
 }
 
-//input[0]=input
+//input[0]=input0
+//input[1]=input1
 //output[0]=output
-pub fn softmax(input: &Vec<Array4<f32>>) -> Array4<f32> {
-	//TODO: support b>1 f>1 case
-	let ret = input[0].map(|x| x.exp());
-	let denom = ret.sum();
-	ret / denom
+pub fn eltw_mult_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	input[0].clone() * &input[1]
 }
 
-pub fn softmax_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
-	todo!();
+//input[-1]=output_grad_sum
+//input[0]=input0
+//input[1]=input1
+//output[0]=input0_grad
+//output[0]=input1_grad
+pub fn eltw_mult_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	vec![input[1].clone() * &input[2], input[0].clone() * &input[2]]
+}
+
+//input[0]=input
+//output[0]=output
+pub fn softmax_xy_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	let mut ret = input[0].map(|x| x.exp());
+	//Softmax by y axis
+	for b in 0..ret.shape()[0] {
+		for f in 0..ret.shape()[1] {
+			let mut cur = ret.slice_mut(s![b, f, .., ..]);
+			cur /= cur.sum();
+		}
+	}
+	ret
+}
+
+pub fn softmax_xy_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	let s = softmax_y_fwd(&vec![input[0].clone()]);
+	let mut ret = Array4::zeros([s.shape()[0], s.shape()[1], s.shape()[2], s.shape()[3]]);
+	for b in 0..ret.shape()[0] {
+		for f in 0..ret.shape()[1] {
+			let scur = s.slice(s![b, f, .., ..]);
+			for y in 0..ret.shape()[2] {
+				for x in 0..ret.shape()[3] {
+					let cur = s.get([b, f, y, x]).unwrap();
+					*ret.get_mut([b, f, y, x]).unwrap() = scur
+						.iter()
+						.enumerate()
+						.map(|(i, v)| {
+							let nx = ret.shape()[3];
+							(if i / nx == y && i % nx == x {
+								v * (1. - cur)
+							} else {
+								v * (0. - cur)
+							}) * input[1].get([b, f, i / nx, i % nx]).unwrap()
+						})
+						.sum();
+				}
+			}
+		}
+	}
+	vec![ret]
+}
+
+//input[0]=input
+//output[0]=output
+pub fn softmax_y_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	let mut ret = input[0].map(|x| x.exp());
+	//Softmax by y axis
+	for b in 0..ret.shape()[0] {
+		for f in 0..ret.shape()[1] {
+			for x in 0..ret.shape()[3] {
+				let mut cur = ret.slice_mut(s![b, f, .., x]);
+				cur /= cur.sum();
+			}
+		}
+	}
+	ret
+}
+
+//input[-1]=output_grad_sum
+//input[0]=input
+//output[0]=input_grad
+//[Derivation of softmax]: dS_j/dx_i = S_j*(d_ij-S_i) where d_ij = kronecker delta
+pub fn softmax_y_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	let s = softmax_y_fwd(&vec![input[0].clone()]);
+	let mut ret = Array4::zeros([s.shape()[0], s.shape()[1], s.shape()[2], s.shape()[3]]);
+	for b in 0..ret.shape()[0] {
+		for f in 0..ret.shape()[1] {
+			for x in 0..ret.shape()[3] {
+				let scur = s.slice(s![b, f, .., x]);
+				for y in 0..ret.shape()[2] {
+					let cur = s.get([b, f, y, x]).unwrap();
+					*ret.get_mut([b, f, y, x]).unwrap() = scur
+						.iter()
+						.enumerate()
+						.map(|(i, v)| {
+							(if i == y {
+								v * (1. - cur)
+							} else {
+								v * (0. - cur)
+							}) * input[1].get([b, f, i, x]).unwrap()
+						})
+						.sum();
+				}
+			}
+		}
+	}
+	vec![ret]
 }
 
 //input[0]=input
