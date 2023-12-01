@@ -172,9 +172,9 @@ mod tests {
 	use crate::{
 		computation_graph::ComputationGraph,
 		operation::{
-			attention, attention_back, eltwise_add, eltwise_add_back, fully_connected,
-			fully_connected_back, relu, relu_back, softmax_cross_entropy,
-			softmax_cross_entropy_back,
+			attention, attention_back, eltw_mult_bwd, eltw_mult_fwd, eltwise_add, eltwise_add_back,
+			fully_connected, fully_connected_back, relu, relu_back, softmax_cross_entropy,
+			softmax_cross_entropy_back, softmax_y_bwd, softmax_y_fwd, transpose_bwd, transpose_fwd,
 		},
 		util::is_equal,
 	};
@@ -365,9 +365,9 @@ mod tests {
 			(weight1, weight1_data.clone()),
 			(weight2, weight2_data.clone()),
 		]);
-		for i in grad.iter() {
-			println!("{}", i);
-		}
+		// for i in grad.iter() {
+		// 	println!("{}", i);
+		// }
 		assert!(is_equal(
 			res[relu2].iter(),
 			[0.1898, 0.0000, 0.0387, 0.0203].iter()
@@ -434,12 +434,12 @@ mod tests {
 			(input, input_data.clone()),
 			(truth, truth_data.clone()),
 		]);
-		for i in res.iter() {
-			println!("{}", i);
-		}
-		for i in grad.iter() {
-			println!("{}", i);
-		}
+		// for i in res.iter() {
+		// 	println!("{}", i);
+		// }
+		// for i in grad.iter() {
+		// 	println!("{}", i);
+		// }
 		assert!(is_equal(res[sc].iter(), [1.3678419589996338].iter()));
 		assert!(is_equal(
 			grad[input].iter(),
@@ -544,9 +544,9 @@ mod tests {
 			(weight1, weight1_data.clone()),
 			(weight2, weight2_data.clone()),
 		]);
-		for i in grad.iter() {
-			println!("{}", i);
-		}
+		// for i in grad.iter() {
+		// 	println!("{}", i);
+		// }
 		assert!(is_equal(res[relu2].iter(), [0.0000, 0.4413].iter()));
 		assert!(is_equal(
 			grad[weight1].iter(),
@@ -659,9 +659,9 @@ mod tests {
 			(weight1, weight1_data.clone()),
 			(weight2, weight2_data.clone()),
 		]);
-		for i in grad.iter() {
-			println!("{}", i);
-		}
+		// for i in grad.iter() {
+		// 	println!("{}", i);
+		// }
 		assert!(is_equal(res[resi].iter(), [0.3702, 0.2220, 0.1260].iter()));
 		assert!(is_equal(
 			grad[weight1].iter(),
@@ -777,9 +777,9 @@ mod tests {
 			(wk, wk_data.clone()),
 			(wv, wv_data.clone()),
 		]);
-		for i in res.iter() {
-			println!("{}", i);
-		}
+		// for i in res.iter() {
+		// 	println!("{}", i);
+		// }
 		// for i in grad.iter() {
 		// 	println!("{}", i);
 		// }
@@ -788,6 +788,213 @@ mod tests {
 			[
 				-0.0028, -0.0040, -0.0009, 0.4882, 0.4895, 0.4862, 0.2045, 0.2041, 0.2052, 0.0684,
 				0.0689, 0.0677
+			]
+			.iter()
+		));
+		// todo!("gradient assertion");
+		// assert!(is_equal(grad[wq].iter(), [].iter()));
+	}
+	#[test]
+	fn attention_manual_test() {
+		/*REFERENCE CODE
+		import torch
+		import torch.nn as nn
+		import torch.nn.functional as F
+
+		torch.manual_seed(12)
+
+		class SelfAttention(nn.Module):
+			def __init__(self, hidden_size):
+				super(SelfAttention, self).__init__()
+				self.hidden_size = hidden_size
+				self.W_q = nn.Linear(hidden_size, hidden_size, bias=False)
+				self.W_k = nn.Linear(hidden_size, hidden_size, bias=False)
+				self.W_v = nn.Linear(hidden_size, hidden_size, bias=False)
+
+			def forward(self, x):
+				Q = self.W_q(x)
+				K = self.W_k(x)
+				V = self.W_v(x)
+				scores = torch.matmul(Q, K.transpose(-2, -1)) / torch.sqrt(torch.tensor(self.hidden_size, dtype=torch.float32))
+				attention_weights = F.softmax(scores, dim=-1)
+				attended_values = torch.matmul(attention_weights, V)
+				return attended_values
+
+		# Test the SelfAttention module
+		hidden_size = 4
+
+		example_input = torch.rand((3, hidden_size))
+		attention_module = SelfAttention(hidden_size)
+		output = attention_module(example_input)
+
+		print(attention_module)
+		print("\nInput:")
+		print(example_input)
+		print("\nW_q:")
+		print(attention_module.W_q.weight)
+		print("\nW_k:")
+		print(attention_module.W_k.weight)
+		print("\nW_v:")
+		print(attention_module.W_v.weight)
+		print("\nAttention Module Weights:")
+		print(attention_module.parameters())
+		print("\nOutput:")
+		print(output)*/
+		let mut g = ComputationGraph::new();
+		let word_num = 3;
+		let hidden_size = 4;
+
+		let input = g.alloc();
+		let input_data = Array4::<f32>::from_shape_vec(
+			(1, 1, hidden_size, word_num),
+			vec![
+				0.4657, 0.4086, 0.7312, 0.2328, 0.1272, 0.7224, 0.4527, 0.6373, 0.1992, 0.5871,
+				0.2421, 0.6948,
+			],
+		)
+		.unwrap();
+
+		let wq = g.alloc();
+		let wq_data = Array4::<f32>::from_shape_vec(
+			(1, 1, hidden_size, hidden_size),
+			vec![
+				0.0830, 0.1318, 0.0559, -0.3738, 0.4790, 0.3443, -0.3744, -0.0544, 0.1601, -0.4446,
+				-0.3427, 0.3137, 0.2216, -0.2283, -0.1997, 0.1099,
+			],
+		)
+		.unwrap();
+
+		let wk = g.alloc();
+		let wk_data = Array4::<f32>::from_shape_vec(
+			(1, 1, hidden_size, hidden_size),
+			vec![
+				0.0784, 0.1083, -0.0661, 0.3813, -0.1784, -0.2396, -0.2434, -0.3128, 0.1423,
+				-0.3214, -0.3565, 0.2490, 0.2275, -0.3359, -0.1727, -0.3761,
+			],
+		)
+		.unwrap();
+
+		let wv = g.alloc();
+		let wv_data = Array4::<f32>::from_shape_vec(
+			(1, 1, hidden_size, hidden_size),
+			vec![
+				0.1138, -0.0465, 0.2659, -0.3200, -0.1662, 0.4526, 0.3919, 0.4859, 0.1348, 0.3811,
+				0.4391, -0.3827, -0.3658, 0.4405, 0.1803, 0.0556,
+			],
+		)
+		.unwrap();
+
+		let reci_sqrt_hidden = g.alloc();
+		let reci_sqrt_hidden_data = Array4::<f32>::from_shape_vec(
+			(1, 1, word_num, word_num),
+			vec![
+				1. / (hidden_size as f32).sqrt(),
+				1. / (hidden_size as f32).sqrt(),
+				1. / (hidden_size as f32).sqrt(),
+				1. / (hidden_size as f32).sqrt(),
+				1. / (hidden_size as f32).sqrt(),
+				1. / (hidden_size as f32).sqrt(),
+				1. / (hidden_size as f32).sqrt(),
+				1. / (hidden_size as f32).sqrt(),
+				1. / (hidden_size as f32).sqrt(),
+			],
+		)
+		.unwrap();
+
+		let q = g.alloc();
+		g.adj[q].op = (fully_connected, fully_connected_back);
+		g.connect(wq, q);
+		g.connect(input, q);
+
+		let k = g.alloc();
+		g.adj[k].op = (fully_connected, fully_connected_back);
+		g.connect(wk, k);
+		g.connect(input, k);
+
+		let v = g.alloc();
+		g.adj[v].op = (fully_connected, fully_connected_back);
+		g.connect(wv, v);
+		g.connect(input, v);
+
+		let tp = g.alloc();
+		g.adj[tp].op = (transpose_fwd, transpose_bwd);
+		g.connect(k, tp);
+
+		let kq = g.alloc();
+		g.adj[kq].op = (fully_connected, fully_connected_back);
+		g.connect(tp, kq);
+		g.connect(q, kq);
+
+		let div_sqrt = g.alloc();
+		g.adj[div_sqrt].op = (eltw_mult_fwd, eltw_mult_bwd);
+		g.connect(kq, div_sqrt);
+		g.connect(reci_sqrt_hidden, div_sqrt);
+
+		let attw = g.alloc();
+		g.adj[attw].op = (softmax_y_fwd, softmax_y_bwd);
+		g.connect(div_sqrt, attw);
+
+		let atts = g.alloc();
+		g.adj[atts].op = (fully_connected, fully_connected_back);
+		g.connect(v, atts);
+		g.connect(attw, atts);
+
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(wq, wq_data.clone()),
+			(wk, wk_data.clone()),
+			(wv, wv_data.clone()),
+			(reci_sqrt_hidden, reci_sqrt_hidden_data.clone()),
+		]);
+		// for i in res.iter() {
+		// 	println!("{}", i);
+		// }
+		// for i in grad.iter() {
+		// 	println!("{}", i);
+		// }
+		assert!(is_equal(
+			res[atts].iter(),
+			[
+				-0.0028, -0.0040, -0.0009, 0.4882, 0.4895, 0.4862, 0.2045, 0.2041, 0.2052, 0.0684,
+				0.0689, 0.0677
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[wq].iter(),
+			[
+				-0.0003, -0.0002, -0.0002, -0.0003, -0.0007, -0.0005, -0.0006, -0.0007, -0.0020,
+				-0.0014, -0.0016, -0.0019, 0.0002, 0.0001, 0.0001, 0.0002
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[wk].iter(),
+			[
+				-4.8840e-04,
+				-8.9993e-04,
+				1.8532e-04,
+				4.9707e-04,
+				1.2508e-03,
+				2.3046e-03,
+				-4.5585e-04,
+				-1.3193e-03,
+				-4.2229e-04,
+				-7.7814e-04,
+				1.6816e-04,
+				4.1017e-04,
+				3.7838e-05,
+				6.9710e-05,
+				-1.0619e-05,
+				-4.7758e-05
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[wv].iter(),
+			[
+				1.5995, 1.0712, 1.2975, 1.5153, 1.5995, 1.0712, 1.2975, 1.5153, 1.5995, 1.0712,
+				1.2975, 1.5153, 1.5995, 1.0712, 1.2975, 1.5153
 			]
 			.iter()
 		));
