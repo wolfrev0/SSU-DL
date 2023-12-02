@@ -998,7 +998,5 @@ mod tests {
 			]
 			.iter()
 		));
-		// todo!("gradient assertion");
-		// assert!(is_equal(grad[wq].iter(), [].iter()));
 	}
 }

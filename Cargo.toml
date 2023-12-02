@@ -9,3 +9,5 @@ edition = "2021"
 mnist = { version = "0.6.0", features = ["download"] }
 ndarray = "0.15.6"
 rand = "0.8.5"
+serde = {version="1.0.192", features = ["derive"]}
+serde_json = "1.0.108"
