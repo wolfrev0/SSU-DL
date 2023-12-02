@@ -171,6 +171,7 @@ mod tests {
 
 	use crate::{
 		computation_graph::ComputationGraph,
+		graph_builder::build_attention,
 		operation::{
 			attention, attention_back, eltw_mult_bwd, eltw_mult_fwd, eltwise_add, eltwise_add_back,
 			fully_connected, fully_connected_back, relu, relu_back, softmax_cross_entropy,
@@ -884,8 +885,8 @@ mod tests {
 		)
 		.unwrap();
 
-		let reci_sqrt_hidden = g.alloc();
-		let reci_sqrt_hidden_data = Array4::<f32>::from_shape_vec(
+		let rsqrt = g.alloc();
+		let rsqrt_data = Array4::<f32>::from_shape_vec(
 			(1, 1, word_num, word_num),
 			vec![
 				1. / (hidden_size as f32).sqrt(),
@@ -901,50 +902,14 @@ mod tests {
 		)
 		.unwrap();
 
-		let q = g.alloc();
-		g.adj[q].op = (fully_connected, fully_connected_back);
-		g.connect(wq, q);
-		g.connect(input, q);
-
-		let k = g.alloc();
-		g.adj[k].op = (fully_connected, fully_connected_back);
-		g.connect(wk, k);
-		g.connect(input, k);
-
-		let v = g.alloc();
-		g.adj[v].op = (fully_connected, fully_connected_back);
-		g.connect(wv, v);
-		g.connect(input, v);
-
-		let tp = g.alloc();
-		g.adj[tp].op = (transpose_fwd, transpose_bwd);
-		g.connect(k, tp);
-
-		let kq = g.alloc();
-		g.adj[kq].op = (fully_connected, fully_connected_back);
-		g.connect(tp, kq);
-		g.connect(q, kq);
-
-		let div_sqrt = g.alloc();
-		g.adj[div_sqrt].op = (eltw_mult_fwd, eltw_mult_bwd);
-		g.connect(kq, div_sqrt);
-		g.connect(reci_sqrt_hidden, div_sqrt);
-
-		let attw = g.alloc();
-		g.adj[attw].op = (softmax_y_fwd, softmax_y_bwd);
-		g.connect(div_sqrt, attw);
-
-		let atts = g.alloc();
-		g.adj[atts].op = (fully_connected, fully_connected_back);
-		g.connect(v, atts);
-		g.connect(attw, atts);
+		let atts = build_attention(&mut g, input, wq, wk, wv, rsqrt);
 
 		let (res, grad) = g.run(vec![
 			(input, input_data.clone()),
 			(wq, wq_data.clone()),
 			(wk, wk_data.clone()),
 			(wv, wv_data.clone()),
-			(reci_sqrt_hidden, reci_sqrt_hidden_data.clone()),
+			(rsqrt, rsqrt_data.clone()),
 		]);
 		// for i in res.iter() {
 		// 	println!("{}", i);
