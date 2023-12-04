@@ -2,7 +2,7 @@ use std::collections::VecDeque;
 
 use ndarray::Array4;
 
-use crate::operation::{identity, identity_back};
+use crate::operation::{identity_bwd, identity_fwd};
 
 pub struct Node {
 	pub id: usize,
@@ -38,7 +38,7 @@ impl ComputationGraph {
 			id,
 			succ: Vec::new(),
 			pred: Vec::new(),
-			op: (identity, identity_back),
+			op: (identity_fwd, identity_bwd),
 		};
 		self.adj.push(x);
 		id
@@ -86,7 +86,7 @@ impl ComputationGraph {
 				"Only terminal nodes can have initial value"
 			);
 			assert!(
-				self.adj[i].op == (identity, identity_back),
+				self.adj[i].op == (identity_fwd, identity_bwd),
 				"Operation of terminal node should identity"
 			);
 			dp_out[i] = Some(self.adj[i].op.0(&vec![x; 1]).clone())
@@ -173,9 +173,9 @@ mod tests {
 		computation_graph::ComputationGraph,
 		graph_builder::build_attention,
 		operation::{
-			attention, attention_back, eltw_mult_bwd, eltw_mult_fwd, eltwise_add, eltwise_add_back,
-			fully_connected, fully_connected_back, relu, relu_back, softmax_cross_entropy,
-			softmax_cross_entropy_back, softmax_y_bwd, softmax_y_fwd, transpose_bwd, transpose_fwd,
+			attention_bwd, attention_fwd, eltw_add_bwd, eltw_add_fwd, eltw_mult_bwd, eltw_mult_fwd,
+			matmul_bwd, matmul_fwd, relu_bwd, relu_fwd, softmax_cross_entropy_bwd,
+			softmax_cross_entropy_fwd, softmax_y_bwd, softmax_y_fwd, transpose_bwd, transpose_fwd,
 		},
 		util::is_equal,
 	};
@@ -189,7 +189,7 @@ mod tests {
 			Array4::<f32>::from_shape_vec((1, 1, 2, 3), vec![0., 1., -2., 3., -4., 5.]).unwrap();
 
 		let hidden = g.alloc();
-		g.adj[hidden].op = (relu, relu_back);
+		g.adj[hidden].op = (relu_fwd, relu_bwd);
 		g.connect(input, hidden);
 
 		let (out, grad) = g.run(vec![(input, input_data.clone())]);
@@ -237,12 +237,12 @@ mod tests {
 		let weight2_data = Array4::<f32>::from_shape_vec((1, 1, 1, 2), vec![1., 1.]).unwrap();
 
 		let fc1 = g.alloc();
-		g.adj[fc1].op = (fully_connected, fully_connected_back);
+		g.adj[fc1].op = (matmul_fwd, matmul_bwd);
 		g.connect(input, fc1);
 		g.connect(weight1, fc1);
 
 		let fc2 = g.alloc();
-		g.adj[fc2].op = (fully_connected, fully_connected_back);
+		g.adj[fc2].op = (matmul_fwd, matmul_bwd);
 		g.connect(weight2, fc2);
 		g.connect(fc1, fc2);
 
@@ -344,21 +344,21 @@ mod tests {
 		.unwrap();
 
 		let fc1 = g.alloc();
-		g.adj[fc1].op = (fully_connected, fully_connected_back);
+		g.adj[fc1].op = (matmul_fwd, matmul_bwd);
 		g.connect(weight1, fc1);
 		g.connect(input, fc1);
 
 		let relu1 = g.alloc();
-		g.adj[relu1].op = (relu, relu_back);
+		g.adj[relu1].op = (relu_fwd, relu_bwd);
 		g.connect(fc1, relu1);
 
 		let fc2 = g.alloc();
-		g.adj[fc2].op = (fully_connected, fully_connected_back);
+		g.adj[fc2].op = (matmul_fwd, matmul_bwd);
 		g.connect(weight2, fc2);
 		g.connect(relu1, fc2);
 
 		let relu2 = g.alloc();
-		g.adj[relu2].op = (relu, relu_back);
+		g.adj[relu2].op = (relu_fwd, relu_bwd);
 		g.connect(fc2, relu2);
 
 		let (res, grad) = g.run(vec![
@@ -427,7 +427,7 @@ mod tests {
 		let truth_data = Array4::<f32>::from_shape_vec((1, 1, 3, 1), vec![0., 0., 1.]).unwrap();
 
 		let sc = g.alloc();
-		g.adj[sc].op = (softmax_cross_entropy, softmax_cross_entropy_back);
+		g.adj[sc].op = (softmax_cross_entropy_fwd, softmax_cross_entropy_bwd);
 		g.connect(input, sc);
 		g.connect(truth, sc);
 
@@ -518,26 +518,26 @@ mod tests {
 		.unwrap();
 
 		let fc1 = g.alloc();
-		g.adj[fc1].op = (fully_connected, fully_connected_back);
+		g.adj[fc1].op = (matmul_fwd, matmul_bwd);
 		g.connect(weight1, fc1);
 		g.connect(input, fc1);
 
 		let relu1 = g.alloc();
-		g.adj[relu1].op = (relu, relu_back);
+		g.adj[relu1].op = (relu_fwd, relu_bwd);
 		g.connect(fc1, relu1);
 
 		let resi = g.alloc();
-		g.adj[resi].op = (eltwise_add, eltwise_add_back);
+		g.adj[resi].op = (eltw_add_fwd, eltw_add_bwd);
 		g.connect(input, resi);
 		g.connect(relu1, resi);
 
 		let fc2 = g.alloc();
-		g.adj[fc2].op = (fully_connected, fully_connected_back);
+		g.adj[fc2].op = (matmul_fwd, matmul_bwd);
 		g.connect(weight2, fc2);
 		g.connect(resi, fc2);
 
 		let relu2 = g.alloc();
-		g.adj[relu2].op = (relu, relu_back);
+		g.adj[relu2].op = (relu_fwd, relu_bwd);
 		g.connect(fc2, relu2);
 
 		let (res, grad) = g.run(vec![
@@ -633,25 +633,25 @@ mod tests {
 		.unwrap();
 
 		let fc1 = g.alloc();
-		g.adj[fc1].op = (fully_connected, fully_connected_back);
+		g.adj[fc1].op = (matmul_fwd, matmul_bwd);
 		g.connect(weight1, fc1);
 		g.connect(input, fc1);
 
 		let relu1 = g.alloc();
-		g.adj[relu1].op = (relu, relu_back);
+		g.adj[relu1].op = (relu_fwd, relu_bwd);
 		g.connect(fc1, relu1);
 
 		let fc2 = g.alloc();
-		g.adj[fc2].op = (fully_connected, fully_connected_back);
+		g.adj[fc2].op = (matmul_fwd, matmul_bwd);
 		g.connect(weight2, fc2);
 		g.connect(relu1, fc2);
 
 		let relu2 = g.alloc();
-		g.adj[relu2].op = (relu, relu_back);
+		g.adj[relu2].op = (relu_fwd, relu_bwd);
 		g.connect(fc2, relu2);
 
 		let resi = g.alloc();
-		g.adj[resi].op = (eltwise_add, eltwise_add_back);
+		g.adj[resi].op = (eltw_add_fwd, eltw_add_bwd);
 		g.connect(relu1, resi);
 		g.connect(relu2, resi);
 
@@ -766,7 +766,7 @@ mod tests {
 		.unwrap();
 
 		let att = g.alloc();
-		g.adj[att].op = (attention, attention_back);
+		g.adj[att].op = (attention_fwd, attention_bwd);
 		g.connect(input, att);
 		g.connect(wq, att);
 		g.connect(wk, att);

@@ -30,10 +30,10 @@ struct EssayData {
 
 fn main() {
 	println!("Reading data");
-	//ko3.vec이 200만 라인
-	//100만라인: OK(ko4)
-	//130만라인: FAIL
-	let mut file = File::open("data/ko4.vec").unwrap();
+	//ko3.vec: 3만 라인, hidden=200
+	//ko3.vec: 200만 라인, hidden=512 (FAIL, 특수문자 깨지는거 있는듯. 130만 라인도 깨짐)
+	//ko4.vec: 100만 라인, hidden=512
+	let mut file = File::open("data/ko.vec").unwrap();
 
 	// this code cause Error { kind: InvalidData, message: "stream did not contain valid UTF-8" }
 	// let mut s = String::new();
@@ -63,7 +63,7 @@ fn main() {
 
 	let directory_path = "./data/essay/train";
 	let dir_entries = fs::read_dir(directory_path).unwrap();
-	for entry in dir_entries.take(10) {
+	for entry in dir_entries.take(3) {
 		let entry = entry.unwrap();
 		let file_path = entry.path();
 		if file_path.is_file() {

@@ -1,8 +1,8 @@
 use crate::{
 	computation_graph::ComputationGraph,
 	operation::{
-		eltw_mult_bwd, eltw_mult_fwd, fully_connected, fully_connected_back, softmax_y_bwd,
-		softmax_y_fwd, transpose_bwd, transpose_fwd,
+		eltw_mult_bwd, eltw_mult_fwd, matmul_bwd, matmul_fwd, softmax_y_bwd, softmax_y_fwd,
+		transpose_bwd, transpose_fwd,
 	},
 };
 
@@ -15,17 +15,17 @@ pub fn build_attention(
 	rsqrt: usize,
 ) -> usize {
 	let q = g.alloc();
-	g.adj[q].op = (fully_connected, fully_connected_back);
+	g.adj[q].op = (matmul_fwd, matmul_bwd);
 	g.connect(wq, q);
 	g.connect(input, q);
 
 	let k = g.alloc();
-	g.adj[k].op = (fully_connected, fully_connected_back);
+	g.adj[k].op = (matmul_fwd, matmul_bwd);
 	g.connect(wk, k);
 	g.connect(input, k);
 
 	let v = g.alloc();
-	g.adj[v].op = (fully_connected, fully_connected_back);
+	g.adj[v].op = (matmul_fwd, matmul_bwd);
 	g.connect(wv, v);
 	g.connect(input, v);
 
@@ -34,7 +34,7 @@ pub fn build_attention(
 	g.connect(k, tp);
 
 	let kq = g.alloc();
-	g.adj[kq].op = (fully_connected, fully_connected_back);
+	g.adj[kq].op = (matmul_fwd, matmul_bwd);
 	g.connect(tp, kq);
 	g.connect(q, kq);
 
@@ -48,7 +48,7 @@ pub fn build_attention(
 	g.connect(mul_rsqrt, attw);
 
 	let atts = g.alloc();
-	g.adj[atts].op = (fully_connected, fully_connected_back);
+	g.adj[atts].op = (matmul_fwd, matmul_bwd);
 	g.connect(v, atts);
 	g.connect(attw, atts);
 

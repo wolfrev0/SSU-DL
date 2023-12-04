@@ -8,13 +8,13 @@ use ndarray::{s, Array3, Array4, Axis};
 
 //input[0]=input
 //output[0]=output
-pub fn identity(input: &Vec<Array4<f32>>) -> Array4<f32> {
+pub fn identity_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	input[0].clone()
 }
 //input[-1]=output_grad_sum
 //input[0]=input
 //output[0]=input_gradient
-pub fn identity_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+pub fn identity_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	vec![input[0].clone()]
 }
 
@@ -49,7 +49,7 @@ fn bfyx_matmul(a: &Array4<f32>, b: &Array4<f32>) -> Array4<f32> {
 //input[0]=input
 //input[1]=weight
 //output[0]=output
-pub fn fully_connected(input: &Vec<Array4<f32>>) -> Array4<f32> {
+pub fn matmul_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	bfyx_matmul(&input[0], &input[1])
 }
 
@@ -58,7 +58,7 @@ pub fn fully_connected(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[1]=weight
 //output[0]=input_grad
 //output[1]=weight_grad
-pub fn fully_connected_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+pub fn matmul_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	vec![
 		bfyx_matmul(&input[2], &input[1].clone().permuted_axes([0, 1, 3, 2])),
 		bfyx_matmul(&input[0].clone().permuted_axes([0, 1, 3, 2]), &input[2]),
@@ -67,7 +67,7 @@ pub fn fully_connected_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 
 //input[0]=input
 //output[0]=output
-pub fn relu(input: &Vec<Array4<f32>>) -> Array4<f32> {
+pub fn relu_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	assert!(input.len() == 1);
 	let mut ret = input[0].clone();
 	for i in ret.iter_mut() {
@@ -79,7 +79,7 @@ pub fn relu(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[-1]=output_grad_sum
 //input[0]=input
 //output[0]=input_grad
-pub fn relu_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+pub fn relu_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	let mask = input[0].mapv(|x| if x > 0.0 { 1.0 } else { 0.0 });
 	vec![mask * &input[1]; 1]
 }
@@ -87,7 +87,7 @@ pub fn relu_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 //input[0]=input0
 //input[1]=input1
 //output[0]=output
-pub fn eltwise_add(input: &Vec<Array4<f32>>) -> Array4<f32> {
+pub fn eltw_add_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	input[0].clone() + &input[1]
 }
 
@@ -96,7 +96,7 @@ pub fn eltwise_add(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[1]=input1
 //output[0]=input0_grad
 //output[0]=input1_grad
-pub fn eltwise_add_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+pub fn eltw_add_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	vec![input[2].clone(), input[2].clone()]
 }
 
@@ -208,7 +208,7 @@ pub fn softmax_y_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 //input[0]=input
 //input[1]=truth
 //output[0]=output
-pub fn cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
+pub fn cross_entropy_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	//TODO: support b>1 f>1 case
 	Array4::from_elem((1, 1, 1, 1), (input[0].map(|x| -x.ln()) * &input[1]).sum())
 }
@@ -218,7 +218,7 @@ pub fn cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[1]=truth
 //output[0]=input_grad
 //output[0]=truth_grad
-pub fn cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+pub fn cross_entropy_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	//TODO: support b>1 f>1 case
 	vec![
 		-input[1].clone() / &input[0] * &input[2],
@@ -229,7 +229,7 @@ pub fn cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 //input[0]=input
 //input[1]=truth
 //output[0]=output
-pub fn softmax_cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
+pub fn softmax_cross_entropy_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	let (b0, f0, y0, x0) = (
 		input[0].shape()[0],
 		input[0].shape()[1],
@@ -262,7 +262,7 @@ pub fn softmax_cross_entropy(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[1]=truth
 //output[0]=input_grad
 //output[0]=truth_grad
-pub fn softmax_cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+pub fn softmax_cross_entropy_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	let (b0, f0, y0, x0) = (
 		input[0].shape()[0],
 		input[0].shape()[1],
@@ -301,9 +301,9 @@ pub fn softmax_cross_entropy_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> 
 /*NOTE: This implementation is transposed compared to known formula(https://heekangpark.github.io/nlp/attention#kramdown_%EC%96%B4%ED%85%90%EC%85%98-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-attention-mechanism) and implementations(refer REFERENCE_CODE section). Because I'm not comfortable with (input * matrix * matrix * ...) notation, I transposed it to get (...*matrix*matrix*input) notation.
 */
 #[deprecated(
-	note = "please construct attention explicitly using matmul and sofmax_y in computation graph. I'm too lazy to calculate attention backprop manually :("
+	note = "please use graph_builder::build_attention(). I'm too lazy to calculate attention backprop manually :("
 )]
-pub fn attention(input: &Vec<Array4<f32>>) -> Array4<f32> {
+pub fn attention_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	/*REFERENCE_CODE
 	import torch
 	import torch.nn as nn
@@ -388,9 +388,9 @@ pub fn attention(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //output[2]=Wk_grad
 //output[3]=Wv_grad
 #[deprecated(
-	note = "please construct attention explicitly using matmul and sofmax_y in computation graph. I'm too lazy to calculate attention backprop manually :("
+	note = "please use graph_builder::build_attention(). I'm too lazy to calculate attention backprop manually :("
 )]
-pub fn attention_back(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+pub fn attention_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	let mut ret = input.clone();
 	ret.pop();
 	ret

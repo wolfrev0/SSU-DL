@@ -1,8 +1,8 @@
 use dlrs::{
 	computation_graph::ComputationGraph,
 	operation::{
-		eltwise_add, eltwise_add_back, fully_connected, fully_connected_back, relu, relu_back,
-		softmax_cross_entropy, softmax_cross_entropy_back,
+		eltw_add_bwd, eltw_add_fwd, matmul_bwd, matmul_fwd, relu_bwd, relu_fwd,
+		softmax_cross_entropy_bwd, softmax_cross_entropy_fwd,
 	},
 };
 use mnist::{Mnist, MnistBuilder};
@@ -39,31 +39,31 @@ fn main() {
 	// 	Array4::<f32>::from_shape_fn((1, 1, 10, 1), |(_, _, i, _)| if i == 3 { 1. } else { 0. });
 
 	let fc1 = g.alloc();
-	g.adj[fc1].op = (fully_connected, fully_connected_back);
+	g.adj[fc1].op = (matmul_fwd, matmul_bwd);
 	g.connect(weight1, fc1);
 	g.connect(input, fc1);
 
 	let eltw_add1 = g.alloc();
-	g.adj[eltw_add1].op = (eltwise_add, eltwise_add_back);
+	g.adj[eltw_add1].op = (eltw_add_fwd, eltw_add_bwd);
 	g.connect(fc1, eltw_add1);
 	g.connect(bias1, eltw_add1);
 
 	let relu1 = g.alloc();
-	g.adj[relu1].op = (relu, relu_back);
+	g.adj[relu1].op = (relu_fwd, relu_bwd);
 	g.connect(eltw_add1, relu1);
 
 	let fc2 = g.alloc();
-	g.adj[fc2].op = (fully_connected, fully_connected_back);
+	g.adj[fc2].op = (matmul_fwd, matmul_bwd);
 	g.connect(weight2, fc2);
 	g.connect(relu1, fc2);
 
 	let eltw_add2 = g.alloc();
-	g.adj[eltw_add2].op = (eltwise_add, eltwise_add_back);
+	g.adj[eltw_add2].op = (eltw_add_fwd, eltw_add_bwd);
 	g.connect(fc2, eltw_add2);
 	g.connect(bias2, eltw_add2);
 
 	let smce = g.alloc();
-	g.adj[smce].op = (softmax_cross_entropy, softmax_cross_entropy_back);
+	g.adj[smce].op = (softmax_cross_entropy_fwd, softmax_cross_entropy_bwd);
 	g.connect(eltw_add2, smce);
 	g.connect(truth, smce);
 
