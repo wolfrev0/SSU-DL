@@ -6,9 +6,9 @@ mod tests {
 		computation_graph::ComputationGraph,
 		graph_builder::build_attention,
 		operation::{
-			attention_bwd, attention_fwd, eltw_add_bwd, eltw_add_fwd, layer_norm_bwd,
-			layer_norm_fwd, matmul_bwd, matmul_fwd, relu_bwd, relu_fwd, softmax_cross_entropy_bwd,
-			softmax_cross_entropy_fwd,
+			attention_bwd, attention_fwd, concat4x_bwd, concat4x_fwd, concat4y_bwd, concat4y_fwd,
+			eltw_add_bwd, eltw_add_fwd, layer_norm_bwd, layer_norm_fwd, matmul_bwd, matmul_fwd,
+			relu_bwd, relu_fwd, softmax_cross_entropy_bwd, softmax_cross_entropy_fwd,
 		},
 		util::is_equal,
 	};
@@ -890,5 +890,179 @@ mod tests {
 			]
 			.iter()
 		));
+	}
+
+	#[test]
+	fn test_encoder() {
+		/*REFERENCE CODE
+		TODO*/
+		let mut g = ComputationGraph::new();
+
+		let input = g.alloc();
+		let input_data = Array4::<f32>::from_shape_vec(
+			(3, 1, 1, 4),
+			vec![5., 1., 0., 0., 0., 1., 1., 1., 0., 1., 0., 9.],
+		)
+		.unwrap();
+
+		let ln = g.alloc();
+		g.adj[ln].op = (layer_norm_fwd, layer_norm_bwd);
+		g.connect(input, ln);
+
+		let relu = g.alloc();
+		g.adj[relu].op = (relu_fwd, relu_bwd);
+		g.connect(ln, relu);
+
+		let (out, grad) = g.run(vec![(input, input_data.clone())]);
+		assert!(is_equal(
+			out[relu].iter(),
+			[
+				1.6977, 0.0000, 0.0000, 0.0000, 0.0000, 0.5773, 0.5773, 0.5773, 0.0000, 0.0000,
+				0.0000, 1.7219
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[input].iter(),
+			[
+				1.4268e-02,
+				-7.1334e-02,
+				2.8533e-02,
+				2.8533e-02,
+				-9.2268e-05,
+				3.0756e-05,
+				3.0756e-05,
+				3.0756e-05,
+				9.2949e-03,
+				-2.0914e-02,
+				9.2949e-03,
+				2.3239e-03
+			]
+			.iter()
+		));
+	}
+
+	#[test]
+	fn test_concat4x() {
+		let mut g = ComputationGraph::new();
+
+		let m0 = g.alloc();
+		let m0dat = Array4::<f32>::from_shape_vec(
+			(2, 2, 2, 2),
+			vec![
+				0., 1., 2., 3., 4., 5., 6., 7., 8., 9., 0., 1., 2., 3., 4., 5.,
+			],
+		)
+		.unwrap();
+
+		let m1 = g.alloc();
+		let m1dat = Array4::<f32>::from_shape_vec(
+			(2, 2, 2, 2),
+			vec![
+				1., 2., 3., 4., 5., 6., 7., 8., 9., 0., 1., 2., 3., 4., 5., 6.,
+			],
+		)
+		.unwrap();
+
+		let m2 = g.alloc();
+		let m2dat = Array4::<f32>::from_shape_vec(
+			(2, 2, 2, 2),
+			vec![
+				2., 3., 4., 5., 6., 7., 8., 9., 0., 1., 2., 3., 4., 5., 6., 7.,
+			],
+		)
+		.unwrap();
+
+		let m3 = g.alloc();
+		let m3dat = Array4::<f32>::from_shape_vec(
+			(2, 2, 2, 2),
+			vec![
+				3., 4., 5., 6., 7., 8., 9., 0., 1., 2., 3., 4., 5., 6., 7., 8.,
+			],
+		)
+		.unwrap();
+
+		let concat = g.alloc();
+		g.adj[concat].op = (concat4x_fwd, concat4x_bwd);
+		g.connect(m0, concat);
+		g.connect(m1, concat);
+		g.connect(m2, concat);
+		g.connect(m3, concat);
+
+		let (out, grad) = g.run(vec![
+			(m0, m0dat.clone()),
+			(m1, m1dat.clone()),
+			(m2, m2dat.clone()),
+			(m3, m3dat.clone()),
+		]);
+		// dbg!(&out[concat]);
+		// dbg!(&grad[m0]);
+		// dbg!(&grad[m1]);
+		// dbg!(&grad[m2]);
+		// dbg!(&grad[m3]);
+
+		//assertion: TODO
+	}
+
+	#[test]
+	fn test_concat4y() {
+		let mut g = ComputationGraph::new();
+
+		let m0 = g.alloc();
+		let m0dat = Array4::<f32>::from_shape_vec(
+			(2, 2, 2, 2),
+			vec![
+				0., 1., 2., 3., 4., 5., 6., 7., 8., 9., 0., 1., 2., 3., 4., 5.,
+			],
+		)
+		.unwrap();
+
+		let m1 = g.alloc();
+		let m1dat = Array4::<f32>::from_shape_vec(
+			(2, 2, 2, 2),
+			vec![
+				1., 2., 3., 4., 5., 6., 7., 8., 9., 0., 1., 2., 3., 4., 5., 6.,
+			],
+		)
+		.unwrap();
+
+		let m2 = g.alloc();
+		let m2dat = Array4::<f32>::from_shape_vec(
+			(2, 2, 2, 2),
+			vec![
+				2., 3., 4., 5., 6., 7., 8., 9., 0., 1., 2., 3., 4., 5., 6., 7.,
+			],
+		)
+		.unwrap();
+
+		let m3 = g.alloc();
+		let m3dat = Array4::<f32>::from_shape_vec(
+			(2, 2, 2, 2),
+			vec![
+				3., 4., 5., 6., 7., 8., 9., 0., 1., 2., 3., 4., 5., 6., 7., 8.,
+			],
+		)
+		.unwrap();
+
+		let concat = g.alloc();
+		g.adj[concat].op = (concat4y_fwd, concat4y_bwd);
+		g.connect(m0, concat);
+		g.connect(m1, concat);
+		g.connect(m2, concat);
+		g.connect(m3, concat);
+
+		let (out, grad) = g.run(vec![
+			(m0, m0dat.clone()),
+			(m1, m1dat.clone()),
+			(m2, m2dat.clone()),
+			(m3, m3dat.clone()),
+		]);
+		dbg!(&out[concat]);
+		dbg!(&grad[m0]);
+		dbg!(&grad[m1]);
+		dbg!(&grad[m2]);
+		dbg!(&grad[m3]);
+
+		//assertion: TODO
 	}
 }

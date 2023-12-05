@@ -1,4 +1,4 @@
-use ndarray::{s, Array3, Array4, Axis};
+use ndarray::{concatenate, s, Array3, Array4, Axis};
 
 //fwd와 bwd 설명
 //fwd(input_1, input_2, ..., input_N) -> output
@@ -410,6 +410,7 @@ pub fn transpose_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 
 //input[0]=input
 //output[0]=layer-normalized input
+//NOTE: scale and bias is not exist in this implementation
 pub fn layer_norm_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	let mut ret = input[0].clone();
 	ret.map_axis_mut(Axis(3), |mut x| {
@@ -423,6 +424,7 @@ pub fn layer_norm_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[-1]=output_grad_sum
 //input[0]=input
 //output[0]=input_grad
+//NOTE: scale and bias is not exist in this implementation
 //https://neuralthreads.medium.com/layer-normalization-and-how-to-compute-its-jacobian-for-backpropagation-55a549d5936f
 pub fn layer_norm_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	let (b, f, y, x) = (
@@ -463,4 +465,68 @@ pub fn layer_norm_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 		}
 	}
 	vec![ret]
+}
+
+//input[0~3]=input
+//output[0]=concatenated input
+pub fn concat4x_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	concatenate![Axis(3), input[0], input[1], input[2], input[3]]
+}
+
+//input[-1]=output_grad_sum
+//input[0~3]=input
+//output[0~3]=input grad
+pub fn concat4x_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	let (b, f, y, x) = (
+		input[4].shape()[0],
+		input[4].shape()[1],
+		input[4].shape()[2],
+		input[4].shape()[3],
+	);
+	vec![
+		input[4]
+			.slice(s![.., .., .., x / 4 * 0..x / 4 * 1])
+			.to_owned(),
+		input[4]
+			.slice(s![.., .., .., x / 4 * 1..x / 4 * 2])
+			.to_owned(),
+		input[4]
+			.slice(s![.., .., .., x / 4 * 2..x / 4 * 3])
+			.to_owned(),
+		input[4]
+			.slice(s![.., .., .., x / 4 * 3..x / 4 * 4])
+			.to_owned(),
+	]
+}
+
+//input[0~3]=input
+//output[0]=concatenated input
+pub fn concat4y_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	concatenate![Axis(2), input[0], input[1], input[2], input[3]]
+}
+
+//input[-1]=output_grad_sum
+//input[0~3]=input
+//output[0~3]=input grad
+pub fn concat4y_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	let (b, f, y, x) = (
+		input[4].shape()[0],
+		input[4].shape()[1],
+		input[4].shape()[2],
+		input[4].shape()[3],
+	);
+	vec![
+		input[4]
+			.slice(s![.., .., y / 4 * 0..y / 4 * 1, ..])
+			.to_owned(),
+		input[4]
+			.slice(s![.., .., y / 4 * 1..y / 4 * 2, ..])
+			.to_owned(),
+		input[4]
+			.slice(s![.., .., y / 4 * 2..y / 4 * 3, ..])
+			.to_owned(),
+		input[4]
+			.slice(s![.., .., y / 4 * 3..y / 4 * 4, ..])
+			.to_owned(),
+	]
 }
