@@ -403,7 +403,64 @@ pub fn transpose_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 }
 //input[-1]=output_grad_sum
 //input[0]=input
-//output[1]=input_grad
+//output[0]=input_grad
 pub fn transpose_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	vec![input[1].clone().permuted_axes([0, 1, 3, 2])]
+}
+
+//input[0]=input
+//output[0]=layer-normalized input
+pub fn layer_norm_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	let mut ret = input[0].clone();
+	ret.map_axis_mut(Axis(3), |mut x| {
+		let m = x.mean().unwrap();
+		let std = x.std(0.);
+		x.map_mut(|i| *i = (*i - m) / std);
+	});
+	ret
+}
+
+//input[-1]=output_grad_sum
+//input[0]=input
+//output[0]=input_grad
+//https://neuralthreads.medium.com/layer-normalization-and-how-to-compute-its-jacobian-for-backpropagation-55a549d5936f
+pub fn layer_norm_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	let (b, f, y, x) = (
+		input[0].shape()[0],
+		input[0].shape()[1],
+		input[0].shape()[2],
+		input[0].shape()[3],
+	);
+	let mut ret = Array4::zeros((b, f, y, x));
+	for bi in 0..b {
+		let cur = input[0].slice(s![bi, .., .., ..]);
+		let mu = cur.mean().unwrap();
+		let std = cur.std(0.);
+		for fi in 0..f {
+			for yi in 0..y {
+				for xi in 0..x {
+					for fj in 0..f {
+						for yj in 0..y {
+							for xj in 0..x {
+								let tmp0 = if fi == fj && yi == yj && xi == xj {
+									(f * y * x) as f32
+								} else {
+									0.
+								} - 1.;
+								let tmp0 = tmp0 / (f * y * x) as f32 / std;
+
+								let tmp1 = (*input[0].get((bi, fj, yj, xj)).unwrap() - mu)
+									* (*input[0].get((bi, fi, yi, xi)).unwrap() - mu);
+								let tmp1 = tmp1 / (f * y * x) as f32 / std.powi(3);
+
+								*ret.get_mut((bi, fi, yi, xi)).unwrap() +=
+									(tmp0 - tmp1) * input[1].get((bi, fj, yj, xj)).unwrap();
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	vec![ret]
 }
