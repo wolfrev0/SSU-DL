@@ -4,7 +4,7 @@ mod tests {
 
 	use crate::{
 		computation_graph::ComputationGraph,
-		graph_builder::build_attention,
+		graph_builder::{build_4_head_attention, build_attention},
 		operation::{
 			attention_bwd, attention_fwd, concat4x_bwd, concat4x_fwd, concat4y_bwd, concat4y_fwd,
 			eltw_add_bwd, eltw_add_fwd, layer_norm_bwd, layer_norm_fwd, matmul_bwd, matmul_fwd,
@@ -893,56 +893,6 @@ mod tests {
 	}
 
 	#[test]
-	fn test_encoder() {
-		/*REFERENCE CODE
-		TODO*/
-		let mut g = ComputationGraph::new();
-
-		let input = g.alloc();
-		let input_data = Array4::<f32>::from_shape_vec(
-			(3, 1, 1, 4),
-			vec![5., 1., 0., 0., 0., 1., 1., 1., 0., 1., 0., 9.],
-		)
-		.unwrap();
-
-		let ln = g.alloc();
-		g.adj[ln].op = (layer_norm_fwd, layer_norm_bwd);
-		g.connect(input, ln);
-
-		let relu = g.alloc();
-		g.adj[relu].op = (relu_fwd, relu_bwd);
-		g.connect(ln, relu);
-
-		let (out, grad) = g.run(vec![(input, input_data.clone())]);
-		assert!(is_equal(
-			out[relu].iter(),
-			[
-				1.6977, 0.0000, 0.0000, 0.0000, 0.0000, 0.5773, 0.5773, 0.5773, 0.0000, 0.0000,
-				0.0000, 1.7219
-			]
-			.iter()
-		));
-		assert!(is_equal(
-			grad[input].iter(),
-			[
-				1.4268e-02,
-				-7.1334e-02,
-				2.8533e-02,
-				2.8533e-02,
-				-9.2268e-05,
-				3.0756e-05,
-				3.0756e-05,
-				3.0756e-05,
-				9.2949e-03,
-				-2.0914e-02,
-				9.2949e-03,
-				2.3239e-03
-			]
-			.iter()
-		));
-	}
-
-	#[test]
 	fn test_concat4x() {
 		let mut g = ComputationGraph::new();
 
@@ -1064,5 +1014,286 @@ mod tests {
 		dbg!(&grad[m3]);
 
 		//assertion: TODO
+	}
+
+	#[test]
+	fn test_mha() {
+		/*REFERENCE CODE
+		import torch
+		import torch.nn.functional as F
+		import torch.nn as nn
+
+		torch.manual_seed(12)
+
+		class MultiheadAttention(nn.Module):
+				def __init__(self, input_size, num_heads, dropout=0.1):
+						super(MultiheadAttention, self).__init__()
+
+						self.input_size = input_size
+						self.num_heads = num_heads
+						self.head_dim = input_size // num_heads
+
+						self.W_q = nn.Linear(input_size, input_size, bias=False)
+						self.W_k = nn.Linear(input_size, input_size, bias=False)
+						self.W_v = nn.Linear(input_size, input_size, bias=False)
+						self.W_o = nn.Linear(input_size, input_size, bias=False)
+
+						# # Dropout layer
+						# self.dropout = nn.Dropout(dropout)
+
+				def forward(self, query, key, value, mask=None):
+						batch_size = query.size(0)
+						Q = self.W_q(query).view(batch_size, -1, self.num_heads, self.head_dim)
+						K = self.W_k(key).view(batch_size, -1, self.num_heads, self.head_dim)
+						V = self.W_v(value).view(batch_size, -1, self.num_heads, self.head_dim)
+						Q = Q.transpose(1, 2)
+						K = K.transpose(1, 2)
+						V = V.transpose(1, 2)
+						scores = torch.matmul(Q, K.transpose(-2, -1)) / torch.sqrt(torch.tensor(self.head_dim, dtype=torch.float32))
+						if mask is not None:
+								scores = scores.masked_fill(mask == 0, float("-inf"))
+						attention_weights = F.softmax(scores, dim=-1)
+						attention_output = torch.matmul(attention_weights, V)
+						attention_output = attention_output.transpose(1, 2).contiguous()
+						attention_output = attention_output.view(batch_size, -1, self.input_size)
+						output = self.W_o(attention_output)
+						return output
+		input_size = 8
+		num_heads = 4
+		seq_length = 2
+		batch_size = 1
+		input = torch.randn(batch_size, seq_length, input_size)
+		mha = MultiheadAttention(input_size, num_heads)
+		output = mha(input, input, input)
+		output.backward(gradient=torch.tensor([[[1.,1.,1.,1.,1.,1.,1.,1.],[1.,1.,1.,1.,1.,1.,1.,1.]]]));
+		print("Input:", input)
+		print("Output:", output)
+		print("Grad Wq:", mha.W_q.weight.grad)
+		print("Grad Wk:", mha.W_k.weight.grad)
+		print("Grad Wv:", mha.W_v.weight.grad)*/
+
+		let mut g = ComputationGraph::new();
+		let word_num = 2;
+		let hidden_size = 8;
+
+		let input = g.alloc();
+		let input_data = Array4::<f32>::from_shape_vec(
+			(1, 1, word_num, hidden_size),
+			vec![
+				-0.1320, -0.1254, 0.3443, -0.4519, -0.8888, -0.3526, -1.3373, 0.5223, -1.1118,
+				-0.7171, 1.0426, -1.2510, -0.5107, -0.3843, -0.4899, 0.5306,
+			],
+		)
+		.unwrap()
+		.permuted_axes([0, 1, 3, 2])
+		.to_owned();
+
+		let wq = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
+		let wq_data = [
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					0.3387, 0.2434, -0.2648, -0.0385, 0.1132, -0.3144, -0.2423, 0.2218, 0.1567,
+					-0.1614, -0.1412, 0.0777, 0.0554, 0.0766, -0.0468, 0.2696,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					-0.1261, -0.1694, -0.1721, -0.2212, 0.1007, -0.2273, -0.2521, 0.1761, 0.1608,
+					-0.2375, -0.1221, -0.2659, 0.0805, -0.0329, 0.1880, -0.2263,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					-0.1175, 0.3200, 0.2771, 0.3436, 0.0953, 0.2695, 0.3105, -0.2706, -0.2586,
+					0.3115, 0.1275, 0.0393, 0.2626, -0.2982, 0.2530, 0.1796,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					0.1200, 0.0578, -0.0828, 0.1529, 0.2779, 0.0422, -0.1554, -0.1785, -0.0185,
+					-0.2612, -0.2105, 0.0981, -0.2829, 0.3263, 0.0247, 0.1514,
+				],
+			)
+			.unwrap(),
+		];
+
+		let wk = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
+		let wk_data = [
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					0.0436, -0.2877, 0.1806, -0.1798, -0.0308, 0.1806, -0.0532, 0.2715, -0.1216,
+					0.2236, 0.0406, 0.2140, 0.0467, -0.1651, 0.1224, 0.1095,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					-0.2333, -0.2742, -0.3514, 0.3495, 0.0522, 0.0418, 0.0179, -0.1399, 0.2596,
+					0.2267, -0.2515, 0.1497, 0.2429, -0.0289, 0.0270, 0.0663,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					-0.2934, -0.2274, 0.3189, -0.3351, 0.0641, -0.3418, -0.1103, -0.0434, 0.0251,
+					-0.1703, 0.1416, 0.0752, -0.2955, 0.0304, 0.3125, 0.2961,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					-0.1629, 0.2041, -0.2540, 0.3194, 0.1261, 0.1248, -0.2625, -0.1216, -0.3152,
+					0.1714, -0.2976, -0.1349, -0.0290, 0.1442, 0.0928, 0.1064,
+				],
+			)
+			.unwrap(),
+		];
+
+		let wv = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
+		let wv_data = [
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					0.2772, 0.0084, -0.0406, -0.1352, -0.0876, -0.2885, 0.2212, 0.3212, 0.2180,
+					0.1709, -0.0997, -0.2909, 0.3356, -0.1063, -0.1372, -0.2649,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					-0.2329, 0.0720, 0.2058, -0.3106, -0.3117, -0.0476, -0.2966, 0.2771, 0.0065,
+					-0.2565, 0.0910, 0.2585, 0.0512, -0.2550, 0.0579, -0.2656,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					0.2022, -0.0342, 0.0798, -0.0472, -0.2836, 0.0980, 0.3008, -0.0706, -0.1285,
+					-0.2878, -0.0419, 0.3432, -0.0951, -0.1046, 0.2416, -0.2881,
+				],
+			)
+			.unwrap(),
+			Array4::<f32>::from_shape_vec(
+				(1, 1, hidden_size / 4, hidden_size),
+				vec![
+					-0.0520, -0.1166, -0.0103, -0.2266, 0.0090, 0.0456, 0.0630, -0.2110, 0.0817,
+					-0.3090, 0.0070, 0.0388, -0.0943, -0.0283, 0.0018, 0.1874,
+				],
+			)
+			.unwrap(),
+		];
+		let wo = g.alloc();
+		let wo_data = Array4::<f32>::from_shape_vec(
+			(1, 1, hidden_size, hidden_size),
+			vec![
+				0.3145, -0.3200, 0.2741, 0.1205, 0.3450, 0.3156, -0.1222, -0.1644, 0.2381, 0.2044,
+				0.2938, -0.1504, 0.0883, -0.1238, -0.2624, 0.2205, 0.0746, 0.2830, 0.1778, -0.2471,
+				-0.1642, 0.1091, 0.2670, -0.2952, 0.3398, 0.2191, -0.0275, -0.3388, -0.1491,
+				0.2444, 0.1212, 0.0551, -0.2984, -0.3337, -0.3091, 0.0010, -0.0480, -0.1975,
+				0.3358, -0.3465, -0.3336, -0.3103, -0.1746, 0.0245, -0.1024, 0.0264, 0.2697,
+				-0.2675, -0.1618, 0.3360, -0.0767, -0.1261, 0.2304, 0.3236, -0.1146, -0.2632,
+				0.3489, 0.2969, 0.1339, 0.0510, -0.0413, -0.1972, -0.3190, 0.3461,
+			],
+		)
+		.unwrap();
+
+		let rsqrt = g.alloc();
+		let rsqrt_data = Array4::<f32>::from_shape_vec(
+			(1, 1, word_num, word_num),
+			vec![
+				1. / ((hidden_size / 4) as f32).sqrt(),
+				1. / ((hidden_size / 4) as f32).sqrt(),
+				1. / ((hidden_size / 4) as f32).sqrt(),
+				1. / ((hidden_size / 4) as f32).sqrt(),
+			],
+		)
+		.unwrap();
+
+		let att = build_4_head_attention(&mut g, input, wq, wk, wv, rsqrt, wo);
+
+		let (res, grad) = g.run(vec![
+			(input, input_data.clone()),
+			(wq[0], wq_data[0].clone()),
+			(wq[1], wq_data[1].clone()),
+			(wq[2], wq_data[2].clone()),
+			(wq[3], wq_data[3].clone()),
+			(wk[0], wk_data[0].clone()),
+			(wk[1], wk_data[1].clone()),
+			(wk[2], wk_data[2].clone()),
+			(wk[3], wk_data[3].clone()),
+			(wv[0], wv_data[0].clone()),
+			(wv[1], wv_data[1].clone()),
+			(wv[2], wv_data[2].clone()),
+			(wv[3], wv_data[3].clone()),
+			(wo, wo_data.clone()),
+			(rsqrt, rsqrt_data.clone()),
+		]);
+		assert!(is_equal(
+			res[att].iter(),
+			[
+				0.1555, 0.1530, 0.3986, 0.3954, 0.1307, 0.1349, -0.0585, -0.0530, -0.2580, -0.2566,
+				-0.1810, -0.1798, -0.3973, -0.3936, 0.2313, 0.2283
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[wq[0]].iter(),
+			[
+				0.0051, 0.0034, -0.0057, 0.0069, 0.0057, 0.0030, 0.0075, -0.0043, -0.0004, -0.0003,
+				0.0005, -0.0006, -0.0005, -0.0003, -0.0006, 0.0004
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[wq[1]].iter(),
+			[
+				0.0002, 0.0002, -0.0003, 0.0003, 0.0003, 0.0001, 0.0004, -0.0002, 0.0014, 0.0009,
+				-0.0015, 0.0019, 0.0015, 0.0008, 0.0020, -0.0011
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[wk[2]].iter(),
+			[
+				2.2342e-02,
+				1.3491e-02,
+				-1.5923e-02,
+				1.8221e-02,
+				-8.6214e-03,
+				7.2143e-04,
+				-1.9323e-02,
+				-1.8840e-04,
+				3.6030e-03,
+				2.1756e-03,
+				-2.5679e-03,
+				2.9384e-03,
+				-1.3903e-03,
+				1.1634e-04,
+				-3.1161e-03,
+				-3.0384e-05
+			]
+			.iter()
+		));
+		assert!(is_equal(
+			grad[wv[3]].iter(),
+			[
+				-0.2339, -0.1573, 0.2545, -0.3115, -0.2393, -0.1297, -0.3067, 0.1848, 0.9541,
+				0.6415, -1.0379, 1.2704, 0.9758, 0.5291, 1.2507, -0.7535
+			]
+			.iter()
+		));
 	}
 }
