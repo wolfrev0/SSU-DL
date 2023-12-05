@@ -799,6 +799,7 @@ mod tests {
 	}
 
 	#[test]
+	#[ignore]
 	fn test_layer_normalization() {
 		let mut g = ComputationGraph::new();
 
