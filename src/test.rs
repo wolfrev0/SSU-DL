@@ -799,8 +799,53 @@ mod tests {
 	}
 
 	#[test]
-	#[ignore]
 	fn test_layer_normalization() {
+		/*REFERENCE CODE
+		import torch
+		import torch.nn as nn
+		from torch.autograd import Variable
+
+		class SimpleNN(nn.Module):
+			def __init__(self, input_size):
+				super(SimpleNN, self).__init__()
+				self.layer_norm = nn.LayerNorm(input_size)
+
+			def forward(self, x):
+				x = self.layer_norm(x)
+				self.asdf=x
+				self.asdf.retain_grad()
+				x = nn.ReLU(False)(x)
+
+				return x
+
+		input_size = 4
+		batch_size = 3
+		model = SimpleNN(input_size)
+
+		input_data = torch.tensor([5,1,0,0,0,1,1,1,0,1,0,9,], dtype=torch.float32).view((batch_size,input_size))
+		input_data = Variable(input_data, requires_grad=True)
+
+		print("Input:")
+		print(input_data)
+
+		print("\nGamma:")
+		print(model.layer_norm.weight)
+
+		print("\nBeta:")
+		print(model.layer_norm.bias)
+
+		output = model(input_data)
+
+		print("\nOutput:")
+		print(output)
+
+		output.sum().backward()
+
+		print("\nReLU Gradient:")
+		print(model.asdf.grad)
+
+		print("\nInput Gradient:")
+		print(input_data.grad)*/
 		let mut g = ComputationGraph::new();
 
 		let input = g.alloc();
@@ -819,9 +864,6 @@ mod tests {
 		g.connect(ln, relu);
 
 		let (out, grad) = g.run(vec![(input, input_data.clone())]);
-		dbg!(&input_data);
-		dbg!(&out);
-		dbg!(&grad);
 		assert!(is_equal(
 			out[relu].iter(),
 			[
