@@ -125,3 +125,25 @@ pub fn build_4_head_attention(
 	ret
 }
 
+pub fn build_encoder(
+	g: &mut ComputationGraph,
+	input: usize,
+	wq: [usize; 4],
+	wk: [usize; 4],
+	wv: [usize; 4],
+	rsqrt: usize,
+	wo: usize,
+) -> usize {
+	let att = build_4_head_attention(g, input, wq, wk, wv, rsqrt, wo);
+
+	let resi = g.alloc();
+	g.adj[resi].op = (eltw_add_fwd, eltw_add_bwd);
+	g.connect(input, resi);
+	g.connect(att, resi);
+
+	let ln = g.alloc();
+	g.adj[ln].op = (layer_norm_fwd, layer_norm_bwd);
+	g.connect(resi, ln);
+
+	ln
+}

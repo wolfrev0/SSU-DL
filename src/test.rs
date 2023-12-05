@@ -1560,4 +1560,9 @@ mod tests {
 		// 	.iter()
 		// ));
 	}
+	#[test]
+	#[ignore = "TODO"]
+	fn test_encoder() {
+		todo!();
+	}
 }
