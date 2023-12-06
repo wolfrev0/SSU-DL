@@ -2,20 +2,19 @@
 Deep learning implementation from scratch by Rust
 
 ## Implemented operations
-- identity
-- matmul
-- relu
-- eltw_add
-- eltw_mult
-- softmax_xy
-- softmax_y
-- softmax_cross_entropy
-- transpose
-- layer_norm
-- concat4
-- attention
-- 4_head_attention
-- encoder
+- Identity
+- Matrix Multiplication
+- ReLU
+- Element-wise addition
+- Element-wise multiplication
+- Softmax
+- Softmax with cross entropy
+- Transpose
+- Layer Normalization
+- Concat
+- Sigmoid(Sum(x))
+- Attention
+- Encoder
 
 ## Getting Started
 1. Install rust and cargo.

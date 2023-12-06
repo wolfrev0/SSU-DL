@@ -530,3 +530,25 @@ pub fn concat4y_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 			.to_owned(),
 	]
 }
+
+//input[0]=input
+//output[0]=sigmoid(sum(input[0]))
+pub fn sigsum_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	Array4::from_elem((1, 1, 1, 1), 1. / (1. + input[0].sum().exp()))
+}
+
+//input[-1]=output_grad_sum
+//input[0]=input
+//output[0]=input grad
+pub fn sigsum_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	let y = 1. / (1. + input[0].sum().exp());
+	vec![Array4::from_elem(
+		(
+			input[0].shape()[0],
+			input[0].shape()[1],
+			input[0].shape()[2],
+			input[0].shape()[3],
+		),
+		input[1].get((0, 0, 0, 0)).unwrap() * y * (1. - y),
+	)]
+}

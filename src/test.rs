@@ -1565,4 +1565,9 @@ mod tests {
 	fn test_encoder() {
 		todo!();
 	}
+	#[test]
+	#[ignore = "TODO"]
+	fn test_sigsum() {
+		todo!();
+	}
 }
