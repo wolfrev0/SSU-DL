@@ -163,4 +163,77 @@ impl ComputationGraph {
 			}
 		}
 	}
+
+	//mnist.rs처럼 오차가 최종 output이 되도록 만들면 g.run()으로 충분하다.
+	//그런데 귀찮으니까 땜빵용으로 만든 함수
+	pub fn run_essay(
+		&self,
+		terminal_init: Vec<(usize, Array4<f32>)>,
+		label: f32,
+	) -> (Vec<Array4<f32>>, Vec<Array4<f32>>) {
+		let mut snk = usize::MAX;
+		let mut dp_out = vec![Option::None; self.adj.len()];
+		for (i, x) in terminal_init {
+			assert!(
+				self.adj[i].is_terminal(),
+				"Only terminal nodes can have initial value"
+			);
+			assert!(
+				self.adj[i].op == (identity_fwd, identity_bwd),
+				"Operation of terminal node should identity"
+			);
+			dp_out[i] = Some(self.adj[i].op.0(&vec![x; 1]).clone())
+		}
+		for i in 0..self.adj.len() {
+			if self.adj[i].succ.len() == 0 {
+				assert!(snk == usize::MAX, "snk should be unique");
+				snk = i;
+			}
+			if self.adj[i].is_terminal() {
+				assert!(
+					dp_out[i].is_some(),
+					"Terminal nodes should have initial value"
+				);
+			}
+		}
+		assert!(snk != usize::MAX, "snk should exist");
+		self.get_outputs_dfs(&mut dp_out, snk);
+
+		let mut dp_grad = vec![Option::None; self.adj.len()];
+		dp_grad[snk] = Some(Array4::from_elem(
+			(1, 1, 1, 1),
+			(dp_out[snk].as_ref().unwrap().get((0, 0, 0, 0)).unwrap() - label).powi(2), //MSE
+		));
+
+		//a.k.a backward propagation
+		//TODO: BFS won't be fit when graph is not tree. (ex: residual block)
+		//use topological_order()
+		let ord = {
+			let mut tmp = self.topological_order();
+			tmp.reverse();
+			tmp
+		};
+		for x in ord {
+			if self.adj[x].is_terminal() {
+				continue;
+			}
+			let mut input = Vec::new();
+			for (y, _) in self.adj[x].pred.iter() {
+				input.push(self.get_outputs_dfs(&mut dp_out, *y));
+			}
+			input.push(dp_grad[x].to_owned().unwrap());
+			let input_grads = self.adj[x].op.1(&input);
+			for i in 0..self.adj[x].pred.len() {
+				let y = self.adj[x].pred[i].0;
+				dp_grad[y] = match &dp_grad[y] {
+					None => Some(input_grads[i].clone()),
+					Some(val) => Some(val + &input_grads[i]),
+				};
+			}
+		}
+
+		let outputs = Vec::from_iter(dp_out.into_iter().filter_map(|x| x));
+		let gradients = Vec::from_iter(dp_grad.into_iter().filter_map(|x| x));
+		(outputs, gradients)
+	}
 }
