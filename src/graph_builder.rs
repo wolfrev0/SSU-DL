@@ -197,7 +197,7 @@ pub fn build_encoder(
 	wv: [usize; 4],
 	wo: usize,
 ) -> usize {
-	let att = build_4_head_attention200(g, input, wq, wk, wv, wo);
+	let att = build_4_head_attention8(g, input, wq, wk, wv, wo);
 
 	let resi = g.alloc();
 	g.adj[resi].op = (eltw_add_fwd, eltw_add_bwd);
@@ -209,4 +209,18 @@ pub fn build_encoder(
 	g.connect(resi, ln);
 
 	ln
+}
+
+pub fn build_gemm(g: &mut ComputationGraph, input: usize, weight: usize, bias: usize) -> usize {
+	let mm = g.alloc();
+	g.adj[mm].op = (matmul_fwd, matmul_bwd);
+	g.connect(weight, mm);
+	g.connect(input, mm);
+
+	let add = g.alloc();
+	g.adj[add].op = (eltw_add_fwd, eltw_add_bwd);
+	g.connect(mm, add);
+	g.connect(bias, add);
+
+	add
 }

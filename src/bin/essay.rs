@@ -5,8 +5,10 @@ use std::{
 
 use dlrs::{
 	computation_graph::ComputationGraph,
-	graph_builder::{build_4_head_attention200, build_4_head_attention8},
-	operation::{matmul_bwd, matmul_fwd, sigsum_bwd, sigsum_fwd},
+	graph_builder::{
+		build_4_head_attention200, build_4_head_attention8, build_encoder, build_gemm,
+	},
+	operation::{matmul_bwd, matmul_fwd, relu_bwd, relu_fwd, sigsum_bwd, sigsum_fwd},
 };
 use ndarray::Array4;
 use rand::{rngs::StdRng, seq::SliceRandom, Rng, SeedableRng};
@@ -23,8 +25,8 @@ struct EssayData {
 
 fn main() {
 	let batch_size = 16;
-	let learning_rate = 0.01;
-	let mut rng = StdRng::seed_from_u64(987);
+	let learning_rate = 0.05;
+	let mut rng = StdRng::seed_from_u64(133);
 
 	println!("Reading data");
 	let mut file = File::open("data/ko.vec").unwrap();
@@ -84,138 +86,150 @@ fn main() {
 	let wq1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wq1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 	];
 
 	let wk1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wk1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 	];
 
 	let wv1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wv1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 	];
 	let wo1 = g.alloc();
 	let mut wo1_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-		rng.gen_range(-1. ..=1.)
+		rng.gen_range(-0.1..=0.1)
 	})
 	.permuted_axes([0, 1, 3, 2]);
 
-	let att1 = build_4_head_attention8(&mut g, input, wq1, wk1, wv1, wo1);
+	let encoder1 = build_encoder(&mut g, input, wq1, wk1, wv1, wo1);
 
-	let matmul1_weight = g.alloc();
-	let mut matmul1_weight_data =
+	let relu1a = g.alloc();
+	g.adj[relu1a].op = (relu_fwd, relu_bwd);
+	g.connect(encoder1, relu1a);
+
+	let gemm1_weight = g.alloc();
+	let mut gemm1_weight_data =
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		});
-	let matmul1 = g.alloc();
-	g.adj[matmul1].op = (matmul_fwd, matmul_bwd);
-	g.connect(matmul1_weight, matmul1);
-	g.connect(att1, matmul1);
+	let gemm1_bias = g.alloc();
+	let mut gemm1_bias_data =
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, word_num), |_| rng.gen_range(-0.1..=0.1));
+	let gemm1 = build_gemm(&mut g, relu1a, gemm1_weight, gemm1_bias);
+
+	let relu1b = g.alloc();
+	g.adj[relu1b].op = (relu_fwd, relu_bwd);
+	g.connect(gemm1, relu1b);
 
 	let wq2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wq2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 	];
 
 	let wk2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wk2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 	];
 
 	let wv2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wv2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		}),
 	];
 	let wo2 = g.alloc();
 	let mut wo2_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-		rng.gen_range(-1. ..=1.)
+		rng.gen_range(-0.1..=0.1)
 	})
 	.permuted_axes([0, 1, 3, 2]);
 
-	let att2 = build_4_head_attention8(&mut g, matmul1, wq2, wk2, wv2, wo2);
+	let encoder2 = build_encoder(&mut g, relu1b, wq2, wk2, wv2, wo2);
 
-	let matmul2_weight = g.alloc();
-	let mut matmul2_weight_data =
+	let relu2a = g.alloc();
+	g.adj[relu2a].op = (relu_fwd, relu_bwd);
+	g.connect(encoder2, relu2a);
+
+	let gemm2_weight = g.alloc();
+	let mut gemm2_weight_data =
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-			rng.gen_range(-1. ..=1.)
+			rng.gen_range(-0.1..=0.1)
 		});
-	let matmul2 = g.alloc();
-	g.adj[matmul2].op = (matmul_fwd, matmul_bwd);
-	g.connect(matmul2_weight, matmul2);
-	g.connect(att2, matmul2);
+	let gemm2_bias = g.alloc();
+	let mut gemm2_bias_data =
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, word_num), |_| rng.gen_range(-0.1..=0.1));
+	let gemm2 = build_gemm(&mut g, relu2a, gemm2_weight, gemm2_bias);
 
 	let sigsum = g.alloc();
 	g.adj[sigsum].op = (sigsum_fwd, sigsum_bwd);
-	g.connect(matmul2, sigsum);
+	g.connect(gemm2, sigsum);
 
-	for epoch in 0..100 {
+	for epoch in 0..10000 {
 		//TODO: input_data initialization
 		//TODO: SGD
 		let input_data = Array4::<f32>::from_shape_vec(
@@ -244,7 +258,8 @@ fn main() {
 				(wv1[2], wv1_data[2].clone()),
 				(wv1[3], wv1_data[3].clone()),
 				(wo1, wo1_data.clone()),
-				(matmul1_weight, matmul1_weight_data.clone()),
+				(gemm1_weight, gemm1_weight_data.clone()),
+				(gemm1_bias, gemm1_bias_data.clone()),
 				(wq2[0], wq2_data[0].clone()),
 				(wq2[1], wq2_data[1].clone()),
 				(wq2[2], wq2_data[2].clone()),
@@ -258,13 +273,16 @@ fn main() {
 				(wv2[2], wv2_data[2].clone()),
 				(wv2[3], wv2_data[3].clone()),
 				(wo2, wo2_data.clone()),
-				(matmul2_weight, matmul2_weight_data.clone()),
+				(gemm2_weight, gemm2_weight_data.clone()),
+				(gemm2_bias, gemm2_bias_data.clone()),
 			],
-			1.,
+			0.15,
 		);
-		// dbg!(&grad[matmul2_weight]);
-		// dbg!(&grad[att2]);
-		// dbg!(&grad[matmul2]);
+		// dbg!(&res);
+		// dbg!(&res[encoder2]);
+		// dbg!(&grad[gemm2_weight]);
+		// dbg!(&grad[encoder2]);
+		// dbg!(&res[gemm2]);
 		dbg!(&res[sigsum]);
 		wq1_data[0] -= &(grad[wq1[0]].clone() * learning_rate);
 		wq1_data[1] -= &(grad[wq1[1]].clone() * learning_rate);
@@ -279,7 +297,8 @@ fn main() {
 		wv1_data[2] -= &(grad[wv1[2]].clone() * learning_rate);
 		wv1_data[3] -= &(grad[wv1[3]].clone() * learning_rate);
 		wo1_data -= &(grad[wo1].clone() * learning_rate);
-		matmul1_weight_data -= &(grad[matmul1_weight].clone() * learning_rate);
+		gemm1_weight_data -= &(grad[gemm1_weight].clone() * learning_rate);
+		gemm1_bias_data -= &(grad[gemm1_bias].clone() * learning_rate);
 
 		wq2_data[0] -= &(grad[wq2[0]].clone() * learning_rate);
 		wq2_data[1] -= &(grad[wq2[1]].clone() * learning_rate);
@@ -294,6 +313,7 @@ fn main() {
 		wv2_data[2] -= &(grad[wv2[2]].clone() * learning_rate);
 		wv2_data[3] -= &(grad[wv2[3]].clone() * learning_rate);
 		wo2_data -= &(grad[wo2].clone() * learning_rate);
-		matmul2_weight_data -= &(grad[matmul2_weight].clone() * learning_rate);
+		gemm2_weight_data -= &(grad[gemm2_weight].clone() * learning_rate);
+		gemm2_bias_data -= &(grad[gemm2_bias].clone() * learning_rate);
 	}
 }
