@@ -22,6 +22,8 @@ struct EssayData {
 }
 
 fn main() {
+	let batch_size = 16;
+	let learning_rate = 0.01;
 	let mut rng = StdRng::seed_from_u64(987);
 
 	println!("Reading data");
@@ -82,53 +84,53 @@ fn main() {
 	let wq1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wq1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 	];
 
 	let wk1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wk1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 	];
 
 	let wv1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wv1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 	];
 	let wo1 = g.alloc();
 	let mut wo1_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-		rng.gen_range(-0.01..=0.01)
+		rng.gen_range(-1. ..=1.)
 	})
 	.permuted_axes([0, 1, 3, 2]);
 
@@ -149,7 +151,7 @@ fn main() {
 	let matmul1_weight = g.alloc();
 	let mut matmul1_weight_data =
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		});
 	let matmul1 = g.alloc();
 	g.adj[matmul1].op = (matmul_fwd, matmul_bwd);
@@ -159,53 +161,53 @@ fn main() {
 	let wq2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wq2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 	];
 
 	let wk2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wk2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 	];
 
 	let wv2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wv2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		}),
 	];
 	let wo2 = g.alloc();
 	let mut wo2_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-		rng.gen_range(-0.01..=0.01)
+		rng.gen_range(-1. ..=1.)
 	})
 	.permuted_axes([0, 1, 3, 2]);
 
@@ -226,7 +228,7 @@ fn main() {
 	let matmul2_weight = g.alloc();
 	let mut matmul2_weight_data =
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-			rng.gen_range(-0.01..=0.01)
+			rng.gen_range(-1. ..=1.)
 		});
 	let matmul2 = g.alloc();
 	g.adj[matmul2].op = (matmul_fwd, matmul_bwd);
@@ -237,7 +239,7 @@ fn main() {
 	g.adj[sigsum].op = (sigsum_fwd, sigsum_bwd);
 	g.connect(matmul2, sigsum);
 
-	for epoch in 0..10 {
+	for epoch in 0..100 {
 		//TODO: input_data initialization
 		//TODO: SGD
 		let input_data = Array4::<f32>::from_shape_vec(
@@ -286,6 +288,38 @@ fn main() {
 			],
 			1.,
 		);
+		// dbg!(&grad[matmul2_weight]);
+		// dbg!(&grad[att2]);
+		// dbg!(&grad[matmul2]);
 		dbg!(&res[sigsum]);
+		wq1_data[0] -= &(grad[wq1[0]].clone() * learning_rate);
+		wq1_data[1] -= &(grad[wq1[1]].clone() * learning_rate);
+		wq1_data[2] -= &(grad[wq1[2]].clone() * learning_rate);
+		wq1_data[3] -= &(grad[wq1[3]].clone() * learning_rate);
+		wk1_data[0] -= &(grad[wk1[0]].clone() * learning_rate);
+		wk1_data[1] -= &(grad[wk1[1]].clone() * learning_rate);
+		wk1_data[2] -= &(grad[wk1[2]].clone() * learning_rate);
+		wk1_data[3] -= &(grad[wk1[3]].clone() * learning_rate);
+		wv1_data[0] -= &(grad[wv1[0]].clone() * learning_rate);
+		wv1_data[1] -= &(grad[wv1[1]].clone() * learning_rate);
+		wv1_data[2] -= &(grad[wv1[2]].clone() * learning_rate);
+		wv1_data[3] -= &(grad[wv1[3]].clone() * learning_rate);
+		wo1_data -= &(grad[wo1].clone() * learning_rate);
+		matmul1_weight_data -= &(grad[matmul1_weight].clone() * learning_rate);
+
+		wq2_data[0] -= &(grad[wq2[0]].clone() * learning_rate);
+		wq2_data[1] -= &(grad[wq2[1]].clone() * learning_rate);
+		wq2_data[2] -= &(grad[wq2[2]].clone() * learning_rate);
+		wq2_data[3] -= &(grad[wq2[3]].clone() * learning_rate);
+		wk2_data[0] -= &(grad[wk2[0]].clone() * learning_rate);
+		wk2_data[1] -= &(grad[wk2[1]].clone() * learning_rate);
+		wk2_data[2] -= &(grad[wk2[2]].clone() * learning_rate);
+		wk2_data[3] -= &(grad[wk2[3]].clone() * learning_rate);
+		wv2_data[0] -= &(grad[wv2[0]].clone() * learning_rate);
+		wv2_data[1] -= &(grad[wv2[1]].clone() * learning_rate);
+		wv2_data[2] -= &(grad[wv2[2]].clone() * learning_rate);
+		wv2_data[3] -= &(grad[wv2[3]].clone() * learning_rate);
+		wo2_data -= &(grad[wo2].clone() * learning_rate);
+		matmul2_weight_data -= &(grad[matmul2_weight].clone() * learning_rate);
 	}
 }

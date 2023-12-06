@@ -202,7 +202,7 @@ impl ComputationGraph {
 		let mut dp_grad = vec![Option::None; self.adj.len()];
 		dp_grad[snk] = Some(Array4::from_elem(
 			(1, 1, 1, 1),
-			(dp_out[snk].as_ref().unwrap().get((0, 0, 0, 0)).unwrap() - label).powi(2), //MSE
+			(dp_out[snk].as_ref().unwrap().get((0, 0, 0, 0)).unwrap() - label).abs(), //L1 error
 		));
 
 		//a.k.a backward propagation
