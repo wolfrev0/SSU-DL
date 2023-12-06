@@ -43,5 +43,5 @@ for filename in os.listdir(input_directory_path):
 			json.dump({
 				"prompt": res_prompt,
 				"paragraph": res_para,
-				"score": essay_data.score.essay_scoreT_avg
+				"score": essay_data.score.essay_scoreT_avg / 30.
 			}, json_file, ensure_ascii=False)
