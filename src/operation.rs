@@ -552,3 +552,31 @@ pub fn sigsum_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 		input[1].get((0, 0, 0, 0)).unwrap() * y * (1. - y),
 	)]
 }
+
+//input[0]=input
+//output[0]=sigmoid(sum(input[0]))
+//50 = hidden_size / 4
+pub fn div_sqrt50_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	input[0].clone() / (50 as f32).sqrt()
+}
+
+//input[-1]=output_grad_sum
+//input[0]=input
+//output[0]=input grad
+pub fn div_sqrt50_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	vec![input[1].clone() / (50 as f32).sqrt()]
+}
+
+//input[0]=input
+//output[0]=sigmoid(sum(input[0]))
+//2 = hidden_size / 4
+pub fn div_sqrt2_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	input[0].clone() / (2 as f32).sqrt()
+}
+
+//input[-1]=output_grad_sum
+//input[0]=input
+//output[0]=input grad
+pub fn div_sqrt2_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	vec![input[1].clone() / (2 as f32).sqrt()]
+}

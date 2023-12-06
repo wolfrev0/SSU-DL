@@ -5,7 +5,7 @@ use std::{
 
 use dlrs::{
 	computation_graph::ComputationGraph,
-	graph_builder::build_4_head_attention,
+	graph_builder::{build_4_head_attention200, build_4_head_attention8},
 	operation::{matmul_bwd, matmul_fwd, sigsum_bwd, sigsum_fwd},
 };
 use ndarray::Array4;
@@ -134,19 +134,7 @@ fn main() {
 	})
 	.permuted_axes([0, 1, 3, 2]);
 
-	let rsqrt1 = g.alloc();
-	let rsqrt1_data = Array4::<f32>::from_shape_vec(
-		(1, 1, word_num, word_num),
-		vec![
-			1. / ((hidden_size / 4) as f32).sqrt(),
-			1. / ((hidden_size / 4) as f32).sqrt(),
-			1. / ((hidden_size / 4) as f32).sqrt(),
-			1. / ((hidden_size / 4) as f32).sqrt(),
-		],
-	)
-	.unwrap();
-
-	let att1 = build_4_head_attention(&mut g, input, wq1, wk1, wv1, rsqrt1, wo1);
+	let att1 = build_4_head_attention8(&mut g, input, wq1, wk1, wv1, wo1);
 
 	let matmul1_weight = g.alloc();
 	let mut matmul1_weight_data =
@@ -211,19 +199,7 @@ fn main() {
 	})
 	.permuted_axes([0, 1, 3, 2]);
 
-	let rsqrt2 = g.alloc();
-	let rsqrt2_data = Array4::<f32>::from_shape_vec(
-		(1, 1, word_num, word_num),
-		vec![
-			1. / ((hidden_size / 4) as f32).sqrt(),
-			1. / ((hidden_size / 4) as f32).sqrt(),
-			1. / ((hidden_size / 4) as f32).sqrt(),
-			1. / ((hidden_size / 4) as f32).sqrt(),
-		],
-	)
-	.unwrap();
-
-	let att2 = build_4_head_attention(&mut g, matmul1, wq2, wk2, wv2, rsqrt2, wo2);
+	let att2 = build_4_head_attention8(&mut g, matmul1, wq2, wk2, wv2, wo2);
 
 	let matmul2_weight = g.alloc();
 	let mut matmul2_weight_data =
@@ -268,7 +244,6 @@ fn main() {
 				(wv1[2], wv1_data[2].clone()),
 				(wv1[3], wv1_data[3].clone()),
 				(wo1, wo1_data.clone()),
-				(rsqrt1, rsqrt1_data.clone()),
 				(matmul1_weight, matmul1_weight_data.clone()),
 				(wq2[0], wq2_data[0].clone()),
 				(wq2[1], wq2_data[1].clone()),
@@ -283,7 +258,6 @@ fn main() {
 				(wv2[2], wv2_data[2].clone()),
 				(wv2[3], wv2_data[3].clone()),
 				(wo2, wo2_data.clone()),
-				(rsqrt2, rsqrt2_data.clone()),
 				(matmul2_weight, matmul2_weight_data.clone()),
 			],
 			1.,

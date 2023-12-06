@@ -4,7 +4,7 @@ mod tests {
 
 	use crate::{
 		computation_graph::ComputationGraph,
-		graph_builder::{build_4_head_attention, build_attention},
+		graph_builder::{build_4_head_attention8, build_attention},
 		operation::{
 			attention_bwd, attention_fwd, concat4x_bwd, concat4x_fwd, concat4y_bwd, concat4y_fwd,
 			eltw_add_bwd, eltw_add_fwd, layer_norm_bwd, layer_norm_fwd, matmul_bwd, matmul_fwd,
@@ -1210,19 +1210,7 @@ mod tests {
 		)
 		.unwrap();
 
-		let rsqrt = g.alloc();
-		let rsqrt_data = Array4::<f32>::from_shape_vec(
-			(1, 1, word_num, word_num),
-			vec![
-				1. / ((hidden_size / 4) as f32).sqrt(),
-				1. / ((hidden_size / 4) as f32).sqrt(),
-				1. / ((hidden_size / 4) as f32).sqrt(),
-				1. / ((hidden_size / 4) as f32).sqrt(),
-			],
-		)
-		.unwrap();
-
-		let att = build_4_head_attention(&mut g, input, wq, wk, wv, rsqrt, wo);
+		let att = build_4_head_attention8(&mut g, input, wq, wk, wv, wo);
 
 		let (res, grad) = g.run(vec![
 			(input, input_data.clone()),
@@ -1239,7 +1227,6 @@ mod tests {
 			(wv[2], wv_data[2].clone()),
 			(wv[3], wv_data[3].clone()),
 			(wo, wo_data.clone()),
-			(rsqrt, rsqrt_data.clone()),
 		]);
 		assert!(is_equal(
 			res[att].iter(),
@@ -1473,19 +1460,7 @@ mod tests {
 		.unwrap()
 		.permuted_axes([0, 1, 3, 2]);
 
-		let rsqrt = g.alloc();
-		let rsqrt_data = Array4::<f32>::from_shape_vec(
-			(1, 1, word_num, word_num),
-			vec![
-				1. / ((hidden_size / 4) as f32).sqrt(),
-				1. / ((hidden_size / 4) as f32).sqrt(),
-				1. / ((hidden_size / 4) as f32).sqrt(),
-				1. / ((hidden_size / 4) as f32).sqrt(),
-			],
-		)
-		.unwrap();
-
-		let att = build_4_head_attention(&mut g, input, wq, wk, wv, rsqrt, wo);
+		let att = build_4_head_attention8(&mut g, input, wq, wk, wv, wo);
 
 		let (res, grad) = g.run(vec![
 			(input, input_data.clone()),
@@ -1502,7 +1477,6 @@ mod tests {
 			(wv[2], wv_data[2].clone()),
 			(wv[3], wv_data[3].clone()),
 			(wo, wo_data.clone()),
-			(rsqrt, rsqrt_data.clone()),
 		]);
 		dbg!(&res[att]);
 		assert!(is_equal(
