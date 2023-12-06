@@ -3,6 +3,22 @@ Deep learning implementation from scratch by Rust
 
 This project was developed for term project of Deep Learning Course in Soongsil University.
 
+## Implemented operations
+- identity
+- matmul
+- relu
+- eltw_add
+- eltw_mult
+- softmax_xy
+- softmax_y
+- softmax_cross_entropy
+- transpose
+- layer_norm
+- concat4
+- attention
+- 4_head_attention
+- encoder
+
 ## Getting Started
 1. Install rust and cargo.
 2. Clone this repository to your local machine.
