@@ -415,7 +415,7 @@ pub fn layer_norm_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	let mut ret = input[0].clone();
 	ret.map_axis_mut(Axis(3), |mut x| {
 		let m = x.mean().unwrap();
-		let std = x.std(0.) + 0.001; //eps
+		let std = x.std(0.);
 		x.map_mut(|i| *i = (*i - m) / std);
 	});
 	ret
@@ -437,7 +437,7 @@ pub fn layer_norm_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 	for bi in 0..b {
 		let cur = input[0].slice(s![bi, .., .., ..]);
 		let mu = cur.mean().unwrap();
-		let std = cur.std(0.) + 0.001; //eps
+		let std = cur.std(0.);
 		for fi in 0..f {
 			for yi in 0..y {
 				for xi in 0..x {

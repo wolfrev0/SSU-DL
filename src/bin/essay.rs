@@ -5,18 +5,16 @@ use std::{
 
 use dlrs::{
 	computation_graph::ComputationGraph,
-	graph_builder::{
-		build_4_head_attention200, build_4_head_attention8, build_encoder, build_gemm,
-	},
-	operation::{matmul_bwd, matmul_fwd, relu_bwd, relu_fwd, sigsum_bwd, sigsum_fwd},
+	graph_builder::{build_encoder, build_gemm},
+	operation::{relu_bwd, relu_fwd, sigsum_bwd, sigsum_fwd},
 };
-use ndarray::Array4;
+use ndarray::{Array4, Axis};
 use rand::{rngs::StdRng, seq::SliceRandom, Rng, SeedableRng};
 
 extern crate serde;
 extern crate serde_json;
 use serde::{Deserialize, Serialize};
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Clone, Debug, Deserialize, Serialize)]
 struct EssayData {
 	paragraph: String,
 	score: f32,
@@ -25,7 +23,7 @@ struct EssayData {
 
 fn main() {
 	let batch_size = 16;
-	let learning_rate = 0.05;
+	let learning_rate = 0.005;
 	let mut rng = StdRng::seed_from_u64(133);
 
 	println!("Reading data");
@@ -135,8 +133,11 @@ fn main() {
 		rng.gen_range(-0.1..=0.1)
 	})
 	.permuted_axes([0, 1, 3, 2]);
+	let bo1 = g.alloc();
+	let mut bo1_data =
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.1..=0.1));
 
-	let encoder1 = build_encoder(&mut g, input, wq1, wk1, wv1, wo1);
+	let encoder1 = build_encoder(&mut g, input, wq1, wk1, wv1, wo1, bo1);
 
 	let relu1a = g.alloc();
 	g.adj[relu1a].op = (relu_fwd, relu_bwd);
@@ -149,7 +150,7 @@ fn main() {
 		});
 	let gemm1_bias = g.alloc();
 	let mut gemm1_bias_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, word_num), |_| rng.gen_range(-0.1..=0.1));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.1..=0.1));
 	let gemm1 = build_gemm(&mut g, relu1a, gemm1_weight, gemm1_bias);
 
 	let relu1b = g.alloc();
@@ -206,10 +207,12 @@ fn main() {
 	let wo2 = g.alloc();
 	let mut wo2_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
 		rng.gen_range(-0.1..=0.1)
-	})
-	.permuted_axes([0, 1, 3, 2]);
+	});
+	let bo2 = g.alloc();
+	let mut bo2_data =
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.1..=0.1));
 
-	let encoder2 = build_encoder(&mut g, relu1b, wq2, wk2, wv2, wo2);
+	let encoder2 = build_encoder(&mut g, relu1b, wq2, wk2, wv2, wo2, bo2);
 
 	let relu2a = g.alloc();
 	g.adj[relu2a].op = (relu_fwd, relu_bwd);
@@ -222,7 +225,7 @@ fn main() {
 		});
 	let gemm2_bias = g.alloc();
 	let mut gemm2_bias_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, word_num), |_| rng.gen_range(-0.1..=0.1));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.1..=0.1));
 	let gemm2 = build_gemm(&mut g, relu2a, gemm2_weight, gemm2_bias);
 
 	let sigsum = g.alloc();
@@ -230,90 +233,102 @@ fn main() {
 	g.connect(gemm2, sigsum);
 
 	for epoch in 0..10000 {
-		//TODO: input_data initialization
-		//TODO: SGD
-		let input_data = Array4::<f32>::from_shape_vec(
-			(1, 1, word_num, hidden_size),
-			vec![
-				0.4657, 0.2328, 0.4527, 0.5871, 0.4086, 0.1272, 0.6373, 0.2421, 0.7312, 0.7224,
-				0.1992, 0.6948, 0.5830, 0.6318, 0.5559, 0.1262,
-			],
-		)
-		.unwrap()
-		.permuted_axes([0, 1, 3, 2])
-		.to_owned();
-		let (res, grad) = g.run_essay(
-			vec![
-				(input, input_data.clone()),
-				(wq1[0], wq1_data[0].clone()),
-				(wq1[1], wq1_data[1].clone()),
-				(wq1[2], wq1_data[2].clone()),
-				(wq1[3], wq1_data[3].clone()),
-				(wk1[0], wk1_data[0].clone()),
-				(wk1[1], wk1_data[1].clone()),
-				(wk1[2], wk1_data[2].clone()),
-				(wk1[3], wk1_data[3].clone()),
-				(wv1[0], wv1_data[0].clone()),
-				(wv1[1], wv1_data[1].clone()),
-				(wv1[2], wv1_data[2].clone()),
-				(wv1[3], wv1_data[3].clone()),
-				(wo1, wo1_data.clone()),
-				(gemm1_weight, gemm1_weight_data.clone()),
-				(gemm1_bias, gemm1_bias_data.clone()),
-				(wq2[0], wq2_data[0].clone()),
-				(wq2[1], wq2_data[1].clone()),
-				(wq2[2], wq2_data[2].clone()),
-				(wq2[3], wq2_data[3].clone()),
-				(wk2[0], wk2_data[0].clone()),
-				(wk2[1], wk2_data[1].clone()),
-				(wk2[2], wk2_data[2].clone()),
-				(wk2[3], wk2_data[3].clone()),
-				(wv2[0], wv2_data[0].clone()),
-				(wv2[1], wv2_data[1].clone()),
-				(wv2[2], wv2_data[2].clone()),
-				(wv2[3], wv2_data[3].clone()),
-				(wo2, wo2_data.clone()),
-				(gemm2_weight, gemm2_weight_data.clone()),
-				(gemm2_bias, gemm2_bias_data.clone()),
-			],
-			0.15,
-		);
-		// dbg!(&res);
-		// dbg!(&res[encoder2]);
-		// dbg!(&grad[gemm2_weight]);
-		// dbg!(&grad[encoder2]);
-		// dbg!(&res[gemm2]);
-		dbg!(&res[sigsum]);
-		wq1_data[0] -= &(grad[wq1[0]].clone() * learning_rate);
-		wq1_data[1] -= &(grad[wq1[1]].clone() * learning_rate);
-		wq1_data[2] -= &(grad[wq1[2]].clone() * learning_rate);
-		wq1_data[3] -= &(grad[wq1[3]].clone() * learning_rate);
-		wk1_data[0] -= &(grad[wk1[0]].clone() * learning_rate);
-		wk1_data[1] -= &(grad[wk1[1]].clone() * learning_rate);
-		wk1_data[2] -= &(grad[wk1[2]].clone() * learning_rate);
-		wk1_data[3] -= &(grad[wk1[3]].clone() * learning_rate);
-		wv1_data[0] -= &(grad[wv1[0]].clone() * learning_rate);
-		wv1_data[1] -= &(grad[wv1[1]].clone() * learning_rate);
-		wv1_data[2] -= &(grad[wv1[2]].clone() * learning_rate);
-		wv1_data[3] -= &(grad[wv1[3]].clone() * learning_rate);
-		wo1_data -= &(grad[wo1].clone() * learning_rate);
-		gemm1_weight_data -= &(grad[gemm1_weight].clone() * learning_rate);
-		gemm1_bias_data -= &(grad[gemm1_bias].clone() * learning_rate);
+		data_train.shuffle(&mut rng);
+		for data in data_train.clone() {
+			let mut embvec = Vec::new();
+			for line in data.paragraph.split('#') {
+				for word in line.split('@') {
+					let mut i = vocab.partition_point(|x| x.0.as_str() < word);
+					if i == vocab.len() {
+						i -= 1;
+					}
+					embvec.extend(vocab[i].1.clone().into_iter());
+				}
+			}
+			let input_data =
+				Array4::<f32>::from_shape_vec((1, 1, word_num, hidden_size), embvec[..16].to_vec())
+					.unwrap()
+					.permuted_axes([0, 1, 3, 2])
+					.to_owned();
+			let (res, grad) = g.run_essay(
+				vec![
+					(input, input_data.clone()),
+					(wq1[0], wq1_data[0].clone()),
+					(wq1[1], wq1_data[1].clone()),
+					(wq1[2], wq1_data[2].clone()),
+					(wq1[3], wq1_data[3].clone()),
+					(wk1[0], wk1_data[0].clone()),
+					(wk1[1], wk1_data[1].clone()),
+					(wk1[2], wk1_data[2].clone()),
+					(wk1[3], wk1_data[3].clone()),
+					(wv1[0], wv1_data[0].clone()),
+					(wv1[1], wv1_data[1].clone()),
+					(wv1[2], wv1_data[2].clone()),
+					(wv1[3], wv1_data[3].clone()),
+					(wo1, wo1_data.clone()),
+					(bo1, bo1_data.clone()),
+					(gemm1_weight, gemm1_weight_data.clone()),
+					(gemm1_bias, gemm1_bias_data.clone()),
+					(wq2[0], wq2_data[0].clone()),
+					(wq2[1], wq2_data[1].clone()),
+					(wq2[2], wq2_data[2].clone()),
+					(wq2[3], wq2_data[3].clone()),
+					(wk2[0], wk2_data[0].clone()),
+					(wk2[1], wk2_data[1].clone()),
+					(wk2[2], wk2_data[2].clone()),
+					(wk2[3], wk2_data[3].clone()),
+					(wv2[0], wv2_data[0].clone()),
+					(wv2[1], wv2_data[1].clone()),
+					(wv2[2], wv2_data[2].clone()),
+					(wv2[3], wv2_data[3].clone()),
+					(wo2, wo2_data.clone()),
+					(bo2, bo2_data.clone()),
+					(gemm2_weight, gemm2_weight_data.clone()),
+					(gemm2_bias, gemm2_bias_data.clone()),
+				],
+				0.15,
+			);
+			// dbg!(&res);
+			// dbg!(&res[encoder2]);
+			// dbg!(&grad[gemm2_weight]);
+			// dbg!(&grad[encoder2]);
+			// dbg!(&res[gemm2]);
+			dbg!(&res[sigsum]);
+			wq1_data[0] -= &(grad[wq1[0]].clone() * learning_rate);
+			wq1_data[1] -= &(grad[wq1[1]].clone() * learning_rate);
+			wq1_data[2] -= &(grad[wq1[2]].clone() * learning_rate);
+			wq1_data[3] -= &(grad[wq1[3]].clone() * learning_rate);
+			wk1_data[0] -= &(grad[wk1[0]].clone() * learning_rate);
+			wk1_data[1] -= &(grad[wk1[1]].clone() * learning_rate);
+			wk1_data[2] -= &(grad[wk1[2]].clone() * learning_rate);
+			wk1_data[3] -= &(grad[wk1[3]].clone() * learning_rate);
+			wv1_data[0] -= &(grad[wv1[0]].clone() * learning_rate);
+			wv1_data[1] -= &(grad[wv1[1]].clone() * learning_rate);
+			wv1_data[2] -= &(grad[wv1[2]].clone() * learning_rate);
+			wv1_data[3] -= &(grad[wv1[3]].clone() * learning_rate);
+			wo1_data -= &(grad[wo1].clone() * learning_rate);
+			bo1_data -= &(grad[bo1].sum_axis(Axis(3)).insert_axis(Axis(3)) * learning_rate); //sum_axis required because it is broadcasted
+			gemm1_weight_data -= &(grad[gemm1_weight].clone() * learning_rate);
+			gemm1_bias_data -=
+				&(grad[gemm1_bias].sum_axis(Axis(3)).insert_axis(Axis(3)) * learning_rate); //sum_axis required because it is broadcasted
 
-		wq2_data[0] -= &(grad[wq2[0]].clone() * learning_rate);
-		wq2_data[1] -= &(grad[wq2[1]].clone() * learning_rate);
-		wq2_data[2] -= &(grad[wq2[2]].clone() * learning_rate);
-		wq2_data[3] -= &(grad[wq2[3]].clone() * learning_rate);
-		wk2_data[0] -= &(grad[wk2[0]].clone() * learning_rate);
-		wk2_data[1] -= &(grad[wk2[1]].clone() * learning_rate);
-		wk2_data[2] -= &(grad[wk2[2]].clone() * learning_rate);
-		wk2_data[3] -= &(grad[wk2[3]].clone() * learning_rate);
-		wv2_data[0] -= &(grad[wv2[0]].clone() * learning_rate);
-		wv2_data[1] -= &(grad[wv2[1]].clone() * learning_rate);
-		wv2_data[2] -= &(grad[wv2[2]].clone() * learning_rate);
-		wv2_data[3] -= &(grad[wv2[3]].clone() * learning_rate);
-		wo2_data -= &(grad[wo2].clone() * learning_rate);
-		gemm2_weight_data -= &(grad[gemm2_weight].clone() * learning_rate);
-		gemm2_bias_data -= &(grad[gemm2_bias].clone() * learning_rate);
+			wq2_data[0] -= &(grad[wq2[0]].clone() * learning_rate);
+			wq2_data[1] -= &(grad[wq2[1]].clone() * learning_rate);
+			wq2_data[2] -= &(grad[wq2[2]].clone() * learning_rate);
+			wq2_data[3] -= &(grad[wq2[3]].clone() * learning_rate);
+			wk2_data[0] -= &(grad[wk2[0]].clone() * learning_rate);
+			wk2_data[1] -= &(grad[wk2[1]].clone() * learning_rate);
+			wk2_data[2] -= &(grad[wk2[2]].clone() * learning_rate);
+			wk2_data[3] -= &(grad[wk2[3]].clone() * learning_rate);
+			wv2_data[0] -= &(grad[wv2[0]].clone() * learning_rate);
+			wv2_data[1] -= &(grad[wv2[1]].clone() * learning_rate);
+			wv2_data[2] -= &(grad[wv2[2]].clone() * learning_rate);
+			wv2_data[3] -= &(grad[wv2[3]].clone() * learning_rate);
+			wo2_data -= &(grad[wo2].clone() * learning_rate);
+			bo2_data -= &(grad[bo2].sum_axis(Axis(3)).insert_axis(Axis(3)) * learning_rate); //sum_axis required because it is broadcasted
+			gemm2_weight_data -= &(grad[gemm2_weight].clone() * learning_rate);
+			gemm2_bias_data -=
+				&(grad[gemm2_bias].sum_axis(Axis(3)).insert_axis(Axis(3)) * learning_rate); //sum_axis required because it is broadcasted
+		}
 	}
 }

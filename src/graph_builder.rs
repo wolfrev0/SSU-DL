@@ -66,6 +66,7 @@ pub fn build_4_head_attention8(
 	wk: [usize; 4],
 	wv: [usize; 4],
 	wo: usize,
+	bo: usize,
 ) -> usize {
 	let mut heads = [0, 0, 0, 0];
 	for i in 0..4 {
@@ -116,12 +117,7 @@ pub fn build_4_head_attention8(
 	g.connect(heads[2], concat);
 	g.connect(heads[3], concat);
 
-	let ret = g.alloc();
-	g.adj[ret].op = (matmul_fwd, matmul_bwd);
-	g.connect(wo, ret);
-	g.connect(concat, ret);
-
-	ret
+	build_gemm(g, concat, wo, bo)
 }
 
 pub fn build_4_head_attention200(
@@ -131,6 +127,7 @@ pub fn build_4_head_attention200(
 	wk: [usize; 4],
 	wv: [usize; 4],
 	wo: usize,
+	bo: usize,
 ) -> usize {
 	let mut heads = [0, 0, 0, 0];
 	for i in 0..4 {
@@ -181,12 +178,7 @@ pub fn build_4_head_attention200(
 	g.connect(heads[2], concat);
 	g.connect(heads[3], concat);
 
-	let ret = g.alloc();
-	g.adj[ret].op = (matmul_fwd, matmul_bwd);
-	g.connect(wo, ret);
-	g.connect(concat, ret);
-
-	ret
+	build_gemm(g, concat, wo, bo)
 }
 
 pub fn build_encoder(
@@ -196,8 +188,9 @@ pub fn build_encoder(
 	wk: [usize; 4],
 	wv: [usize; 4],
 	wo: usize,
+	bo: usize,
 ) -> usize {
-	let att = build_4_head_attention8(g, input, wq, wk, wv, wo);
+	let att = build_4_head_attention8(g, input, wq, wk, wv, wo, bo);
 
 	let resi = g.alloc();
 	g.adj[resi].op = (eltw_add_fwd, eltw_add_bwd);

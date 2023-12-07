@@ -1209,8 +1209,10 @@ mod tests {
 			],
 		)
 		.unwrap();
+		let bo = g.alloc();
+		let bo_data = Array4::<f32>::zeros((1, 1, hidden_size, word_num));
 
-		let att = build_4_head_attention8(&mut g, input, wq, wk, wv, wo);
+		let att = build_4_head_attention8(&mut g, input, wq, wk, wv, wo, bo);
 
 		let (res, grad) = g.run(vec![
 			(input, input_data.clone()),
@@ -1227,6 +1229,7 @@ mod tests {
 			(wv[2], wv_data[2].clone()),
 			(wv[3], wv_data[3].clone()),
 			(wo, wo_data.clone()),
+			(bo, bo_data.clone()),
 		]);
 		assert!(is_equal(
 			res[att].iter(),
@@ -1459,8 +1462,10 @@ mod tests {
 		)
 		.unwrap()
 		.permuted_axes([0, 1, 3, 2]);
+		let bo = g.alloc();
+		let bo_data = Array4::<f32>::zeros((1, 1, hidden_size, word_num));
 
-		let att = build_4_head_attention8(&mut g, input, wq, wk, wv, wo);
+		let att = build_4_head_attention8(&mut g, input, wq, wk, wv, wo, bo);
 
 		let (res, grad) = g.run(vec![
 			(input, input_data.clone()),
@@ -1477,6 +1482,7 @@ mod tests {
 			(wv[2], wv_data[2].clone()),
 			(wv[3], wv_data[3].clone()),
 			(wo, wo_data.clone()),
+			(bo, bo_data.clone()),
 		]);
 		dbg!(&res[att]);
 		assert!(is_equal(
