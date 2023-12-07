@@ -1,0 +1,219 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 숲과 인간이 함께 지낼꺼라고 생각합니다.#@문장구분# 그만큼 환경이 나빠져 기계를 중지하고 원시적으로 살 것이라 생각합니다.#@문장구분# 현재 지구 상태와 과학기술 상태로는 지구가 파괴될 가능성이 90% 이상이라고 생각합니다.#@문장구분# 현재 지구온난화도 진행중이고 수많은 남극, 북극의 빙하가 녹고 해수면이 증가하고 있습니다.#@문장구분# 해수면이 증가하면 우리에게 좋은 점은 찾을 수 없습니다. #@문장구분#빙하가 녹으면 많은 생물도 멸종합니다.#@문장구분# 그러면 생태계가 무너질 것 이고 인간에게도 영향이 생긱것입니다.#@문장구분# 또 공장 가동으로 인해 공기가 나빠지고 생물이 멸종 하기 때문에 결국 공장 중지하고 자연으로 돌아가는 것이 최선 이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 490,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      24.5,
+      27.2
+    ],
+    "essay_scoreT_avg": 23.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 숲과 인간이 함께 지낼 거라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 숲과 인간이 함께 <문법_맞춤법>지낼꺼라고</문법_맞춤법> 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 현재 지구온난화도 진행 중이고 수많은 남극, 북극의 빙하가 녹고 해수면이 증가하고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 현재 지구온난화도 <문법_맞춤법>진행중이고</문법_맞춤법> 수많은 남극, 북극의 빙하가 녹고 해수면이 증가하고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 생태계가 무너질 것이고 인간에게도 영향이 생길 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 생태계가 무너질 <문법_맞춤법>것 이고 인간에게도 영향이 생긱것입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 공장 가동으로 인해 공기가 나빠지고 생물이 멸종하기 때문에 결국 공장 중지하고 자연으로 돌아가는 것이 최선이라고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " 또 공장 가동으로 인해 공기가 나빠지고 생물이 <문법_맞춤법>멸종 하기 때문에 결국 공장 중지하고 자연으로 돌아가는 것이 최선 이라고</문법_맞춤법> 생각합니다.",
+      "sentence_corr_txt_styling": " 또 공장 가동으로 인해 공기가 나빠지고 생물이 멸종하기 때문에 결국 공장 중지하고 자연으로 돌아가는 것이 최선이라고 생각합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44139",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 331,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 만약 바다에 생물로 딱 일주일동안 있는다면 저는 돌고래가 되고싶습니다.#@문장구분# 왜냐하면 유튜브에서 고래가 입을벌려서 먹는장면과 바다위로 솟아오르고, 물 뿜는 그런 느낌을 한번 느껴보고 싶어서 입니다.#@문장구분#\n어느날, 어떠한 돌고래가 바닷속을 헤엄치고 있었습니다.#@문장구분# 그 때 엄청큰 그물이 바다를 감싸고 있었습니다.#@문장구분# 그 안엔 많디 많은 물고기들이 있었지요.#@문장구분# 고래는 다행히 한번의 위기를 넘겼어요.#@문장구분# 돌고래는 친구들과 놀고 대화도 했어요.#@문장구분# 대화 주제는 어제 있었던일이였죠#@문장구분#. 그런데 갑자기 엄청 큰 상어가 모여있는 고래들을 보고 '아! 맛있겠다!' 라며 마음속으로 말하고 먹으려던 찰나에 고래들은 눈치를 채고빠르게 도망갔습니다.#@문장구분# 고래들은 안심하고, 아까 말하던 이야기를 마저 하고 고래는 먹이를 먹으려고 입을 벌리고,배를 채웠습니다.#@문장구분# 위험한 고비들과 또많은 행복들이 있었다. #@문장구분#고래들이 첨벙첨벙 바다에서 해엄칠 때가 가장 재미다고 하더코요!#@문장구분#",
+      "paragraph_len": 698,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      28.95,
+      23.85
+    ],
+    "essay_scoreT_avg": 24.616667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "만약 바다 생물로 일주일 동안 살 수 있다면 저는 돌고래가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>내가 만약 바다에 생물로 딱 일주일동안 있는다면 저는 돌고래가 되고싶습니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 유튜브에서 고래가 입을 벌려서 밥을 먹는 장면과 바다 위로 솟아올라 물을 뿜는 것을 보고, 저도 한 번 느껴보고 싶어졌습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 유튜브에서 <문법_맞춤법><문법_기타>고래가 입을벌려서 먹는장면과 바다위로 솟아오르고, 물 뿜는 그런 느낌을 한번 느껴보고 싶어서 입니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n어느 날, 어떤 돌고래가 바닷속을 헤엄치고 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n어느<문법_맞춤법>날, 어떠한 돌고래가 바닷속을 헤엄치고 있었습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 그때 엄청 큰 그물이 바다를 감싸고 있었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그 때 엄청큰 그물이 바다를 감싸고 있었습니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 안에는 많고 많은 물고기들이 있었지요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 안<문법_맞춤법>엔 많디</문법_맞춤법> 많은 물고기들이 있었지요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래는 다행히 한 번의 위기를 넘겼습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>고래는 다행히 한번의 위기를 넘겼어요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대화 주제는 어제 있었던 일이었죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대화 주제는 <문법_맞춤법>어제 있었던일이였죠</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ". 그런데 갑자기 엄청 큰 상어가 모여있는 고래들을 보고 '아! 맛있겠다!' 라며 마음속으로 말하고 먹으려던 찰나에 고래들은 눈치를 채고 빠르게 도망갔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": ". 그런데 갑자기 엄청 큰 상어가 모여있는 고래들을 보고 '아! 맛있겠다!' 라며 마음속으로 말하고 먹으려던 찰나에 고래들은 눈치를 <문법_맞춤법>채고빠르게</문법_맞춤법> 도망갔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래들은 안심하고, 아까 말하던 이야기를 마저 하고 고래는 먹이를 먹기 위해 입을 벌리고, 배를 채웠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 고래들은 안심하고, 아까 말하던 이야기를 마저 하고 고래는 <문법_맞춤법>먹이를 먹으려고 입을 벌리고,</문법_맞춤법>배를 채웠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위험한 고비도 있었지만, 또 많은 행복들이 있었습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>위험한 고비들과 또많은 행복들이 있었다.</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "고래들은 첨벙첨벙 바다에서 헤엄칠 때가 가장 행복하다고 해요!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>고래들이 첨벙첨벙 바다에서 해엄칠 때가 가장 재미다고 하더코요!</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37881",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 458,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

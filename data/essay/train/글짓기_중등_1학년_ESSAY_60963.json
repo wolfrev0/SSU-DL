@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래도시의 이름을 안전이라고 짓고 싶습니다.#@문장구분# 왜냐하면 미래도시에는 하늘에 통로가 생기면서 매우 빠르고 곳곳을 누빌 수 있는 구조선이 생길 수 있다고 생각합니다.#@문장구분# 그래서 하늘에 위치해있는 교통수단을 통해서 산이나 바다 또는 사람이 드문 곳에서 다친 사람, 길을 잃은 사람을 더욱 많이 찾을 수 있다고 생각합니다.#@문장구분# 실제로 등산이나 여행을 갔다가 길을 잃거나 낯선 사람을 만나서 생명의 위협을 느끼는 사람들이 많습니다.#@문장구분# 그래서 미래도시에는 하늘 지상철이 생겨 시민들의 안전에 더욱 신경 쓸 수 있는 여건이 갖추어진다고 생각했습니다.#@문장구분# 저는 과학상상화를 그렸을 때도 투명색 통로에 사람들이 돌아다니며 하늘과 땅의 구분 없이 즐기는 것을 표현했습니다.#@문장구분# 이처럼 더욱 개방적이고 다양한 통로가 생겨 즐거움은 물론 나쁜 마음을 먹고 사람들을 위협하는 사람들이 줄어들 수 있다고 생각합니다.#@문장구분#",
+      "paragraph_len": 575,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      19.8,
+      20
+    ],
+    "essay_scoreT_avg": 23.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 미래 도시의 이름을 안전이라고 짓고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>미래도시</문법_맞춤법>의 이름을 안전이라고 짓고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 미래 도시에는 하늘에 통로가 생기면서 매우 빠르고 곳곳을 누빌 수 있는 구조선이 생길 수 있다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>미래도시</문법_맞춤법>에는 하늘에 통로가 생기면서 매우 빠르고 곳곳을 누빌 수 있는 구조선이 생길 수 있다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 하늘에 위치해 있는 교통수단을 통해서 산이나 바다 또는 사람이 드문 곳에서 다친 사람, 길을 잃은 사람을 더욱 많이 찾을 수 있다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 하늘에 <문법_맞춤법>위치해있는</문법_맞춤법> 교통수단을 통해서 산이나 바다 또는 사람이 드문 곳에서 다친 사람, 길을 잃은 사람을 더욱 많이 찾을 수 있다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 미래도시에는 하늘 지상철이 생겨 시민들의 안전에 더욱 신경쓸 수 있는 여건이 갖추어진다고 생각했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 미래도시에는 하늘 지상철이 생겨 시민들의 안전에 더욱 <문법_맞춤법>신경 쓸</문법_맞춤법> 수 있는 여건이 갖추어진다고 생각했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 과학 상상화를 그렸을 때도 투명색 통로에 사람들이 돌아다니며 하늘과 땅의 구분 없이 즐기는 것을 표현했습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>과학상상화</문법_맞춤법>를 그렸을 때도 투명색 통로에 사람들이 돌아다니며 하늘과 땅의 구분 없이 즐기는 것을 표현했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60963",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 436,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

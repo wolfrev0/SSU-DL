@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일상이란 단어의 정의를 알고있는가?#@문장구분# 일본의 상사라는 뜻도 있고, 불교에서는 별이 없고 절대적 평등이라는 뜻도 담고 있다.#@문장구분# 하지만 오늘 내가 다룰 일상은 이런 거창한 것들이 아닌 우리가 평범하게 생각하는 '날마다 반복되는 생활'이다.#@문장구분# 일상이라는 단어를 듣고는 \"일상이 주제와 무슨 상관이야?\" 라고 말하며 물을 수도 있을 것이다.#@문장구분# 하지만 일상이 있기 때문에 익숙함이란 단어를 알 수 있다.#@문장구분# 익숙함을 느꼈던 것 뿐이였던 것을 당연하다고 여겨 소홀히 생각해왔고 생각하고 생각할 것들이 차고 넘친다는 것이다.#@문장구분# ",
+      "paragraph_len": 401,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 지금까지의 나의 일상은 다른 고등학생들과 크게 다를 것이 없었다.#@문장구분# 아침 햇살에 눈을 찡그리며 일어나 아침을 먹고 학교에서 공부도 하고 놀기도 하며 시간을 보내다, 집에서 가족들과 대화를 나눈다.#@문장구분# 아마 그랬어야 할 것이다.#@문장구분# 요즘은 공부의 압박감에 짓눌려 꾸준히 챙겨먹던 아침조차 먹지 않고 학교에서 친구랑 말하는 횟수도 줄게 되었다.#@문장구분# 하지만 그렇다고 해서 지금의 일상이 내가 살아온 17년을 대변해주는 것은 아니다.#@문장구분# ",
+      "paragraph_len": 333,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 즉, 나의 일상은 죽어가고 있다.#@문장구분# 망가질지도 모르지만 하루 하루 꾸역꾸역 버티고 있다.#@문장구분# 지금은 나의 일상을, 17년을 대변해줄 수 없을지도 모르지만 언젠가는 모든 것이 보답 받는 그날까지의 토대를 마련해놓기 위해서 나는 현재진헹형으로 일상을 되찾기 위해 노력하고 있다.#@문장구분#",
+      "paragraph_len": 211,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 먼저 중학교 2학년에 사춘기로 인한 엄마와의 대화를 찾기 위해 처음에는 식탁위에서 대화 한줌 부터, 나의 일상에 대한 이야기 까지, 중학교 3학년 때 말다툼이 절교까지 번진 친구와 고등학교에 입학해서 화해도, 나와 눈이 마주친 친구부터 맨날 이야기를 나눈 친구까지 고등학교에 오면서 많은 이별을 했지만 생각날때마다 카톡도 하며 하루하루를 보내고 있다.#@문장구분#",
+      "paragraph_len": 217,
+      "paragraph_id": "004"
+    },
+    {
+      "paragraph_txt": " 1분, 1초, 1시간, 1달 마다 변하는게 사람의 마음이고 일상이다.#@문장구분# 하지만 지나온 것들, 변해버린 것들을 추억할 수 는 있다.#@문장구분# 즉, 변해버린 것들을 추억하는 것이 내가 일상을 간직하는 방법이다.#@문장구분#",
+      "paragraph_len": 170,
+      "paragraph_id": "005"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "004"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "005"
+      }
+    ],
+    "essay_scoreT": [
+      29.777779,
+      23.11111,
+      30
+    ],
+    "essay_scoreT_avg": 27.62963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.29",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "051",
+    "student_grade_group": "고등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_35807",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 980,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

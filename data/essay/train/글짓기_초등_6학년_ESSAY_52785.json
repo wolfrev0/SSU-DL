@@ -1,0 +1,472 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "범고래#@문장구분#\n 나는 일주일 동안 바다생물이 될 기회가 주어지면 범고래를 선택 하겠다. #@문장구분#나는 바다를 모험하고 있다.#@문장구분# 오늘은 2번째 사냥 이다. #@문장구분#사냥기술을 연습해 왔고 부모님이 도와주지 않하는 날이다. #@문장구분#팽귄이 보인다. #@문장구분#팽귄은 맛있다. #@문장구분#팽귄사냥법은 팽귄이 있는 방판을 계속 건드린다.#@문장구분# 팽귄 몇마리는 넘어질려고 한다. #@문장구분#어? 팽귄이 떨어졌다. #@문장구분#이제 입을 벌리고 씹어 먹는다.#@문장구분# 팽귄은 맛있다.#@문장구분# 같이 온 사냥동료도 똑같은 방식으로 먹는다. #@문장구분#팽귄을 다 먹었다.#@문장구분# 바다가 붉다. #@문장구분#어? 뭐야?#@문장구분# 갑자기 향유고래가 온다.#@문장구분# 향유고래는 위험하다.#@문장구분# 동료랑 나는 열심히 도망간다. #@문장구분#헥헥 이제 안쫓아 오겠지?#@문장구분# 근데 또 백상아리가 온다.#@문장구분# 괜찮다. #@문장구분#백상아리는 아주 좋은 단백질이다.#@문장구분# 나는 동료랑 같이 백상아리를 공격해 죽인다. #@문장구분#팽귄만큼은 아니지만 나쁘지 않게 백상아리도 맛있다.#@문장구분# 이번엔 바다악어가 온다. #@문장구분#향유고래보단 약하지만 백상아리 보다 강하다.#@문장구분# 바다악어는 크기도 크고 굉장히 딴딴하다. #@문장구분#하지만 범고래VS바다악어 1대1은 범고래가 이긴다.#@문장구분# 게다가 우리는 여러명 이다. #@문장구분#바다악어를 죽였다. #@문장구분#딱딱해서 잘 못먹는다. #@문장구분#우리는 그냥 간다. #@문장구분#범고래가 쌘 이유는 엄청난 스피드 강력한 치악력은 측정할수 있는 동물1위다. #@문장구분# 무리사냥, 그리고 침팬지 바로 밑에 있는 아이큐다.#@문장구분# 이처럼 엄청나게 큰 향유고래도 무리사냥을 하면 이길수 있다.#@문장구분# 이런 생활을 반복한다. #@문장구분#오늘은 대왕오징어를 사냥한다.#@문장구분# 크기는 향유고래랑 비슷하다. #@문장구분#물고기로 유인한다.#@문장구분# 그리고 기습해 대왕오징어를 잡았다. #@문장구분#일주일이 지났다. #@문장구분#바다세계는 재밌다.",
+      "paragraph_len": 1599,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          0.5,
+          1,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.1666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      12.65,
+      14.5,
+      21.85
+    ],
+    "essay_scoreT_avg": 16.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 나는 일주일 동안 바다생물이 될 기회가 주어지면 범고래를 선택하겠다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 나는 일주일 동안 바다생물이 될 기회가 주어지면 범고래를 <문법_맞춤법>선택 하겠다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오늘은 2번째 사냥이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 오늘은 2번째 <문법_맞춤법>사냥 이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사냥 기술을 연습해 왔고 부모님이 도와주지 않하는 날이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>사냥기술을</문법_맞춤법> 연습해 왔고 부모님이 도와주지 않하는 날이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "펭귄이 보인다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>팽귄이</문법_맞춤법> 보인다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "펭귄은 맛있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>팽귄은</문법_맞춤법> 맛있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "펭귄 사냥법은 펭귄이  있는 방판을 계속 건드린다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>팽귄사냥법은 팽귄이</문법_맞춤법> 있는 방판을 계속 건드린다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 펭귄 몇 마리는 넘어지려고  한다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>팽귄 몇마리는 넘어질려고</문법_맞춤법> 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어? 펭귄이 떨어졌다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어? <문법_맞춤법>팽귄이</문법_맞춤법> 떨어졌다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 펭귄은 맛있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>팽귄은</문법_맞춤법> 맛있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 같이 온 사냥 동료도 똑같은 방식으로 먹는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 같이 온 <문법_맞춤법>사냥동료도 </문법_맞춤법>똑같은 방식으로 먹는다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "펭귄을 다 먹었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>팽귄을</문법_맞춤법> 다 먹었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "헥헥 이제 안 쫓아오겠지?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "헥헥 이제 <문법_맞춤법>안쫓아 오겠지</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "펭귄만큼은 아니지만 나쁘지 않게 백상아리도 맛있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>팽귄만큼은</문법_맞춤법> 아니지만 나쁘지 않게 백상아리도 맛있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 범고래 VS 바다악어 1 대 1은  범고래가 이긴다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0029",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 <문법_맞춤법>범고래VS바다악어 1대1은</문법_맞춤법> 범고래가 이긴다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게다가 우리는 여러 명이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0030",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게다가 우리는 <문법_맞춤법>여러명 이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "딱딱해서 잘 못 먹는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0032",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "딱딱해서 잘 <문법_맞춤법>못먹는다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "범고래가 쌘 이유는 엄청난 스피드 강력한 차악력은 측정할 수 있는 동물 1위다 ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0034",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "범고래가 쌘 이유는 엄청난 스피드 강력한 <문법_맞춤법>치악력은 측정할수 있는 동물1위다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "범고래가 쌘 이유는 엄청난 스피드 강력한 차악력은 측정할 수 있는 동물 1위다 ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 무리 사냥, 그리고 침팬지 바로 밑에 있는 아이큐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0035",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>무리사냥</문법_맞춤법>, 그리고 침팬지 바로 밑에 있는 아이큐다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이처럼 엄청나게 큰 향유고래도 무리사냥을 하면 이길 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0036",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이처럼 엄청나게 큰 향유고래도 무리사냥을 하면 <문법_맞춤법>이길수</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다 세계는 재밌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0043",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>바다세계는</문법_맞춤법> 재밌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52785",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 759,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

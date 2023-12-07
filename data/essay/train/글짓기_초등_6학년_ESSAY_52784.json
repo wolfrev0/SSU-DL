@@ -1,0 +1,408 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "상어의 모험#@문장구분#\n 나는 상어. #@문장구분#그냥 평범한 상어이다.#@문장구분# 나는 한 곳 에 있는 것을 싫어해 모험을 하곤한다.#@문장구분# \"오늘도 모험을 하러 가볼까?#@문장구분#나는 배가 곱으면 물고기들을 먹지만 고래들은 조심해야 한다. #@문장구분#\"어쨌든 출발!\"#@문장구분#나는 바다 밑으로 깊숙이 들어갔다. #@문장구분#처음 보는 물고기들이 많아 신기했다. #@문장구분#맛있어 보였자만 처음보는 거라 겁나서 먹지 않았다.#@문장구분# 나는 다시 위로 갔다. #@문장구분#위로가서 줄돔, 새우등으로 배를 체우고 다시 가기 시작했다. #@문장구분#가던중 배를 발견했다. #@문장구분#배 안에는 만은 금들이 있었다. #@문장구분#나는 필요 없어서 그냥 갔다. #@문장구분#더더 가다보는 먹이가 걸려있는 실을 봤다.#@문장구분# 배가 고파서 물었더니, 누가 나를 당겼다. #@문장구분#인간이었다. #@문장구분#나는 놀라 인간들을 공격했다.#@문장구분# 기절한 것을 보고 다시 바다로갔다.#@문장구분# 이제 쉬려고 바위에 누우니 바위가 움직였다.#@문장구분# 으악?거북이었다. #@문장구분#나는 미안 하다고 한뒤 집으로 돌아가야겠다고 생각해 집에 가려고했다.#@문장구분# 그런데 문제가 생겼다.#@문장구분#길을 잃어 버린 것이었다.#@문장구분# 나는 아까 그 거북이에게 나의 집인 상집지역이 어디냐고 물어 보았다. #@문장구분#거북이는 자신도 길치라며 사라져 버렸다. #@문장구분#아무래도 오늘은 집에 돌아가기는 틀렸다. #@문장구분#\"이렇게 긴 모험은 처음이야\"일주일뒤, 나는 아직도 집을 찾지 못했다.#@문장구분# 나는 그냥 집을 만들어 이곳에 살기로 결심했다. #@문장구분#나는 나무 조각을 배개로 썼고 미역줄기들을 모아 이불로 썼다.#@문장구분# 1년뒤, \"다시 모험을 시작해야지!\" #@문장구분#어? 여기는... #@문장구분#나는 내가 한심했다. #@문장구분#내집에 바로 뒤에 나의 옛날집이 있는데 못찾았다니, 옛날에 물어보지 말고 찾았어야 됬고 집 잃었다고 누워만 있으면 안됬다.#@문장구분# 나는 다음생에는 열심히 살아야 겠다고 생각하고 일부로 낚시 줄에 걸려 자살을 했다. #@문장구분#죽기전 나는 항상 열심해야 겠다고 생각했다.",
+      "paragraph_len": 1564,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      24.25,
+      20.25
+    ],
+    "essay_scoreT_avg": 22.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 나는 한 곳에 있는 것을 싫어해 모험을 하곤 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 한<문법_맞춤법> 곳 에</문법_맞춤법> 있는 것을 싫어해 모험을 하곤한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "맛있어 보였자만 처음 보는 거라 겁나서 먹지 않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "맛있어 보였자만 <문법_맞춤법>처음보는</문법_맞춤법> 거라 겁나서 먹지 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "위로 가서 줄돔, 새우등으로 배를 채우고 다시 가기 시작했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>위로가서 줄돔</문법_맞춤법>, 새우등으로 배를 체우고 다시 가기 시작했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가던 중 배를 발견했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>가던중 </문법_맞춤법>배를 발견했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "더더 가다 보니 먹이가 걸려있는 실을 봤다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "더더 <문법_맞춤법><문법_어미>가다보는 </문법_어미></문법_맞춤법>먹이가 걸려있는 실을 봤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기절한 것을 보고 다시 바다로 갔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기절한 것을 보고 다시 <문법_맞춤법>바다로갔다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 으악? 거북이었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>으악?거북이었다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 미안하다고 한 뒤 집으로 돌아가야겠다고 생각해 집에 가려고 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>미안 하다고 한뒤</문법_맞춤법> 집으로 돌아가야겠다고 생각해 집에 가려고했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "길을 잃어버린 것이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "길을 <문법_맞춤법>잃어 버린</문법_맞춤법> 것이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 아까 그 거북이에게 나의 집인 상집 지역이 어디냐고 물어보았다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0026",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 아까 그 거북이에게 나의 집인<문법_맞춤법> 상집지역이</문법_맞춤법> 어디냐고 물어 보았다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"이렇게 긴 모험은 처음이야\"일주일 뒤, 나는 아직도 집을 찾지 못했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0029",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"이렇게 긴 모험은 <문법_맞춤법>처음이야\"일주일뒤</문법_맞춤법>, 나는 아직도 집을 찾지 못했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 나뭇조각을 베개로  썼고 미역줄기들을 모아 이불로 썼다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0031",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>나무 조각을 배개로</문법_맞춤법> 썼고 미역줄기들을 모아 이불로 썼다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1년 뒤, \"다시 모험을 시작해야지!\" ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0032",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>1년뒤,</문법_맞춤법> \"다시 모험을 시작해야지!\" ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 집에 바로 뒤에 나의 옛날 집이 있는데 못 찾았다니, 옛날에 물어보지 말고 찾았어야 됐고 집 잃었다고 누워만 있으면 안 됐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0035",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>내집에 </문법_맞춤법>바로 뒤에 나의 옛날집이 있는데 못찾았다니, 옛날에 물어보지 말고 찾았어야 됬고 집 잃었다고 누워만 있으면 안됬다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 다음 생에는 열심히 살아야겠다고 생각하고 일부로 낚시줄에 걸려 자살을 했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0036",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>다음생에는</문법_맞춤법> 열심히 살아야 겠다고 생각하고 일부로 낚시 줄에 걸려 자살을 했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "죽기 전 나는 항상 열심해야겠다고 생각했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0037",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>죽기전</문법_맞춤법> 나는 항상 열심해야 겠다고 생각했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52784",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 845,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

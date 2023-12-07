@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 지구에 사람이 살고있을까요?#@문장구분# 미국의 기업인 테슬라의 CEO 일론 머스크는 인류가 머지 않아 화성에서 민간인도 거주할 것 이라고 말했습니다.#@문장구분# 현재 지구는 자원은 적은데 수요는 많아서 지구의 자원이 사라지고 있습니다.#@문장구분# 지구 온난화로 남극과 북극의 빙하가 다 녹아서 서울이 물에 잠겨서 한국은 거주 불가능 할수도있습니다.#@문장구분# 현재 물에 잠기고 있는 나라도 있죠.#@문장구분# 전세계의 부자들이 가장 많이가는 몰디브는 현재 몇몇의 섬들이 잠겨가고 있죠.#@문장구분# 지구 온난화가 이대로 계속 유지 되면 지구에서 사는일이 머지않아 힘들수 있을것 같습니다.#@문장구분# 지구 온난화를 멈추는건 불가능하지만 늦추는건가능합니다.#@문장구분# 냉장고나 에어컨을 막켜둬서 프레온 가스가 유실되는 것을 방지하고 자연이나 숲을 파괴하지 않으면 조금이라도 가능할텐데 세상이나 사람들이 지멋대로 세상사니 늦추는게 힘들것 같네요.#@문장구분# 자신의 선에서 최대한 노력해야 할것같습니다.#@문장구분#",
+      "paragraph_len": 650,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      30,
+      30
+    ],
+    "essay_scoreT_avg": 30,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "051",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_50455",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 451,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

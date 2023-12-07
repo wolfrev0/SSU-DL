@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 미래에는 대부분의 교통수단과 이동수단이 전기이나 석유보다는 전기로 사용될거 같습니다.#@문장구분# 그리고 거주지도 많이 바뀌었을거 같은데 일단 주택이나 빌라같은 작은건물은 사라지고 고층건물들이 많이 생길거 갔습니다.#@문장구분# 나라들도 미국, 중국, 한국, 일본, 러시아, 호주 등 선진국이나 기술발전이 많이 됀 나라가 살아남거나 나라가 2~3개로 통합될수도 있을거 같습니다.#@문장구분# 그리고 음식문화도 많이 바뀔거 같은데 양식, 중식, 한식 같이 서양음식 동양음식 나누지 않고 잘 먹을거 같습니다.#@문장구분# 또 지구온난화로 아보카도 처럼 이산화탄소를 내벹는 음식을 잘 안먹을거 같습니다.#@문장구분# 그리고 지구가 뜨거워지니 시원하거나 선선한 곳에서 나는 과일은 흔히 먹을수 없게돼고 바나나, 파인애플, 두리안 등 더운 지방에서 나는 열대과일을 흔히 먹을수 있을거 같습니다.#@문장구분# 마지막으로 기술이 많이 발전돼 코로나 바이러스, 사스, 메르스 등 대부분의 병, 바이러스는 백신이 있고 새로운 바이러스가 나와도 빠르게 치료제를 만들수 있을거 같습니다.#@문장구분#",
+      "paragraph_len": 642,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      28.15,
+      22.65
+    ],
+    "essay_scoreT_avg": 26.4,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.19",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "033",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33569",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 502,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "옛날옛날 아주 먼 옛적에 용왕님이 살았습니다. #@문장구분#용왕님은 백성과 바다생물을 무척 아끼셨습니다. #@문장구분#용왕님을 질투하던 하인은 용왕님을 죽이고,왕의자리에 올랐습니다. #@문장구분#하인들도, 어쩔 줄 몰랐어요.#@문장구분# 그 소식을 들은 이주라는 하인은 마법의 약초를 찾으러 떠났어요.#@문장구분# 마법의 약초의 효능은 죽은 사람을 살릴만큼 위대했어요 바다산이라는 산 꼭대기에 있다는 소문이 돌았어요.#@문장구분# 그래서 하인은 바다산에 올랐어요. #@문장구분#하지만 결코 쉽지는 않았어요. #@문장구분#가파른산맥,휘몰아치는 눈보라,빙하를 건너고 건너서 도착했어요.#@문장구분# 정말 아름다웠어요.#@문장구분# 그곳에는 바다산의 산신령이 살고있었어요.#@문장구분# 산신령은 이렇게 말했어요.\"여기에 어떻게 왔느냐.#@문장구분# 지금까지 온 사람은 없었는데..\" 이주는 용왕님의 병을 고치러 마법의 약초를 케러 왔다고 했습니다. #@문장구분#하지만, 원레 마법의 약초의 실제 이름은 울트라마법쿠쿠르삥뽕릉삥뽕 약초 였어요#@문장구분#. 그래서 이주는 사정을 말해서 용왕님을 치료해드렸어요.#@문장구분# 이주는 큰 벼슬을 받고 왕을 죽인 신하는왕국에서 쫓겨났답니다!#@문장구분#",
+      "paragraph_len": 817,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.45,
+      23.65,
+      21.85
+    ],
+    "essay_scoreT_avg": 21.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "옛날옛날 아주 먼 옛적에 용왕님이 살았습니다. ",
+      "sentence_corr_txt_styling": "옛날옛날 아주 먼 옛적에 용왕님이 살았습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "용왕님을 질투하던 하인은 용왕님을 죽이고, 왕의 자리에 올랐습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "용왕님을 질투하던 하인은 용왕님을 <문법_맞춤법>죽이고,왕의자리에</문법_맞춤법> 올랐습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하인들도 어쩔 줄 몰랐습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": "<문법_기타>하인들도,</문법_기타> 어쩔 줄 <문법_어미>몰랐어요.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 소식을 들은 이주라는 하인은 마법의 약초를 찾으러 떠났습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그 소식을 들은 이주라는 하인은 마법의 약초를 찾으러 <문법_어미>떠났어요</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마법의 약초의 효능은 죽은 사람을 살릴 만큼 위대했습니다. 바다산이라는 산 꼭대기에 있다는 소문이 돌았습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 마법의 약초의 효능은 죽은 사람을 <문법_맞춤법>살릴만큼</문법_맞춤법> <문법_어미><문법_기타>위대했어요</문법_기타></문법_어미> 바다산이라는 산 꼭대기에 있다는 소문이 돌았어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 하인은 바다산에 올랐습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그래서 하인은 바다산에 <문법_어미>올랐어요</문법_어미>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 결코 쉽지는 않았습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "하지만 결코 쉽지는 <문법_어미>않았어요</문법_어미>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "가파른 산맥, 휘몰아치는 눈보라, 빙하를 건너고 건너서 도착했습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "<문법_맞춤법>가파른산맥,휘몰아치는</문법_맞춤법> 눈보라,빙하를 건너고 건너서 <문법_어미>도착했어요</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 아름다웠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 정말 <문법_어미>아름다웠어요</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그곳에는 바다산의 산신령이 살고 있었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그곳에는 바다산의 산신령이 <문법_맞춤법><문법_어미>살고있었어요</문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 산신령은 이렇게 말했습니다. \"여기에 어떻게 왔느냐.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 산신령은 이렇게 <문법_맞춤법><문법_어미>말했어요.</문법_어미></문법_맞춤법>\"여기에 어떻게 왔느냐.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금까지 온 사람은 없었는데.\" 이주는 용왕님의 병을 고치러 마법의 약초를 캐러 왔다고 했습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금까지 온 사람은 <문법_기타>없었는데..</문법_기타>\" 이주는 용왕님의 병을 고치러 마법의 약초를 <문법_맞춤법>케러</문법_맞춤법> 왔다고 했습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만, 원래 마법의 약초의 실제 이름은 울트라마법쿠쿠르삥뽕릉삥뽕 약초였습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "하지만, <문법_맞춤법>원레</문법_맞춤법> 마법의 약초의 실제 이름은 울트라마법쿠쿠르삥뽕릉삥뽕 <문법_어미><문법_기타>약초 였어요</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 이주는 사정을 말해서 용왕님을 치료해드렸습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": "<문법_기타>. 그래서</문법_기타> 이주는 사정을 말해서 용왕님을 <문법_어미>치료해드렸어요</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이주는 큰 벼슬을 받고 왕을 죽인 신하는왕국에서 쫓겨났답니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 이주는 큰 벼슬을 받고 왕을 죽인 신하는왕국에서 <문법_기타>쫓겨났답니다!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39974",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 497,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 바닷속 생물이 된다면 난 흰동가리가 되고 싶다.#@문장구분# 흰동가리는 작은 물고기인데, 그래서 작은 구멍도 쉽게통과 할수 있다.#@문장구분# 또 귀엽고 예쁘다.#@문장구분#나는 그런 흰동가리의 매력이 좋다.#@문장구분#\n #첫번째 날\n 눈을 떠보니 물속이었다.#@문장구분# 히익! 정확히는 말미잘 속에 있었다. #@문장구분#전날 큰물고기에게 쫓기다가 말마잘 속에서 잠이 들었나 보다. #@문장구분#그래도 이곳만큼은 그런 덩치 큰 물고기가 들어오지 못한다. #@문장구분#바로 나같은 신세의 물고기들이 비밀리에 만든 마을이다.#@문장구분# 우리가 생활하는 곳은 말미잘과 산호초가 많고 먹이도 풍부한 곳이었다.#@문장구분# 먹이를 구하러갈까?#@문장구분# 아니다.#@문장구분#어제 하도 쫓겨서 피곤하다. #@문장구분#오늘은 쉬어야겠다.#@문장구분# 그렇게 난쿨쿨 잠에 들었다.#@문장구분#\n #두번째 날\n 난 또 자고 있었다.#@문장구분# 그때 누군가 나를 깨웠다. #@문장구분#동생이 와 있었다. #@문장구분#동생이 말했다.#@문장구분#\"언니, 언니가 한 5일정도만 얘좀 맡아줄래?\"#@문장구분# 동생이 대려온 것은 다름아닌 조카 '콕'이었다.#@문장구분#그녀석은 엄청난 말썽꾸러기로 자기가 상어인줄 안다. #@문장구분#글서 처음에는 엄청거부했다. #@문장구분#\"오, 아니! 지금 내몸 하나 간수하는 것도 귀찮은데!\"#@문장구분# 하지만, 너무 뻔하게도, 난 조카를 돌보게 되었다. #@문장구분#아, 이제 피곤함이 예상된다.#@문장구분#\n #세번째 날, 네번째날\n 으아! 큰일이다. #@문장구분#콕이 없어졌다.#@문장구분#\n아까까지 잘놀고 있었는데! #@문장구분#그렇게 난마을을 수소문하고 다녔다. #@문장구분#마침내 한물고기가 말했다. #@문장구분#\"그 꼬마를 말하시는건가? 쬐끄매가지곤 자기가 상어인줄 아는 그 물고기.\"#@문장구분# \"어! 맞아요! 걔에요!\"#@문장구분# \"그 물고기라면 저기 마을 밖으로 나갔는데?\"#@문장구분# 난 가슴이 철렁 내려 앉았다.#@문장구분# 마을 밖은 위험한데?! #@문장구분#나는 아주 깊은 밤에 온 바다를 해매야 했다. #@문장구분#혹을 못찾으면 어떡하지?#@문장구분# \n #다섯, 여섯, 일곱번째 날\n 난 다섯번째 날엔 이 근처를 둘러 봤다.#@문장구분# 하마터면 물고기에게 잡아먹힐 뻔했다. #@문장구분#여섯, 일곱번째 날엔 범위를넓혀서 찾아봤는데, 다행히도 찾았다.",
+      "paragraph_len": 1704,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      18.25,
+      23.45
+    ],
+    "essay_scoreT_avg": 21.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 흰동가리는 작은 물고기인데, 그래서 작은 구멍도 쉽게 통과할 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 흰동가리는 작은 물고기인데, 그래서 작은 구멍도 <문법_맞춤법>쉽게통과 할수 있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n #첫 번째 날\n 눈을 떠보니 물 속이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n #<문법_맞춤법>첫번째 </문법_맞춤법>날\n 눈을 떠보니 물속이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "전날 큰 물고기에게 쫓기다가 말마잘 속에서 잠이 들었나 보다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "전날 <문법_맞춤법>큰물고기에게</문법_맞춤법> 쫓기다가 말마잘 속에서 잠이 들었나 보다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바로 나 같은 신세의 물고기들이 비밀리에 만든 마을이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바로 <문법_맞춤법>나같은</문법_맞춤법> 신세의 물고기들이 비밀리에 만든 마을이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 난 쿨쿨 잠에 들었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 <문법_맞춤법>난쿨쿨 </문법_맞춤법>잠에 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n #두 번째 날\n 난 또 자고 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n #<문법_맞춤법>두번째 </문법_맞춤법>날\n 난 또 자고 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"언니, 언니가 한 5일 정도만 얘 좀 맡아줄래?\"",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"언니, 언니가 한 5일정도만 <문법_맞춤법>얘좀 </문법_맞춤법>맡아줄래?\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동생이 데려온 것은 다름아닌 조카 '콕'이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 동생이 <문법_맞춤법>대려온 </문법_맞춤법>것은 다름아닌 조카 '콕'이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 녀석은 엄청난 말썽꾸러기로 자기가 상어인 줄 안다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그녀석은 </문법_맞춤법>엄청난 말썽꾸러기로 자기가 상어인줄 안다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 처음에는 엄청 거부했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>글서 </문법_맞춤법>처음에는 엄청거부했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"오, 아니! 지금 내 몸 하나 간수하는 것도 귀찮은데!\"",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"오, 아니! 지금 <문법_맞춤법>내몸 </문법_맞춤법>하나 간수하는 것도 귀찮은데!\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n #세 번째 날, 네 번째 날\n 으아! 큰일이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n #<문법_맞춤법>세번째 </문법_맞춤법>날, 네번째날\n 으아! 큰일이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n아까까지 잘 놀고 있었는데! ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0029",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n아까까지 <문법_맞춤법>잘놀고 </문법_맞춤법>있었는데! ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇게 난 마을을 수소문하고 다녔다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0030",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇게 <문법_맞춤법>난마을을</문법_맞춤법> 수소문하고 다녔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "마침내 한 물고기가 말했다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0031",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "마침내 <문법_맞춤법>한물고기가 </문법_맞춤법>말했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"그 꼬마를 말하시는 건가? 쬐끄매가지곤 자기가 상어인 줄 아는 그 물고기.\"",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0032",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"그 꼬마를 <문법_맞춤법>말하시는건가</문법_맞춤법>? 쬐끄매가지곤 자기가 상어인줄 아는 그 물고기.\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"어! 맞아요! 걔예요!\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0033",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " \"어! 맞아요! <문법_어미>걔에요</문법_어미>!\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "혹을 못 찾으면 어떡하지?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0038",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "혹을 <문법_맞춤법>못찾으면 </문법_맞춤법>어떡하지?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n #다섯, 여섯, 일곱 번째 날\n 난 다섯 번째 날엔 이 근처를 둘러 봤다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0039",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n #다섯, 여섯, <문법_맞춤법>일곱번째 </문법_맞춤법>날\n 난 다섯번째 날엔 이 근처를 둘러 봤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여섯, 일곱 번째 날엔 범위를 넓혀서 찾아봤는데, 다행히도 찾았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0041",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여섯, <문법_맞춤법>일곱번째 </문법_맞춤법>날엔 범위를넓혀서 찾아봤는데, 다행히도 찾았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63218",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 905,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

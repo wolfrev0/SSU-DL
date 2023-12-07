@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 지구의 모든 대륙이 이어진 것처럼 편하게 왔다갔다 할 수 있을 만큼 교통이 발달할 것이다.#@문장구분# 미국까지 한시간도 안 걸리지 않을까?#@문장구분# 그리고 바다에도 도시를 깔게 되어서 자동차만 타고 해외로 나갈 수 있을 것이다.#@문장구분# 더해서 우주에 나갈 수 있을지도 모른다.#@문장구분# 미래의 중학교에선 소풍을 로켓을 타고 화성에 갈 수도 있을 것이다.#@문장구분# 이 도시는 '뭐든지 되는 도시'이다.#@문장구분# 말 그대로 뭐든지 할 수 있기 때문에 이런 이름을 붙였다.#@문장구분# 땅에서 차가 막히는 걸 막기 위해 하늘에서도 자동차가 다닐 수 있게 될 것이다.#@문장구분# 그리고 인구가 많아질 거니까, 지하에도 도시가 발달할 수도 있겠다.#@문장구분# 친환경적인 면을 생각하면서 발전을 해야되니까 도시는 기계가 많지만 그만큼 풀도 많아서 초록빛을 띌 거 같다.#@문장구분# 그러면 난 매일매일 길을 걸으면서 예쁜 꽃과 나무를 볼 수 있어서 좋다.#@문장구분#",
+      "paragraph_len": 641,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.8,
+      27.95,
+      27.75
+    ],
+    "essay_scoreT_avg": 26.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56903",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 421,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

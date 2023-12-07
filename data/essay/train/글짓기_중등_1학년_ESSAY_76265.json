@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금은 로켓을 한 번 발사하는 데 엄청난 돈이 들어간다고 합니다.#@문장구분# 그래서 무게를 최대한 줄여서 발사를 하기 때문에, 로켓에는 최대한 적은 물건을 넣고 적은 사람을 태워야 한다고 들었습니다.#@문장구분# 미래가 되면, 우주항공기술이 많이 발전하지 않을까요?#@문장구분# 그래서 적은 돈으로도 로켓을 쏘아올릴 수 있게 될 것입니다.#@문장구분# 그러면 일반인들도 로켓에 탑승할 수 있을지도 모릅니다.#@문장구분# 현장체험학습으로 달나라에 가게 될지도 모릅니다.#@문장구분# 또 물건을 많이 실을 수가 있으니까, 다른 행성으로 이사를 하는 사람도 생길 것입니다.#@문장구분# 이런 도시를 뭐라고 불러야 할까요?#@문장구분# 미래의 도시는 태양계라고 불리게 될 것 같습니다.#@문장구분# 태양계에 있는 모든 행성으로 나가볼 수 있게 되어서, 태양계 어디든지 사람이 있을 것이기 때문입니다.#@문장구분# 그럼 지금의 자원 고갈의 문제도 해결되고, 인구 밀집 문제도 해결될 것입니다.#@문장구분#",
+      "paragraph_len": 645,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.35,
+      20.75,
+      19.75
+    ],
+    "essay_scoreT_avg": 20.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_76265",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 426,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

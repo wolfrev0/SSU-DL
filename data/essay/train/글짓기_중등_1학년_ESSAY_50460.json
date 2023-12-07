@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래의 도시는 어떤 모습일까요?#@문장구분# ",
+      "paragraph_len": 38,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 일단 기술이 더 더욱 발전하여 로봇과 대화를 자유롭게 하면서 로봇을 활용할 일들이나 스포츠, 음식점 등에서 많이 활용할 것 같다.#@문장구분# 미래에 기술이 발달하여 하늘을 나는 자동차, 하늘을 나는 택시 등이 생겨나서 수월하게 이동 할 수 있고 미래에는 물속에 있는 집에서 생활하면 어떨까요?#@문장구분# 미래에 자동센서 지금도 있긴 하지만 더욱 발전해서 더욱 좋은 생활이 될 것 같고 지금이랑 비교하면 안되지만 비교를 하자면 자동차가 하늘을 난다는 것 또는 하늘을 나는 택시 또는 순간이동 장치 등등 많은 것이 개발이 될 것이고 지금은 없는 것들이 생겨날 수 있고 지금의 지구는 환경오염으로 인해 화성에 집이 생겨 모든 사람들이 화성에 가서 있다가 지구가 다시 정화되어서 다시 지구로 돌아올 것 같다.#@문장구분# 나의 생각은 미래에 개발이 되어 지구에 온난화 때문에 화성으로 옮겼다가 지구가 정화되어서 다시 지구로 순간이동 할 것 같다.#@문장구분# 나도 다음의 미래가 너무 너무 궁금하다.#@문장구분#",
+      "paragraph_len": 574,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      30,
+      30
+    ],
+    "essay_scoreT_avg": 30,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "051",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_50460",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 495,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

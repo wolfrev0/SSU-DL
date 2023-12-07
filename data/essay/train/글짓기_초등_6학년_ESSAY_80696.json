@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다에는 신기하고 신비로운 해양생물들로 가득하다.#@문장구분# 그중에는 못생긴물고기, 알록달록한 물고기, 영리한 물고기 등 가지각색의 물고기들이 있다.#@문장구분# 나는 그중에서도 돌고래가 되고싶다.#@문장구분# 내가 돌고래가 되어서 어떤 모험을 하게될까?#@문장구분# \n 일단 돌고래는 지능이 뛰어나서 여러모험을 할 수 있을 것이다.#@문장구분# \n 첫번째모험, 푸른색의 오염되지 않은 바다에서 쇼를 하며 점프를 해보고 싶다.#@문장구분# 왜냐하면 Tv에서 돌고래가 점프를 하면 시원해보이고 속이 뻥뚤리는 것 같아서 나도 그 기분을 느껴보고 싶기 때문이다.#@문장구분# \n 두번째모험, 상어를 놀리고 도망가보기.#@문장구분# 본적은 없만 그래도 상어가 자는데 놀래켜놓고 재빠르게 도망가보고싶다.#@문장구분# 그러면 상어가 엄청화가나서 나를 쫒아오는데 나를 못잡고 쒸익쒸익거리면 정말 재미있을 것같다.#@문장구분# \n 이렇게 바다에 직접들어가본적이 없었지만 그래도 바다에서 물고기가 되서 여행을 하는 것은 정말 환상일 것이다.",
+      "paragraph_len": 648,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      26.75,
+      20.65
+    ],
+    "essay_scoreT_avg": 22.550001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "053",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_80696",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 448,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

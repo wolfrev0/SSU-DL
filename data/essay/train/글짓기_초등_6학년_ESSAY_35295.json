@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "문어가 되고 싶다.#@문장구분# 연체 동물이 되어 어디든 자유롭게 빠져나갈수가 있다.#@문장구분# 문어는 다리가 8개 있는 연체동물로 바다 밑에서 서식하여 연체동물과 갑각류를 등을 먹고 삽니다. #@문장구분#수명은 3~5년으로 위급시에는 검은먹물을 뿜고 도망가는것으로 유명. #@문장구분#문어는 몸무게가약 15kg 정도가 되면 생식기관이 발달하고 짝짓기를 합니다. #@문장구분#수컷의 3번째 다리는 교접용인데 짝짓기시 이 다리를 이용하여 정자를 암컷 몸안에 넣는다고 합니다. #@문장구분#암컷은 알을 4월에서 6월 사이의 수심 13~30m 정도의 낮은 연안에서 낳습니다. #@문장구분#2만개에서 10만개의 알을 몇일에 걸려서 낳으며, 알이 부화할 때까지 보호하고, 깨끗하게 유지하며, 다리를이용해 신선한물을 알에 흐르게 하여 산소를 공급 해 줍니다#@문장구분# 암컷은 알이 부화하기까지 먹이를 먹지않고보살피면 알이 부화하기 전후에 죽는다고 합니다.#@문장구분#",
+      "paragraph_len": 598,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.75,
+      18.95,
+      24.25
+    ],
+    "essay_scoreT_avg": 20.983334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "문어가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "문어가 되고 <문법_어미>싶다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 연체 동물이 되어 어디든 자유롭게 빠져나갈 수가 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "종결 어미 통일"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 연체 동물이 되어 어디든 자유롭게 <문법_맞춤법>빠져나갈수가</문법_맞춤법> <문법_어미>있다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 문어는 다리가 8개 있는 연체동물로 바다 밑에서 서식하여 연체동물과 갑각류 등을 먹고 삽니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 문어는 다리가 8개 있는 연체동물로 바다 밑에서 서식하여 연체동물과 <문법_조사>갑각류를 등을</문법_조사> 먹고 삽니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "수명은 3~5년으로 <스타일링_맞춤법><스타일링_담화 맥락 오류>위급시에는 검은먹물을 뿜고 도망가는것으로 유명.</스타일링_담화 맥락 오류></스타일링_맞춤법> ",
+      "sentence_corr_txt_styling": "수명은 3~5년으로 위급 시에는 먹물을 뿜고 도망가는 것으로 유명합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "문어는 몸무게가 약 15kg 정도가 되면 생식기관이 발달하고 짝짓기를 합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "문어는 <문법_맞춤법>몸무게가약</문법_맞춤법> 15kg 정도가 되면 생식기관이 발달하고 짝짓기를 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "수컷의 3번째 다리는 교접용인데 짝짓기 시 이 다리를 이용하여 정자를 암컷 몸 안에 넣는다고 합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "수컷의 3번째 다리는 교접용인데 <문법_맞춤법>짝짓기시</문법_맞춤법> 이 다리를 이용하여 정자를 암컷 몸안에 넣는다고 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "2만 개에서 10만 개의 알을 며칠에 걸려서 낳으며, 알이 부화할 때까지 보호하고, 깨끗하게 유지하며, 다리를 이용해 신선한 물을 알에 흐르게 하여 산소를 공급해 줍니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>2만개에서 10만개의 알을 몇일에</문법_맞춤법> 걸려서 낳으며, 알이 부화할 때까지 보호하고, 깨끗하게 유지하며, 다리를이용해 신선한물을 알에 흐르게 하여 산소를 공급 해 줍니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 암컷은 알이 부화하기까지 먹이를 먹지 않고 보살피면 알이 부화하기 전에 죽는다고 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 암컷은 알이 부화하기까지 먹이를 <문법_맞춤법>먹지않고보살피면</문법_맞춤법> 알이 부화하기 전후에 죽는다고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35295",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 418,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

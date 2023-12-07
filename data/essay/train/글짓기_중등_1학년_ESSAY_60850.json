@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시의 이름은 기현시티입니다 제이름이 권기현이기 때문에 그러한 이름으로 지었습니다.#@문장구분# 제가 생각하는 미래도시는 고층빌딩이 많은 그러한 도시입니다.#@문장구분# 그러한 도시는 밤에 보면 야경이 정말로 멋있을 것 같습니다.#@문장구분# 그러한 도시에서 사는 삶을 꽤나 멋있을 것 같습니다.#@문장구분# 누구나 살고 싶어하지만 누구나 살수 없는 휘소성이 있는 기현시티라면 사람들의 선망의 대상이 되지 않을까라는 생각이 듭니다.#@문장구분# 이런 도시라면 저도 한번쯤 살아보고 싶다라는 생각이 듭니다.#@문장구분# 그런 도시에서 저는 살고 싶으며 그런 도시에서의 삶은 정말 행복할 것 같습니다.#@문장구분# 저는 그런 도시에서 저의 꿈을 펼치며 행복하게 살고 싶습니다. #@문장구분#꿈과 희망이 넘치는 기현시티 생각만 해도 행복하고 즐겁고 화목합니다 빨리 그런 도시가 왔으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 576,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.2,
+      27.2,
+      28
+    ],
+    "essay_scoreT_avg": 27.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 미래도시의 이름은 기현시티입니다. 제이름이 권기현이기 때문에 그러한 이름으로 지었습니다.",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "제가 생각하는 미래도시의 이름은 <문법_기타>기현시티입니다</문법_기타> 제이름이 권기현이기 때문에 그러한 이름으로 지었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 누구나 살고 싶어하지만 누구나 살 수 없는 희소성이 있는 기현시티라면 사람들의 선망의 대상이 되지 않을까라는 생각이 듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 누구나 살고 싶어하지만 누구나 <문법_맞춤법>살수</문법_맞춤법> 없는 휘소성이 있는 기현시티라면 사람들의 선망의 대상이 되지 않을까라는 생각이 듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 도시라면 저도 한 번쯤 살아보고 싶다라는 생각이 듭니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 도시라면 저도 <문법_맞춤법>한번쯤</문법_맞춤법> 살아보고 싶다라는 생각이 듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "꿈과 희망이 넘치는 기현시티 생각만 해도 행복하고 즐겁고 화목합니다. 빨리 그런 도시가 왔으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "꿈과 희망이 넘치는 기현시티 생각만 해도 행복하고 즐겁고 <문법_기타>화목합니다</문법_기타> 빨리 그런 도시가 왔으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60850",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 397,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

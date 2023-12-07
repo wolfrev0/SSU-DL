@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 우리가 아직 많이 밝혀내지 못한 바닷속을 탐험해서 많이 발전시킬 것이라 생각합니다.#@문장구분# 바닷속에 집을 짓고 사람들은 잠수복을 입고 밖을 돌아다니고 바다에 공기가 있는 집을 만들어 자유롭게 돌아다니는 미래가 언젠간 올 것입니다.#@문장구분# 또한 사람이 많아지고 살 곳이 줄어들고 있는 요즘 바다를 잘 이용한다면 살기 더 좋아질 것입니다.#@문장구분# 이렇게 바닷속을 이용해 살아가기 위해서는 바다에 대해서 많은 것을 알아야 합니다.#@문장구분# 우리는 아직 바다에 극히 일부분밖에 모른다고 합니다.#@문장구분# 우리는 땅을 많이 연구해 사용하고 있지만 바닷속은 제한이 되는 부분이 많습니다.#@문장구분# 그래서 많은 시간이 걸릴 것입니다.#@문장구분# 그러나 우리가 사용하고 있는 면적의 몇 배나 많은 땅을 새로 사용할 수 있는 것이기 때문에 연구할만하다고 생각합니다.#@문장구분# 바다에 살면서 더 많은 생명체를 발견할 수도 있을 것입니다.#@문장구분# 저는 이런 도시는 수중도시라고 이름 붙이고 싶습니다.#@문장구분#",
+      "paragraph_len": 655,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.25,
+      28.5
+    ],
+    "essay_scoreT_avg": 28.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_60032",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 456,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

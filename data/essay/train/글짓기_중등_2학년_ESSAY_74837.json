@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 나중에 패션 디자이너가 될 것입니다.#@문장구분# 저는 예전에 사실 패션 모델을 꿈 꾸었습니다.#@문장구분# 하지만 저는 모델이 되기에 키도 작고 자신감이 부족한 편이라 다른 관심사를 찾아보기로 결심했습니다.#@문장구분# 그러던 중 저는 아직 옷에 대한 호기심을 버릴 수 없기에 패션 디자이너라는 직업에 관심을 가지게 되었습니다.#@문장구분# 저는 제 꿈을 위해 지금도 많이 연구하고 공부하고 있습니다.#@문장구분# 실제로 노트에 영감이 떠오르면 바로바로 정리를 하기도 합니다.#@문장구분# 저는 10년뒤에 패션 디자인 학과를 졸업한 뒤 유학을 갈 것입니다.#@문장구분# 사실 패션 디자인에 굳이 유학이 필요하지는 않을 것이라는 의견도 있을 수 있습니다.#@문장구분# 하지만 저는 직접 보고 배우는 것이 더 저에게 맞는 방법이라고 생각을 해서 유학을 가서 더 견문을 넓혀서 올 것입니다.#@문장구분# 또 20년 뒤에 저는 제 이름과 명예를 건 저의 브랜드를 열 것입니다.#@문장구분#제 브랜드는 양복을 전문으로 하는 전문 양복 브랜드로 우리나라, 외국 할 것 없이 모든 나라에 수출되어 양복을 떠올릴 때 가장 먼저 생각나는 양복 대표 브랜드가 될 것입니다.",
+      "paragraph_len": 724,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.166666,
+      30,
+      25.055555
+    ],
+    "essay_scoreT_avg": 26.074074,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74837",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 526,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "이대로 살아간다면 과연 미래란 있을까?#@문장구분# 우리는 지금도 충분히 불안정한 삶을 살아가고 있다.#@문장구분# 예측하지 못한 기후, 점점 올라가는 수면, 초미세먼지까지.. 어쩌면 우리는 사실 지금도 간당간당한 삶을 살아가고 있을지도 모른다.#@문장구분# 그런 우리가 미래를 상상할 수 있는가?#@문장구분# 나는 우리의 삶이 이대로 지속된다면 미래는 암담한 검정색일 것이라고 예상한다.#@문장구분# 따라서 우리는 우리 살기 좋자고 무엇을 연구하고 발전시키고 만드는 것보다, 생태계를 더욱 파괴시키지 않으면 환경을 재생할 수 있는 방안을 먼저 연구하는 것이 먼저라고 생각한다.#@문장구분# 물론 나라고 화려한 '미래도시'를 상상해보지 않은 것은 아니지만 이대로 지속된다면 우리의 미래, 미래도시는 온데간데 없고 황무지가 된 지구의 모습만 남게 될것이다.#@문장구분# 결론은 지금 우리는 '미래도시'를 상상하기 보다는 환경을 재생시키는 방법을 생각하는 것이 먼저라고 생각한다.#@문장구분#",
+      "paragraph_len": 601,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      28.4,
+      30
+    ],
+    "essay_scoreT_avg": 28.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_60974",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 442,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다 생물이야기 짓기#@문장구분#\n  내가 만약 바다 생물 중 한 종류가 된다면, 나는 바다를 떠돌아다니는 평범한 물고기가 되고싶다.#@문장구분#\n 다른 사람들은 더 화려하고 그런 종이 되고픈 사람도 있겠지만, 난 편안히 여행하고 걱정없이 사는 그런 물고기가 되고싶다.#@문장구분# 이곳 저곳 떠돌아다니며 여행하고싶다.#@문장구분# 굳이 종을 하나 고른다면 연어가 되고싶다.#@문장구분#\n 사람들에게 잡아먹힐지도 모르지만 그래도 그 전까지는 걱정없이 살 것 같다.#@문장구분# 편안히 돌아다니면서 먹이도 먹고 잠도 자고 여러 지형도 가보고 얼마나 재밌겠는가.#@문장구분#\n 이런식으로 생활하면서 불행한 점도 있을것이다.#@문장구분# 없는게 이상하겠지.#@문장구분# 여행하다가 사람들에게 잡혀버려 식량이 되거나, 다른 생물에게 잡아먹히거나 죽어버리는 일이 있겠다는 생각에 무섭고 떨린다는 생각이 든다.#@문장구분#\n 그리 불행하면서도 조금의 행복이 있으니 난 만약 된다면 평범한 물고기가 되고싶다.#@문장구분#",
+      "paragraph_len": 651,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27.35,
+      30
+    ],
+    "essay_scoreT_avg": 29.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_41215",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 434,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

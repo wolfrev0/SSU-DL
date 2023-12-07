@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "'띠리링' 알람이 울리면서 오늘 나의 하루가 시작된다.#@문장구분# 아! 먼저 나를 소개 하자면, 나는 바다 속에 사는 아름다운 니모이다.#@문장구분# 그럼 다시 내 하루로 돌아가서... 침대에서 나우 나온 나는 오늘 할일을 적었다. #@문장구분#오늘 내가 할 일은 바다속 탐험하기 였다.#@문장구분# 혼자서 여행 하는 것은 처음이여서 설렘 반, 두려움 반 이였다. #@문장구분#두근 두근 드디어 나 혼자 하는 탐험이 시작되었다! #@문장구분#나는 탐험을 하면서 같이 다니는 물고기들도 보고, 내 친구들도 보았다. #@문장구분#모든 것이 신기했지만, 가장 신기했던 것은 상어를 본 일 이였다!! #@문장구분#이야기 속과는 다르게 이 바다속에 사는 상어는 친절하여서 신기했다. #@문장구분#이제 슬슬 해가 지고 있어 나는 다시 집으로 돌아갔다. #@문장구분#돌아가는 길에 새 친구도 사귀고, 이름모르는 청소해주는 물고기도 보았다. #@문장구분#또 새우와 불가사리 등을 보았다. #@문장구분#너무 좋은 기회 였던 것 같다.",
+      "paragraph_len": 670,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      22.65,
+      25.5
+    ],
+    "essay_scoreT_avg": 25.516668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_52729",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 431,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

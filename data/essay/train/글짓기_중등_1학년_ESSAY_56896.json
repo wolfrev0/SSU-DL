@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 외계인 친구를 사귀고 싶다.#@문장구분# 외계인 친구를 사귀어서 우주에는 무엇이 있는지 물어보고 싶다.#@문장구분# 미래에는 외계인들이 지구에 놀러와서 이게 가능해질지도 모른다.#@문장구분# 그런데 외계인이 우리 지구인들보다 훨씬 더 똑똑하고 과학이 발전했으면 어떡하지?#@문장구분# 갑자기 지구가 외계인에게 지배당할지도 모른다는 생각이 들었다.#@문장구분# 외계인이 우리보다 똑똑하지 않을 거라는 보장은 없다.#@문장구분# 그리고 보통 똑똑하고 힘이 세면, 덜 똑똑하고 힘이 약한 무리를 지배하려고 한다.#@문장구분# 그러면 우리 지구인들은 꼼짝없이 외계인들 발밑에서 시중을 들어야 될지도 모른다.#@문장구분# 지구의 에너지는 외계인의 행성을 위해 죄다 쓰여서 지구가 어두컴컴하게 변해서 다들 우울해 할 것 같다.#@문장구분# 그리고 지구인들은 살 곳이 빼앗겨서 떠돌이생활을 할지도 모른다.#@문장구분# 미래의 도시는 식민지가 될 지도 모른다는 생각을 했다......#@문장구분#",
+      "paragraph_len": 639,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.15,
+      22.1,
+      22.25
+    ],
+    "essay_scoreT_avg": 24.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그리고 지구인들은 살 곳이 빼앗겨서 떠돌이 생활을 할지도 모른다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 지구인들은 살 곳이 빼앗겨서 <문법_맞춤법>떠돌이생활을 </문법_맞춤법>할지도 모른다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 미래의 도시는 식민지가 될 지도 모른다는 생각을 했다......",
+      "sentence_corr_txt_styling": " 미래의 도시는 식민지가 될 지도 모른다는 생각을 했다......",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56896",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 419,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

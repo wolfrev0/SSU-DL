@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 흰동가리가 되고 싶다.#@문장구분# 니모를 찾아서라는 영화속의 니모가 되고 싶다.#@문장구분# 비록 아주 작은 물고기이지만 부모님을 찾아서 험난한 여정을 이겨내는 강인함을 본받고 싶다.#@문장구분#",
+      "paragraph_len": 152,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 어제 밤까지 곁에 계시던 부모님이 보이지 않는다. #@문장구분#문어 아저씨에게 물어봐도 아침에는 본 적이 없다고 한다. #@문장구분#도대체 이른 아침부터 날 혼자 두고 어딜 가신 것일까? 옆 동네 전갱이 삼촌에게 가서 물어봐야겠다.#@문장구분# 한참을 헤엄쳐 이웃 마을 입구에 도착했을때 무서운 귀상어 아저씨와 마주쳤다. #@문장구분#그런데 귀상어 아저씨로부터 깜짝 놀랄 소식을 듣고 말았다. #@문장구분#우리 부모님이 사람들이 쳐놓은 그물에 잡혀 끌려갔다는 것이다. #@문장구분#눈물이 콸콸 쏟아지고 어떻게 해야할지 막막해서 말이 나오지 않았다. #@문장구분#그런데 평소 무섭게 생각했던 귀상어 아저씨가 부모님이 잡혀간 부두 근처까지 데려다 주신다고 하신다. #@문장구분#그곳에 간다고 해도 뾰족한 방법이 있는 것은 아니지만 일단 거기까지라도 가야겠다고 생각했다. #@문장구분#부두에 도착했들 때 어부들은 그물을 손질하면서 잡힌 물고기들을 정리하고 있었다. #@문장구분#그때 한 어부가 우리 부모님을 그물에서 빼더니 물속으로 던져버리는 것이 아닌가? 아! 고등어 였다면 잡아 먹혔을텐데 작은 흰동가리여서 풀려난 것이다.#@문장구분#",
+      "paragraph_len": 722,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      29.2,
+      30,
+      28.25
+    ],
+    "essay_scoreT_avg": 29.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_64247",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 597,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

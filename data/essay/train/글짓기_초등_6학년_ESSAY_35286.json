@@ -1,0 +1,360 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아무도 없는 공허한 수면을 바라보았다.#@문장구분# 플랑크톤들이 햇빛을 받아 눈부시게 빛나는 가운데 나와 같은 산호초 친구들은 잔잔한 물결을 즐기고 있었다.#@문장구분# 서로 아무 말도 하지 않지만 모든 생물이 함깨 교감하는 이시간이, 난 정말 좋았다. #@문장구분#그 때, 고요한 적막을 깬 것은 관광객 두명 이었다.#@문장구분# 아마도 스노클링을 하러 온 것 같았는데 허우적거리며 헤엄치는게 썩 보기 좋지는 않았다.#@문장구분# 언제쯤 가나 생각하고 있었는데 갑자기 내 친구를 쓰담쓰담 했다.#@문장구분# \"우와, 이 산호초 좀 봐. 느낌이 신기해.\" #@문장구분#그들은 내 친구를 만지더니 어느새 팔을 브러뜨렸다.#@문장구분# 글고는 집에 기념으로 가져갈 거라며 말했다.#@문장구분# 관광객들이 가고 나서 친구엑 물었다. #@문장구분#\"괜찮아? 많이 아프지?\" #@문장구분#\"으으. 아프다... #@문장구분#그래도 부러진 데는 나중에 자라니까 괜찮아..\"#@문장구분# 내가 살고 있는 해안가는 잘 보존된어 있는 자연환경과, 바다생물, 산호초들로 유명하다. #@문장구분#하지만 아름다운 자연때문인지 많은 사람들이 이곳을 찾기 시작했고 바다에는 쓰래기가 차올랐다.#@문장구분# 불행히도 몇년동안 심해지고 있던 지구온난화가 올해들어서 더 심해지는 바람에 산호초들이 서서히 죽어가고 있다.#@문장구분# 산호초들이 사라져가니 관광객들이 점점 줄어 쓰래기는 조금 사라졌다.#@문장구분# 내가 있는 바닷가는 아직 무사한 듯 하지만 나도 곧 죽을지도 모른다.#@문장구분#밤이 된까 괜히 이런 생각이 드는 것 같다. #@문장구분#달빛을 받은 플랑크톤들이 아름답게 빛났다.#@문장구분# 똑같은 일상이 반복되는 하루지만 소중히 살아가야 겠다.#@문장구분#",
+      "paragraph_len": 1135,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      21.85,
+      20.65
+    ],
+    "essay_scoreT_avg": 21.366667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 서로 아무 말도 하지 않지만 모든 생물이 함께 교감하는 이 시간이, 난 정말 좋았다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 서로 아무 말도 하지 않지만 모든 생물이 <문법_맞춤법>함깨</문법_맞춤법> 교감하는 이시간이, 난 정말 좋았다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 때, 고요한 적막을 깬 것은 관광객 두 명이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 때, 고요한 적막을 깬 것은 관광객 <문법_맞춤법>두명</문법_맞춤법> 이었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 언제쯤 가나 생각하고 있었는데 갑자기 내 친구를 <스타일링_담화 맥락 오류>쓰담쓰담 했다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 언제쯤 가나 생각하고 있었는데 갑자기 내 친구를 쓰다듬었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그들은 내 친구를 만지더니 어느새 팔을 부러뜨렸다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그들은 내 친구를 만지더니 어느새 팔을 <문법_맞춤법>브러뜨렸다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러고는 집에 기념으로 가져갈 거라고 말했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>글고는 </문법_맞춤법>집에 기념으로 가져갈 <문법_조사>거라며</문법_조사> 말했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 관광객들이 가고 나서 친구에게 물었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 관광객들이 가고 나서 <문법_맞춤법>친구엑</문법_맞춤법> 물었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래도 부러진 데는 나중에 자라니까 괜찮아...\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그래도 부러진 데는 나중에 자라니까 괜찮아..\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 살고 있는 해안가는 잘 보존되어 있는 자연환경과, 바다 생물, 산호초들로 유명하다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 살고 있는 해안가는 잘 <문법_맞춤법>보존된어 </문법_맞춤법>있는 자연환경과, 바다생물, 산호초들로 유명하다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 아름다운 자연 때문인지 많은 사람들이 이곳을 찾기 시작했고 바다에는 쓰레기가 차올랐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 아름다운 <문법_맞춤법>자연때문인지</문법_맞춤법> 많은 사람들이 이곳을 찾기 시작했고 바다에는 쓰래기가 차올랐다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 불행히도 몇 년 동안 심해지고 있던 지구온난화가 올해 들어서 더 심해지는 바람에 산호초들이 서서히 죽어가고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 불행히도 <문법_맞춤법>몇년동안</문법_맞춤법> 심해지고 있던 지구온난화가 올해들어서 더 심해지는 바람에 산호초들이 서서히 죽어가고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 산호초들이 사라져가니 관광객들이 점점 줄어 쓰레기는 조금 사라졌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 산호초들이 사라져가니 관광객들이 점점 줄어 <문법_맞춤법>쓰래기는</문법_맞춤법> 조금 사라졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "밤이 되니까 괜히 이런 생각이 드는 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "밤이<문법_맞춤법> 된까</문법_맞춤법> 괜히 이런 생각이 드는 것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 똑같은 일상이 반복되는 하루지만 소중히 살아가야겠다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 똑같은 일상이 반복되는 하루지만 소중히 <문법_맞춤법>살아가야 겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35286",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 717,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

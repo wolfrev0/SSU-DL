@@ -1,0 +1,383 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래도시는 막 자동차들이 기름없이 전기로 떠다니고 기차는 레일없이 가는것이다.#@문장구분# 또, 설거지는 로봇이하고 그냥집안일을 로봇이다해줄거같다. #@문장구분#현재에있는일몇개는 없어질거같습니다.#@문장구분# 예를들어서 벼를자르는일이나 아니면 자동차를만드는일 아파트를만드는일을 다 로봇이 할거같습니다.#@문장구분# 또한 미래에일도 늘어날거같습니다.#@문장구분# 현재에도있을지모르지만 필요없는 로봇을 박살내는거나 아니면 공부를 대신해주는로봇이라던가 이런게 나올거같습니다.#@문장구분# 또 스마트시계에 영상통화를달거같습니다.#@문장구분# 이유는 스마트폰으로 영상통화를하면 들어야돼서 약간무거운데 스마트 시계로하면 손도아프지않고 훨씬 더 편할거같습니다.#@문장구분# 동물들도 로봇처럼 만들거같습니다.#@문장구분# 이유는 동물들이 아플때 로봇이 대신 동물원에 나와서 사람들 구경시켜주고 동물도좀 쉬고 그렇게 반복하면 동물들이 스트레스가 풀릴거같습니다.#@문장구분# 그리고 학교는 TV가혼자서 켜지고 칠판혼자서 필요한 글씨, 자료, 지우기까지할거같습니다.#@문장구분# 학원도굳이 선생님들이 TV나 컴퓨터로 틀지않고 TV나 컴퓨터가 알아서 켜지는세상이될거같습니다.#@문장구분# 그리고 사람눈이 인공눈으로 바꾸거나 아니면 파리를 로봇다리로 바꿀거같습니다.#@문장구분#",
+      "paragraph_len": 823,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.2,
+      29.75,
+      22.65
+    ],
+    "essay_scoreT_avg": 25.199999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "032",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 미래도시는 막 자동차들이 기름없이 전기로 떠다니고 기차는 레일없이 가는 것입니다.",
+      "sentence_corr_reason": [
+        "서술어와 호응",
+        "띄어쓰기, 어미 통일",
+        "띄어쓰기, 어미 통일"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "<스타일링_기타>내가</스타일링_기타> 생각하는 미래도시는 막 자동차들이 기름없이 전기로 떠다니고 기차는 레일없이 <문법_맞춤법><문법_어미>가는것이다</문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "제가 생각하는 미래도시는 막 자동차들이 기름없이 전기로 떠다니고 기차는 레일없이 가는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또, 설거지는 로봇이 하고 그냥 집안일을 로봇이 다 해줄 것 같습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 어미 통일"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 또, 설거지는 <문법_맞춤법>로봇이하고</문법_맞춤법> <문법_어미>그냥집안일을 로봇이다해줄거같다</문법_어미>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를들어서 벼를 자르는 일이나 자동차를 만드는 일, 아파트를 만드는 일을 다 로봇이 할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 예를들어서 <문법_맞춤법><문법_패러프레이징>벼를자르는일이나 아니면</문법_패러프레이징></문법_맞춤법> 자동차를만드는일 아파트를만드는일을 다 로봇이 할거같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 미래에는 일도 늘어날 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 또한 <문법_맞춤법><문법_조사>미래에일도</문법_조사></문법_맞춤법> 늘어날거같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금도 있을진 모르지만 필요없는 박살내는거나 아니면 공부를 대신해주는 로봇이라든가 이런 게 나올 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기, 맞춤법"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_어미><문법_기타>현재에도있을지모르지만</문법_기타></문법_어미> 필요없는 로봇을 박살내는거나 아니면 공부를 <문법_맞춤법>대신해주는로봇이라던가 이런게 나올거같습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기, 맞춤법, 맥락 수정",
+        "띄어쓰기, 맞춤법, 맥락 수정"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 또 스마트시계에 <스타일링_맞춤법><스타일링_담화 맥락 오류>영상통화를달거같습니다</스타일링_담화 맥락 오류></스타일링_맞춤법>.",
+      "sentence_corr_txt_styling": " 또 스마트시계에 영상통화 기능이 생길 것 같습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 스마트폰으로 영상통화를 하면 들어야 돼서 약간 무거운데 스마트시계로 하면 손도 아프지 않고 훨씬 더 편할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이유는 스마트폰으로 <문법_맞춤법>영상통화를하면</문법_맞춤법> 들어야돼서 약간무거운데 스마트 시계로하면 손도아프지않고 훨씬 더 편할거같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동물들도 로봇처럼 만들 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 동물들도 로봇처럼 <문법_맞춤법>만들거같습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 동물들이 아플 때 로봇이 대신 동물원에 나와서 사람들에게 구경시켜주고 동물도 좀 쉬고 그렇게 반복하면 동물들이 스트레스가 풀릴 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 이유는 동물들이 <문법_맞춤법>아플때</문법_맞춤법> 로봇이 대신 동물원에 나와서 <문법_조사>사람들</문법_조사> 구경시켜주고 동물도좀 쉬고 그렇게 반복하면 동물들이 스트레스가 풀릴거같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 학교에서는 TV가 혼자서 켜지고 칠판 스스로 필요한 글씨를 쓰고, 자료를 찾고, 글씨를 지우기까지 할 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "띄어쓰기, 호응관계",
+        "띄어쓰기, 호응관계"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 <문법_조사>학교는</문법_조사> <문법_맞춤법>TV가혼자서</문법_맞춤법> 켜지고 <문법_기타><문법_담화 맥락 오류>칠판혼자서 필요한 글씨, 자료, 지우기까지할거같습니다</문법_담화 맥락 오류></문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학원도 굳이 선생님들이 TV나 컴퓨터를 틀지 않고 TV나 컴퓨터가 알아서 켜지는 세상이 될 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>학원도굳이 </문법_맞춤법>선생님들이 TV나 <문법_조사>컴퓨터로 </문법_조사>틀지않고 TV나 컴퓨터가 알아서 켜지는세상이될거같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 사람 눈이 인공눈으로 바꾸거나 파리를 로봇다리로 바꿀 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>사람눈이</문법_맞춤법> 인공눈으로 <스타일링_패러프레이징>바꾸거나 아니면</스타일링_패러프레이징> 파리를 로봇다리로 바꿀거같습니다.",
+      "sentence_corr_txt_styling": " 그리고 사람 눈이 인공눈으로 바꾸거나 파리를 로봇다리로 바꿀 것 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33585",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 565,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

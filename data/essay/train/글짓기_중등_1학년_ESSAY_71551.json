@@ -1,0 +1,216 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시에는 자연과 인간이 모두 평화롭게 살아갈 수 있는 도시일 것입니다.#@문장구분# 지구온난화로 해수면이 상승하고 있고 섬들은 잠기는 그런 일들이 이제 더이상 일어나지 않습니다.#@문장구분# 덕분에 우리는 이제 기후위기라는 용어를 쓰지 않습니다.#@문장구분# 그 말은 사라진지 오래입니다.#@문장구분# 모두가 수소 자동차를 타고 다니고, 공장에서는 더이상 대기오염과 수질오염을 걱정할 필요가 없습니다.#@문장구분# 화석연료를 사용하지 않고 이를 대체할 수 있는 에너지원을 찾았으며 법적으로 금지되었기 때문입니다.#@문장구분# 또한 완벽한 정화 필터를 발명하였으며 이에 대한 관리감독을 철저하게 했기 때문입니다.#@문장구분# 왜냐하면 그때는 기후위기에 직면해 있었기 때문에 세계적으로 위험국가로 낙인 찍히기 때문이기도 했습니다.#@문장구분# 그렇게 미래도시는 친환경도시로 발전한 우리의 모습을 하고 있을 거라고 생각합니다.#@문장구분#",
+      "paragraph_len": 586,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      25.6,
+      19.75
+    ],
+    "essay_scoreT_avg": 25.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 지구온난화로 해수면이 상승하고 있고 섬들은 잠기는 그런 일들이 이제 더 이상 일어나지 않습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지구온난화로 해수면이 상승하고 있고 섬들은 잠기는 그런 일들이 이제 <문법_맞춤법>더이상 </문법_맞춤법>일어나지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 완벽한 정화 필터를 발명하였으며 이에 대한 관리 감독을 철저하게 했기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 완벽한 정화 필터를 발명하였으며 이에 대한 <문법_맞춤법>관리감독을</문법_맞춤법> 철저하게 했기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 그때는 기후 위기에 직면해 있었기 때문에 세계적으로 위험국가로 낙인찍히기 때문이기도 했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 그때는 <문법_맞춤법>기후위기에 </문법_맞춤법>직면해 있었기 때문에 세계적으로 위험국가로 낙인 찍히기 때문이기도 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 미래도시는 친환경 도시로 발전한 우리의 모습을 하고 있을 거라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 미래도시는 <문법_맞춤법>친환경도시로 </문법_맞춤법>발전한 우리의 모습을 하고 있을 거라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71551",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 407,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 백상아리가 되고 싶다 #@문장구분#왜냐하면 백상아리는 천적이 거의 없어서 안전하게 살수 있을 것 같다.#@문장구분# 바다 생물이 되면 우선 바다를 구경하고 싶다.#@문장구분# 왜냐하면 물속에서 보는 바다풍경은 아름 답기 때문이다. #@문장구분#또한 바다뱀도되고싶다. #@문장구분#왜냐하면 바다뱀의 독은 이세상의 뱀중에서 가장강해서 백상아리 같은 무서운 생물도 이길수 있을것 같기 때문이다. #@문장구분#내가 만약 바다뱀이 된다면 고래 같은 큰 생물을 물어보고 싶다. #@문장구분#솔직히 산호 같은것도 되고 싶다. #@문장구분#산호는 먹힐 위험도 없고, 가장 안전하기 때문이다. #@문장구분#조개, 게 같은 생물은 죽어도 되기 싫다.#@문장구분# 왜냐하면 사람에게 먹힐 확률이 높기 때문이다. #@문장구분#범고래가되어 바다를 누비고 싶다.#@문장구분# 범고래는 고래중에서도 사나운 고래다. #@문장구분#멋있어서 되고싶다. #@문장구분#하기싫은생물 들도 있다. #@문장구분#아귀, 고등어 삼치, 참치, 조기, 돔종류등이 되 기 싫다. 먹힐 가능성이 높기 때문이다. #@문장구분#내가만약 바다생물이 되는일은없겠지만 상상해보는것이 재미있었다.#@문장구분#",
+      "paragraph_len": 810,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      25.35,
+      23.85
+    ],
+    "essay_scoreT_avg": 23.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 백상아리가 되고 싶다. ",
+      "sentence_corr_reason": [
+        "마침표 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "나는 백상아리가 되고 <문법_기타>싶다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 백상아리는 천적이 거의 없어서 안전하게 살 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 백상아리는 천적이 거의 없어서 안전하게 <문법_맞춤법>살수</문법_맞춤법> 있을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 물속에서 보는 바다풍경은 아름답기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 물속에서 보는 바다풍경은 <문법_맞춤법>아름 답기 </문법_맞춤법>때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또한 바다뱀도 되고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또한 <문법_맞춤법>바다뱀도되고싶다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 바다뱀의 독은 이 세상의 뱀 중에서 가장 강해서 백상아리 같은 무서운 생물도 이길 수 있을 것 같기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 바다뱀의 독은 <문법_맞춤법>이세상의 뱀중에서 가장강해서</문법_맞춤법> 백상아리 같은 무서운 생물도 이길수 있을것 같기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 만약 바다뱀이 된다면 고래같은 큰 생물을 물어보고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 만약 바다뱀이 된다면 <문법_맞춤법>고래 같은 큰 생물을</문법_맞춤법> 물어보고 싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "산호같은 것도 되고 싶다. ",
+      "sentence_corr_reason": [
+        "불필요",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_기타>솔직히 산호</스타일링_기타> 같은것도 되고 싶다. ",
+      "sentence_corr_txt_styling": "산호같은 것도 되고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 범고래가 되어 바다를 누비고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>범고래가되어</문법_기타></문법_맞춤법> 바다를 누비고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 범고래는 고래 중에서도 가장 사나운 고래다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 범고래는 <문법_조사><문법_기타>고래중에서도 사나운</문법_기타></문법_조사> 고래다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "멋있어서 되고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "멋있어서 <문법_맞춤법>되고싶다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하기 싫은 생물들도 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>하기싫은생물 들도</문법_맞춤법> 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아귀, 고등어 삼치, 참치, 조기, 돔 종류들이 되기 싫다. 먹힐 가능성이 높기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "아귀, 고등어 삼치, 참치, 조기, <문법_맞춤법><문법_조사>돔종류등이</문법_조사></문법_맞춤법> 되 기 싫다. 먹힐 가능성이 높기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 바다생물이 되는 일은 없겠지만 상상해보는 것이 재미있었다.",
+      "sentence_corr_reason": [
+        "불필요",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_기타>내가만약</스타일링_기타> 바다생물이 <문법_맞춤법>되는일은없겠지만</문법_맞춤법> 상상해보는것이 재미있었다.",
+      "sentence_corr_txt_styling": "내가 바다생물이 되는 일은 없겠지만 상상해보는 것이 재미있었다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38363",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 471,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

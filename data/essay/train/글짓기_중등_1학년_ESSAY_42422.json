@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "도시의 환경을 변화시킬 수 있는 건축디자인을 선보이는 NBBJ는 아마존의 기업 가치를 담아내며 지역의 문화 커뮤니티 중심으로 만들기 위한 다양한 공공 공간을 더했다.#@문장구분# 620톤의 철근이 사용된 세 개의 유닛은 높이 27m 지름 39m의 가장 큰 구를 중심으로 모듈방식으로 세워져 2,643개의 투명 유리를 덮어 하나의 거대한 온실 공간으로 마무리되었다.#@문장구분# 온실에는 마치 세계의 허파로 불리는 아마존을 연상시키는 세계 각지의 울창한 식물과 나무들을 심었다.#@문장구분# 유리마다 자외선 차단 기능이 더해졌으며 식물과 나무가 제공하는 자연 그늘은 쾌적한 업무 환경을 유지시킨다.#@문장구분# 26만 제곱미터 부지에 22층 규모 건물 3개로 완공 에정인 HQ2는 2040년까지 마무리된 아마존의 탄소 제로 정책을 위해 미국 그린 빌딩 위원회US Green Building에서 인증된 최고 등급인 LEED Platinum으로 설계되었다.#@문장구분# 100% 재생 가능 에너지로 가동되는 전기 중앙 난방 및 냉각 시스템을 도입한다.#@문장구분# 건물 외부 공간은 녹지 공간을 조성하여 다양한 구조물을 통해 입체감을 더할 예정이다.#@문장구분#",
+      "paragraph_len": 682,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      24.5,
+      24.9
+    ],
+    "essay_scoreT_avg": 23.216667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_42422",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 542,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

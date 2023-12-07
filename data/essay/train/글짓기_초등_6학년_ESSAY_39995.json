@@ -1,0 +1,321 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 만약 바다 생물 중 하나가 된다면 흰 수염 고래가 될것이다.#@문장구분# 왜냐하면 크고 다른 위험한 생물에게 안 다칠 것 같기 때문이다.#@문장구분#\n 그리고 나는 평소에 궁금했던 바다 깊은 곳 이나, 생물들을 관찰해 보고 싶다.#@문장구분# 바다 깊이 무엇이 있는 지 궁금하고, 어떻게 생겼는지 탐험 해 보고싶다. #@문장구분#그리고 바다 전체를 모험하고 싶다.#@문장구분#\n 아직 많은 것들을 달고있지 않을 뿐더러 우리가 아는 바다생물은 모든 바다 생물에 눈꼽만큼도 아닐 정도로 바다에 있는 모든 생물은 엄청 많다고 한다.#@문장구분#\n 또 나는 내 몸을 보호하려고 흰수염고래가 되어 보고싶기도 하지만 작은 생물, 약한 생물들을 위험한 생물에게 보호하고, 지켜주고 싶기 때문이다.#@문장구분#\n 일단 일주일동안 바다생물 중 하나가 될 수 있는 기회가 왔을 땐 그 일주일 동안 깊고 깊은 바다 끝까지 들어 갈 것이다.#@문장구분#\n 어쩌면 내가 좋아하는 인어도 만날 수도 있고, 아주 큰 성을 볼 수도 있을 것이다. #@문장구분#나는 바다에는 신비로운 것들이 많다고 믿는다.#@문장구분#\n 하지만 만약 내가 진짜 바다생물 중 흰 수염고래가 된다면 나는 굳이 들어가고 싶지 않다.#@문장구분# 내가 그러다 목숨을 잃을 수도 있고, 내가 바다에 있는 일 주일 동안 육지에는 내가 존재하지 않을 것 인데 무슨 일이 일어날 지도 모르고 위험에 빠질수도 있기 때문이다.#@문장구분#\n 하지만 한번쯤 되보는 것도 나쁘진 않을것 같다.#@문장구분#",
+      "paragraph_len": 920,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      22.1,
+      22.1
+    ],
+    "essay_scoreT_avg": 22.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 만약 바다 생물 중 하나가 된다면 흰수염고래가 될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 만약 바다 생물 중 하나가 된다면 <문법_맞춤법>흰 수염 고래가</문법_맞춤법> 될것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 크고 다른 위험한 생물에게 안 다칠 것 같기 때문이다.",
+      "sentence_corr_txt_styling": " 왜냐하면 크고 다른 위험한 생물에게 안 다칠 것 같기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 나는 평소에 궁금했던 바다 깊은 곳이나, 생물들을 관찰해 보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 나는 평소에 궁금했던 바다 깊은 <문법_맞춤법>곳 이나</문법_맞춤법>, 생물들을 관찰해 보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다 깊이 무엇이 있는지 궁금하고, 어떻게 생겼는지 탐험해 보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다 깊이 무엇이 <문법_맞춤법>있는 지</문법_맞춤법> 궁금하고, 어떻게 생겼는지 탐험 해 보고싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 아직 많은 것들을 알고 있지 않을 뿐더러 우리가 아는 바다생물은 모든 바다 생물에 눈꼽만큼도 아닐 정도로 바다에 있는 모든 생물은 엄청 많다고 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 아직 많은 것들을 <문법_맞춤법><문법_기타>달고있지</문법_기타></문법_맞춤법> 않을 뿐더러 우리가 아는 바다생물은 모든 바다 생물에 눈꼽만큼도 아닐 정도로 바다에 있는 모든 생물은 엄청 많다고 한다.",
+      "sentence_corr_txt_styling": "\n 아직 많은 것들을 알고 있지 않을 뿐더러 우리가 아는 바다생물은 모든 바다 생물에 눈꼽만큼도 아닐 정도로 바다에 있는 모든 생물은 엄청 많다고 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 또 나는 내 몸을 보호하려고 흰수염고래가 되어 보고싶기도 하지만 작은 생물, 약한 생물들을 위험한 생물로부터 보호하고, 지켜주고 싶기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 또 나는 내 몸을 보호하려고 흰수염고래가 되어 보고싶기도 하지만 작은 생물, 약한 생물들을 위험한 <문법_조사>생물에게</문법_조사> 보호하고, 지켜주고 싶기 때문이다.",
+      "sentence_corr_txt_styling": "\n 또 나는 내 몸을 보호하려고 흰수염고래가 되어 보고싶기도 하지만 작은 생물, 약한 생물들을 위험한 생물로부터 보호하고, 지켜주고 싶기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 일단 일주일동안 바다생물 중 하나가 될 수 있는 기회가 왔을 땐 그 일주일 동안 깊고 깊은 바다 끝까지 들어갈 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 일단 일주일동안 바다생물 중 하나가 될 수 있는 기회가 왔을 땐 그 일주일 동안 깊고 깊은 바다 끝까지 <문법_맞춤법>들어 갈</문법_맞춤법> 것이다.",
+      "sentence_corr_txt_styling": "\n 일단 일주일동안 바다생물 중 하나가 될 수 있는 기회가 왔을 땐 그 일주일 동안 깊고 깊은 바다 끝까지 들어갈 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 하지만 만약 내가 진짜 바다생물 중 흰수염고래가 된다면 나는 굳이 들어가고 싶지 않다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 하지만 만약 내가 진짜 바다생물 중 <문법_맞춤법>흰 수염고래가</문법_맞춤법> 된다면 나는 굳이 들어가고 싶지 않다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 그러다 목숨을 잃을 수도 있고, 내가 바다에 있는 일주일 동안 육지에는 내가 존재하지 않을 것인데 무슨 일이 일어날 지도 모르고 위험에 빠질 수도 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 그러다 목숨을 잃을 수도 있고, 내가 바다에 있는 <문법_맞춤법>일 주일</문법_맞춤법> 동안 육지에는 내가 존재하지 않을 것 인데 무슨 일이 일어날 지도 모르고 위험에 빠질수도 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 하지만 한번쯤 돼보는 것도 나쁘진 않을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 하지만 한번쯤 <문법_맞춤법>되보는</문법_맞춤법> 것도 나쁘진 않을것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39995",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 661,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

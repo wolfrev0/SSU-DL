@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래에는 우리사회에서 주류와 비주류 계층이 뚜력하게 구별될 것이라고 생각한다.#@문장구분# 지금은 다양한 복지제도가 잘 갖추어져 있어서 사람들이 크게 소외받지 않는 것처럼 보여진다.#@문장구분# 하지만, 사람들은 자꾸 부를 대물림하려고 하고, 부동산이나 주식을 통해서 일확천금을 꿈꾼다. 돈을 가진 사람들의 돈은 자꾸자꾸 불어난다.#@문장구분# 돈을 가지지 못한 사람들이 어떻게 손써볼 새도 없이 말이다.#@문장구분# 나는 이러한 우리사회의 간극이 자꾸자꾸 벌어지게 된다면, 결국은 비주류계층이 도태된 사회가 될 것이라고 생각한다.#@문장구분# 점점 도태되는 사람들이 늘어가면, 우리사회에는 범죄도 많아질 것이고 다양성도 사라질 것이다.#@문장구분# 그래서 나는 주류 계층과 비주류계층이 뚜렷하게 나뉘지 않도록 지금부터 제도적인 장치를 마련해야한다고 보는 입장이다.#@문장구분#",
+      "paragraph_len": 529,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16,
+      18.9,
+      16.4
+    ],
+    "essay_scoreT_avg": 17.1,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 미래에는 우리 사회에서 주류와 비주류 계층이 뚜렷하게 구별될 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 미래에는 <문법_맞춤법>우리사회에서</문법_맞춤법> 주류와 비주류 계층이 뚜력하게 구별될 것이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 이러한 우리 사회의 간극이 자꾸자꾸 벌어지게 된다면, 결국은 비주류 계층이 도태된 사회가 될 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 이러한<문법_맞춤법> 우리사회의</문법_맞춤법> 간극이 자꾸자꾸 벌어지게 된다면, 결국은 비주류계층이 도태된 사회가 될 것이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 점점 도태되는 사람들이 늘어가면, 우리 사회에는 범죄도 많아질 것이고 다양성도 사라질 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 점점 도태되는 사람들이 늘어가면, <문법_맞춤법>우리사회에는</문법_맞춤법> 범죄도 많아질 것이고 다양성도 사라질 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 주류 계층과 비주류 계층이 뚜렷하게 나뉘지 않도록 지금부터 제도적인 장치를 마련해야 한다고 보는 입장이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 주류 계층과 <문법_맞춤법>비주류계층이</문법_맞춤법> 뚜렷하게 나뉘지 않도록 지금부터 제도적인 장치를 마련해야한다고 보는 입장이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75493",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 390,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

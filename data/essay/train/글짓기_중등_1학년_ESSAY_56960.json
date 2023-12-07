@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 지어낸 미래의 도시 이름은 '동물의 숲'입니다.#@문장구분# 위에 언급된 것과 같은 생각입니다.#@문장구분# 현재 지구는 상상할 수 없을 정도로 많이 오염되어 있고, 앞으로의 남은 수명을 가늠할 수 없을 정도로 심각합니다.#@문장구분# 게다가 인간이 사용할 수 있는 자원에도 한계가 있으며, 지구온난화로 인해 점점 인간이 살기 좋은 환경과는 거리가 멀어지고 있다는 생각이 듭니다.#@문장구분# 그래서 저는 아마 머지 않은 미래에 인간이 다시 원초적인 지구로 돌아가기 위해 기계를 줄이고 삼림환경을 현재보다 대폭 증가시켜서 푸릇푸릇한 지구로 다시 변경해 갈 것이라고 생각합니다.#@문장구분# 그렇게 되면 나무가 공기를 정화시켜서 오존층의 파괴도 점점 복구되어 갈 것이고, 멸종되어가던 동물들도 다시 원래 자리를 되찾아 깔끔하고 건강했던 옛 지구로 돌아갈 수 있을 것입니다.#@문장구분# 잠시 진화와 발전은 뒷전을 미뤄야 이런 미래가 펼쳐질 수 있다고 생각합니다.#@문장구분#",
+      "paragraph_len": 582,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.95,
+      23.6,
+      24.35
+    ],
+    "essay_scoreT_avg": 25.633333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.21",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56960",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 443,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

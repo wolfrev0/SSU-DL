@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래의 저는 아마 지금 제가 생각하고 있는 꿈들을 이뤘을것이라고 생각합니다.#@문장구분# 지금의 저는 축구선수가 되고싶습니다.#@문장구분# 박지성 선수나 메시와 같은 유명한 스타 축구선수가 되는것이 제 꿈입니다.#@문장구분# 사실 모든 일이 그렇듯이 쉽지 않을것이라는 사실은 누구보다 제가 제이루잘 알고 있습니다.#@문장구분# 왜냐하면 다른 사람들은 당연히 그정도의 스타선수가 되려면 힘이들겠구나 정도로 생각하는거지만 저는 직접 그렇게 되기 위해서 매일 노력하고 있기 때문입니다.#@문장구분# 매일매일 아침에 체력을 기르기 위한 달리기나 기초체력운동등을 하곤할때면 어떤 날은 정말 하기 싫어서 그만두고 싶은 생각이 들때가 종종 있습니다.#@문장구분# 그러나 지금은 제가 기초적인 운전만 하고 공차는 연습만 하지만 이렇게 매일 노력하다보면 언젠가는 이룰거라는 믿음이 있기때문에런 시간들이 고통스럽지 만은 않은것 같습니다.#@문장구분#  그리고 물론 이렇게 운동하고 몸을 움직이는 일 모두 제가 좋아하는 일이고 제가 이루고 싶은 꿈을 위한 한발자국이라는 생각때문인것 같습니다.#@문장구분# 그렇기 때문에 저는 오늘도 미래의 제가 이룰 꿈을 상상하며 노력하고 있습니다.",
+      "paragraph_len": 699,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.166666,
+      30,
+      24.666668
+    ],
+    "essay_scoreT_avg": 25.944443,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74830",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 539,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 종종 혹은 매일 미래도시에 대해 상상한다.#@문장구분# 도대체 그 미래에는 무엇이 있길리 이렇게 많은 사람들이 관심을 가지고, 궁금해 할까?#@문장구분# 오늘은 미래도시에 대해 내상상력을 보여주겠다.#@문장구분#",
+      "paragraph_len": 160,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "내가 생각하는 미래도시는 자동차가 막 하늘을 날고 그러는 것이 아니다.#@문장구분# 바로 미래 의학기술이 발달하여 냉동인간을 만들었다가 살려내는 기술이다.#@문장구분# 요즘 나는 냉동인간에 대해 많으관심을 가지게 되었다.#@문장구분# 지그 1965년부터 많은 사람들이 냉동인간이 되었다.#@문장구분# 이말은 즉슨, 미래에 과학기술로 자신을 다시 깨어달라 이소리다.#@문장구분# 상상을 해보자!#@문장구분# 내가 죽어서 냉동인간이 되서 몇백년뒤 내가 다시 해동이 되서 살아돌아다닌다는게 얼마나 신가한다.#@문장구분# 또한 복제인간 기술이 발달된다면 많은사람들이 죽어도 유전자를 가져와 다른 로봇에 주입시켜 사람들을 도울수도 있다.#@문장구분# 이러한 의학과학이 크게 성장할것이라고 생각한다.#@문장구분# 근데 만약 사람의 뇌가 얼었다면 다시 뇌세포를 살리고 소생시킬수 있을까?#@문장구분# 이것은 현재 과학기술로는 불가능이다.#@문장구분# 하지만 이런기술이 미래에는 발전하지 않을까?라는 생각을 꿈꾸며 미래에 대해 상상해본다.#@문장구분# 여러분들은 냉동인간이 되면 어떤기분일것같나요?#@문장구분#",
+      "paragraph_len": 726,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      25.75,
+      23.45,
+      27.75
+    ],
+    "essay_scoreT_avg": 25.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.25",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "032",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 종종 미래도시에 대해 상상한다.",
+      "sentence_corr_reason": [
+        "의미중첩, 의미 상이"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "나는 <문법_기타>종종 혹은 매일</문법_기타> 미래도시에 대해 상상한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 도대체 그 미래에는 무엇이 있길래 이렇게 많은 사람들이 관심을 가지고, 궁금해 할까?",
+      "sentence_corr_reason": [
+        "오타"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 도대체 그 미래에는 무엇이 <문법_어미>있길리</문법_어미> 이렇게 많은 사람들이 관심을 가지고, 궁금해 할까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오늘은 미래도시에 대한 내 상상력을 보여주겠다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 오늘은 미래도시에 <문법_어미>대해</문법_어미> <문법_맞춤법>내상상력</문법_맞춤법>을 보여주겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 나는 냉동인간에 대해 많은 관심을 가지게 되었다.",
+      "sentence_corr_reason": [
+        "오타, 띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 요즘 나는 냉동인간에 대해 <문법_맞춤법>많으관심</문법_맞춤법>을 가지게 되었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>지그 1965년부터</스타일링_기타> 많은 사람들이 냉동인간이 되었다.",
+      "sentence_corr_txt_styling": " 1965년부터 많은 사람들이 냉동인간이 되었다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 말은 즉슨, 미래에 과학기술로 자신을 다시 깨워달라 이 소리다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이말은</문법_맞춤법> 즉슨, 미래에 과학기술로 자신을 다시 깨어달라 이소리다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 상상을 해보자.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 상상을 해보자<문법_기타>!</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 죽어서 냉동인간이 되고 몇백년 뒤 내가 다시 해동이 돼서 살아서 돌아다닌다는 게 얼마나 신기한가.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 내가 죽어서 냉동인간이 <문법_어미>되서</문법_어미> <문법_맞춤법>몇백년뒤</문법_맞춤법> 내가 다시 해동이 <문법_어미>되서</문법_어미> <문법_조사>살아돌아다닌다는게</문법_조사> 얼마나 신가한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 복제인간 기술이 발달한다면 많은 사람들이 죽어도 유전자를 가져와 다른 로봇에 주입시켜 사람들을 도울 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 복제인간 기술이 <문법_맞춤법>발달된다면</문법_맞춤법> 많은사람들이 죽어도 유전자를 가져와 다른 로봇에 주입시켜 사람들을 도울수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>이러한</스타일링_기타> 의학과학이 크게 성장할것이라고 생각한다.",
+      "sentence_corr_txt_styling": " 미래에는 이러한 의학과학이 크게 성장할것이라고 생각한다.",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 만약 사람의 뇌가 얼었다면 다시 뇌세포를 살리고 소생시킬 수 있을까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 만약 사람의 뇌가 얼었다면 다시 뇌세포를 살리고 <문법_맞춤법>소생시킬수</문법_맞춤법> 있을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것은 현재 과학기술로는 불가능하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 이것은 현재 과학기술로는 <문법_조사>불가능이다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 '이런 기술이 미래에는 발전하지 않을까?'라는 생각을 하며 미래에 대해 상상해본다.",
+      "sentence_corr_reason": [
+        "목적어와 동사 호응"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하지만 <문법_기타>이런기술이 미래에는 발전하지 않을까?라는 생각을 꿈꾸며</문법_기타> 미래에 대해 상상해본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분들은 냉동인간이 되면 어떤 기분일 것 같나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여러분들은 냉동인간이 되면 <문법_맞춤법>어떤기분일것같나요</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33950",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 568,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

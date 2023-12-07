@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 집에서 모든 것을 해결할 수 있는 도시가 될 거 같다.#@문장구분# 인공지능으로 무엇이든 해결하고 집 밖으로 나가지 않아도 살 수 있는 도시가 될 거 같다.#@문장구분# 2020년부터 코로나로 인해 학교도 잘 가지 않고 회사 일도 집에서 해결하는 일이 많아지고 있다.#@문장구분# 그로 인해 가상현실이나 인공지능 분야가 많이 발전했다고 한다.#@문장구분# 아침에 일어나 회사를 가지 않고 책상에 앉아서 가상 현실로 접속하여서 출근하고 다시 퇴근하는 일상이 될 거 같다.#@문장구분# 학교도 지금처럼 비대면이 더 발전해서 모든 수업을 인터넷으로 하게 될 것이다.#@문장구분# 침대에 누워만 있어도 인공지능이 TV를 켜주고 날씨를 알려주는 미래가 된다면 정말 편리할 것이다.#@문장구분# 쇼핑도 가상현실에서 하고 친구도 그 안에서 만나 놀게 될 거 같다.#@문장구분# 미래 도시에서는 가상 현실이 발전하여 지금보다 더 편하고 빠르게 문제가 해결 될 거 같다.#@문장구분#",
+      "paragraph_len": 607,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20.8,
+      20.8
+    ],
+    "essay_scoreT_avg": 23.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 미래 도시에서는 가상 현실이 발전하여 지금보다 더 편하고 빠르게 문제가 해결될 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래 도시에서는 가상 현실이 발전하여 지금보다 더 편하고 빠르게 문제가 <문법_맞춤법>해결 될 거 같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71533",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 428,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제:내가 고래가 된다면.#@문장구분#\n 오늘의 주제는 \"내가 고래가 된다면\"이다. #@문장구분#바닷속에는 신비하고 아름답고 무서운 생물들이 많다 그중에 되고 싶은 생물을 굳이 한 번 골라보자면 고래다.#@문장구분# 오늘은 그 이유를 설명하고 고래가 된다면 할 일을 써 보겠다. #@문장구분#첫번째, 고래가 큰 생물이여서 나는 평소에 자존감도 낮고 걱정을 너무 많이해서 고래같이 아주 큰 생물이 되어 걱정없이 넓은 바다를 돌아다날수 있으면 좋겠다.#@문장구분# 두번째, 가족들과 친구들을 태우고 바다를 돌아다니기 가족들과 친구들이 바다 속에서 숨을 쉴수 있다면 내등에 사랑하는 사람들을 내 등에 태우고 아름답고 신비한 바다속을 구경시켜주고 싶다.#@문장구분# 세번째, 고래가 되어 사진을 찍고싶다 #@문장구분#아름다운 바다 속에서 다른 생물들과 사진을 찍고싶다.#@문장구분# 만약 사진을 인터넷에 올린다면 난 스타가 될것이다.#@문장구분# 이렇게 내가 고래가 된다면을 써봤다 위험해 쳐한 생물들을 구해주는 바다의 안전요원 최고!#@문장구분#",
+      "paragraph_len": 656,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      26.75,
+      24.9
+    ],
+    "essay_scoreT_avg": 24.766668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 오늘의 주제는 '내가 고래가 된다면'이다. ",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "\n 오늘의 주제는 <문법_기타>\"내가 고래가 된다면\"</문법_기타>이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바닷속에는 신비하고 아름답고 무서운 생물들이 많다. 그중에 되고 싶은 생물을 굳이 한 번 골라보자면 고래다.",
+      "sentence_corr_reason": [
+        "문장부호 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "바닷속에는 신비하고 아름답고 무서운 생물들이 <문법_기타>많다</문법_기타> 그중에 되고 싶은 생물을 굳이 한 번 골라보자면 고래다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫 번째, 나는 평소에 자존감도 낮고 걱정을 너무 많이 해서 고래같이 아주 큰 생물이 되어 걱정없이 넓은 바다를 돌아다날 수 있으면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>첫번째</문법_맞춤법>, 고래가 큰 <문법_조사><문법_어미>생물이여서</문법_어미></문법_조사> 나는 평소에 자존감도 낮고 걱정을 너무 많이해서 고래같이 아주 큰 생물이 되어 걱정없이 넓은 바다를 돌아다날수 있으면 좋겠다.",
+      "sentence_corr_txt_styling": "첫 번째, 나는 평소에 자존감도 낮고 걱정을 너무 많이 해서 고래같이 아주 큰 생물이 되어 걱정없이 넓은 바다를 돌아다날 수 있으면 좋겠다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째, 가족들과 친구들을 태우고 바다를 돌아다니고 싶다. 가족들과 친구들이 바다 속에서 숨을 쉴 수 있다면 사랑하는 사람들을 내 등에 태우고 아름답고 신비한 바다속을 구경시켜주고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째</문법_맞춤법>, 가족들과 친구들을 태우고 바다를 <문법_조사><문법_어미>돌아다니기</문법_어미></문법_조사> 가족들과 친구들이 바다 속에서 숨을 쉴수 있다면 <스타일링_패러프레이징>내등에 사랑하는 사람들을 내 등에 태우고</스타일링_패러프레이징> 아름답고 신비한 바다속을 구경시켜주고 싶다.",
+      "sentence_corr_txt_styling": " 두 번째, 가족들과 친구들을 태우고 바다를 돌아다니고 싶다. 가족들과 친구들이 바다 속에서 숨을 쉴 수 있다면 사랑하는 사람들을 내 등에 태우고 아름답고 신비한 바다속을 구경시켜주고 싶다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세번째, 고래가 되어 사진을 찍고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호",
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 세번째, 고래가 되어 사진을 <문법_맞춤법><문법_기타>찍고싶다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아름다운 바다 속에서 다른 생물들과 사진을 찍고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아름다운 바다 속에서 다른 생물들과 사진을 <문법_맞춤법>찍고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 사진을 인터넷에 올린다면 난 스타가 될 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 사진을 인터넷에 올린다면 난 스타가 <문법_맞춤법>될것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 '내가 고래가 된다면'을 주제로 글을  써 봤다. 위험에 처한 생물들을 구해주는 바다의 안전요원 최고!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 이렇게 <문법_맞춤법><문법_기타>내가 고래가 된다면을 써봤다</문법_기타></문법_맞춤법> 위험해 쳐한 생물들을 구해주는 바다의 안전요원 최고!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38349",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 457,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

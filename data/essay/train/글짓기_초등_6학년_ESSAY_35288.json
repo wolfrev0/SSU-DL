@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 바다생물 중 하나가 된다면 해파리가 되고 싶다.#@문장구분# 그이유는 해파리는 아름답고 독이있어 자신을 지킬 수있다 그리고 여러가지 빛을 내며 아주 예쁘다. #@문장구분#해파리는 촉수에 있는 자세포가 먹이를 마비시켜 잡아먹고 마비된 먹이를 몸안에서 소화시킨다#@문장구분#. 해파리에 쏘이면 호흡이 곤란애지고 심장박동이 느려지거나 멈추어 몇분안에 사망한다.#@문장구분# 2021년도 8월에는 크림반도 해변에서 많은 해파리들이 있었다. #@문장구분#여름이면 많이가는 곳인데 해파리가 출목한 후 관광객들은 오지않는다.#@문장구분#전문가들은 해파리가 폭증한 이유로는 지구온난화를 꼽았다.#@문장구분# 아조프 해변에 건조하고 따뜻한 날씨가 이어지면서 바다로 들어오는 담수에 양이 줄어서 라고 한다. #@문장구분#해파리는 예쁘지만 독이 있고, 지구온난화가 심해질수록 해파리는 많아지므로 지구온난화를 막아야 할 것 같다.#@문장구분#",
+      "paragraph_len": 579,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.75,
+      18.95,
+      21.55
+    ],
+    "essay_scoreT_avg": 20.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 바다 생물 중 하나가 된다면 해파리가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>바다생물</문법_맞춤법> 중 하나가 된다면 해파리가 되고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 해파리는 아름답고 독이 있어 자신을 지킬 수 있다. 그리고 여러 가지 빛을 내며 아주 예쁘다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는 해파리는 아름답고 독이있어 자신을 지킬 수있다 그리고 여러가지</문법_맞춤법> 빛을 내며 아주 예쁘다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ". 해파리에 쏘이면 호흡이 곤란해지고 심장 박동이 느려지거나 멈추어 몇 분 안에 사망한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": ". 해파리에 쏘이면 호흡이 <문법_맞춤법>곤란애지고 심장박동이</문법_맞춤법> 느려지거나 멈추어 몇분안에 사망한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 2021년도 8월에는 크림 반도 해변에서 많은 해파리들이 있었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 2021년도 8월에는 <문법_맞춤법>크림반도</문법_맞춤법> 해변에서 많은 해파리들이 있었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여름이면 많이 가는 곳인데 해파리가 출몰한 후 관광객들은 오지 않는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여름이면 <문법_맞춤법>많이가는</문법_맞춤법> 곳인데 해파리가 출목한 후 관광객들은 오지않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "전문가들은 해파리가 폭증한 이유로는 지구 온난화를 꼽았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "전문가들은 해파리가 폭증한 이유로는 <문법_맞춤법>지구온난화를</문법_맞춤법> 꼽았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아조프 해변에 건조하고 따뜻한 날씨가 이어지면서 바다로 들어오는 담수의 양이 줄어서라고 한다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 아조프 해변에 건조하고 따뜻한 날씨가 이어지면서 바다로 들어오는 <문법_조사>담수에</문법_조사> 양이 <문법_맞춤법>줄어서 라고</문법_맞춤법> 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "해파리는 예쁘지만 독이 있고, 지구 온난화가 심해질수록 해파리는 많아지므로 지구 온난화를 막아야 할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "해파리는 예쁘지만 독이 있고, <문법_맞춤법>지구온난화가</문법_맞춤법> 심해질수록 해파리는 많아지므로 지구온난화를 막아야 할 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35288",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 400,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕. 나는 저 깊은 바다 속에 살고 잇는 힌동가리라고 해. #@문장구분#난 모에 흰색 줄무늬가 있어.#@문장구분# 맞아. 난 '니모를 찾아서'의 니모야. #@문장구분#난 말미잘에 살고있어. #@문장구분#말미잘에는 독이 있어서 함부러 만지면 안돼.#@문장구분# 하지만 우리의 몸은 말미잘의 독에 면역되어 있어서 말미잘에 몸이 닿여도 상관없는거지. #@문장구분#그래서 우리는 우리를 잡으려는 물고기가 쫒아오면 말미잘에 숨어서 몸을 피해.#@문장구분# 너희는 내가 공격적이지 않을 것 같지?#@문장구분# 아니야. 우리도 우리의 보금자리를 공격받으면 아주 많고 날카로운 이빨로 공격을 한다고. #@문장구분#그러니 보금자리는 건들지 않는걸로 약속?#@문장구분#\n 그런데 이렇게 평화롭던 우리에게도 큰 일이 들이 닥쳤어.#@문장구분#우리가 주인공인 '니모를 찾아서'가 크게 흥행하며 우리를 무차별 적 포획이 진행되며 우리는 큰 어려움을 겪었지.#@문장구분#\n 어때? 잘 알지 못했던 우리에 대해서 잘 알게 되었지? #@문장구분#이렇게 귀여운 우리를 오래 보고 싶다면 환경을 더럽히지 않고 잘 지켜줘. #@문장구분#그럼 안녕.",
+      "paragraph_len": 750,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.35,
+      21.6,
+      21.6
+    ],
+    "essay_scoreT_avg": 20.516668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "055",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_77682",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 471,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

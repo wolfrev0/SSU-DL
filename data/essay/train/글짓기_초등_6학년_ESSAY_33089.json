@@ -1,0 +1,340 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 되었으면 하는 생물은 가자미 입니다.#@문장구분# 왜냐하면 가자미는 넓적해 바닥에 누어있음 티가 않나기 때문입니다.#@문장구분# 그래서 상어같은 무서운 생물에게도 잘 들키지 않을 것 같기 때문에 가자미가 되고 싶다고 한 것이였습니다.#@문장구분# 또 두번째로 되고싶은 것은 상어 입니다.#@문장구분# 왜냐하면, 상어가 제일 무섭기도 하고 먹잇감을 구하러 다니면 물고기들을 먹기때문에 상어가 되고 싶다고 한 것입니다.#@문장구분# 또 상어는 많은 물고기 들을 먹기에 많은 물고기들의 맛을 볼 수 있어 그게 부러워 상어가 되고 싶다고 한 것입니다.#@문장구분# 또한 상어는 바다 생물중에 무서운 생물이라 죽을 항률로도 낮기 때문입니다.#@문장구분# 제가 마지막으로 되고 싶은 바다 생물은 해마입니다.#@문장구분# 해마는 우아하면서 작고 꼬리가 말아져 있는게 귀엽기 때문입니다.#@문장구분# 그래서 저는 만약 되고 싶은 바다 생물을 말하라 하면 이 세개의 바다 생물을 말 할 것 같습니다.#@문장구분# 왜냐하면 이세개의 바다 생물들은 각각 자신들의 매력을 가지고 있기 때문에 더 끌립니다.#@문장구분# 특해 세개의 생물 중에 가자미가 되고 싶습니다.#@문장구분# 왜냐하면, 몸을 잘 피신 시킬수 있기 때문입니다.#@문장구분# 이상으로 발표를 마치겠습니다.#@문장구분# 감사합니다!#@문장구분#",
+      "paragraph_len": 862,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      29.75,
+      20.5
+    ],
+    "essay_scoreT_avg": 24.033333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 되었으면 하는 생물은 가자미입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "제가 되었으면 하는 생물은 <문법_기타>가자미 입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 가자미는 넓적해 바닥에 누워있으면 티가 안나기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 가자미는 넓적해 바닥에 <문법_맞춤법><문법_어미><문법_기타>누어있음 티가 않나기</문법_기타></문법_어미></문법_맞춤법> 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 상어 같은 무서운 생물에게도 잘 들키지 않을 것 같기 때문에 가자미가 되고 싶다고 한 것이었습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그래서 상어같은 무서운 생물에게도 잘 들키지 않을 것 같기 때문에 가자미가 되고 싶다고 한 것이였습니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 두 번째로 되고 싶은 것은 상어입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>또 두번째로 되고싶은 것은 상어 입니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면, 상어가 제일 무섭기도 하고 먹잇감을 구하러 다니면 물고기들을 먹기 때문에 상어가 되고 싶다고 한 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": " 왜냐하면, 상어가 제일 무섭기도 하고 먹잇감을 구하러 다니면 물고기들을 <문법_어순>먹기때문에 </문법_어순>상어가 되고 싶다고 한 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 상어는 바다 생물 중에 무서운 생물이라 죽을 확률로도 낮기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 상어는 바다 <문법_기타>생물중에 </문법_기타>무서운 생물이라 죽을 <문법_맞춤법>항률</문법_맞춤법>로도 낮기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해마는 우아하면서 작고 꼬리가 말아져 있는 게 귀엽기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 해마는 우아하면서 작고 꼬리가 말아져 <문법_기타>있는게 </문법_기타>귀엽기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 만약 되고 싶은 바다 생물을 말하라 하면 이 세 개의 바다 생물을 말 할 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그래서 저는 만약 되고 싶은 바다 생물을 말하라 하면 이 <문법_기타>세개의 </문법_기타>바다 생물을 말 할 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 이 세 개의 바다 생물들은 각각 자신들의 매력을 가지고 있기 때문에 더 끌립니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_기타>이세개의 </문법_기타>바다 생물들은 각각 자신들의 매력을 가지고 있기 때문에 더 끌립니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 세 개의 생물 중에 가자미가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>특해 </문법_맞춤법><문법_기타>세개의 </문법_기타>생물 중에 가자미가 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면, 몸을 잘 피신 시킬 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면, 몸을 잘 피신 <문법_기타>시킬수 </문법_기타>있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33089",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 563,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

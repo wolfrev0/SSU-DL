@@ -1,0 +1,356 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 이름은 복어입니다. #@문장구분#저는 며칠전에 집을 나와서 대략 7일정도 혼자 바다를 여행하는 중입니다. #@문장구분#위험한 일이 닥쳐도 저는 꿋꿋합니다. #@문장구분#왜냐하면 저에게는 독이 있고 위험하면 가시를 확! 펼칩니다. #@문장구분#그러면 다른 바다생물들도 내가 독을 가진걸 아니까 쉽게 접근하지 못합니다.#@문장구분# 제가 집을 나오고 나서 3일째 되는 어느때...... 나는 태평양을 여행하고 있었다.#@문장구분# 그때 갑자기 아래로 계속 떨어졌다... #@문장구분#눈을 떠보니 깊은 심해였다. #@문장구분#일어나서는 아무것도 보이지 않았지만 걸음이 닫는데로 걸어갔다.#@문장구분# 근데 은은한 빛이 나서 걸어갔다.#@문장구분# 멀리서 볼땐 우주같이 예뻤지만, 가까이서보니깐 겁을먹었다.#@문장구분# 그래서 빠져나갈려고 했다.#@문장구분# 하지만 나갈 방법이 없어서 그냥 심해를 걷기도 했습니다.#@문장구분# 걷다보니까 아까 그 무서운 아귀의 불빛보다 더 많은 빛이 있었습니다.#@문장구분# 몸이 투명한 신기한 바다생물들도 많이 많났고 그중에서 엄청 큰 대왕문어도 만났습니다.#@문장구분# 문어가 심해 위까지 데려다주어서 안전하게 집으로 갔습니다.#@문장구분# 심해여행은 마치 우주여행 같았습니다.",
+      "paragraph_len": 826,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.5,
+      23.45,
+      25.5
+    ],
+    "essay_scoreT_avg": 25.483332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 며칠 전에 집을 나와서 대략 7일 정도 혼자 바다를 여행하는 중입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>며칠전에 </문법_맞춤법>집을 나와서 대략 7일정도 혼자 바다를 여행하는 중입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "왜냐하면 저에게는 독이 있고 위험하면 가시를 확! 펼칩니다. ",
+      "sentence_corr_txt_styling": "왜냐하면 저에게는 독이 있고 위험하면 가시를 확! 펼칩니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러면 다른 바다 생물들도 내가 독을 가진 걸 아니까 쉽게 접근하지 못합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러면 다른 바다생물들도 내가 독을 <문법_맞춤법>가진걸 </문법_맞춤법>아니까 쉽게 접근하지 못합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 집을 나오고 나서 3일째 되는 어느 때...... 나는 태평양을 여행하고 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 제가 집을 나오고 나서 3일째 되는 <문법_맞춤법>어느때</문법_맞춤법>...... 나는 태평양을 여행하고 있었다.",
+      "sentence_corr_txt_styling": " 제가 집을 나오고 나서 3일째 되는 어느 때...... 나는 태평양을 여행하고 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그때 갑자기 아래로 계속 떨어졌다... ",
+      "sentence_corr_txt_styling": " 그때 갑자기 아래로 계속 떨어졌다... ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "눈을 떠보니 깊은 심해였다. ",
+      "sentence_corr_txt_styling": "눈을 떠보니 깊은 심해였다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일어나서는 아무것도 보이지 않았지만 걸음이 닿는 대로 걸어갔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "일어나서는 아무것도 보이지 않았지만 걸음이 <문법_맞춤법>닫는데로 </문법_맞춤법>걸어갔다.",
+      "sentence_corr_txt_styling": "일어나서는 아무것도 보이지 않았지만 걸음이 닿는 대로 걸어갔다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 근데 은은한 빛이 나서 걸어갔다.",
+      "sentence_corr_txt_styling": " 근데 은은한 빛이 나서 걸어갔다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 멀리서 볼 땐 우주같이 예뻤지만, 가까이서 보니 겁을 먹었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 멀리서 <문법_맞춤법>볼땐 </문법_맞춤법>우주같이 예뻤지만, <문법_어미>가까이서보니깐 </문법_어미>겁을먹었다.",
+      "sentence_corr_txt_styling": " 멀리서 볼 땐 우주같이 예뻤지만, 가까이서 보니 겁을 먹었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 빠져나가려고 했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 <문법_어미>빠져나갈려고 </문법_어미>했다.",
+      "sentence_corr_txt_styling": " 그래서 빠져나가려고 했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 몸이 투명한 신기한 바다 생물들도 많이 많났고 그중에서 엄청 큰 대왕문어도 만났습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 몸이 투명한 신기한 <문법_맞춤법>바다생물들도 </문법_맞춤법>많이 많났고 그중에서 엄청 큰 대왕문어도 만났습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 심해 여행은 마치 우주 여행 같았습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>심해여행은 </문법_맞춤법>마치 우주여행 같았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56845",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 508,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

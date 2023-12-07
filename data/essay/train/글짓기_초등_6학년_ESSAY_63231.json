@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 상어가 되고 싶었다.#@문장구분# 그 중에서도 날렵하고 사나운 범상어.#@문장구분# 마치 축추전국시대에 패권을 잡은 듯한 기분이 어떤 건지 궁금했다.#@문장구분# 아무도 무서워하지 않아 편하게 살 수 있을까? #@문장구분#아니면 다른 누가 쿠데타를 일으킬까 벌벌 떨까?#@문장구분#\n 그런데 젠장, 나를 기다리는 건 권력이 아니라 상어만(그것도 범상어만?)전문적으로 잡는 사냥꾼들이었다. #@문장구분#아무리 강해도 인간은 이길 수 없다.#@문장구분# 이것이 교훈이다.#@문장구분#\n 나는 지금 쫓기고 있다.#@문장구분# 누구한테 좇기냐고?#@문장구분# 뒤에는 사냥꾼, 앞에는 백상아리! #@문장구분#완전히 사면초가다.#@문장구분# 왼쪽으로! 으, 쓰레기냄새.#@문장구분# 그렇다면 우현? 더 지독한 냄새로 쓰러지고 말았다. #@문장구분#쓰레기 포에버군.#@문장구분# 뭐, 지독한 인간들의 잘못이지.#@문장구분# 나에게 응징을 당해야 해. #@문장구분#그런 생각 하기 전에 억! 잡혔다.#@문장구분# \n 나는 지금 그물에 걸려 해변가에서 말려지고 있다.#@문장구분# 내가 말린 오징어도 아니고 이게 뭐람.#@문장구분# 어떻게든 끊어보려 하지만 잘 되지 않는다. #@문장구분#아, 맞다! 이빨을 쓰면 되지!#@문장구분# 끄응~ 끄응~ 오, 드디어! 질기디 질긴 그물을 드디어 풀었다! #@문장구분#자유로운 바다여, 내가 간다!",
+      "paragraph_len": 986,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.5,
+      19.85,
+      22.65
+    ],
+    "essay_scoreT_avg": 22.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그중에서도 날렵하고 사나운 범상어.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그 중에서도 </문법_맞춤법>날렵하고 사나운 범상어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마치 춘추전국시대에 패권을 잡은 듯한 기분이 어떤 건지 궁금했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마치 <문법_맞춤법>축추전국시대에 </문법_맞춤법>패권을 잡은 듯한 기분이 어떤 건지 궁금했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 그런데 젠장, 나를 기다리는 건 권력이 아니라 상어만(그것도 범상어만?)전문적으로 잡는 사냥꾼들이었다. ",
+      "sentence_corr_txt_styling": "\n 그런데 젠장, 나를 기다리는 건 권력이 아니라 상어만(그것도 범상어만?)전문적으로 잡는 사냥꾼들이었다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런 생각을 하기 전에 억! 잡혔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "그런 <문법_조사>생각 하기</문법_조사> 전에 억! 잡혔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63231",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 527,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

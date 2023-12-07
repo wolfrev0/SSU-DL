@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 간호사가 꿈인 학생이다.#@문장구분# 나는 남자로서 처음에는 간호사라는 직업이 여자가 많고 남자가 별로 없으니깐 조금 힘들지 않을까?라고 생각했지만 요즘에는 남자간호사가 많이 늘어서 조금 더 꿈에 대한 확신을 가질 수 있게 되었다. #@문장구분#남자 간호사는 주로 힘을 쓰는 일을 많이 한다고 한다. #@문장구분#정신병원같은 직장은 예상대로 환자분에게 안정을 주기위해서는 힘을 어느정도 써야 제압을 하고 편한 서비스를 드릴 수 있기 때문에 대단한 체력과 힘 그리고 인내심이 내가 간호사라는 직업을 꿈꾸면서 가장 가져야할 자질이라고 생각한다.#@문장구분# 그리고 간호사는 의사 다음으로 환자에게 직접적인 영향을 주는 사람이다.#@문장구분# 그래서 의학에 대한 상당한 지식을 가져야하고 자신의 전문지식에 대한 확신이 있어야하므로 학습에 대한 열망과 지식추구에 대한 욕심이 있어야하고 그래서 현재 과학과 수학 과목에 최선을 다라고 있다. #@문장구분#나는 미래에 멋진 간호사가 되는것이 꿈이다. #@문장구분#환자에게 책임감을 다해서 환자와 환자의 보호자가 감사함을 느끼는 그런 존재가 되어있을것이고 되기 위해 현재를 충실히 살아갈 것이다.",
+      "paragraph_len": 672,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.8333333,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7777777,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.333332,
+      27.38889,
+      23.166666
+    ],
+    "essay_scoreT_avg": 25.296295,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_72844",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 532,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

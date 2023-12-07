@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래의 도시는 AI가 발전 했을것이다.#@문장구분# AI가 발전해서 로봇이 밥을 만들고 로봇이 운전을 대신 해줄것같다.#@문장구분# 또 집안일도 로봇이 하고 청소도 로봇이 할거같다. #@문장구분#하지만 로봇으로 인해 일자리를 잃는 사람들도 발생할것같다. #@문장구분#예를 들어서 로봇이 청소를 하는 바람에 가정부가 할 일이 없어서 일자리를 잃거나 식당 서빙 일도 로봇이 해서 아르바이트를 못할 거 같다. #@문장구분#일자리를 잃은 사람들은 정부에 실업자를 위한 대책을 세워달라 항의를 할것이고 그렇게되면 법도 만들어질것이다.#@문장구분# 이렇게 점점 AI를 중심으로한 사회가 만들어 질것같다.#@문장구분#AI를 이용한 범죄도 늘고 다른 범죄들도 같이 늘거 같다. #@문장구분#그리고 AI의 좋은 점이 또 있는데 인간은 컨디션과 집중력,기운같은 요소들로 수술이나 다른 것들을 좌지우지하게 되는데 AI로 인해서 결과물을 얻고자 할때는 다른 세부적 요소가 필요하지 않기 때문에 더 나은 결과를 얻을 수 있게 된다.#@문장구분#",
+      "paragraph_len": 640,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      24.5,
+      21.3
+    ],
+    "essay_scoreT_avg": 24.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33376",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 462,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

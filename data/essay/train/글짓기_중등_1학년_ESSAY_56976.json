@@ -1,0 +1,219 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각한 미래도시의 이름은 필드 오버이다.#@문장구분# 미래에는 새로운 에너지 자원으로 우리가 현재 상상할 수 있는 거 말고 상상하지 못한 마법같은 일들이 일어날 것이다.#@문장구분# 가령 판타지 세계처럼 마법을 쓴다던가 아무런 장치 없이 하늘을 날아 다닌다거나, 혹은 진짜로 마법을 쓴다던가하는 그런 일들이 우리 미래의 일상에서 기다릴 수 있다고 충분이 생각한다.#@문장구분# 순간이동은 물론 우주에 있는 웜홀을 통한 성계끼리의 이동등 지금의 우리로서는 상상하지 못한 일을 자유롭게 하고 다닐 것이라고 본다.#@문장구분# 그리고 현재 지금 치료할 수 없는 불치병들을 손쉽게 감기 걸린 것처럼 고쳐 버리는 그런 의학이 발달하여 병도 없고 수명도 없는 세계가 기다릴 것이다.#@문장구분# 우리 모두가 다른 행성으로 이동할 때 서울에서 부산 가듯이 편하게 KTX 이하듯이 하루 혹은 단 몇 시간 만에 갈 수 있을 것이고 정말로 외계 생명체가 있다면 그들과 소통하며 서로 교류하고 우리 과학 기술이 더더욱 발전하는 미래가 있을 것이다.#@문장구분#",
+      "paragraph_len": 607,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.1,
+      19.2,
+      24.25
+    ],
+    "essay_scoreT_avg": 23.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 미래에는 새로운 에너지 자원으로 우리가 현재 상상할 수 있는 것 말고 상상하지 못한 마법같은 일들이 일어날 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래에는 새로운 에너지 자원으로 우리가 현재 상상할 수 있는 <문법_맞춤법>거 </문법_맞춤법>말고 상상하지 못한 마법같은 일들이 일어날 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가령 판타지 세계처럼 마법을 쓴다던가 아무런 장치 없이 하늘을 날아 다닌다거나, 혹은 진짜로 마법을 쓴다든가 하는 그런 일들이 우리 미래의 일상에서 기다릴 수 있다고 충분히 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 가령 판타지 세계처럼 마법을 쓴다던가 아무런 장치 없이 하늘을 날아 다닌다거나, 혹은 진짜로 마법을 <문법_맞춤법><문법_어미>쓴다던가하는 </문법_어미></문법_맞춤법>그런 일들이 우리 미래의 일상에서 기다릴 수 있다고 충분이 생각한다.",
+      "sentence_corr_txt_styling": " 가령 판타지 세계처럼 마법을 쓴다던가 아무런 장치 없이 하늘을 날아 다닌다거나, 혹은 진짜로 마법을 쓴다든가 하는 그런 일들이 우리 미래의 일상에서 기다릴 수 있다고 충분히 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 순간이동은 물론 우주에 있는 웜홀을 통한 성계끼리의 이동 등 지금의 우리로서는 상상하지 못한 일을 자유롭게 하고 다닐 것이라고 본다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 순간이동은 물론 우주에 있는 웜홀을 통한 성계끼리의 <문법_맞춤법>이동등 </문법_맞춤법>지금의 우리로서는 상상하지 못한 일을 자유롭게 하고 다닐 것이라고 본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 우리 모두가 다른 행성으로 이동할 때 서울에서 부산 가듯이 편하게 KTX 이하듯이 하루 혹은 단 몇 시간 만에 갈 수 있을 것이고 정말로 외계 생명체가 있다면 그들과 소통하며 서로 교류하고 우리 과학 기술이 더더욱 발전하는 미래가 있을 것이다.",
+      "sentence_corr_txt_styling": " 우리 모두가 다른 행성으로 이동할 때 서울에서 부산 가듯이 편하게 KTX 이하듯이 하루 혹은 단 몇 시간 만에 갈 수 있을 것이고 정말로 외계 생명체가 있다면 그들과 소통하며 서로 교류하고 우리 과학 기술이 더더욱 발전하는 미래가 있을 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56976",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 488,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

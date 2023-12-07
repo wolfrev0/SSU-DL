@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "얼마 전에 할아버지께서 돌아가셨다.#@문장구분# 난 할아버지가 돌아가시기 2주 전에 할아버지 댁을 방문했다.#@문장구분# 그전부터 할아버지의 몸 상태가 매우 안 좋으시다고 하였지만 팔팔하게 움직이시는 할아버지를 보면 괜찮으신 거겠지 하고 조금 안심하고 넘어갔었다.#@문장구분# 2주 전 역시 할아버지는 우리를 위해서 아빠와 함께 마트에 간식거리를 사러 나가셨다.#@문장구분# 그래서 나는 할아버지가 계속 저렇게 움직이시는 것을 보고 익숙함을 느꼈던 것 같다.#@문장구분# 또 그날 할아버지가 마트에 장 보러 나가셨을 때 할아버지의 죽음에 대해 생각을 해 본적이 있었다.#@문장구분# 할아버지가 죽으면 아빠는 얼마나 슬퍼할까?#@문장구분# 아빠가 울까?#@문장구분# 하면서 생각을 하다가 이상한 생각을 하는 것 같아서 그만뒀던 적이 있다.#@문장구분# 근데 방학 마지막째 주에 그 답을 찾았던 것 같다. #@문장구분#할아버지가 갑작스럽게 심장이 멎어 돌아가시니 기분이 묘했다.#@문장구분# 얼마 전에 봤던 할아버지가 이제 더는 볼 수 없다는 것이 너무 슬펐다.#@문장구분# 그래서 난 그 이후로 그 소중함을 지키고자 할아버지가 나에게 바라셨던 소원을 이루기 위해서 열심히 살아야겠다고 다짐했었다.#@문장구분# 그래서 공부도 전보다 더 열심히 하고 게을리 살지 않고 더 나은 사람이 된 나의 모습을 보여드리기 위해 지금도 계속해서 노력하고 있다.#@문장구분#",
+      "paragraph_len": 884,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.8333333,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7777777,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.722221,
+      24.5,
+      24
+    ],
+    "essay_scoreT_avg": 25.074074,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.13",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "051",
+    "student_grade_group": "고등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33993",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 604,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리가 지금 살고 있는 이 순간에도 기술의 발전은 이루어지고 있으며 이러한 기술은 앞으로도 무한하게 이루어질 수 있는 역량을 가지고 있다고 생각한다.#@문장구분# 그리고 이러한 기술이 지금보다 훨씬 더 발전된 미래에는 지금의 세상과는 또 다른 어떠한 세계관을 구축하고 있을 것이라고 생각된다.#@문장구분# 나는 AI와 관련된 영화를 많이 봤는데, 이러한 공상과학 영화를 보면서 미래에 대해서 생각해보는 시간을 즐긴다.#@문장구분# 나는 만약 미래에 우리의 기술이 많이 발전된다면 인공지능으로 우리가 할 수 없는 모든 것을 할 수 있도록 만들 것 같다.#@문장구분# 우리는 아직 바다 생물의 80%정도를 알지 못한다고 하는데 이러한 심해까지 인공지능이 개입되어서 우리가 아는 지식이 점점 늘어날 수 있을 것이라고 생각한다.#@문장구분# 그리고 나는 이러한 미래에 우리가 사는 도시를 모르는 것이 없는 세상이라고 이름을 붙이고 싶다.#@문장구분# 우리는 미래에 이러한 여러 가지 연구들과 인공지능으로 인간이 하지 못하는 실험을 하는 등으로 많은 지식을 축적해나갈 것이라고 생각했기 때문이다.#@문장구분#",
+      "paragraph_len": 650,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.9,
+      27.6,
+      24
+    ],
+    "essay_scoreT_avg": 26.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71152",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 510,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

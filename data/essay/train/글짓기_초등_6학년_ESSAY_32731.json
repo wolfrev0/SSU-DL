@@ -1,0 +1,331 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다는 아름답고 넓고 신비로운 곳입니다#@문장구분# 그바다에는 많은 생물이 있다#@문장구분# 예로 들면 물고기 상어 고래등 많은 생물들이 있다#@문장구분# 밝혀지지않은 바다생물들도 많다#@문장구분# 착한 바다생물도 있지만 나쁘고 위험한 바다생물도 있다#@문장구분# 위험한 바다생물로 예를 들면 상어 고래?등 위험한 바다생물들이 더 있을것이다#@문장구분# 내가 바다생물중에 되고 싶은 애가 있다면 고래가 되고 싶다#@문장구분# 고래는 딴딴해서 바로 죽지 않을거같고 작은 고래는 묘기를 부릴수 있어서 고래가 나은거같다#@문장구분# 고래는 살짝 수족관인곳 에서 인간이랑 묘기를 부려보고 싶다#@문장구분# 그럼 사람들이 신기해하고 재밋어 하니깐 보기 좋을 거같다#@문장구분# 그리고 물속에서 한번 살아보고 싶다 물속에 살면 어떨까?#@문장구분# 춥진 않을까?#@문장구분# 그리고 바다생물이면 다른 바다생물과 이야기 할수 있을거같다 다른 바다생물들은 무슨 이야기를 할까?#@문장구분# 정말 궁금하다#@문장구분# 그리고 수족관인곳 가서 묘기 하고 돈을 벌면 나의 간식도 많아지는 거니깐 기분이 좋을거같다#@문장구분# 근데 옛날부터 궁금했는데 동물들의 간식은 무슨 맛인지 궁금했었다#@문장구분# 살짝 맛이 이상할거같다#@문장구분#",
+      "paragraph_len": 846,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      28,
+      23.6
+    ],
+    "essay_scoreT_avg": 23.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 바다에는 많은 생물이 있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그바다에는 </문법_기타>많은 생물이 있다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예로 들면 물고기 상어 고래 등 많은 생물들이 있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 예로 들면 물고기 상어 <문법_기타>고래등</문법_기타> 많은 생물들이 있다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 밝혀지지 않은 바다생물들도 많다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>밝혀지지않은 </문법_기타>바다생물들도 많다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위험한 바다생물로 예를 들면 상어 고래? 등 위험한 바다생물들이 더 있을 것이다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 위험한 바다생물로 예를 들면 상어 고<문법_기타>래?등</문법_기타> 위험한 바다생물들이 더 있을것이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 바다생물 중에 되고 싶은 애가 있다면 고래가 되고 싶다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 내가 <문법_기타>바다생물중에 </문법_기타>되고 싶은 애가 있다면 고래가 되고 싶다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래는 딴딴해서 바로 죽지 않을 거 같고 작은 고래는 묘기를 부릴 수 있어서 고래가 나은 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>고래는 딴딴해서 바로 죽지 않을거같고 작은 고래는 묘기를 부릴수 있어서 고래가 나은거같다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래는 살짝 수족관인 곳에서 인간이랑 묘기를 부려보고 싶다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 고래는 살짝 <문법_기타>수족관인곳 에서</문법_기타> 인간이랑 묘기를 부려보고 싶다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 사람들이 신기해하고 재밌어 하니깐 보기 좋을 거 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그럼 사람들이 신기해하고 <문법_맞춤법>재밋어 </문법_맞춤법>하니깐 보기 좋을 <문법_기타>거같다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 바다생물이면 다른 바다생물과 이야기할 수 있을 거 같다 다른 바다생물들은 무슨 이야기를 할까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 바다생물이면 다른 바다생물과 이야기 할수 있을거같다 다른 바다생물들은 무슨 이야기를 할까?</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 수족관인 곳에 가서 묘기하고 돈을 벌면 나의 간식도 많아지는 거니깐 기분이 좋을 거 같다",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 <문법_조사><문법_기타>수족관인곳 </문법_기타></문법_조사>가서 묘기 하고 돈을 벌면 나의 간식도 많아지는 거니깐 기분이 좋을거같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 살짝 맛이 이상할 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 살짝 맛이 <문법_기타>이상할거같다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32731",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 506,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

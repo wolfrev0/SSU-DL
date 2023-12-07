@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다는 정말 넓고 신비로운 곳 입니다.#@문장구분# 바다는 여러 관광지로 쓰이고 있는데요.#@문장구분# 그곳에서 수영하고 선탠하고 비치볼로 노는등 다양하게 활용되고 있죠.#@문장구분# 바다의 산소는 우리가 살고있는 육지보다 산소가 많다고 해요.#@문장구분# 하지만 우리는 바다에서 숨을 쉬지 못 해요.#@문장구분# 그래서 우린 바다에서 사는 동물들이 신기한 것 입니다.#@문장구분# 당신도 어떨때 자기가 바다생물로 태었나보았다면 이라는 생각을 단 1번 쯤 그랬을거에요.#@문장구분# 그럼 생각해 봅시다#@문장구분# 우리가 만약 바다생물이 된다면 어떤 바다 생물이 되고 싶나요?#@문장구분# 저는 바다생물이 된다면 문어가 되고 싶어요.#@문장구분# 왜냐하면 문어는 유연하고 은신을 할 수 있고 먹물로 도망치는 것도 가능하고 은신해서 놀리는 것 도 되고 되게 재미있을 것 같아서 문어를 선택했습니다.#@문장구분# 이렇게 재미있고 신비롭고 상상이 가능한 바다가 항상 좋은 것 만은 아닙니다.#@문장구분# 바다는 파도를 일으키는데 그게 너무 크면 쓰나미가 되어 우리의 자원들 곡식들 집들이 다 파괴가 됩니다.#@문장구분# 이렇게 바다는 즐겁고 재미있고 신비롭지만 그렇다고 해서 다 좋은 것 만은 아니라는 것을 명심해야 되겠 습니다.#@문장구분#",
+      "paragraph_len": 818,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      10.25,
+      20,
+      22.25
+    ],
+    "essay_scoreT_avg": 17.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.06",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다는 정말 넓고 신비로운 곳입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "바다는 정말 넓고 신비로운 <문법_기타>곳 입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다의 산소는 우리가 살고 있는 육지보다 산소가 많다고 해요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 바다의 산소는 우리가 <문법_기타>살고있는 </문법_기타>육지보다 산소가 많다고 해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 우리는 바다에서 숨을 쉬지 못해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하지만 우리는 바다에서 숨을 쉬지 <문법_기타>못 해요.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 우린 바다에서 사는 동물들이 신기한 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그래서 우린 바다에서 사는 동물들이 신기한 <문법_기타>것 입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 당신도 어떨 때 자기가 바다생물로 태어났다면이라는 생각을 단 1번쯤 해 봤을 거예요.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_조사><문법_어미><문법_기타>당신도 어떨때 자기가 바다생물로 태었나보았다면 이라는 생각을 단 1번 쯤 그랬을거에요.</문법_기타></문법_어미></문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 문어는 유연하고 은신을 할 수 있고 먹물로 도망치는 것 도 가능하고 은신해서 놀리는 것 도 되고 되게 재미있을 것 같아서 문어를 선택했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 문어는 유연하고 은신을 할 수 있고 먹물로 도망치는 <문법_기타>것도 </문법_기타>가능하고 은신해서 놀리는 것 도 되고 되게 재미있을 것 같아서 문어를 선택했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 바다는 즐겁고 재미있고 신비롭지만 그렇다고 해서 다 좋은 것 만은 아니라는 것을 명심해야 되겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 이렇게 바다는 즐겁고 재미있고 신비롭지만 그렇다고 해서 다 좋은 것 만은 아니라는 것을 명심해야 <문법_기타>되겠 습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33096",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 538,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

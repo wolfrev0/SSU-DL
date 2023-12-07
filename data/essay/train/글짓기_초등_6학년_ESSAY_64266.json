@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "난 바다 거북이야. #@문장구분#사람들이 날 느리다고 생각하지만 나 장거리 수영 아주 잘해.#@문장구분# 짧은 거리는 32KM이상으로 헤엄칠 수 있어.#@문장구분# 우리 몸은 다리가 물갈퀴로 변형되고 한 번 들이마신 호흡으로 장시간 바다에서 머물 수 있도록 신체기능이 단련되긴 했지만 육지에서 살던 습성을 완전히 못 버리지 못해서 육지에서 부화하고 여전히 허파호흡을 해야 해.#@문장구분# 오늘은 앞이 잘 안 보여서 밥도 못 먹었어. 검은 물체가 내 눈 앞을 계속 가려와서 말이야. #@문장구분#다행이 친구들을 만나서 친구들이 도와줬어. #@문장구분#요새 바다 안으로 쓰레기가 자꾸 버려지는 거 같아 너무 슬퍼. #@문장구분#난 수영할 때가 가장 행복한데 요새는 쓰레기들도 너무 많이 버려져 있고 잘못하면 다칠 수 있어서 놀지도 못해 얼른 수영하며 놀면서 아름다운 바다 풍경을 볼 날이 오길 기도하면서 ,, 그럼 안녕#@문장구분#",
+      "paragraph_len": 568,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.25,
+      26.95,
+      25
+    ],
+    "essay_scoreT_avg": 24.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "난 바다거북이야. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "난 <문법_맞춤법>바다 거북</문법_맞춤법>이야. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 짧은 거리는 32KM 이상으로 헤엄칠 수 있어.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 짧은 거리는 32KM<문법_맞춤법>이상으로 </문법_맞춤법>헤엄칠 수 있어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 몸은 다리가 물갈퀴로 변형되고 한 번 들이마신 호흡으로 장시간 바다에서 머물 수 있도록 신체기능이 단련되긴 했지만 육지에서 살던 습성을 완전히 못 버리지 못해서 육지에서 부화하고 여전히 허파 호흡을 해야 해.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리 몸은 다리가 물갈퀴로 변형되고 한 번 들이마신 호흡으로 장시간 바다에서 머물 수 있도록 신체기능이 단련되긴 했지만 육지에서 살던 습성을 완전히 못 버리지 못해서 육지에서 부화하고 여전히 <문법_맞춤법>허파호흡을 </문법_맞춤법>해야 해.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오늘은 앞이 잘 안 보여서 밥도 못 먹었어. 검은 물체가 내 눈앞을 계속 가려와서 말이야. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 오늘은 앞이 잘 안 보여서 밥도 못 먹었어. 검은 물체가 내 <문법_맞춤법>눈 앞을 </문법_맞춤법>계속 가려와서 말이야. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다행히 친구들을 만나서 친구들이 도와줬어. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>다행이 </문법_맞춤법>친구들을 만나서 친구들이 도와줬어. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64266",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 409,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

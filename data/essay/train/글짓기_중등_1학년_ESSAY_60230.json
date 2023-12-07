@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우주여행.#@문장구분#전에는 그냥 달을 탐구하기위해 우주에 가는거라고만 생각했다.#@문장구분# 조만간 우리는 우주여행을 갈 것이다.#@문장구분# 비행기표를 구매하듯 우주여행 티켓을 구매해서 그커다란 우주안에 있는것들을 보고 우주복을 입고 공간을 둥둥 떠다니면 실제로 하는 체험을 하겠지.#@문장구분# 거기다가 지을 자기집을 생각하면서 우주를 둥둥떠다니는 커다란 공안에 마을을 만들어서 우주마을도 만들어질 것이다.#@문장구분# 우주도시는 점차 황폐해지고 나빠져가는 지구대신해서 다시 여러 나라가 만들어지고 어쩌면 지금도 있니 없니로 열심히 토론중인 화성인이 지구인과 같은 우주공간에 살고 있지는 않을까.#@문장구분# 지구도 지키고 우주도 지키고 두공간이 서로 잘 지켜나가서 만들어지는 우주마을이 생겨서 나중에 화성인을 만나고싶다.#@문장구분# 별이 생긴모습도 달이 생긴모습도 지구도 직접우주에서 볼수 있지 않을까.#@문장구분#",
+      "paragraph_len": 565,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.5,
+      23.2,
+      21.85
+    ],
+    "essay_scoreT_avg": 23.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "전에는 그냥 달을 탐구하기위해 우주에 가는 거라고만 생각했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "전에는 그냥 달을 탐구하기위해 우주에 <문법_맞춤법>가는거라고만</문법_맞춤법> 생각했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비행기표를 구매하듯 우주여행 티켓을 구매해서 그 커다란 우주 안에 있는 것들을 보고 우주복을 입고 공간을 둥둥 떠다니면 실제로 하는 체험을 하겠지.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 비행기표를 구매하듯 우주여행 티켓을 구매해서<문법_맞춤법> 그커다란 우주안에 있는것들을</문법_맞춤법> 보고 우주복을 입고 공간을 둥둥 떠다니면 실제로 하는 체험을 하겠지.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기다가 지을 자기 집을 생각하면서 우주를 둥둥 떠다니는 커다란 공 안에 마을을 만들어서 우주 마을도 만들어질 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 거기다가 지을 <문법_맞춤법>자기집을 생각하면서 우주를 둥둥떠다니는 커다란 공안에 마을을 만들어서 우주마을도</문법_맞춤법> 만들어질 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우주도시는 점차 황폐해지고 나빠져가는 지구 대신해서 다시 여러 나라가 만들어지고 어쩌면 지금도 있니 없니로 열심히 토론중인 화성인이 지구인과 같은 우주공간에 살고 있지는 않을까.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우주도시는 점차 황폐해지고 나빠져가는 <문법_맞춤법>지구대신해서</문법_맞춤법> 다시 여러 나라가 만들어지고 어쩌면 지금도 있니 없니로 열심히 토론중인 화성인이 지구인과 같은 우주공간에 살고 있지는 않을까.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지구도 지키고 우주도 지키고 두 공간이 서로 잘 지켜나가서 만들어지는 우주마을이 생겨서 나중에 화성인을 만나고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지구도 지키고 우주도 지키고 <문법_맞춤법>두공간이</문법_맞춤법> 서로 잘 지켜나가서 만들어지는 우주마을이 생겨서 나중에 화성인을 만나고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 별이 생긴 모습도 달이 생긴 모습도 지구도 직접 우주에서 볼 수 있지 않을까.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 별이 <문법_맞춤법>생긴모습도 달이 생긴모습도 지구도 직접우주에서 볼수</문법_맞춤법> 있지 않을까.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60230",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 406,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에 도시는 제가 생각했을 때 이름은 바뀌진 않을 거 같아요.#@문장구분# 하지만 자동차는 날개가 없지만 하늘을 날 수 있는 무언가를 장착시켜서 다닐거에요.#@문장구분# 그럼 하늘에만 자동차가 있고, 땅에는 자전거와 유모차만 다닐 수 있잖아요.#@문장구분# 자동차는 나중에 휴대폰 전기차처럼 충전용으로 집에 하나씩 설치하는거에요.#@문장구분# 로봇은 집안일만 할 수 있어요.#@문장구분# 돈은 애초에 감정이 없기 때문에 면접을 못 볼거라고 생각해요.#@문장구분# 대화는 할 수 있지만, 대신 감정은 전혀 없을거에요.#@문장구분# 감정이 있으면 로봇이 지구를 지배 할 수 있잖아요.#@문장구분# 그리고 환경은 엄청 좋아 질 거라고 생각합니다.#@문장구분#",
+      "paragraph_len": 483,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 왜냐하면 미래엔 자동차도 하늘로 다니기 때문에 배기가스랑 매연이 생기지가 않아요.#@문장구분# 그래서 공기가 맑고, 미세먼지가 줄어들어요!#@문장구분# 숲은 환경이 좋아지니까 지금보다 더 많이 생길거고요.#@문장구분# 그래서 나무가 많아질 거 같아요.#@문장구분# 동물은 강아지랑 고양이가 인공지능 로봇으로 많이 발전해서 사료대신 충전을 시키거나 아플 때 병원에서 수술대신 집에서 드라이버로 고쳐주기만 하면 되잖아요.#@문장구분# 집도 말만하면 알아서 다 해주면 좋은거같아요.#@문장구분# 미래가 되면 법도 바뀌지 않을까요?#@문장구분# 사형도 외국처럼 바로 시행했으면 좋겠어요.#@문장구분# 지금은 법이 너무 약하니까 죄를 지은 사람들도 다시 죄를 지으니까 잘못을 모르잖아요.#@문장구분#",
+      "paragraph_len": 504,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      24.65,
+      18.4,
+      19.15
+    ],
+    "essay_scoreT_avg": 20.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 하지만 자동차는 날개가 없지만 하늘을 날 수 있는 무언가를 장착시켜서 다닐 거예요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 자동차는 날개가 없지만 하늘을 날 수 있는 무언가를 장착시켜서 <문법_맞춤법>다닐거에요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자동차는 나중에 휴대폰 전기차처럼 충전용으로 집에 하나씩 설치하는 거예요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자동차는 나중에 휴대폰 전기차처럼 충전용으로 집에 하나씩 <문법_맞춤법>설치하는거에요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돈은 애초에 감정이 없기 때문에 면접을 못 볼 거라고 생각해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 돈은 애초에 감정이 없기 때문에 면접을 못 <문법_맞춤법>볼거라고 </문법_맞춤법>생각해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대화는 할 수 있지만, 대신 감정은 전혀 없을 거예요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대화는 할 수 있지만, 대신 감정은 전혀 <문법_맞춤법>없을거에요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 감정이 있으면 로봇이 지구를 지배할 수 있잖아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 감정이 있으면 로봇이 지구를 <문법_맞춤법>지배 할</문법_맞춤법> 수 있잖아요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 환경은 엄청 좋아질 거라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 환경은 엄청 <문법_맞춤법>좋아 질</문법_맞춤법> 거라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 숲은 환경이 좋아지니까 지금보다 더 많이 생길 거고요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 숲은 환경이 좋아지니까 지금보다 더 많이 <문법_맞춤법>생길거고요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동물은 강아지랑 고양이가 인공지능 로봇으로 많이 발전해서 사료 대신 충전을 시키거나 아플 때 병원에서 수술 대신 집에서 드라이버로 고쳐주기만 하면 되잖아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 동물은 강아지랑 고양이가 인공지능 로봇으로 많이 발전해서 <문법_맞춤법>사료대신 충전을 시키거나 아플 때 병원에서 수술대신</문법_맞춤법> 집에서 드라이버로 고쳐주기만 하면 되잖아요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집도 말만 하면 알아서 다 해주면 좋은 거 같아요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집도 <문법_맞춤법>말만하면 알아서 다 해주면 좋은거같아요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56321",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 630,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

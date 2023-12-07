@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래 도시는 로봇이 모든 것을 해주는 도시입니다.#@문장구분# 지금 사람들이 로봇을 연구하고 개발하는 이유는 사람들이 좀 더 편하게 살 수 있게 하기 위해서 입니다.#@문장구분# 그렇기 때문에 미래엔 더욱 더 많은 사람들이 로봇 개발에 성공 했을 것이고 그렇다면 로봇이 사람들의 생활에 많이 들어와있을 것 같습니다.#@문장구분# 많은 직업들이 사라질 수도 있겠죠.#@문장구분# 하지만 로봇을 이용해 경제적인 어려움이 없게끔 나라가 잘 조정한다면 개개인이 먹고 살기에 큰 어려움은 없을 것 같습니다.#@문장구분# 로봇이 모든 것을 해준다면 얼마나 살기 편해질까요?#@문장구분# 예를 들어 아침에 무슨 옷을 입을 지 고민될 때가 많은데 그럴 때 로봇이 어디에 가는 지에 따라 다 코디해주고 머리도 해주고 한다면 준비 시간도 빨라지고 삶의 질이 확 올라갈 것 같습니다.#@문장구분# 의료쪽에서도 로봇이 활약을 한다면 좀 더 생명과 직접 연관된 일에서의 실수를 줄일 수 있으니 평균 수명도 올라갈 것 같습니다.#@문장구분#",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.65,
+      24,
+      21.3
+    ],
+    "essay_scoreT_avg": 23.316666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 지금 사람들이 로봇을 연구하고 개발하는 이유는 사람들이 좀 더 편하게 살 수 있게 하기 위해서입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금 사람들이 로봇을 연구하고 개발하는 이유는 사람들이 좀 더 편하게 살 수 있게 하기 <문법_맞춤법>위해서 </문법_맞춤법>입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 미래엔 더욱더 많은 사람들이 로봇 개발에 성공했을 것이고 그렇다면 로봇이 사람들의 생활에 많이 들어와있을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 미래엔 <문법_맞춤법>더욱 </문법_맞춤법>더 많은 사람들이 로봇 개발에 성공 했을 것이고 그렇다면 로봇이 사람들의 생활에 많이 들어와있을 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 로봇을 이용해 경제적인 어려움이 없게끔 나라가 잘 조정한다면 개개인이 먹고살기에 큰 어려움은 없을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 로봇을 이용해 경제적인 어려움이 없게끔 나라가 잘 조정한다면 개개인이 <문법_맞춤법>먹고 </문법_맞춤법>살기에 큰 어려움은 없을 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 아침에 무슨 옷을 입을지 고민될 때가 많은데 그럴 때 로봇이 어디에 가는지에 따라 다 코디해 주고 머리도 해주고 한다면 준비 시간도 빨라지고 삶의 질이 확 올라갈 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어 아침에 무슨 옷을 <문법_맞춤법>입을 </문법_맞춤법>지 고민될 때가 많은데 그럴 때 로봇이 어디에 가는 지에 따라 다 코디해주고 머리도 해주고 한다면 준비 시간도 빨라지고 삶의 질이 확 올라갈 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 의료 쪽에서도 로봇이 활약을 한다면 좀 더 생명과 직접 연관된 일에서의 실수를 줄일 수 있으니 평균 수명도 올라갈 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>의료쪽에서도 </문법_맞춤법>로봇이 활약을 한다면 좀 더 생명과 직접 연관된 일에서의 실수를 줄일 수 있으니 평균 수명도 올라갈 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71218",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 465,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

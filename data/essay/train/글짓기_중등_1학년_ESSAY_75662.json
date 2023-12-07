@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "현대사회의 발전은 수없이 많은 기계들을 탄생시켰지요#@문장구분# 하지만 기계화로 인해 많은 인간들은 기계화로 인한 삶의 편리함과 윤택함보다는 컴퓨터와 기계들로부터 종속되고 있으며 기계 없이는 아무것도 하지 못하는 인간이 된 것 같아 안타까움이 많습니다.#@문장구분# 하지만 이러한 기계화로 인한 단점보다는 장점이 더욱더 많아 보입니다.#@문장구분# 많은 노인들은 의료기계와 기구들 그리고 의약품의 발전으로 인해 건강한 삶을 더 영위할 수 있는 것 같으며 산업현장에서는 인력으로는 하기 힘든 공사관련 기계들의 개발로 위험한 일들이나 인간이 하기 힘들일들을 기계가 함으로써 많은 발전을 가져왔습니다.#@문장구분# 또한 군대에서도 폭팔물 처리나 적군의 움직임들을 파악하기 위한 곳에서도 기계나 드론이 그 일들을 처리하고 있는 것을 보면 정말 미래에는 기계없이는 어떤일들도 불가능 할 것 같습니다.#@문장구분# 나는 기술이 나날이 발전을 하여 기계나 컴퓨터가 인간들의 마음을 읽을 줄 알고 심리적으로 힘든분들을 치유할 수 있는 인간과 기계가 함께 살 수 있는 미래사회를 기대 합니다.#@문장구분#",
+      "paragraph_len": 631,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.75,
+      24.3
+    ],
+    "essay_scoreT_avg": 27.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_75662",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 512,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

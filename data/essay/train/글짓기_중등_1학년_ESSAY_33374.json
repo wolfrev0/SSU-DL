@@ -1,0 +1,231 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "앞서 나온 미래가 시간이 얼마나 지난 뒤인지는 모르겠지만, 오늘날의 도시와 눈에 띄게 달라졌을 이래를 상상하며 글을 적어보겠다.#@문장구분#",
+      "paragraph_len": 91,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "일단 미래에는 교통 수단, 길거리 매장의 서비스직, 건물을 설계하고 건축하는 과정 등 이 외에 여러 것들이 발전했을 것이라 생각한다. #@문장구분#기본적으로 교통 수단에는 변화가 있을 것이다. #@문장구분#현재에도 존재하지만 아직은 계발 중인 전기차, 수소차 그리고 자기부상열차가 미래에는 더 대중화될 것이라 예상하고, 이로 그렇듯 길거리에 널린 매장들의 가사 서비스직 역시나 변화할 것이다.#@문장구분# 매장의 종업원, 매장에서 필요한 물품 등을 운반 운송하는 역할 등 여러 직업이 있다.#@문장구분# 사람을 상대하고, 힘을 쓰는 직업이다 보니 현재에도 무인 시스템을 쉽게 찾아볼 수 있게 되었다.#@문장구분# 현재 무인 시스템이 늘어가는데 미래에는 무인 시스템이 대부분을 차지할 것이다.#@문장구분#",
+      "paragraph_len": 471,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "무인 시스템이 늘어 사람이 고생하지 않는 반면, 사람들의 일자리는 줄어들 것이다.#@문장구분# 솔직히 말하면 상상력, 창의력을 제외하곤 힘을 쓰는 일, 재무업 등은 인간보다 인공지능이 월등히 잘 할 것이다.#@문장구분# 미래에도 지금도 너무 인간의 편안함을 추구하지 않았으면 좋겠다.#@문장구분#",
+      "paragraph_len": 204,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      24.15,
+      20.25
+    ],
+    "essay_scoreT_avg": 24.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "기본적으로 교통수단에는 변화가 있을 것이다. ",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "기본적으로 교<문법_맞춤법>통 수단</문법_맞춤법>에는 변화가 있을 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33374",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 571,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "세상을 살아가면서 가장 소중한 것은 지혜이다.#@문장구분# 이것을 잃으면 많은 것들이 무너질 수 있다.#@문장구분# 유태인 어머니들은 자녀들을 가르칠 때 반드시 이런 질문을 한다.#@문장구분# \"얘야, 만약 적군이 쳐들어와 집에 불을 지르고 재산을 모두 훔쳐간다면 제일 먼저 무엇을 갖고 도망을 가겠느냐?\"#@문장구분# 자녀들의 대답은 거의 비슷하다.#@문장구분# \"금과 돈입니다. 값나가는 물건부터 챙겨야지요.\"#@문장구분# 유태인 어머니들은 다시 묻는다.#@문장구분# \"그보다 훨씬 중요한 것이 있단다. 곰곰이 생각해 보거라. 그것은 빛도 모양도 냄새도 없지만 가장 소중한 것이란다.\"#@문장구분# 자녀들은 궁금증을 참지 못하고 어머니에게 대답을 요구한다.#@문장구분# 그때 어머니는 자녀를 가르친다.#@문장구분# \"세상을 살아가면서 가장 소중한 것은 지혜다. 지혜는 시련을 당할 때 이를 극복하는 길을 가르쳐 준다. 지혜는 가난한 사람을 부자로 만들어 준다.  지혜는 보잘것 없는 사람에게 명예의 선물을 안겨준단다.\"#@문장구분# 이스라엘이 나라를 잃고 방황하면서도 희망을 잃지 않은 것은 지혜를 소유하고 있었기 때문이다.#@문장구분# 지혜는 인생의 위대한 스승이다.#@문장구분#",
+      "paragraph_len": 776,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "이 세상은 하나의 무대이고 우리 모두는 이 무대에 참여해야 한다.#@문장구분# 세상은 가장 큰 연극, 우리 모두가 세상에서 제일 큰 연극에서 자신의 역할을 더 많이 하면 더 많은 것을 얻고 게으른 삶을 살았다면 결과도 낮아지게 되는 것을 알게 된다.#@문장구분# 이러한 것들이 바고 지혜의 일부이다.#@문장구분# 지혜라는 인생의 가장 중요한 자산을 잃으면 세상의 많은 것들도 함께 사라지게 된다.#@문장구분# 시간시간마다. 지혜를 잃지 않는 삶을 살아야 한다.#@문장구분#",
+      "paragraph_len": 329,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      30,
+      30
+    ],
+    "essay_scoreT_avg": 30,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.16",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "041",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_66146",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 747,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

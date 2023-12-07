@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "이 도시는 화성의 서울입니다.#@문장구분# 먼저 화성으로 가게된 이유는 지구온난화로 인한 환경 파괴입니다.#@문장구분# 환경 파괴로 인한 인류 멸망을 걱정한 각국은 모든 나라가 힘을 모아 우주로 가는 기술을 만들어서 결국엔 화성을 가는데 성공했고, 테라포밍가지 성공해 전 인류를 데리고 화성에 가서 정착해 살고 있습니다.#@문장구분# 다시 현재로 돌아오라면, 지구에선 희귀 광석이던 광석이 화성에는 널려있다는 사실이 밝혀지면서 친환경기술과 문명의 발전이 급격화 되면서 이제 다시 지구를 되돌리려는 노력이 계속 되고 있습니다.#@문장구분# 그리고 지구를 병들게 했던 전적이 있던 인류는 앞서 말했듯 친환경 기술이 많이 발전되어 보도블럭, 방바닥, 차도 등에 누르면 전기가 생기는 발판을 설치하여 소비전력의 약 70%를 만들어내고, 나머지 30%의 전기 마저 친환경 기술들을 이용해 오히려 저기가 남게 되었습니다.#@문장구분# 또 남는 전기를 이용해 모든 이동수단은 전기로 작동하게 되었습니다.#@문장구분#",
+      "paragraph_len": 583,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.35,
+      24.1,
+      27.5
+    ],
+    "essay_scoreT_avg": 25.983332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56982",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 463,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

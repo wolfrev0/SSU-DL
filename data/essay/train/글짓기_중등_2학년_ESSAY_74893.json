@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 15살인 제가 꿈꾸고 있는 꿈을 꼭 이루고 싶다는 생각이 들었습니다#@문장구분# 제가 15살인 지금 저는 배우의 꿈을 꾸고 있습니다#@문장구분# 저는 배우란 직업은 연기를 통해 많은 사람들에게 감정을 전하고 공감을 이끌어 낼 수 있는 그런 사람들을 말하는 것이라고 생각합니다 #@문장구분#저는 10년 뒤에는 꼭 스크린에서 많은 감동과 우승과 행복이라는 감정을 전해 드리고 싶다는 생각이 들었습니다#@문장구분# 많은 사람들이 제가 연기 하는 사람들의 감정을 같이 느끼고 공감하는 또 감동 받을 수 있는 그런 사람이 되고 싶다는 생각이 들었습니다#@문장구분# 그리고 20년 뒤에는 배우로써 완전한 성공을 거두고 싶다는 생각이 들었습니다#@문장구분# 많은 히트작을 연기하고 저를 대표하는 많은 작품들이 있는 배우가 되고 싶다는 생각이 듭니다#@문장구분# 많은 사람들이 저의 인생 작은 무엇인지 너무 많아서 고를 수가 없다는 중에 그런 얘기를 해 주는 배우가 되었으면 좋겠습니다 #@문장구분#저는 이제 30년 뒤에는 대배우라는 타이틀이 걸맞는 멋진 배우가 되고 싶다는 생각을 했습니다#@문장구분# 그리고 헐리우드에 진출할 수 있는 또는 그런 자리에 어울리는 사람이 되고 싶다는 생각했습니다.",
+      "paragraph_len": 726,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.8333333,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7777777,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.555555,
+      27.38889,
+      25.61111
+    ],
+    "essay_scoreT_avg": 25.518518,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74893",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 547,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

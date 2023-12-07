@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 먼 미래에 친환경적인 도시, 기계화된 도시 둘 다 생각해본 적이 있다.#@문장구분# 하지만 우리나라는 점점 더 발전해 나가고 환경적인 문제는 아직 제대로 고쳐지지 않고 있다고 생각한다.#@문장구분#최근 아직 완성형은 아니지만 로봇이 녹음된 가수의 목소리의 창법, 특징 등을 인식해 구분이 안 갈 정도로 비슷하게 부르는 '모창AI'가 등장했다.#@문장구분#학습에 걸리는 시간도 5분-10분정도밖에 걸지 않는다고 한다.#@문장구분# 그만큼 우리나라의 발전은 빠르게 진행되고 있다고 생각한다.#@문장구분# 사실 나는 초등학생 때부터 바닷속 생물들과 공존하며 살아가는 도시를 생각했었다.#@문장구분# 도시 겉으로 유리관들이 세워져 있고 그 밖으로 여러 해양 생물들이 지나가는 것이다.#@문장구분# 해양 생물과 AI가 결합해 조금 더 편리하고 상업적인 도시가 될 수 있지 않을까 생각한다.#@문장구분# 만약 이러한 미래 도시가 생긴다면 나는 '해양 수상 도시'로 짓고 싶다.#@문장구분#",
+      "paragraph_len": 611,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      27.6,
+      20
+    ],
+    "essay_scoreT_avg": 25.366667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71211",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 431,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

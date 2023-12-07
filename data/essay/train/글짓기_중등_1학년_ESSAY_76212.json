@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시는 우주여행이 가능한 도시입니다.#@문장구분# 최근 누리호 발사 중계를 보고 어쩌면 머지 않은 미래에는 꿈에만 그리던 우주 여행이 가능할 것이라고 생각했습니다.#@문장구분# 사람들은 휴가철에 바다와 산 대신 우주로 여행을 갑니다.#@문장구분# 비행기 대신 우주선을 예약하고 우주 여행 티켓으로 그 우주선이 탑승합니다.#@문장구분# 그리고 나서 우주로 날아오르는 우주선을 타고 무중력의 상태에서 진공 포장이 된 도시락을 먹고 의자에 앉는 대신 공중에 떠 다니며 우주 안에서 만난 사람들과 친해지는 도시가 될 것 같습니다.#@문장구분# 시중에 상점에는 우주복을 팔고, 식료품점에서는 우주 여행에 필요한 많은 음식들을 팔 것 같습니다.#@문장구분# 나중에 이런 미래 도시가 언젠가는 설립 된다면 가족들과 친구들과 행복하게 우주에서 특별한 시간을 보내고 싶습니다.#@문장구분# 이런 날이 오도록 저도 열심히 노력해야겠습니다.#@문장구분#",
+      "paragraph_len": 580,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.75,
+      21.3,
+      17.75
+    ],
+    "essay_scoreT_avg": 20.266666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 비행기 대신 우주선을 예약하고 우주여행 티켓으로 그 우주선이 탑승합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 비행기 대신 우주선을 예약하고 <문법_맞춤법>우주 </문법_맞춤법>여행 티켓으로 그 우주선이 탑승합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러고 나서 우주로 날아오르는 우주선을 타고 무중력의 상태에서 진공 포장이 된 도시락을 먹고 의자에 앉는 대신 공중에 떠다니며 우주 안에서 만난 사람들과 친해지는 도시가 될 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그리고 </문법_맞춤법>나서 우주로 날아오르는 우주선을 타고 무중력의 상태에서 진공 포장이 된 도시락을 먹고 의자에 앉는 대신 공중에 떠 다니며 우주 안에서 만난 사람들과 친해지는 도시가 될 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 시중에 상점에는 우주복을 팔고, 식료품점에서는 우주여행에 필요한 많은 음식들을 팔 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 시중에 상점에는 우주복을 팔고, 식료품점에서는 <문법_맞춤법>우주 </문법_맞춤법>여행에 필요한 많은 음식들을 팔 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나중에 이런 미래 도시가 언젠가는 설립된다면 가족들과 친구들과 행복하게 우주에서 특별한 시간을 보내고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나중에 이런 미래 도시가 언젠가는 <문법_맞춤법>설립 </문법_맞춤법>된다면 가족들과 친구들과 행복하게 우주에서 특별한 시간을 보내고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_76212",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 421,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

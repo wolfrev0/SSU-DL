@@ -1,0 +1,358 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 돌고래다.#@문장구분#나는 제주도에 아주 깊은 바다 에 서 산다#@문장구분# 내가 사는 깊은 바다에는 제주도에 관광지여서 많은사람들은 나와 내 가족,친구들을 보며 소리를 지르머 마음것 사진을  찍어요#@문장구분# 가끔가다 저의를 만지고 싶어 손을 대는 분들이 계시는데 그걸떼 마다 깜짝 깜짝 놀라요.#@문장구분#하지만 이쁘고 귀여워서 그러는거니 한편으론 좋아요! #@문장구분#추운 겨울엔 물속에서마 사는데  너무 추우면 따뜻한 바다로 다 같이 이동을 해요#@문장구분# 물속에서는 물고기들을 먹어요#@문장구분# 가끔 돌고래 관람하는 곳에 제친구가 끌려 갈떼도 있어요#@문장구분#거민 훈련을 받고 사람들에게 개인기를 보여주는 거에요#@문장구분#  많은 시람들이 바다에 쓰레기를 많이 버려서 다치는 경우가 많습니다#@문장구분# 다른이유로는 낚시를하는 낚시 그물에 걸려다친다던지 그런 이유들로 바다가 서서히 망가지고 있는게 느껴저 정말 슬퍼요#@문장구분#. 사람들이 바다에 관리,쓰레기 버리는 것을 자제해줬으면 해요.#@문장구분# 돌고래들은 원으로 돌면서도 놀고 물 밖으로 점프 하면서 신나게 놀고 즐거운 시간을 보낸다.#@문장구분#마지막으로 바다를 보호해주면 좋겠다.#@문장구분#",
+      "paragraph_len": 786,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      30,
+      16.15
+    ],
+    "essay_scoreT_avg": 22.316666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 제주도에 아주 깊은 바다에서 산다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 제주도에 아주 깊은 <문법_맞춤법>바다 에 서</문법_맞춤법> 산다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 사는 깊은 바다 제주도는 관광지여서 많은 사람들은 나와 내 가족,친구들을 보며 소리를 지르며 마음껏 사진을  찍어요",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 사는 <문법_조사>깊은 바다에는 제주도에</문법_조사> 관광지여서 <문법_맞춤법>많은사람들</문법_맞춤법>은 나와 내 가족,친구들을 보며 소리를 지르머 마음것 사진을  찍어요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가끔가다 저희를 만지고 싶어 손을 대는 분들이 계시는데 그럴때  마다 깜짝 깜짝 놀라요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가끔가다 <문법_맞춤법>저의를 </문법_맞춤법>만지고 싶어 손을 대는 분들이 계시는데 그걸떼 마다 깜짝 깜짝 놀라요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 이쁘고 귀여워서 그러는 거니 한편으론 좋아요! ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 이쁘고 귀여워서 <문법_맞춤법>그러는거니</문법_맞춤법> 한편으론 좋아요! ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "추운 겨울엔 물속에서만 사는데  너무 추우면 따뜻한 바다로 다 같이 이동을 해요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "추운 겨울엔 <문법_맞춤법>물속에서마</문법_맞춤법> 사는데  너무 추우면 따뜻한 바다로 다 같이 이동을 해요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물속에서는 물고기들을 먹어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물속에서는 물고기들을<문법_맞춤법> 먹어요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가끔 돌고래 관람하는 곳에 제 친구가 끌려갈 때도 있어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가끔 돌고래 관람하는 곳에 <문법_맞춤법>제친구가 끌려 갈떼도 있어요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "거친 훈련을 받고 사람들에게 개인기를 보여주는 거에요",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>거민</문법_맞춤법> 훈련을 받고 사람들에게 개인기를 보여주는 거에요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "  많은 시람들이 바다에 쓰레기를 <스타일링_패러프레이징>많이</스타일링_패러프레이징> 버려서 다치는 경우가 많습니다",
+      "sentence_corr_txt_styling": "  많은 시람들이 바다에 쓰레기를   버려서 다치는 경우가 많습니다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른이유로는  낚시 그물에 걸려 다친다던지 이러한 이유들로 바다가 서서히 망가지고 있는게 느껴져 정말 슬퍼요",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 다른이유로는 <스타일링_패러프레이징>낚시를하는 </스타일링_패러프레이징>낚시 그물에 <문법_맞춤법>걸려다친다던지 </문법_맞춤법><문법_기타>그런 이유들로</문법_기타> 바다가 서서히 망가지고 있는게 느껴저 정말 슬퍼요",
+      "sentence_corr_txt_styling": " 다른이유로는  낚시 그물에 걸려 다친다던지 이러한 이유들로 바다가 서서히 망가지고 있는게 느껴져 정말 슬퍼요",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  사람들이 바다에 쓰레기를 버리는 것을 자제해줬으면 해요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_기타>.</문법_기타> 사람들이 바다에 관리,쓰레기 버리는 것을 자제해줬으면 해요<문법_기타>.</문법_기타>",
+      "sentence_corr_txt_styling": "  사람들이 바다에 쓰레기를 버리는 것을 자제해줬으면 해요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돌고래들은 원으로 돌면서도 놀고 물 밖으로 점프하면서 신나게 놀고 즐겁게 지낸다.",
+      "sentence_corr_reason": [
+        "붙여쓰기",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 돌고래들은 원으로 돌면서도 놀고 물 밖으로 <문법_맞춤법>점프 하면서 </문법_맞춤법>신나게 놀고 <스타일링_패러프레이징>즐거운 시간을 보낸다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 돌고래들은 원으로 돌면서도 놀고 물 밖으로 점프하면서 신나게 놀고 즐겁게 지낸다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36157",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 508,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

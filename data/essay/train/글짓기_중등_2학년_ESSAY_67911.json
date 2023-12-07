@@ -1,0 +1,247 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래에 손흥민같은 유명한 축구선수가 되어 있을 것입니다. #@문장구분#지금 저희 학교에서 저는 남자애들 중 축구 실력으론 1등입니다. #@문장구분#비록 공부는 잘 하지 못하지만 저에게 있는 이 축구라는 재능을 살려서 멋진 축구 선수가 되고 싶습니다.#@문장구분# ",
+      "paragraph_len": 189,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 10년 뒤 저의 모습은 아마 국가대표로서 아시안 게임이나 월드컵 등 나라를 대표하는 스포츠 경기에 나가서 금메달을 따고 군면제를 받을 것입니다.#@문장구분# 축구 선수 특성 상 10년 뒤에 저도 아직 어린 나이지만 충분히 그 나이에도 성공해서 세계적으로 유명해질 수 있다고 생각합니다. #@문장구분#유명해진 만큼 팬들도 생길테고 저는 그 팬들을 위한 팬미팅도 하고 돈을 많이 벌어 기부도 하고 있을 것 같습니다.#@문장구분# ",
+      "paragraph_len": 278,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 20년 뒤에 저는 슬슬 현역으로 뛰기에는 무리가 있고 국가대표를 은퇴하고 코치로서 일을 하고 있을 것 같습니다. #@문장구분#외국어도 다양하게 배워서 한국 선수들만 코치하기 보단 외국에 나가서 더 큰 선수단의 코치로 일하고 있을 것 같습니다.#@문장구분# ",
+      "paragraph_len": 170,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 30년 뒤 저는 축구 감독이 되어 아시안게임 월드컵 등에서 우리나라가 우승할 수 있도록 우리나라 담당 감독이 되어 열심히 가르치고 있을 것 같습니다.#@문장구분#",
+      "paragraph_len": 104,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.8333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.9444444,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.3333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7777777,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27.38889,
+      26.666666
+    ],
+    "essay_scoreT_avg": 28.018518,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_67911",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 567,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

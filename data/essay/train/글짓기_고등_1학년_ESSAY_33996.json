@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "자랑은 아니지만 중학교 때 내 주변엔 친구가 많았었다.#@문장구분# 같은 친구들과 3년을 같이 지내다 보니 그 친구들에게 너무 익숙해진 나머진 감사한 마음보단 당연하단듯이 친구들을 대하기 시작하였고 점점 내 주변에 그렇게 많던 친구들이 나를 떠나기 시작하였다.#@문장구분# 왜 그랬는진 모르겠지만 철 없던 중학교 시절엔 내 잘못이란 생각보단 친구들의 잘못이라 생각했다 굳이 날 떠나는데 내가 잡을 필요가 없다고 생각하였다.#@문장구분# 하지만 친구들이 내 옆을 떠나다 보니 나도 생각을 하기 시작했다.#@문장구분# 그렇게 생각을 계속 하면서 난 이러한 태도로는 그 어떤 누구도 내 옆에 남지 않을거란 결론에 다달았다.#@문장구분# 이미 떠나간 친구들에게 미안하다#@문장구분# 내가 그때 감사한 마음보다 너무 익숙해서 막대한 것 같다#@문장구분# 이렇게 사과 한마디 하면 되는건데 그 잘난 자존심 때문에 지금까지도 그 친구들에게 사과 한마디 하지 못한게 아직도 생각이 나고 미안한 마음이 든다.#@문장구분# \n 익숙함에 속아서 소중한 사람들을 잃는 선택은 안하면 좋겠다.#@문장구분# 모두가 그런 생각을 하지만 그게 마음처럼 되지는 않는다.#@문장구분# 그러니 항상 내가 저 말을 들었을때 어떤 기분일지 생각하고 말을 하면 좋을것 같다.#@문장구분# 이렇게 조금만 생각을 하고 말을 한다면 소중한 사람을 잃을만한 실수를 최소한으로 줄일수 있을것이다.#@문장구분#",
+      "paragraph_len": 861,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.277779,
+      22.944445,
+      21.555555
+    ],
+    "essay_scoreT_avg": 24.25926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.13",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "051",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33996",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 621,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

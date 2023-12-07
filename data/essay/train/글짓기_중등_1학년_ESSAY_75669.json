@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아주 어릴때 미술학원에서 미래의 모습을 주제로 그려보는 시간이 있었다.#@문장구분# 나는 그때 먼 미래에는 날아다니는 자동차가 있을거고 집도 지금 현재의 아파트가 아니라 우주선 모양처럼 생기고  사람들의 옷스타일이나 이런것들이 지금은 전혀 볼 수 없는 모양, 무늬를 가졌다.#@문장구분# 또한 외계인 같은 로봇트가 많이 떠다니면서 사람들과 같이 살아가고 있을 거라고 생각해서 그렸다.#@문장구분# 하지만 지금, 오랜 기간은 아니지만 몇년이 지난 지금은 예전과 생활이나 주변의 모습들이 많이 바뀌지는 않았다.#@문장구분# 전자기기가 발전하고 의학기술 등이 발전했지만 크게 과거와 달라진 것 같지는 않았다.#@문장구분# 그래서 나는 오히려 미래에도 지금의 모습과도 겉보기에는 별 다를바가 없을 거라고 생각한다.#@문장구분# 하지만 과학기술이나, 지금은 치료 못하는 불치병을 치료할 수 있는 의학기술, 등이 많이 발전되어서 삶의 질이나 수명이 높아질 거 같다.#@문장구분#",
+      "paragraph_len": 576,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.35,
+      24.3
+    ],
+    "essay_scoreT_avg": 26.883331,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_75669",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 437,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

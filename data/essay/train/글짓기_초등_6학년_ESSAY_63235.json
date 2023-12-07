@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 상어로 변신한 다음 바다에서 일주일 동안 있고 싶습니다.#@문장구분# 왜냐하면 평소에 비싸거나 개체수가 줄어서 못먹었던 물고기도 많은데 상어가 되면 그런 물고기들도 마음껏 먹을 수 있기 때문입니다. #@문장구분#그다음 태평양에 가서 평소에 볼 수 없는 물고기나 산호초들을 보고 다음에는 사람들이 많이 있는 해수욕장에 가서 사진을 찍고 시습니다.#@문장구분# 그리고나서 잠을자고 거북이들이나 바다에 묻혀있는 것을 보고 싶습니다. #@문장구분#그리고 만약 쓰나미나 태풍같은것이 온다면 바다에서 직접 겪고나서 그느낌을 가지고 일주일뒤에 책으로 쓰고 싶습니다.#@문장구분# 또 바다생물들이랑 말할 수 있다면 평소에 어떻게 살고 있는지에 대해서 물어보고 나중에 그 대답을 가지고서 바다에서의 모험이라는 제목으로 책을 만들어서 다른사람들에게 보여주고나서 어떤 생각이 드는지 물어보고 싶습니다.",
+      "paragraph_len": 505,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      23.45,
+      23.7
+    ],
+    "essay_scoreT_avg": 25.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 평소에 비싸거나 개체수가 줄어서 못 먹었던 물고기도 많은데 상어가 되면 그런 물고기들도 마음껏 먹을 수 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 평소에 비싸거나 개체수가 줄어서 <문법_맞춤법>못먹었던 </문법_맞춤법>물고기도 많은데 상어가 되면 그런 물고기들도 마음껏 먹을 수 있기 때문입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그다음 태평양에 가서 평소에 볼 수 없는 물고기나 산호초들을 보고 다음에는 사람들이 많이 있는 해수욕장에 가서 사진을 찍고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그다음 태평양에 가서 평소에 볼 수 없는 물고기나 산호초들을 보고 다음에는 사람들이 많이 있는 해수욕장에 가서 사진을 찍고 <문법_맞춤법>시습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고나서 잠을 자고 거북이들이나 바다에 묻혀있는 것을 보고 싶습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고나서 <문법_맞춤법>잠을자고</문법_맞춤법> 거북이들이나 바다에 묻혀있는 것을 보고 싶습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 만약 쓰나미나 태풍 같은 것이 온다면 바다에서 직접 겪고나서 그 느낌을 가지고 일주일 뒤에 책으로 쓰고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 만약 쓰나미나 <문법_맞춤법>태풍같은것이 </문법_맞춤법>온다면 바다에서 직접 겪고나서 그느낌을 가지고 일주일뒤에 책으로 쓰고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 바다 생물들이랑 말할 수 있다면 평소에 어떻게 살고 있는지에 대해서 물어보고 나중에 그 대답을 가지고서 바다에서의 모험이라는 제목으로 책을 만들어서 다른 사람들에게 보여주고 나서 어떤 생각이 드는지 물어보고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 <문법_맞춤법>바다생물들이랑</문법_맞춤법> 말할 수 있다면 평소에 어떻게 살고 있는지에 대해서 물어보고 나중에 그 대답을 가지고서 바다에서의 모험이라는 제목으로 책을 만들어서 다른사람들에게 보여주고나서 어떤 생각이 드는지 물어보고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63235",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 405,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

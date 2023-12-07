@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 미래도시라는 단어를 들으면 영화에서 나오는 멋진 모습의 도시들을 생각하는 것 같습니다.#@문장구분# 훨씬 과학기술적으로 진보되있으며 평화롭고 아름다운 세상, 마치 비틀즈의 노래 <이매진>에 나오는 그런 세상을 말입니다.#@문장구분# 전세계에서 가장 선진적이며 현대적이라 꼽히는 상하이와 싱가포르를 보면 사람들이 흔히들 꿈꾸는 미래도시의 모습을 엿볼 수 있을 것 같기도 합니다.#@문장구분# 그런데 미래도시는 정말 어떤 모습일까요? 차가 날아다니는 모습은 무척이나 신기하겠지만 지상의 수많은 차가 하늘로 다닌다면 그만큼 누군가에겐 하늘을 보기가 더 어려워질 것입니다.#@문장구분# 기계를 없애는 대신 더많은 기계로 물질문명의 이기를 누리며 살기를 선택할 수도 있겠죠.#@문장구분# 그런의미에서는 저는 미래도시의 모습은 영화 <블레이드러너>의 모습과 비슷하지 않나 생각해봅니다.#@문장구분# 굉장히 선진적이지만 어떤 부분에서는 또 아닌 이런 이중적인 모습들이 공존하는 있는 곳이 미래도시의 현실적인 상이 아닐런지요.#@문장구분# 아마도 저는 이런 도시를 이중의도시라는 점에서 아더사이드시티라고 이름짓고 싶습니다.#@문장구분#",
+      "paragraph_len": 691,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.75,
+      24.3
+    ],
+    "essay_scoreT_avg": 27.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_75621",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 520,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

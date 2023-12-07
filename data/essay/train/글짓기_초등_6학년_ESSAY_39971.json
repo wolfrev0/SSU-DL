@@ -1,0 +1,331 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어느날 갑자기 내게 바닷속생물이 될 수있는 기회가 찾아왔다.#@문장구분#       \n나는 가장 편할거같던 괴물로 살고싶다했지만, 그런 생물은 될수 없었다. #@문장구분# 그래서 난 고래를 선택했다.#@문장구분#     \n그렇지만 고래로 사는것은 너무나도 불편했다.#@문장구분#                \n입만 벌리면 먹이가 들어와 항상 배부를것 같던 고래였지만, 들어오는 양은 많아도 배가차지 않았다.#@문장구분#       \n그런데다 맨날 물밖에서 숨을쉬며 물도 배출하느라 힘들었다.#@문장구분#         \n그렇게 고래로 살아간지 3일째에 나는 고래로 생활하는것에 적응했다.#@문장구분# 배불리먹는법, 빠르게 헤엄치는것을 알았고 바닷속에도 학교가 있다는걸알았다.#@문장구분# 4일째 날에 나는 등교를 했다.#@문장구분#    \n바닷속 학교는 상어반, 고래반, 그리고 작은 생물들로 나뉘었다.#@문장구분#       \n수업으로는 인간이 어떤 존재인지 배웠다.#@문장구분#\n 6일째 학교에선서서히 친구들과 친해졌고 인간이였던 나는 수업내용도 잘알고 있어 성적도 우수했다.#@문장구분# \n7일째 에는 친구들 한테 인사를하고 인간으로 놀아왔다.#@문장구분#               \n그리고든 생각이있다.#@문장구분# 바다속 생물들도   학교에 다니고 시험도 보는데, 인간인 나는 그것보다 더 열심히 였으면 좋겠다는 생각이다.#@문장구분#",
+      "paragraph_len": 890,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      22.85,
+      18
+    ],
+    "essay_scoreT_avg": 21.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "어느날 갑자기 내게 바닷속 생물이 될 수있는 기회가 찾아왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어느날 갑자기 내게 <문법_맞춤법>바닷속생물이 </문법_맞춤법>될 수있는 기회가 찾아왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "       \n나는 가장 편할 것 같던 괴물로 살고 싶다고 말했지만, 그런 생물은 될 수 없었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "       \n나는 가장 <문법_맞춤법>편할거같던 </문법_맞춤법>괴물로 살고싶다했지만, 그런 생물은 될수 없었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "     \n그렇지만 고래로 사는 것은 너무나도 불편했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "     \n그렇지만 고래로 <문법_맞춤법>사는것은 </문법_맞춤법>너무나도 불편했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "                \n입만 벌리면 먹이가 들어와 항상 배부를 것 같던 고래였지만, 들어오는 양은 많아도 배가 차지 않았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "                \n입만 벌리면 먹이가 들어와 항상 <문법_맞춤법>배부를것 </문법_맞춤법>같던 고래였지만, 들어오는 양은 많아도 배가차지 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "       \n그런데다 맨날 물 밖에서 숨을 쉬면서 물도 배출하느라 힘들었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "       \n그런데다 맨날 <문법_맞춤법>물밖에서 </문법_맞춤법><문법_어미>숨을쉬며 </문법_어미>물도 배출하느라 힘들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "         \n그렇게 고래로 살아간지 3일째에 나는 고래로 생활하는 것에 적응했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "         \n그렇게 고래로 살아간지 3일째에 나는 고래로 <문법_맞춤법>생활하는것에 </문법_맞춤법>적응했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 배불리 먹는 법, 빠르게 헤엄치는 것을 알았고 바닷속에도 학교가 있다는 걸 알았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>배불리먹는법</문법_맞춤법>, 빠르게 헤엄치는것을 알았고 바닷속에도 학교가 있다는걸알았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 6일째 학교에선 서서히 친구들과 친해졌고 인간이였던 나는 수업 내용도 잘 알고 있어 성적도 우수했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 6일째 <문법_맞춤법>학교에선서서히 </문법_맞춤법>친구들과 친해졌고 인간이였던 나는 수업내용도 잘알고 있어 성적도 우수했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n7일째에는 친구들한테 인사를 하고 인간으로 돌아왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n<문법_맞춤법>7일째 에는</문법_맞춤법> 친구들 한테 인사를하고 인간으로 놀아왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "               \n그리고 든 생각이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "               \n<문법_맞춤법>그리고든 </문법_맞춤법>생각이있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다속 생물들도   학교에 다니고 시험도 보는데, 인간인 나는 그것보다 더 열심히 살았으면 좋겠다는 생각이 들었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 바다속 생물들도   학교에 다니고 시험도 보는데, 인간인 나는 그것보다 더 <문법_맞춤법>열심히 였으면</문법_맞춤법> 좋겠다는 <문법_어미>생각이다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39971",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 591,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

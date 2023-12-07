@@ -1,0 +1,186 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래도시의 이름을 '침묵의 봄'이라고 짓고 싶습니다.#@문장구분# 레이첼 카슨의 침묵의 봄이라는 책을 읽은 적이 있습니다.#@문장구분# 살충제의 무분별한 사용으로 인해 벌레가 죽고, 그로인해 새의 생태계에도, 인간의 몸에도 치명적인 병을 유발시켜서 봄이 와도 새가 울지 않는 침묵의 봄이 올 것이라고 미래를 비관한 책입니다.#@문장구분# 우리는 봄이면 심각한 황사를 맞고는 합니다.#@문장구분# 지금이야 그저 황사마스크를 쓰면서 버티는 것이 일반적이지만 나중에 우리가 더 무분별한 개발을 하면 대기가 오염되어서 환경이 파괴되고 더 많은 미세먼지가 대기 속에 떠다닐 것입니다.#@문장구분# 그 때가 되면 정말 바깥활동이 금지가 되고 우리는 정말 밖에서 말 한마디 하기 어려운 침묵의 봄을 맞이할 것 같습니다.#@문장구분# 제가 생각한 미래 도시는 대기 오염과 환경 파괴가 너무 심각해져서 되돌릴 수가 없어진 도시입니다.#@문장구분#",
+      "paragraph_len": 558,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.65,
+      23.1
+    ],
+    "essay_scoreT_avg": 25.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 살충제의 무분별한 사용으로 인해 벌레가 죽고, 그로 인해 새의 생태계에도, 인간의 몸에도 치명적인 병을 유발해서봄이 와도 새가 울지 않는 침묵의 봄이 올 것이라고 미래를 비관한 책입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 살충제의 무분별한 사용으로 인해 벌레가 죽고, <문법_맞춤법>그로인해 </문법_맞춤법>새의 생태계에도, 인간의 몸에도 치명적인 병을 <문법_조사>유발시켜서 </문법_조사>봄이 와도 새가 울지 않는 침묵의 봄이 올 것이라고 미래를 비관한 책입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때가 되면 정말 바깥활동이 금지가 되고 우리는 정말 밖에서 말 한마디 하기 어려운 침묵의 봄을 맞이할 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그 때가</문법_맞춤법> 되면 정말 바깥활동이 금지가 되고 우리는 정말 밖에서 말 한마디 하기 어려운 침묵의 봄을 맞이할 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71544",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 419,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

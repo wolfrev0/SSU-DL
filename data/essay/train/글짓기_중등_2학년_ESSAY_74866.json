@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 꿈은 소방관 입니다.#@문장구분# 여자 소방관이라고 하면 다들 조금씩 놀라던데 여성의 비율이 높지 않은 직업이라고 그런 것 같습니다.#@문장구분# 하지만 저는 소방관에 대한 로망이 있습니다.#@문장구분# 예전에 저희 집에 아주 작게 불이 난 적이 있었습니다.#@문장구분# 다행히 아무런 피해가 없었지만 저희 가족은 불씨가 커지는 것을 보자마자 너무 놀래서 119로 냅다 전화를 걸어버렸습니다.#@문장구분# 너무 놀라서 입이 떨어지지 않자 소방관 아저씨께서 저희 집의 주소를 추적하여 알아내셨고 정확히 5분만에 저희 집으로 오셨습니다.#@문장구분# 누구보다 빠르게 저희를 구해주시기 위해서 발 빠른 대처를 통해 저희 가족들을 구해주셨고 저희 집에 난 작은 불도 꺼주셨습니다.#@문장구분# 규모가 작은 불이라 괜치 소방관 아저씨께 죄송해서 죄송하다고 말씀드렸더니 아저씨께서 원래 이것이 우리가 하는 일이라며 괜찮다고 불러줘서 고맙다고 말씀하셨습니다.#@문장구분# 그 날 이후로 저의 꿈은 소방관이 되었고 10년 후에는 소방관 시험을 꼭 통과하여 30년 후에까지 대한민국을 지키는 멋진 소방관이 되는 것이 저의 미래모습이 되었으면 좋겠습니다.",
+      "paragraph_len": 687,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.8333333,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.611111,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.61111,
+      26.722221,
+      26.055555
+    ],
+    "essay_scoreT_avg": 26.12963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74866",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 528,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

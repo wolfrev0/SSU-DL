@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 미래 도시에 이름은 헬시티 입니다.#@문장구분#",
+      "paragraph_len": 41,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 말 그대로 지옥입니다.#@문장구분# 왜냐하면 시대가 발전 하면 인간들과 동식물들이 모두 살아 갈 수 없는 로봇에 시대가 오기 때문 입니다.#@문장구분# 지금도 로봇들은 지구를 멸망 시킬 것 이라고 하는데요.#@문장구분# 저는 그래서 그 시대가 안 오면 좋겠습니다.#@문장구분# 오면 동식물은 모두 죽고 살지 못 할 뿐더러 인간이 지배를 당하는 세상이 올 것 입니다.#@문장구분# 저는 그런 시대가 잘대로 안 왔으면 합니다.#@문장구분# 생각만 해도 너무 끔찍하고 무섭고 세상을 살아가는 하루하루가 끔찍하고 무서울 것 같습니다.#@문장구분# 음식도 마음대로 먹지도 못 할 것 이고 잠도 마음대로 못 잘 것 입니다.#@문장구분# 그리고 자원이 너무나 많이 낭비 될 것 입니다.#@문장구분# 저는 제 미래 후손들에게 정말 좋은 것만 물려주고 싶습니다.#@문장구분# 그래서 그 시대가 제발 안 오면 좋겠습니다.#@문장구분# 꼭 오면 안된다고 생각합니다.#@문장구분#",
+      "paragraph_len": 637,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      23.9,
+      24.1
+    ],
+    "essay_scoreT_avg": 26,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_76034",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 421,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 나중에 유명한 변호사가 되고 싶다.#@문장구분# 왜냐하면 억울한 사람들을 도와주고 싶지고 하고 잘못을 했더라도 그사람이 죄만큼만 받게 하고 싶기 때문에 나는 좋은 변호사가 되고 싶다.#@문장구분# 10년후에 나는 대학교에 들어가서 자유전공학부에 들어갈 것이다.#@문장구분# 왜 내가 자유전공학부에 들어가냐면 거기가 법쪽으로 가고싶은 사람들이 많이 가는 학과라고 들었기 때문이다.#@문장구분# 그래서 나는 사법고시를 치고 국선변호사가 될 것이다.#@문장구분# 20년 후에는 변호를 엄청 잘하는 사람이 되어서 국선 변호사 중에서도 변호를 가장 잘하는 사람이 되어있었으면 좋을 것 같다고 생각한다. #@문장구분#나중에는 나만의 변호사 기업을 차려서 멋진 변호사가 되어있을 것이다.#@문장구분# 30년 후에는 가난한 사람들을 도와줄 수 있는 변호사가 되어서 더 착한 일들을 많이 하면서 살고 싶어졌다.#@문장구분# 변호사가 되기 위해서는 공부를 열심히 해야할 것 같다. #@문장구분#역시 변호사가 되는 것은 엄청나게 힘든일일 것 같다고 생각하게 되었다.",
+      "paragraph_len": 649,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.277779,
+      28,
+      30
+    ],
+    "essay_scoreT_avg": 28.75926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.21",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_82352",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 469,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

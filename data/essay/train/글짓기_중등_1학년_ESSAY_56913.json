@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래도시는 로봇들과 함꼐 사는 도시일 것 같다.#@문장구분# 애니메이션 도라에몽에 나오는 미래 도시처럼 말이다.#@문장구분# 길을 걸을 때 도와주는 로봇들이 보이고 무엇인가를 조사할 떄 도와주는 로봇들이 보일 것 같다.#@문장구분# 길에 버려져 있는 담배꽁초나 쓰레기를 치우는 로봇들이 길에 다니고 무거운 짐을 들고 가시는 할머니, 할아버지들을 도와주는 로봇도 있을 것만 같다.#@문장구분# 이렇게 우리의 삶에 로봇이 자연스럽게 섞여 있을 것 같다.#@문장구분# 또 신호위반, 과속, 음주를 단속하는 로봇들도 생겨 교통질서가 잘 지켜질 것 같다.#@문장구분# 하지만 로봇들이 점점 늘어날수록 우리는 일자리가 사라져서 힘들 것 같다.#@문장구분# 또 로봇들은 감정이 없어서 조금 걱정이 된다.#@문장구분# 사람들은 감정이 있어서 어떠한 상황이 생기면 잘 부드럽게 해결할 수 있는데 로봇은 감정이 없고 정말 로봇이기에 설정되어 있는 그대로만 움직일 수 있다.#@문장구분# 그래서 너무 정석대로만 움직이기에 조금 사회가 너무 딱딱해질까 걱정이 된다.#@문장구분#",
+      "paragraph_len": 673,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      24.1,
+      26.25
+    ],
+    "essay_scoreT_avg": 25.583334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래도시는 로봇들과 함께 사는 도시일 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 미래도시는 로봇들과 <문법_맞춤법>함꼐 </문법_맞춤법>사는 도시일 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 길을 걸을 때 도와주는 로봇들이 보이고 무엇인가를 조사할 때 도와주는 로봇들이 보일 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 길을 걸을 때 도와주는 로봇들이 보이고 무엇인가를 조사할 <문법_맞춤법>떄 </문법_맞춤법>도와주는 로봇들이 보일 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56913",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 473,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

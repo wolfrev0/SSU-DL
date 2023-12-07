@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 초등학생때부터 안경을 계속 끼고 살았습니다.#@문장구분# 저는 가족이 전부 눈이 안 좋습니다.#@문장구분# 그래서 요즘은 눈이 좋아진다는 드림렌즈나 영양제를 많이 알아보고 있는데 미래에는 이런 걱정이 필요없어질 것이라고 생각합니다.#@문장구분# 지금 저희 반에서 안경을 끼는 학생이 반 이상입니다.#@문장구분# 그렇다는 것은 요즘 사람들이 예전에 비해서 눈이 많이 안좋아지고 있다는 것입니다.#@문장구분# 그러면 미래에는 당연히 이것을 치료할 방법을 개발할 것입니다.#@문장구분# 물론 수술을 하는 방법도 있겠지만 수술은 부작용도 있어 걱정이 많이 되는 것이 사실입니다.#@문장구분# 그냥 눈이 좋아지는 약이 개발되거나 끼고 자거나 눈게 붙일 수 있는 렌즈가 개발되면 좋을 것 같습니다.#@문장구분# 그러면 지금처럼 안경을 계속 끼고 다니지 않아도 되고 수술 없이 눈이 좋아질 수 있을 것입니다.#@문장구분# 이런 도시는 망원도시입니다.#@문장구분# 눈이 좋아진 사람들은 멀리까지 잘 볼 수 있을 것이기 때문입니다.#@문장구분#",
+      "paragraph_len": 665,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.35,
+      21.5,
+      19.05
+    ],
+    "essay_scoreT_avg": 21.3,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 초등학생 때부터 안경을 계속 끼고 살았습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>초등학생때부터</문법_맞춤법> 안경을 계속 끼고 살았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇다는 것은 요즘 사람들이 예전에 비해서 눈이 많이 안 좋아지고 있다는 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다는 것은 요즘 사람들이 예전에 비해서 눈이 많이 <문법_맞춤법>안좋아지고</문법_맞춤법> 있다는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그냥 눈이 좋아지는 약이 개발되거나 끼고 자거나 눈에 붙일 수 있는 렌즈가 개발되면 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그냥 눈이 좋아지는 약이 개발되거나 끼고 자거나 <문법_조사>눈게</문법_조사> 붙일 수 있는 렌즈가 개발되면 좋을 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_78462",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 446,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 멘토나 롤 모델이 되었던 인물은 6학년 때 같은 반이었던 친구입니다#@문장구분#. 왜나하면 그 친구는 특유의 말투나 자유로운 행동으로 모든 친구들이 재미있어하고 자신이 하고 싶어하는 일이 생기면 바로바로 하는 게 부러웠다.#@문장구분# 그리고 그 친구는 싸운 다음날에도 먼저 다가와주고 항상 자기 집에 초대하여 맛있는 것도 잘 챙겨주고, 재밌는 것도 많이 나누었던 친구였다.#@문장구분# 때론 다른 친구들과 날 놀리기도 했지만 뒤에서 날 챙겨주고 진심으로 친구로 대하는 모습이 너무 감동이었다#@문장구분#. 따라서 나는 자유롭고 장난끼 많으며 겉으론 안좋게 보이지만 사실 나를 진정한 친구로 생각해주고 잘 챙겨주는 멋진 친구이므로 제 롤 모델이 되었습니다.#@문장구분#",
+      "paragraph_len": 441,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.2857144,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.095238,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.698414,
+      19.777779,
+      14.055555
+    ],
+    "essay_scoreT_avg": 18.177248,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          0
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.16",
+    "student_educated": true,
+    "student_grade": "고등_3학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "고등_3학년",
+    "organization_weight": {
+      "org_paragraph": 3,
+      "org": 2,
+      "org_essay": 3,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "나의 위인전",
+    "expression_weight": {
+      "exp_style": 2,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_36698",
+    "essay_prompt": " 요즘은 책을 통해서뿐만 아니라 유튜브, 강의와 같이 다양한 매체를 통해 자신만의 롤모델을 찾을 수 있습니다.\n\n 여러분도 자신만의 롤모델이 있을 것 같은데요. 자신의 롤모델인 인물처럼 되었다고 생각하고 나만의 위인전을 작성해보세요. 본인이 그 사람이 되었다고 생각하고 작성해도 좋고, 제 3자의 입장에서 바라보는 형식으로 작성해도 좋아요.\n\n 나의 롤모델은 목표를 이루기 위해 어떤 노력을 했을지, 어떤 행운이 있었을지, 목표를 이루고 난 다음에 어떤 기분이 들었을지 마음 껏 상상해보시고 작성해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 341,
+    "essay_main_subject": "나의 위인전"
+  }
+}

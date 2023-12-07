@@ -1,0 +1,264 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 말미잘 이다.#@문장구분# 나의 하루는 똑같다.#@문장구분# 니모라고 유명해진 퍼큘러피쉬는 내 가족이나 다름없다.#@문장구분# 하루종일 퍼큘러와 살기 때문이다. #@문장구분#나는 가만히 있어서 심심하다. #@문장구분#그럴때는 내 앞을 지나가는 친구들을 보며 심심함을 풀곤 한다.#@문장구분# 당당하고 빠르게 어딘가는 가는 물고기 친구들이 부럽다.#@문장구분# 나도 빠르게 물 속을 헤엄치고 싶다.#@문장구분# 그래도 나는 귀여우니까 괜찮다.#@문장구분# 바다 속에는 사람들이 잘 알지 못하는 사실이 많다.#@문장구분# 내 앞에서 상어가 사냥을 하는 생생한 장면을 방구석 1열에서 볼 수도 있고, 아이돌 놀이를 하는 낙지들도 볼 수있다.#@문장구분# 정말 낙시들의 무대를 보면 기분이 나빠진다#@문장구분# 오늘 지나가는 문어에게 말을 걸었다.#@문장구분# 내가 문어에게 오늘 밥은 뭐 먹었어? 라고 물어보자 문어는 \"차가운 국밥을 먹었어.\"라고 했다.#@문장구분# 참 맛있었겠다.#@문장구분# 나는 국밥을 먹어본적이 없어서 궁금하다.#@문장구분# 나는 이래서 움직이진 않지만 친구들과 시간을 보내는게 재밌다.#@문장구분# 퍼큘러피쉬 친구들도 나의 하루생활과 비슷하다.#@문장구분# 아침에는 나와 제일 친한 퍼큘러가 가장 먼저 일어난다. #@문장구분#그러곤 눈꼽을 떼려고 바닷물로 세수를 한다.#@문장구분# 나와 제일 친한 퍼큘러가 세수를 다 하면 다른 퍼큘러 친구가 일어나자마자 사냥을 나간다. #@문장구분#왜냐하면 그 친구는 식탐이 엄청나기 때문이다. #@문장구분#아주 가끔은 나에게 먹을 것을 갖다주곤 한다.#@문장구분#",
+      "paragraph_len": 1098,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.65,
+      28.25,
+      18.15
+    ],
+    "essay_scoreT_avg": 23.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.09",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 말미잘이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>말미잘 이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럴 때는 내 앞을 지나가는 친구들을 보며 심심함을 풀곤 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그럴때는</문법_맞춤법> 내 앞을 지나가는 친구들을 보며 심심함을 풀곤 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 당당하고 빠르게 어딘가로 가는 물고기 친구들이 부럽다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 당당하고 빠르게 어딘<문법_조사>가는</문법_조사> <문법_조사>가는</문법_조사> 물고기 친구들이 부럽다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 앞에서 상어가 사냥을 하는 생생한 장면을 방구석 1열에서 볼 수도 있고, 아이돌 놀이를 하는 낙지들도 볼 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내 앞에서 상어가 사냥을 하는 생생한 장면을 방구석 1열에서 볼 수도 있고, 아이돌 놀이를 하는 낙지들도 <문법_맞춤법>볼 수있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 낙지들의 무대를 보면 기분이 나빠진다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기, 문장 부호"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 정말 <문법_맞춤법>낙시들의</문법_맞춤법> 무대를 보면 기분이 <문법_기타>나빠진다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 국밥을 먹어본 적이 없어서 궁금하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 국밥을 <문법_맞춤법>먹어본적이</문법_맞춤법> 없어서 궁금하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 이래서 움직이진 않지만 친구들과 시간을 보내는 게 재밌다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 이래서 움직이진 않지만 친구들과 시간을 <문법_맞춤법>보내는게</문법_맞춤법> 재밌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35293",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 639,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

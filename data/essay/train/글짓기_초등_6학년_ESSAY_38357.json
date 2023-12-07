@@ -1,0 +1,312 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 변신하고 싶은 물고기들은 많지만 그중에서 하나를 골르자면 상어다.#@문장구분# 그 이유는 나는 상어가 되어 여러 나라에 바다를 돌아다니면서 거기에 바다가 어떡해 생겼는지 또 어떤 물고기들과 어떤 신기한 생물이 있는지 궁금하다. #@문장구분#그 이유는 우리나라에도 우리나라에만 있는 생물이 있으니깐 어떤생물이 있는지 궁금하다. #@문장구분#그 다음 이유는 여러 곳을 돌아다니면 재미있을 것 같다 보이기 때문이다. #@문장구분#그 이유는 그냥 여러 곳을 돌아다니면 스트레스도 풀리고 재미있고 설렐거 같기 때문이다. #@문장구분#그 다음 이유는 상어로 살면 그나마 오래 살수있기 때문이다. #@문장구분#그 이유는 상어는 자기보다 쎈 바다생물만 아니면 힘이 쎄서 왠만에서 죽지않을 것 같다.#@문장구분# 그래서 나는 상어가 되어 자유롭고 여기저기 돌아다니며 자유롭게 생활하고 싶다.#@문장구분# 끈.#@문장구분#",
+      "paragraph_len": 570,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.15,
+      25.7,
+      23.85
+    ],
+    "essay_scoreT_avg": 21.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 변신하고 싶은 물고기들은 많지만 그 중에서 하나를 고르자면 상어다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 변신하고 싶은 물고기들은 많지만 <문법_맞춤법>그중에서</문법_맞춤법> 하나를 골르자면 상어다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 나는 상어가 되어 여러 나라의 바다를 돌아다니면서 거기에 바다가 어떻게 생겼는지 또 어떤 물고기들과 어떤 신기한 생물이 있는지 궁금하기 때문이다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그 이유는 나는 상어가 되어 여러 <문법_조사>나라에</문법_조사> 바다를 돌아다니면서 거기에 바다가 <문법_맞춤법>어떡해</문법_맞춤법> 생겼는지 또 어떤 물고기들과 어떤 신기한 생물이 있는지 <문법_어미>궁금하다</문법_어미>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리나라에만 있는 생물이 있으니까 또 어떤 생물이 있는지 궁금하다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "어미",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>그 이유는 우리나라에도 우리나라에만</스타일링_패러프레이징> 있는 생물이 <문법_어미>있으니깐</문법_어미> <문법_맞춤법><문법_기타>어떤생물이</문법_기타></문법_맞춤법> 있는지 궁금하다. ",
+      "sentence_corr_txt_styling": "우리나라에만 있는 생물이 있으니까 또 어떤 생물이 있는지 궁금하다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 다음 이유는 여러 곳을 돌아다니면 재미있을 것 같기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그 다음 이유는 여러 곳을 돌아다니면 재미있을 것 <문법_기타>같다 보이기</문법_기타> 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 이유는 그냥 여러 곳을 돌아다니면 스트레스도 풀리고 재미있고 설렐 것 같기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "그 이유는 그냥 여러 곳을 돌아다니면 스트레스도 풀리고 재미있고 <문법_맞춤법><문법_조사>설렐거</문법_조사></문법_맞춤법> 같기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 상어로 살면 그나마 오래 살 수 있을 것 같다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "<스타일링_기타>그 다음 이유는</스타일링_기타> 상어로 살면 그나마 오래 <문법_조사><문법_어미>살수있기 때문이다</문법_어미></문법_조사>. ",
+      "sentence_corr_txt_styling": "또 상어로 살면 그나마 오래 살 수 있을 것 같다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "불필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_기타>그 이유는 상어는</스타일링_기타> <스타일링_맞춤법>자기보다 쎈 바다생물만 아니면 힘이 쎄서</스타일링_맞춤법> 왠만에서 죽지않을 것 같다.",
+      "sentence_corr_txt_styling": "상어는 힘이 세서 웬만해서 죽지 않을 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 상어가 되어 자유롭게 여기저기 돌아다니며 생활하고 싶다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 나는 상어가 되어 <문법_어미>자유롭고</문법_어미> 여기저기 돌아다니며 <스타일링_패러프레이징>자유롭게 생활하고</스타일링_패러프레이징> 싶다.",
+      "sentence_corr_txt_styling": " 그래서 나는 상어가 되어 자유롭게 여기저기 돌아다니며 생활하고 싶다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38357",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 391,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에게 소중함을 알려준 사람은 바로 내 친구들이다.#@문장구분# 지금의 내 친구들은 고등학교에 올라와서 정말 너무 어색하고 일주일동안 반에서 애들이랑 너무 어색해서 말을 한마디도 못하고 집에 올때도 있었는데 진짜 너무 답답하고 너무 재미도 없어서 학교 다니기도 싫고 재미도 없어서 학교에 정이 안 붙었는데 여진이랑 소영이가 반에서 많이 얘기도 하고 애들한테도 다가고 그러면서 점점 우리반 분위기가 풀리면서 나랑 여진이랑 둘이 엄청 친해졌었다.#@문장구분# 그리고 여진이랑 같이 있으면 너무 웃겼고 이렇게 웃긴사람이였나 얘가? 이런생각이 들 정도로 재밌었는데 소영이가 선우랑 혜원이랑 옆쪽 자리를 뽑아서 걔네끼리도 셋이 친했는데 소영이는 우리 둘이랑도 친해서 이리저리 말도 하면서 놀다보니깐 우리 다섯명이 어느샌가 친해졌다. #@문장구분#그래서 같이 밥도 먹고 점심시간에 같이 수다를 떨면 시간가는 줄 모르고 떠들다가 너무 웃어서 눈물이 날 정도로 즐거운 시간들을 보내면서 나중에는 지민이가 우리와 같이 다니면서 전에 우리 5명 다녔을때의 즐거움이 5배였다면 지민이와 같이 다니기 시작했을땐 즐거움이 6배로 늘어났다.#@문장구분# 친구들이 있으면 이렇게 행복하다는걸 느끼게 해준 나의 소중한 사람들이다.#@문장구분# 물론 가끔 투닥투닥 거릴 땐 있지만 그래도 함께 있어서 즐겁고 행복하고 이래서 친구가 좋다는거구나 라고 생각이 들때도 있고 지금 친구들이 있어서 너무너무 행복하다.#@문장구분#",
+      "paragraph_len": 800,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.666666,
+      20.666666,
+      24.055555
+    ],
+    "essay_scoreT_avg": 22.462961,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.21",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_76574",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 680,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

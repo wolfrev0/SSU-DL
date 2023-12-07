@@ -1,0 +1,238 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래도시의 이름을 '초록 숲 도시' 라고 지을 것이다.#@문장구분# 왜냐하면 미래에 초록색깔의 나무들이 많이 있게 되어서 멀리서 쳐다볼 때 숲처럼 되어 있기 때문이다.#@문장구분# 지금 지구는 계속해서 온도가 높아지는 '지구온난화' 라는 일이 일어나고 있다.#@문장구분# 이거 때문에 북극곰이 살고 있는 얼음이 녹아서 바닷물이 높아지고 날씨도 마음대로 변해서 우리가 먹는 야채랑 과일을 키울 수가 없다고 한다.#@문장구분# 바람이 세게 부는 태풍도 자주 일어날 수 있고 쓰나미도 올 수 있다고 한다.#@문장구분# 그러면 사람들한테도 위험하고 동물들도 많이 다친다.#@문장구분# 그래서 이걸 멈추게 하기 위해서는 건물이나 도로 만드는 걸 그만하고 나무를 많이 키우는 게 해야 한다.#@문장구분# 왜냐하면 나무를 많이 키우게 되면 자동차가 지나갈 때마다 나오는 안 좋은 연기도 안 나서 지구온난화가 약해지게 된다.#@문장구분#",
+      "paragraph_len": 567,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      22.8,
+      15.75
+    ],
+    "essay_scoreT_avg": 22.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "나는 미래도시의 이름을 '초록 숲 도시' 라고 지을 것이다.",
+      "sentence_corr_txt_styling": "나는 미래도시의 이름을 '초록 숲 도시' 라고 지을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 미래에 초록색깔의 나무들이 많이 있게 되어서 멀리서 쳐다볼 때 숲처럼 될 것이기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "시제"
+      ],
+      "sentence_txt": " 왜냐하면 미래에 초록색깔의 나무들이 많이 있게 되어서 멀리서 쳐다볼 때 숲처럼 <문법_어미><문법_시제>되어 있기</문법_시제></문법_어미> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것 때문에 북극곰이 살고 있는 얼음이 녹아서 바닷물이 높아지고 날씨도 마음대로 변해서 우리가 먹는 야채랑 과일을 키울 수가 없다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이거</문법_맞춤법> 때문에 북극곰이 살고 있는 얼음이 녹아서 바닷물이 높아지고 날씨도 마음대로 변해서 우리가 먹는 야채랑 과일을 키울 수가 없다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 이걸 멈추게 하기 위해서는 건물이나 도로 만드는 걸 그만하고 나무를 많이 키우게 해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 그래서 이걸 멈추게 하기 위해서는 건물이나 도로 만드는 걸 그만하고 나무를 많이 <문법_어미>키우는 게</문법_어미> 해야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 나무를 많이 키우게 되면 자동차가 지나갈 때마다 나오는 안 좋은 연기도 안 나서 지구온난화가 약해지게 되기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 나무를 많이 키우게 되면 자동차가 지나갈 때마다 나오는 안 좋은 연기도 안 나서 지구온난화가 약해지게 <문법_어미><문법_기타>된다</문법_기타></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75760",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 408,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

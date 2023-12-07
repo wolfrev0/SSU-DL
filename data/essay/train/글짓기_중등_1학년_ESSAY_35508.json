@@ -1,0 +1,445 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시에서는 다른사람도 알것같은것 이다.#@문장구분# 바로 사람손으로 핸들을 하는게 아니라 손필요없이 자동차가 알아서 가는 자동차가 생길것이다.#@문장구분# 지금현재도 그런 자동차를 만들려고하는데 지금현재에서 그걸 만들지는 아직모르다.#@문장구분# 하지만 미래는 많은 변화가 생기기 때문에 손으로하는 핸들을 쓸일이 없을가능성이 70%쯤은 된다.#@문장구분# 손으로할 필요없는 자동차가 좋은 이유 5가지를 설명하겠습니다.#@문장구분# 첫번째, 졸음운전을 하다가 불의에 사고가 있었따.#@문장구분# 그냥자동차는 졸음운전을 하면 위험도가 100%는 된다.#@문장구분# 그치만 손으로 핸들안하는 자동차는 졸음 운전을 해도 자동차가 알아서 네피게이션으로 잘 가기 때문에 문제가 없다.#@문장구분# 두번째, 그냥 자도아는 계속 타고 있으면 손에 무리가 가고 손목이 저려올수도 있다.#@문장구분# 그럴떄 손목에 무리가 가지 않는 손으로가지 않아도 되는 자동차를 타면된다.#@문장구분# 그자동차는 핸들안해도 혼자 운전하기 때문에 손목에 무리도 가지 않는다.#@문장구분# 세번째는 손목에 무리 가지 않고 졸음이 와도 그냥가는 자동차라 걱정이 안돼고 편하게 돌아다닐수 있다.#@문장구분# 밥먹으면서 자동차를 타도 된다. 가끔 아침밥을 못먹었는데 그자동차를 타고 아침밥을 먹으면 된다.#@문장구분# 정말 편리한 자동차이다.#@문장구분# 네번째, 그 자동차를 타면서 가끔 화장하는걸 까먹었을때 일반자동차를 타면서 화장하는건 교통사고가 일어날수도 있다.#@문장구분# 그치만 핸들을 움직이지 않아도 혼자운전하는 자동차를 탄다면 말이 달라진다.#@문장구분# 왜냐하면 운전을 하지 않아도되니까 화장하기 간편하다.#@문장구분# 혹시나 화장을 안했을때 밥을 못 먹었을때 핸들만질 필요없는 자동차가 좋다.#@문장구분# 감사합니다.#@문장구분#",
+      "paragraph_len": 1148,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.65,
+      14.7,
+      17.7
+    ],
+    "essay_scoreT_avg": 17.016666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "미래도시에서는 <스타일링_담화 맥락 오류>다른사람도 알것같은것 이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "미래도시에서는 다른 사람도 알 것 같은 일이 벌어질 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 바로 <스타일링_맞춤법><스타일링_담화 맥락 오류>사람손으로 핸들을 하는게</스타일링_담화 맥락 오류></스타일링_맞춤법> 아니라 <스타일링_패러프레이징>손필요없이 자동차가 알아서 가는 자동차가</스타일링_패러프레이징> 생길것이다.",
+      "sentence_corr_txt_styling": " 바로 사람 손으로 운전을 하는 게 아니라 알아서 가는 자동차가 생길 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류><스타일링_패러프레이징>지금현재도 그런 자동차를 만들려고하는데 지금현재에서 그걸 만들지는 아직모르다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 지금도 그런 자동차를 만들려고 하는데 만들어졌는지는 아직 모른다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 하지만 미래는 많은 변화가 생기기 때문에 <스타일링_담화 맥락 오류>손으로하는 핸들을 쓸일이 없을가능성이 70%쯤은 된다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 하지만 미래는 많은 변화가 생기기 때문에 직접 운전할 일이 없을 가능성이 70%는 될 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 직접 운전할 필요 없는 자동차가 좋은 이유 5가지를 설명하겠다. ",
+      "sentence_corr_reason": [
+        "",
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>손으로할 필요없는</스타일링_담화 맥락 오류> 자동차가 좋은 이유 5가지를 <문법_어미>설명하겠습니다.</문법_어미>",
+      "sentence_corr_txt_styling": " 직접 운전할 필요 없는 자동차가 좋은 이유 5가지를 설명하겠다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째, 졸음 운전을 하다가 불의의 사고가 있었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>첫번째,</문법_맞춤법> 졸음운전을 하다가 불의에 사고가 있었따.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그냥 자동차는 졸음 운전을 하면 위험도가 100%는 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그냥자동차는 졸음운전을</문법_맞춤법> 하면 위험도가 100%는 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그치만 직접 운전하지 않는 자동차는 졸음 운전을 해도 알아서 네비게이션으로 잘 가기 때문에 문제가 없다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그치만 <스타일링_담화 맥락 오류>손으로 핸들안하는</스타일링_담화 맥락 오류> 자동차는 졸음 운전을 해도 <문법_맞춤법>자동차가 알아서 네피게이션으로</문법_맞춤법> 잘 가기 때문에 문제가 없다.",
+      "sentence_corr_txt_styling": " 그치만 직접 운전하지 않는 자동차는 졸음 운전을 해도 알아서 네비게이션으로 잘 가기 때문에 문제가 없다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째, 그냥 자동차는 계속 타고 있으면 손에 무리가 가고 손목이 저려올 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째, 그냥 자도아는</문법_맞춤법> 계속 타고 있으면 손에 무리가 가고 손목이 저려올수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럴 때 무리가 가지 않도록 직접 운전 안 하는 자동차를 타면 된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럴떄</문법_맞춤법> <스타일링_담화 맥락 오류>손목에 무리가 가지 않는 손으로가지 않아도 되는 자동차를 타면된다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그럴 때 무리가 가지 않도록 직접 운전 안 하는 자동차를 타면 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째는 손목에 무리 가지 않고 졸음이 와도 그냥 가는 자동차라 걱정이 안 되고 편하게 돌아다닐 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째는</문법_맞춤법> 손목에 무리 가지 않고 졸음이 와도 그냥가는 자동차라 걱정이 안돼고 편하게 돌아다닐수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 밥 먹으면서 자동차를 타도 된다. 가끔 아침밥을 못 먹었을 때 그 자동차를 타고 밥을 먹으면 된다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>밥먹으면서</문법_맞춤법> 자동차를 타도 된다. 가끔 아침밥을 <스타일링_담화 맥락 오류>못먹었는데 그자동차를 타고</스타일링_담화 맥락 오류> 아침밥을 먹으면 된다.",
+      "sentence_corr_txt_styling": " 밥 먹으면서 자동차를 타도 된다. 가끔 아침밥을 못 먹었을 때 그 자동차를 타고 밥을 먹으면 된다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 네 번째, 가끔 화장하는 걸 까먹었을 때 일반 자동차를 타면서 화장하는 건 교통사고가 일어날 수도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_맞춤법>네번째,</문법_맞춤법> <스타일링_담화 맥락 오류>그 자동차를 타면서 가끔 화장하는걸 까먹었을때</스타일링_담화 맥락 오류> 일반자동차를 타면서 화장하는건 교통사고가 일어날수도 있다.",
+      "sentence_corr_txt_styling": " 네 번째, 가끔 화장하는 걸 까먹었을 때 일반 자동차를 타면서 화장하는 건 교통사고가 일어날 수도 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그치만 핸들을 움직이지 않아도 혼자 운전하는 자동차를 탄다면 말이 달라진다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그치만 핸들을 움직이지 않아도 <문법_맞춤법>혼자운전하는</문법_맞춤법> 자동차를 탄다면 말이 달라진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 운전을 하지 않아도 되니까 화장하기 간편하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 운전을 하지 <문법_맞춤법>않아도되니까</문법_맞춤법> 화장하기 간편하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 혹시나 화장을 안 했을 때 밥을 못 먹었을 때 핸들 만질 필요 없는 자동차가 좋다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 혹시나 화장을 <문법_맞춤법>안했을때</문법_맞춤법> 밥을 못 먹었을때 핸들만질 필요없는 자동차가 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이상이다. ",
+      "sentence_corr_reason": [
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " <문법_어미>감사합니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35508",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 768,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래 도시의 이름을 삐리삐리 도시라고 짓고 싶습니다.#@문장구분# 삐리삐리라는 말을 들었을 때 가장 먼저 머릿속에 떠오르는 건 뭘까요?#@문장구분# 바로 외계인입니다!#@문장구분# 먼 미래에는 외계인들과 함께 살 수도 있다는 생각을 해보았습니다.#@문장구분# 지금까지도 실제로 UFO(미확인 비행 물체)를 목격했다는 사람들이 많이 나왔습니다.#@문장구분# 그리고 사진들도 많고요.#@문장구분# 이런 사건들은 모두 지금 미스테리로 남아 있습니다.#@문장구분# 정말 외계인이 존재할까?라는 의문은 아직까지도 해결되지 않고 있습니다.#@문장구분# 하지만 제 생각은 이렇습니다.#@문장구분# 우리가 수많은 은하계 중에 지구 그 작은 별 중에 하나인데, 그리고 지구 안에서도 수많은 사람들 중에 하나인데, 정말 우리와 같이 생명을 가진 존재가 살아가는 행성이 은하계에 단 하나도 없을까요?#@문장구분# 저는 아니라고 봅니다.#@문장구분# 무조건 외계인은 존재할 수 밖에 없습니다.#@문장구분# 확률상 그렇다고 볼 수 있겠지요.#@문장구분# 그래서 외계인과 함께 사는 도시를 상상하게 되었습니다.#@문장구분# 외계인들은 우리들보다 더 발전한 기술을 가지고 있을 것이기 때문에 우리들의 도시는 많이 발전한 모습일 것입니다.#@문장구분#",
+      "paragraph_len": 826,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      30,
+      25.7
+    ],
+    "essay_scoreT_avg": 28.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71360",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 527,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

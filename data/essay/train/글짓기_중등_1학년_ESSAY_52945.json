@@ -1,0 +1,299 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "이름은 살기 매우 좋은 대전으로 하고싶다.#@문장구분# 나중 미래에는 과학이 많이 발전에 웬만한 것은 인공지능으로 대체 되고 내연기관 자동차에서 전부 친환경 자동차 전기차나 수소차등 으로 바뀔거고 전기차 충전 속도가 매우 빨라져서 몇 십초면 충전이 다 되고 전기 충전료는 떨어질것 이다.#@문장구분# 또한 정치를 사람보다 학습력이 뛰어난 Ai를 써서 더 좋은 도시로 발전 해 나가고 대중교통은 무인으로 운행 되고 무한동력이 발달 되어 경제적으로 큰 이익이 생기고 일을 하지 않아도 충분히 살 수 있는 곳이 되어서 굳이 일을 하지 않아도 된다.#@문장구분# 경제는 Ai가 해주지만 그대로 몇몇 일자리는 사람이 직접한다.#@문장구분# 또한 스마트폰이 두께나 크기가 마음대로 바뀌며 컴퓨터 만한 성능을 가진 스마트폰이 출시해 컴퓨터 겸 스마트폰으로 이용 가능하다.#@문장구분# 또한 자동차는 완전 무인이 되어 사람이 직접 운전하지 않아도 되고 내부 인테리어가 굉장히 단순 해졌다.#@문장구분# 또한 다른 지역으로 가는 고속도로가 일정선으로 되어 속력 제한 없이 마음 껏 달릴 수 있다.#@문장구분# 또한 전광판 보다 홀로그램이 발전해 광고 등을 홀로그램으로 띄우고 개인비서는 똑똑해져서 모든 문제를 해결 할 수 있다.#@문장구분# 인공지능 로봇들과 대화 할 수 있다.#@문장구분# 절대로 범죄가 일어나지 않게 주변에 CCTV가 전부 설치 되어 있으므로 범죄가 일어날 일이 거의 없다.#@문장구분# 혹시 범죄가 일어나도 금방 잡힌다.#@문장구분#",
+      "paragraph_len": 892,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      24.25,
+      24.25
+    ],
+    "essay_scoreT_avg": 25.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.19",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "이름은 살기 매우 좋은 대전으로 하고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이름은 살기 매우 좋은 대전으로 <문법_맞춤법>하고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에는 과학이 많이 발전해 웬만한 것은 인공지능으로 대체되고 내연기관 자동차에서 전부 친환경 자동차(전기차나 수소차) 등으로 바뀔 거고 전기차 충전 속도가 매우 빨라져서 몇 십 초면 충전이 다 되고 전기 충전료는 떨어질 것이다.",
+      "sentence_corr_reason": [
+        "중복된 표현",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>나중 미래에는 </문법_기타>과학이 많이 <문법_맞춤법>발전에 </문법_맞춤법>웬만한 것은 인공지능으로 대체 되고 내연기관 자동차에서 전부 친환경 자동차 전기차나 수소차등 으로 바뀔거고 전기차 충전 속도가 매우 빨라져서 몇 십초면 충전이 다 되고 전기 충전료는 떨어질것 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 정치를 사람보다 학습력이 뛰어난 Ai를 써서 더 좋은 도시로 발전해 나가고 대중교통은 무인으로 운행되고 무한동력이 발달되어 경제적으로 큰 이익이 생기고 일을 하지 않아도 충분히 살 수 있는 곳이 되어서 굳이 일을 하지 않아도 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 정치를 사람보다 학습력이 뛰어난 Ai를 써서 더 좋은 도시로 <문법_맞춤법>발전 해</문법_맞춤법> 나가고 대중교통은 무인으로 운행 되고 무한동력이 발달 되어 경제적으로 큰 이익이 생기고 일을 하지 않아도 충분히 살 수 있는 곳이 되어서 굳이 일을 하지 않아도 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 경제는 Ai가 해주지만 그대로 몇몇 일자리는 사람이 직접 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 경제는 Ai가 해주지만 그대로 몇몇 일자리는 사람이 <문법_맞춤법>직접한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 자동차는 완전 무인이 되어 사람이 직접 운전하지 않아도 되고 내부 인테리어가 굉장히 단순해질 것이다..",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 또한 자동차는 완전 무인이 되어 사람이 직접 운전하지 않아도 되고 내부 인테리어가 굉장히 <문법_시제>단순 해졌다</문법_시제>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 다른 지역으로 가는 고속도로가 일정선으로 되어 속력 제한 없이 마음껏 달릴 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 다른 지역으로 가는 고속도로가 일정선으로 되어 속력 제한 없이 <문법_맞춤법>마음 껏</문법_맞춤법> 달릴 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 전광판 보다 홀로그램이 발전해 광고 등을 홀로그램으로 띄우고 개인비서는 똑똑해져서 모든 문제를 해결할 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한 전광판 보다 홀로그램이 발전해 광고 등을 홀로그램으로 띄우고 개인비서는 똑똑해져서 모든 문제를 <문법_맞춤법>해결 할 수 있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인공지능 로봇들과 대화할 수도 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 인공지능 로봇들과 <문법_맞춤법><문법_조사>대화 할 수 있다</문법_조사></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 절대로 범죄가 일어나지 않게 주변에 CCTV가 전부 설치되어 있으므로 범죄가 일어날 일이 거의 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 절대로 범죄가 일어나지 않게 주변에 CCTV가 전부 <문법_맞춤법>설치 되어</문법_맞춤법> 있으므로 범죄가 일어날 일이 거의 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52945",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 673,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

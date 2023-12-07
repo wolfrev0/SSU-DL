@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 미래를 상상해보면 저는 딱히 꿈이 없기 때문에 그냥 경영학과에 진학하여 공무원 준비를 하고 있을 것 같습니다.#@문장구분#25살의 저는 공무원 시험을 준비하고 있을 것 같고, 35살의 저는 9급 공무원이 된지 몇 년이 지나 어느정도 안정적인 삶을 가지게 되어서 지금 사귀고 있는 남친과 결혼한지 1~2년 쯤 지났을 것 같습니다.#@문장구분# 그리고 45살의 저는 딸 하나 아들 하나를 키우면서 살고 있을 것 같습니다.#@문장구분# 남편과 육아를 분담해서 하기 때문에 저는 공무원 일을 계속하고 있을 것이고 연차가 많이 차서 좀 더 높은 급수의 공무원으로 승진 했을 것입니다.#@문장구분# 남편은 프리랜서이기 때문에 월급이 일정치 않아서 제 월급을 바탕으로 해서 남편의 월급을 더해 적금을 들고 안정적인 삶을 살아갈 것 같습니다.#@문장구분# 저는 이런 특별할 것이 없어보이지만 평화롭고 안정적인 삶을 꾸려나갈 것이고 '걱정해서 걱정이 사라지면 좋겠네'라는 쓸데없이 걱정하지 말자라는 저의 가치관에 따라 저의 삶에 자신을 가지고 지금의 행복에 만족하며 매일을 행복하게 살아갈 것입니다.",
+      "paragraph_len": 618,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.88889,
+      23.61111
+    ],
+    "essay_scoreT_avg": 26.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_67968",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 519,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

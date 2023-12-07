@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 익숙함에 속아 소중함을 잊었던 사례가 많이 없습니다.#@문장구분# 어렸을 때부터 부모님이 가르쳐주신 배려와 존중 때문에 저한테 익숙하고 편하다고 해서 절대 소중한 인간관계를 무시하거나, 소홀하게 하는 경우는 없습니다.#@문장구분# 오히려 그 소중한 인간관계를 끝까지 가져가고 싶어서 소중할수록 더 신경 쓰고 섬세하게 챙기는 성격입니다.#@문장구분# 저는 그래서 초등학교, 중학교, 고등학교 인생을 살아오면서 저에게 가장 소중한 어머니에 관해서 이야기하려고 합니다.#@문장구분# 저희 어머니는 책임감과 아들, 딸 걱정뿐인 이 세상에 하나뿐인 어머님이십니다.#@문장구분# 우리 가족이 벌이가 많지 않아서 좋은 거는 못 해주지만 아들, 딸이 모든 것을 경험할 수 있게끔은 하고 싶으셔서 무리하게 버시면서까지도 저희한테 투자하시고 아버지랑은 다르게 마음에 고민이 있으면 어머니가 신기하게 찾아와 섬세하게 물어보시면서 고민을 해결 또는 마음을 편하게 만들어주시는 어머니의 능력이 너무 신기하고, 따듯합니다.#@문장구분# 저희 어머니는 강하지도 않으시고, 체력이 좀 부족하신 분이신데 불구하고 정신력으로 버티면서 저희를 키우는 모습은 정말 대단하신 분이구나를 느낍니다.#@문장구분# 저희 어머니에 따듯한 배려심과 강한 정신력을 배워야 합니다.#@문장구분# 이런 어머니를 실망하게 해드리면 안 되고 저한테 소중함을 가르쳐주신 만큼 저도 어머니의 소중함을 어머니한테 보여주고 싶습니다.#@문장구분#",
+      "paragraph_len": 838,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.5,
+      30
+    ],
+    "essay_scoreT_avg": 29.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "031",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_73587",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 658,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

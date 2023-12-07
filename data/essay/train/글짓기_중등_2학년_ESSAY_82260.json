@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래에 번역가가 되고싶다. #@문장구분#번역가가 되고싶은 이유는 나는 영화를 정말 좋아하는데, 그 영화 업계에서 내가 할 수 있는 일은 내가 가장 자신있는 영어로 번역을 하는 일이기 때문이다. #@문장구분#최근에 디즈니 플러스에서 자막번역이 잘못되어서 큰 논란이 된 적이 있다.#@문장구분# 이처럼 나는 요즘에는 자막이 굉장히 중요하다고 생각한다. #@문장구분#외국영화가 한국에 들어오는 경우도 많고, 한국 영화가 옛날에 비해서 수출되는 경우도 굉장히 많기 때문이다. #@문장구분#나는 내가 좋아하는 번역가가 있다. #@문장구분#황석희 번역가닙이다.#@문장구분# 그 분은 정말 말 한마디 한마디에 있어서, 번역을 할 때 말의 표현, 말의 맛을 잘 살려서 번역을 하신다. #@문장구분#뿐만 아니라, 사람들에게 혐오감을 줄 수 있는 표현, 우리 사회에 만연하게 녹아있는 혐오표현들을 항상 교정해서 사용하신다. #@문장구분#나도 그런 번역가가 되고싶다.#@문장구분# 번역은 사람들에게 있어서 영화를 보는 안경과도 같다. #@문장구분#안경이 삐뚤거나 도수가 잘 맞지 않으면 영화를 제대로 즐길 수 없듯이 자막은 그런 존재이다. #@문장구분#나도 황석히 번역가님처럼 훌륭한 번역가가 되고 싶다는 생각이다.",
+      "paragraph_len": 772,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.5,
+      25.777779,
+      28
+    ],
+    "essay_scoreT_avg": 27.092592,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.17",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_82260",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 532,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

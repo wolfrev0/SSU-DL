@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제를 시작하기 앞서서 나는 내가 살고 있는 한국의 전통가옥에서 얻은 한 가지 깨달읆에 대하여 잠시 이야기하고 싶다.#@문장구분#\n  \n 한국의 전통가옥 지붕은 들에서 채취된 진흙을 구워 만든 흑색기와로 덮여있다.#@문장구분# 제조과정을 들여다보면 흑기와는 서양의 적색기와와 거의 같은 재료를 사용하지만 진흙이 일정한 형태로 굳어지면 굴뚝을 열어놓고 소성온도를 낮추어 구어 낸 결과로 만들어진다.#@문장구분#",
+      "paragraph_len": 267,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 미래의 도시에서도 지금과 같이 장소성이 상실되는 현상이 계속 이어진다면 어떻게 될까 하는 우려에서 비롯된 생각이다.#@문장구분# 도시인의 머릿속에서 특정한 기억의 장소 특히 긴모퉁이나 공공의 옥외 공간이 만남의 장소로 더 이상 기억되지 못할 때, 그 장소가 머릿속으로 그려지지 못하고 숫자로만 기억될 때 삶의 기억과 흔적이 지속 가능한 진정한 도시가 만들어질 수 있을지 의문이다.#@문장구분#\n \n 새로운 도시를 구상하면서 많은 사람들이 미래사회의 전망에 대하여 여러 가지 이야기를 하여왔다.#@문장구분# 미래의 도시와 건축이 어떻게 되지도 궁금하고 기대하고 있다.#@문장구분#",
+      "paragraph_len": 376,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      22.4,
+      27.45
+    ],
+    "essay_scoreT_avg": 25.283335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_43878",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 506,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시 이름은 '발리아'라고 지을 것이다.#@문장구분# '발리아'는 발전과 영역이라는 뜻인 'area'를 줄여서 만든 것이다.#@문장구분# 미래 도시는 엄청나게 발전된 것일테니 발전된 영역이라는 의미이다.#@문장구분# 내가 생각하는 미래도시에는 코로나보다 더 많은 바이러스들이 등장해서 마스크를 쓰지 않고는 살 수 없는 세상일 것이라고 생각한다.#@문장구분# 하지만 지금처럼 마스크를 계속 쓰고 다니면 힘드니까 초소형 마스크 필터를 만들어서 코나 장기에 심어서 마스크를 겉으로는 쓰지 않아도 우리 몸에 마스크 기능이 있어서 방역이 가능해질 것이다.#@문장구분# 그럼 애기들이 말을 늦게 배우는 현상도 줄어들 것이고 청각장애인들도 더 이상 불편하지 않을 것이다. #@문장구분#마스크 때문에 피부질환도 덜 생길 것이다. #@문장구분#그래서 아무리 바이러스가 많이 생겨도 심각한 상황이 아니면 마스크를 겉으로 착용해야 할 일이 없어질 것이다. #@문장구분#또 평상시에 황사나 감기도 막을 수 있기 때문에 사람들이 더 건강해질 것이다.#@문장구분# 모두 기술과 의료가 발전되어서 가능해질 것이다.#@문장구분#",
+      "paragraph_len": 692,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28,
+      30
+    ],
+    "essay_scoreT_avg": 29.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71620",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 493,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

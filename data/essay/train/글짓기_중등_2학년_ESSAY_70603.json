@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 예전에 제가 힘들었던 경험이 있어서 그런지 사람들이 힘들어하는 걸 보면 신경이 쓰이고 그 사람들의 이야기들을 들어주고 싶다는 생각이 들어서 심리상담사의 꿈을 키우게 되었습니다.#@문장구분#10년 후에는 저는 대학교를 졸업하고 학부 과정을 마친 뒤 대학원에 진학을 해서 지도 교수님의 조교로 생활하고 있을 것입니다.#@문장구분# 심리계에서 취업을 하기 위해서는 적어도 석사, 박사 과정을 거쳐야하기 때문입니다.#@문장구분# 20년 후엔 저만의 심리 상담 센터를 차려서 마음이 힘든 사람들을 위해서 열심히 이야기를 들어주고 도움을 주려고 노력할 것입니다. #@문장구분#30년 후에는 모아놓은 적금으로 온라인 무료 심리 상담센터도 운영하면서 일주일마다 몇 명씩 심리 상담을 지원하면 상담을 해주는 식으로 돈이 없거나 아직 학생인 사람들의 힘든 이야기들을 들어주면서 사람들이 조금이나마 행복해졌으면 좋겠습니다. #@문장구분#저의 이런 활동으로 사회적으로 많은 사람들의 우울증이 해소되었으면 합니다.#@문장구분#",
+      "paragraph_len": 586,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.388889,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.166668,
+      22.666666,
+      26
+    ],
+    "essay_scoreT_avg": 24.611113,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_70603",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 468,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

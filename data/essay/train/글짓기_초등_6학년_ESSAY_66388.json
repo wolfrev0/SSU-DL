@@ -1,0 +1,336 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다속에는 다양한 바다속 친구들이 살고 있습니다.#@문장구분#그 중 '새우'라는 바다속 친구들이 살고 있습니다.#@문장구분#많은 새우친구들이 있지만,그 중 살짝 특별한 새우친구가 살고 있습니다.#@문장구분#그 새우친구는 어떤점이 특별한 것일까요? #@문장구분#그 새우친구는 다른새우친구들과는 다르게 사람의 말을할 수 있습니다! #@문장구분#그 새우친구의 이름은 '새홍이'입니다.#@문장구분#새홍이는 일주일에 한 번씩 육지로 나와 여자아이와 생활을 하며 놉니다.#@문장구분#그러다 문득, 새홍이는 다른새우친구들에게 똑같은 사람말을 가르쳐주어서 여자아이들과 다함께 놀고 싶었습니다.#@문장구분#그래서 새홍이는 자신의 친구들에게 사람말을 가르쳐 보지만,생각보다 쉽지 않았습니다.#@문장구분#하지만,새홍이가 두 달간 사람말을 자신의 친구들에게 알려준 결과,조금씩 사람말을 할 수 있게되었습니다.#@문장구분#그래서 새홍이는 이정도면 괜찮다고 생각해서 사람말을 가르쳐준 자신의 친구들을 데리고 육지로 나와서 여자아이가 있는 곳에 가서 다 함께 생활을 하며 놀아보았습니다.#@문장구분#처음에는 살짝 어색했지만,가면 갈수록 괜찮아지고,그렇게 다 함께 행복하게 생활을 하고,놀면서 지냈답니다!",
+      "paragraph_len": 745,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      23.3,
+      24.55
+    ],
+    "essay_scoreT_avg": 24.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "055",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바닷속에는 다양한 바닷속 친구들이 살고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>바다속에는 다양한 바다속</문법_맞춤법> 친구들이 살고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그중 '새우'라는 바닷속 친구들이 살고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 중 '새우'라는 <문법_맞춤법>바다속</문법_맞춤법> 친구들이 살고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "많은 새우 친구들이 있지만, 그중 살짝 특별한 새우 친구가 살고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "많은 <문법_맞춤법>새우친구들이 있지만,그 중 살짝 특별한 새우친구가</문법_맞춤법> 살고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 새우 친구는 어떤 점이 특별한 것일까요? ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 <문법_맞춤법>새우친구는 어떤점이</문법_맞춤법> 특별한 것일까요? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 새우 친구는 다른 새우 친구들과는 다르게 사람의 말을 할 수 있습니다! ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그 새우친구는 다른새우친구들과는 다르게 사람의 말을할 수 있습니다!</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 새우 친구의 이름은 '새홍이'입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 <문법_맞춤법>새우친구</문법_맞춤법>의 이름은 '새홍이'입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러다 문득, 새홍이는 다른 새우 친구들에게 똑같은 사람 말을 가르쳐 주어서 여자 아이들과 다 함께 놀고 싶었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러다 문득, 새홍이는 <문법_맞춤법>다른새우친구들에게 똑같은 사람말을 가르쳐주어서 여자아이들과 다함께</문법_맞춤법> 놀고 싶었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 새홍이는 자신의 친구들에게 사람 말을 가르쳐 보지만, 생각보다 쉽지 않았습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 새홍이는 자신의 친구들에게 <문법_맞춤법>사람말을 가르쳐 보지만,</문법_맞춤법>생각보다 쉽지 않았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만, 새홍이가 두 달간 사람 말을 자신의 친구들에게 알려준 결과, 조금씩 사람 말을 할 수 있게 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>하지만,</문법_맞춤법>새홍이가 두 달간 사람말을 자신의 친구들에게 알려준 결과,조금씩 사람말을 할 수 있게되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 새홍이는 이 정도면 괜찮다고 생각해서 사람 말을 가르쳐준 자신의 친구들을 데리고 육지로 나와서 여자아이가 있는 곳에 가서 다 함께 생활을 하며 놀아보았습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 새홍이는 <문법_맞춤법>이정도면</문법_맞춤법> 괜찮다고 생각해서 사람말을 가르쳐준 자신의 친구들을 데리고 육지로 나와서 여자아이가 있는 곳에 가서 다 함께 생활을 하며 놀아보았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "처음에는 살짝 어색했지만,가면 갈수록 괜찮아지고,그렇게 다 함께 행복하게 생활을 하고,놀면서 지냈답니다!",
+      "sentence_corr_txt_styling": "처음에는 살짝 어색했지만,가면 갈수록 괜찮아지고,그렇게 다 함께 행복하게 생활을 하고,놀면서 지냈답니다!",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66388",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 525,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

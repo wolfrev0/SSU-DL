@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각한 미래 도시의 이름은 AI coexistence city입니다.#@문장구분# 우리는 지금 AI시대라고 불리는 4차 산업혁명 시대에 접어들고 있습니다.#@문장구분# 인공지능에 대한 많은 관심을 가지고 발전시키기 위해 노력하고 있습니다.#@문장구분# 이러한 인공지능의 발전은 우리의 삶을 편리하게 만들고 삶의 질을 높여줍니다.#@문장구분# 때문에 앞으로도 이러한 우리의 관심은 계속될 것이며 우리의 삶에 많은 영향을 끼칠 것이라고 생각합니다.#@문장구분# 아침을 시작해 인공지능에게 하루의 일과를 듣고, 아침식사 레시피를 브리핑 받고, 출근할 교통편을 제공받고, 인공지능에게 업무를 부탁하고, 퇴근할 교통편을 제공받고, 인공지능에게 하루의 위안을 얻는 그런 생활이 보편화될 것입니다.#@문장구분# 인공지능이 우리의 삶에 일부가 되는 그런 시대가 올 것이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 532,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      22.25,
+      20
+    ],
+    "essay_scoreT_avg": 20.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 우리는 지금 AI 시대라고 불리는 4차 산업혁명 시대에 접어들고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 지금 <문법_맞춤법>AI</문법_맞춤법>시대라고 불리는 4차 산업혁명 시대에 접어들고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아침을 시작해 인공지능에게 하루의 일과를 듣고, 아침식사 레시피를 브리핑 받고, 출근할 교통 편을 제공받고, 인공지능에게 업무를 부탁하고, 퇴근할 교통 편을 제공받고, 인공지능에게 하루의 위안을 얻는 그런 생활이 보편화될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아침을 시작해 인공지능에게 하루의 일과를 듣고, 아침식사 레시피를 브리핑 받고, 출근할 <문법_맞춤법>교통편을 </문법_맞춤법>제공받고, 인공지능에게 업무를 부탁하고, 퇴근할 <문법_맞춤법>교통편을 </문법_맞춤법>제공받고, 인공지능에게 하루의 위안을 얻는 그런 생활이 보편화될 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_76208",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 393,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

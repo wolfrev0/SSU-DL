@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 고래가 되고 싶습니다. #@문장구분#지구상에서 가장 큰 포유류, 그래도 지금 인간이니까 해양생물이 된다 하더라도 같은 포유류가 되는게 적응이 쉬울 것 같습니다.#@문장구분# 또 고래는 천적이 없습니다. #@문장구분#인간을 제외한다면 감히 고래를 어찌 할 수 있는 해양생물은 없습니다. #@문장구분#그 무시무시한 상어도 고래한테는 아기 상어 느낌입니다.#@문장구분# ",
+      "paragraph_len": 272,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 어젯밤 어머니에게 꾸중을 듣고 집을 떠다고 싶다는 생각을 하며 울며 잠이 들었다. #@문장구분#그런데 지금 눈을 떠보니 눈앞에는 컴컴한 어둠과 일렁이는 이상한 것들이 보인다. #@문장구분#내가 고래가 되다니! 처음에는 잘 적응이 되지 않았지만, 시간이 지날수록 바닷속을 헤엄치는 자유로움에 흥분이 되기 시작했다.#@문장구분# 가끔 숨을 쉬기 위해 물위로 올라 큰 숨을 내뿜으면 배위의 관광객들이 환호성을 지른다.#@문장구분# 내가 언제 이렇게 인기가 있었던 적이 있었던가? 고래로 사는 것도 참 즐거울 것 같다는 생각이 든다. #@문장구분#몸집이 사람이었을때보다 수십배는 커졌는데도 바다는 끝이 보이지 않는다. #@문장구분#지금 내가 어디에 있는지도 알 수가 없다.#@문장구분# 해양생물들은 어떤 방법으로 길을 찾고 자기 영역을 유지하면서 살아갈까? 고래가 되었지만 궁금증은 더 커져만 간다. #@문장구분#다시 사람이 된다면 고래는 어떻게 길을 찾는지 공부해 보고싶다는 생각이 든다.#@문장구분#",
+      "paragraph_len": 619,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      30,
+      29.75
+    ],
+    "essay_scoreT_avg": 28.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_64244",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 614,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래도시의 이름은 '메탈 도시'이다 왜냐하면 미래에는 발전해서 로봇 같은 것들이 많아질 것이라고 생각하기 때문이다.#@문장구분# 내가 생각하는 미래도시는 기술이랑 과학이 엄청나게 발전해서 로봇을 많은 사람들이 쉽게 이용할 수 있게 되어서 로봇을 반려동물처럼 가족이라고 생각하게 될 수 있을 것 같다.#@문장구분# 그래서 반려동물을 등록하고 동물에 대한 법이 있듯이 로봇도 가족으로 등록하고 로봇을 막 다루지 못하게 하는 법들이 생길 것 같다.#@문장구분# 로봇들이 발전해서 사람이랑 똑같이 상처도 받고 아픔도 느낄 것이다.#@문장구분# 그래서 로봇이라고 못살게 굴거나 때리거나 함부로 사용하는 등 로봇을 학대하지 못하도록 하는 법안도 만들어 질 것이라고 생각한다.#@문장구분# 지금은 거리에 사람들이나 동물같이 생명체만 있지만 미래도시에는 로봇도 사람처럼 개인생활을 하고 사람들과 같이 생활을 할 것 같다.#@문장구분# 그래서 로봇과 사람이 공존하며 살아갈 것이라고 생각한다.#@문장구분#",
+      "paragraph_len": 596,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.15,
+      30
+    ],
+    "essay_scoreT_avg": 28.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71614",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 457,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

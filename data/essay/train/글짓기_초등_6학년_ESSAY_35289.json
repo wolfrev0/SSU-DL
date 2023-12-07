@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어느 해안가 모래사장에서, 작은 새끼 거북들이 모래 속에서 엉금엉금 기어나옵니다.#@문장구분# 그렇게 햇빛을 보게 된 새끼 거북들은 시원하고 따뜻한 바다로 가기 위해 온힘을 다해 팔을 젓습니다. #@문장구분#천천히 또는 빠르게 앞으로 나아갑니다.#@문장구분# 드디어 바닷물을 본 거북들은 온 바다를 휩쓸고 다닙니다. #@문장구분# 배가 고팠던 몇몇 거북들은 바위에 붙어살던 작은 게들을 먹기 시작합니다.#@문장구분# 맛있게 먹고 멋진 세상을 구경하면서 바다거북들은 더욱 더 넓은 바다로 나아갑니다. #@문장구분#자신이 건너온 육지보다 훨씰 넓고 깊은 바다를 누비며 바다거북은 몸과 마음이 자라갑니다. #@문장구분#시간이 지나고, 여러 고충들을 겪으며 제법 자란 거북들의 등껍질은 누구도 덤비지 못할 정도로 단단해졌습니다.#@문장구분# 이제 바다거북은 예전과 달리 해파리나 작은 물고기, 해초들을 먹으며 살아갑니다.#@문장구분# 어느 아침, 투명한 바다에 햇빛이 들어오는 한낮에 바다거북들은 하나둘씩 자신의 고향을 찾아 떠납니다.#@문장구분# 어릴적에는 아주 먼것같았던 모래사장은 이제 금방 갈 수 있을 정도입니다.#@문장구분# 자신의 두꺼운 등껍질로 자신을 지키며 빛이 안드는 곳에 자릴잡아 땅을 팝니다.#@문장구분# 그리고는 자신의 알을 하나씩 구멍안으로 떨어뜨립니다.#@문장구분# 알을 낳다보니 벌써 저녁이 되어 해가 질 기미를 보입니다.#@문장구분# 할일을 모두 끝낸 바다거북은 다시 알위로 살포시 모래를 덮습니다.#@문장구분# 그리고 하나둘 다시 멀고 먼 바다여행을 떠납니다. #@문장구분#그로부터 약2개월뒤 모래사장에서 새끼거북들은 꼬물꼬물 모래를 비집고 나옵니다. #@문장구분#미래의 작은 해적왕들은 바다를 향해 새삶을 개척해 갑니다.#@문장구분#",
+      "paragraph_len": 1106,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      20,
+      23.05
+    ],
+    "essay_scoreT_avg": 21.016666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그렇게 햇빛을 보게 된 새끼 거북들은 시원하고 따뜻한 바다로 가기 위해 온 힘을 다해 팔을 젓습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 햇빛을 보게 된 새끼 거북들은 시원하고 따뜻한 바다로 가기 위해 <문법_맞춤법>온힘을</문법_맞춤법> 다해 팔을 젓습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자신이 건너온 육지보다 훨씬 넓고 깊은 바다를 누비며 바다거북은 몸과 마음이 자라갑니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "자신이 건너온 육지보다 <문법_맞춤법>훨씰</문법_맞춤법> 넓고 깊은 바다를 누비며 바다거북은 몸과 마음이 자라갑니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어릴 적에는 아주 먼 것 같았던 모래사장은 이제 금방 갈 수 있을 정도입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어릴적에는 아주 먼것같았던</문법_맞춤법> 모래사장은 이제 금방 갈 수 있을 정도입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자신의 두꺼운 등껍질로 자신을 지키며 빛이 안 드는 곳에 자릴 잡아 땅을 팝니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자신의 두꺼운 등껍질로 자신을 지키며 빛이 <문법_맞춤법>안드는 곳에 자릴잡아</문법_맞춤법> 땅을 팝니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고는 자신의 알을 하나씩 구멍 안으로 떨어뜨립니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고는 자신의 알을 하나씩 <문법_맞춤법>구멍안으로</문법_맞춤법> 떨어뜨립니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 알을 낳다 보니 벌써 저녁이 되어 해가 질 기미를 보입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 알을 <문법_맞춤법>낳다보니</문법_맞춤법> 벌써 저녁이 되어 해가 질 기미를 보입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 할 일을 모두 끝낸 바다거북은 다시 알 위로 살포시 모래를 덮습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>할일을</문법_맞춤법> 모두 끝낸 바다거북은 다시 알위로 살포시 모래를 덮습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 하나 둘 다시 멀고 먼 바다 여행을 떠납니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>하나둘</문법_맞춤법> 다시 멀고 먼 바다여행을 떠납니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그로부터 약 2개월 뒤 모래사장에서 새끼거북들은 꼬물꼬물 모래를 비집고 나옵니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그로부터 <문법_맞춤법>약2개월뒤</문법_맞춤법> 모래사장에서 새끼거북들은 꼬물꼬물 모래를 비집고 나옵니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "미래의 작은 해적왕들은 바다를 향해 새 삶을 개척해 갑니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미래의 작은 해적왕들은 바다를 향해 <문법_맞춤법>새삶을</문법_맞춤법> 개척해 갑니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35289",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 748,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

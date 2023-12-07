@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 손 대지 않고 생각으로 모든 사물들을 조종할 수 있는 시대가 미래에는 우리에게 찾아올 것이라고 생각합니다.#@문장구분# 기술의 발전은 우리의 편리성에 초점을 맞추고 진행되고 있다고 생각합니다.#@문장구분# 그래서 스마트폰이나 컴퓨터, 자동차와 같은 여러가지 편리한 제품들이 개발된 것입니다.#@문장구분# 그래서 여기서 더 나은 편리함을 추구하기 위해선 이제는 손도 대지 않고 무언가를 할 수 있어야 합니다. #@문장구분#어떤 원리로 개발이 될지는 모르겠습니다.#@문장구분# 어쩌면 불가능한 일일수도 있습니다.#@문장구분#하지만 미래는 아무도 예측할 수 없고 알 수 없기 때문에 그러한 미래를 상상이라도 해볼 수 있는 것입니다.#@문장구분#제가 생각하기에 기술의 발전은 어디까지나 인간의 상상에서 비롯되는 것이라고 생각합니다.#@문장구분#상상속에서 실현 가능한 아이디어가 나올 수도 있고, 그 아이디어를 실현해보는 것이 기술이기 때문입니다.#@문장구분#제가 지은 이 미래의 이름은 '보이지 않는 손'입니다.#@문장구분#",
+      "paragraph_len": 646,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      29.2,
+      30,
+      28.95
+    ],
+    "essay_scoreT_avg": 29.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65519",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 450,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

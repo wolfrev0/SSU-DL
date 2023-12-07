@@ -1,0 +1,357 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "만약에 내가 바다의 생물이 되면 나는 바다거북이가 되고 싶다.#@문장구분# 해변과 바다를 오며가며 여유롭게.#@문장구분#\n 다른 물고기들과 산호를 구경하며, 귀여운 아기거북이들과 큰 고래와 상어를 구경하며,아직 아무도 모르는 물고기들과 놀며,그런 거북이가 되고 싶다.#@문장구분# 바다는 내가 생각하는 것 보다 더 푸르고 더 깨끗한 바다겠지.#@문장구분# 꿈이어도 좋으니 제발 바다거북이가 되고 싶다.#@문장구분# 정말 그 소원이 이루어져다.#@문장구분#아주 여유롭게 예쁜 바다를 구경하는 바다거북이.#@문장구분# 친구드을 많이 사귀는 바다거북이...인줄 알았다.#@문장구분# 아주 정반대였다. 내 생각과 ...#@문장구분#\n 산호는 하얗게 변해있고,물고기들은 플라스틱으로 고통받고 있었다. #@문장구분#고래는 미세 플라스틱을 먹고, 다른 거북이들은 그물같은 것에 걸려 있었다.#@문장구분# 내가 생각한 아주 예쁜 바다가 아니다.#@문장구분# 바다는 사람들이 버린 쓰레기로 오염되었다.#@문장구분# 나도 플라스틱을 먹을 뻔 했다.#@문장구분# '나는 쓰레기를 버릴 때 나 한명이니까 괜찮겠지.'라고 생각했다.#@문장구분# 그렇게 생각했으면 안돼었는데...#@문장구분#바다가 이렇게 아픈 줄을 몰랐다.#@문장구분# 나는 깨끗한 바다를 찾아서 계속 헤엄쳤다.#@문장구분#다행히 깨끗한 바다를 찾았다.#@문장구분#하지만 그 바다마저도 오염됐다.#@문장구분# 그렇게 일주일 지났을 무렵 나는 이렇게 생각했다.#@문장구분#'다시 사람으로 돌아가고 싶어. 내가 생각했던 바다는 이게 아니야!' 하지만 이루어지지는 않았다.#@문장구분#그렇게 생각했다. #@문장구분#갑자기 익숙한 소리가 들려왔다.#@문장구분# 매일 아침 귀찮게 들려온 알람이 들려왔다. #@문장구분#이건 모두 꿈이었다.#@문장구분#나는 일어나자 바로 인터넷에 검색했다.#@문장구분# 꿈에서 본 그대로였다.#@문장구분# 나는 작은 실천부터 하자고 결심했다.#@문장구분# 조금씩, 조금씩 바다가 깨끗해졌다.#@문장구분# 그 날밤 꿈에서 목소리가 들렸다.#@문장구분# \"일주일동안 바다생물이 되면 뭐가 되고 싶나\"라고 나는 꿈이지만 대답했다.#@문장구분# \"바다거북이, 바다를 모험하면서 청소하려고하는 바다거북이\" 안이루어질줄 알았다. #@문장구분#하지만 이루어졌다.#@문장구분# '좋아 모험을 가자!'#@문장구분#",
+      "paragraph_len": 1610,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      22.25,
+      20.5
+    ],
+    "essay_scoreT_avg": 20.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 다른 물고기들과 산호를 구경하며, 귀여운 아기 거북이들과 큰 고래와 상어를 구경하며,아직 아무도 모르는 물고기들과 놀며, 그런 거북이가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 다른 물고기들과 산호를 구경하며, 귀여운 <문법_맞춤법>아기거북이들과</문법_맞춤법> 큰 고래와 상어를 구경하며,아직 아무도 모르는 물고기들과 놀며,그런 거북이가 되고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다는 내가 생각하는 것보다 더 푸르고 더 깨끗한 바다겠지.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다는 내가 생각하는 <문법_맞춤법>것 보다</문법_맞춤법> 더 푸르고 더 깨끗한 바다겠지.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 그 소원이 이루어졌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말 그 소원이 <문법_맞춤법>이루어져다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구들을 많이 사귀는 바다거북인 줄 알았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>친구드을 많이 사귀는 바다거북이...인줄 알았다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 산호는 하얗게 변해 있고, 물고기들은 플라스틱으로 고통받고 있었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 산호는 하얗게 <문법_맞춤법>변해있고,물고기들은</문법_맞춤법> 플라스틱으로 고통받고 있었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "고래는 미세 플라스틱을 먹고, 다른 거북이들은 그물 같은 것에 걸려 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "고래는 미세 플라스틱을 먹고, 다른 거북이들은 <문법_맞춤법>그물같은</문법_맞춤법> 것에 걸려 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나도 플라스틱을 먹을 뻔했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나도 플라스틱을 먹을 <문법_맞춤법>뻔 했다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '나는 쓰레기를 버릴 때 나 한 명이니까 괜찮겠지.'라고 생각했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " '나는 쓰레기를 버릴 때 나 <문법_맞춤법>한명이니까</문법_맞춤법> 괜찮겠지.'라고 생각했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 생각하면 안 됐었는데...",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 <문법_맞춤법>생각했으면 안돼었는데...</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그날 밤 꿈에서 목소리가 들렸다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0031",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그 날밤</문법_맞춤법> 꿈에서 목소리가 들렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"일주일 동안 바다 생물이 되면 뭐가 되고 싶나\"라고 나는 꿈이지만 대답했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0032",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"<문법_맞춤법>일주일동안 바다생물</문법_맞춤법>이 되면 뭐가 되고 싶나\"라고 나는 꿈이지만 대답했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"바다거북이, 바다를 모험하면서 청소하려고 하는 바다거북이\" 안이루어질줄 알았다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0033",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"바다거북이, 바다를 모험하면서 <문법_맞춤법>청소하려고하는</문법_맞춤법> 바다거북이\" 안이루어질줄 알았다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '좋아, 모험을 가자!'",
+      "sentence_corr_reason": [
+        "문장 부호 "
+      ],
+      "sentence_id": "0035",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " '<문법_기타>좋아</문법_기타> 모험을 가자!'",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37410",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 916,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

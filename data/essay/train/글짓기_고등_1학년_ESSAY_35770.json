@@ -1,0 +1,247 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 한 살, 학년으로는 2학년 더 빠른 형이 있다.#@문장구분# 나는 매우 어렸을 때부터 형을 '형님'이라고 불렀으며, 형님과 나의 사이는 다른 형제들보다 훨씬 가깝다는 것은 자타공인 하는 사실이었다.#@문장구분# 형님과 나는 평소에도 집에서 장난도 많이 하고 놀 때도 거의 같이 놀면서 사이 좋게 시간을 보내곤 했다.#@문장구분#",
+      "paragraph_len": 225,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "\n그렇게 지내다가 몇 주 전, 평소와 같이 장난을 치다가 어느 순간 분위기가 험악해지면서 몸싸움이 벌어진 적이 있었다.#@문장구분# 그 때의 나는 형님에게 심한 말과 거친 행동을 하면서 싸우고 있었다.#@문장구분# 장난을 하면서도 상대방의 기분을 생각하면서 해야한다는 것을 알고 있었음에도 불구하고, 그저 나의 기분 따라 행동해서 벌어진 일이었다.#@문장구분# 결국에는 부모님이 중재하시긴 했지만, 우리는 그 이후로 며칠동안 말도 걸지 않고 서로 조용히 지냈다.#@문장구분#",
+      "paragraph_len": 317,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "\n싸움이 일어난 후, 형님과 대부분 집에서 시간을 보내면서도, 서로 마찰이 없고 대화도 없으니 나는 심심하다는 기분이 가장 먼저 들었다.#@문장구분# 집에서 놀 때는 거의 90퍼센트 이상이 형과 장난을 치면서 노는 것이기 때문이었다.#@문장구분# 그때의 나를 생각해보면 형님에게 화가 나긴 했었지만, 시간이 지나면서 나도 형님에게 심한 행동을 하였다고 생각이 들었다.#@문장구분# 어떤 이유에서든지 형님에게 폭력을 하면 안 됐었다며 후회를 하기도 했다.#@문장구분# 형님과 장난으로 논다는 익숙함이 형에게 심한 행동을 해서 우리 사이를 갈라놓은 것처럼 느껴졌다.#@문장구분# ",
+      "paragraph_len": 387,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": "\n그런 사건이 있고 나서는, 형님에게 도를 넘는 장난을 치거나 고3에다가 수능도 얼마 남지 않아 분명히 예민한 시기일 형님에게 기분 상할 일을 하지 않도록 주의하고 있다.#@문장구분# 물론 지금은 익숙함에 속아 소중함을 잃지 않도록 신중히 행동하면서, 다시 형님과 친하게 지낼 수 있게 되었다.#@문장구분#",
+      "paragraph_len": 197,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      20.5,
+      26.222221,
+      20.222221
+    ],
+    "essay_scoreT_avg": 22.314814,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.29",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "051",
+    "student_grade_group": "고등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_35770",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 852,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

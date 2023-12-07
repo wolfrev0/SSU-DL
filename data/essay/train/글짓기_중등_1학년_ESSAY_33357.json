@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "요즘 차를 타고 도시에 가면 차가 막히는데,미래도시에서 차가 날아다니면 도로와 하늘로 나뉘어서 금방 갈 것 같다. #@문장구분#하늘을 날아다니는 차가 있어도 단점이 있는데 그 단점은 첫째,하늘에는 도로가 없기 때문에 사고가 날 수 있는데,사고가 나면 위에 있던 차가 추락해 아래 있는 차들도 같이 사고가 날 가능성이 크다.#@문장구분# 둘째,그 차를 처음 타는 사람은 처음 타봐서 조종을 잘 못 할수 있는데,무리해 타다가 크게 사고가 날 수 있다는 것이다.#@문장구분# 그리고 장점은 아까 말 했듯이 빨리 다닐 수 있는 것이다. #@문장구분#그리고 버스같은 것들도 기술을 이용해 빨리가고 커지면 더 많은 사람들이 한번에 빨리 이동할 수 있어서 편리할 것이다.#@문장구분#단점은 기름이 차에서 많이 나가서 환경오염이 될 수 있다. #@문장구분#그리고 기름을 많이 넣어야 해서 돈도 많이 들 것이다.#@문장구분# 그래서 전기차도 더 많아졌으면 좋겠다.#@문장구분# 전기차는 말 그대로 전기로 이동하는 차여서 기름이 나가지 않고 이것으로부터 환경오염을 막을 것이다.#@문장구분# 저는 미래도시에 대해 이런 생각들을 해봤는데,날아다니는 차 같은 경우에는 안 될 것 같긴한데,만약 생기더라도 엄청 오래 걸릴 것 같다.#@문장구분#",
+      "paragraph_len": 757,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.3,
+      26.1,
+      28.4
+    ],
+    "essay_scoreT_avg": 25.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33357",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 559,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

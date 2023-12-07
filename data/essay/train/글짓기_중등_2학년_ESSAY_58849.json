@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "진로를 찾아 여행을 해보고 싶다는 생각을 해 본 적이 있다. #@문장구분#돈만 있다면 나와 적성이 맞는 검사를 죽어라 하면서 나와 가장 어울리는 직업이 무엇일까, 내가 이 직업을 하면 오랫동안 할 수 있고 나의 적성과는 맞는지 궁금했다.#@문장구분# 진로를 정하지 못했기 때문에 진로를 찾아 여행을 떠나보고 싶었다. #@문장구분#자유학기제를 통해 다양한 경험을 해보았지만 정말 그냥 간단한 체험일 뿐 나와의 적성이 맞는지에 대한 궁금증이 풀리지 않았다. #@문장구분#자유학기제가 도움이 되었다면 참 좋았을 텐데 자유학기제를 1학년 때가 아닌 3학년 때 했었다면 내가 하고 싶었던 활동들을 다 해보며 나의 꿈을 찾으며 적성도 알아갈 수도 있지 않을까란 생각이 든다. 그#@문장구분#래도 미래에 나의 적성에 대해 찾아서 꿈을 향해 달려 나간다면 10년 뒤에는 그 꿈을 향해 한 발짝 더 다가선 내가 되어있을 것이고 20년 뒤에는 그 꿈에 아주 적응을 하고 있는 내가 되어 있을 것이다. #@문장구분#또한 30년 뒤에는 그 꿈을 이룸으로 다른 꿈을 꿈꾸면서 더 큰 꿈을 키워 나가며 희망을 꿈꾸는 내가 되어 있을 수 있을 것 같다는 생각을 하고 있다. 진로를 정하지 못했다고 자책하지 말자.",
+      "paragraph_len": 685,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.8333333,
+          2.3333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5555553,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      26.88889,
+      23.555555
+    ],
+    "essay_scoreT_avg": 23.481482,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_58849",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 566,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

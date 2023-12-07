@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕? 난 흰수염고래 라고 해.#@문장구분# 나 본 적 있니 ? 은색이고 배 밑에는 반점들도 뒤덮혀 있어.#@문장구분# 난 바닷속 생명체 사이에서도 희귀한 종이야.#@문장구분# 현존 짐승류 가운데서 가장 큰 짐승이야. #@문장구분#덩치가 커서 그런지 수명은 그리 길지않아. #@문장구분#난 북반구에 살아 그래서 남반구에 사는 내 친구들 보다 더 크지. #@문장구분#내 심장의 질량은 1톤이야 말 다했지 ? 우리는 함경북도 어랑군 경성군 청진시 앞바다에 드물게 보여 오늘은 크릴새우를 먹었어 난 4톤이나 되는 크릴 새우를 한 번에 빨아 들일 수 있지. #@문장구분#어때 신기하지 우린 등치가 크다보니 계속 먹어야 배가 안 고파. #@문장구분#어제는 바다에 사람들이 버린 쓰레기들이 둥둥 떠다니더라 하마타면 먹을 뻔했어 쓰레기 좀 버리지 말아줘 바다 생물들이 너무 힘들어 하고 있어. #@문장구분#다음에 나 보러 바다 놀러와 기다리고 있을게#@문장구분#",
+      "paragraph_len": 605,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.1,
+      28,
+      25.75
+    ],
+    "essay_scoreT_avg": 25.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕? 난 흰 수염 고래라고 해.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "안녕? <문법_맞춤법>난 흰수염고래 라고</문법_맞춤법> 해.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나 본 적 있니? 은색이고 배 밑에는 반점들도 뒤덮여 있어.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나 본 적 있<문법_맞춤법>니 ? 은색이고</문법_맞춤법> 배 밑에는 반점들도 뒤덮혀 있어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "덩치가 커서 그런지 수명은 그리 길지 않아. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "덩치가 커서 그런지 수명은 그리 <문법_맞춤법>길지않아</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 심장의 질량은 1톤이야 말 다 했지 ? 우리는 함경북도 어랑군 경성군 청진시 앞바다에 드물게 보여 오늘은 크릴새우를 먹었어 난 4톤이나 되는 크릴새우를 한 번에 빨아들일 수 있지. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내 심장의 질량은 1톤이야 말 <문법_맞춤법>다했지 </문법_맞춤법>? 우리는 함경북도 어랑군 경성군 청진시 앞바다에 드물게 보여 오늘은 크릴새우를 먹었어 난 4톤이나 되는 크릴 새우를 한 번에 빨아 들일 수 있지. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어때 신기하지 우린 등치가 크다 보니 계속 먹어야 배가 안 고파. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어때 신기하지 우린 등치가 <문법_맞춤법>크다보니</문법_맞춤법> 계속 먹어야 배가 안 고파. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어제는 바다에 사람들이 버린 쓰레기들이 둥둥 떠다니더라 하마터면 먹을 뻔했어 쓰레기 좀 버리지 말아 줘 바다 생물들이 너무 힘들어하고 있어. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어제는 바다에 사람들이 버린 쓰레기들이 둥둥 떠다니더라 <문법_맞춤법>하마타면 </문법_맞춤법>먹을 뻔했어 쓰레기 좀 버리지 말아줘 바다 생물들이 너무 힘들어 하고 있어. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다음에 나 보러 바다 놀러와 기다리고 있을게. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다음에 나 보러 바다 놀러와 기다리고 <문법_맞춤법>있을게</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64251",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 406,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

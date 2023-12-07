@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "익숙함에 속아 소중함을 잊지말자\"(Do not get fooled by something familiar and forget what is priceless.) 라는 명언이 있습니다.#@문장구분# 많은 사람들이 하는 이야기이지만 그것은 겪어보지 않고는 대부분 익숙함에 속아 소중함을 잃은 채 살고있는거 같다.#@문장구분# 잃은 후 후회하는 시간은 생각만해도 괴롭고 힘든 시간 일것입니다.#@문장구분# 항상 자신의 곁에 있는 모든 것에 감사함을 느끼고 소중함을 느낀다면 자신의 인생이 더 즐거워질 뿐만 아니라 베풀며 살 수있을 것입니다.#@문장구분# 익숙함에 속지 않고 소중함에 감사하며 살아가야할 것입니다.#@문장구분# 내 주변 소중한것들이 뭐가 있을까요?#@문장구분# 제일먼저 생각나는건 가족입니다.#@문장구분#소중한가족.#@문장구분# 세상 무엇과도 바꿀수 없는 내 소중한 사람들입니다.#@문장구분# 가족이 내 곁에서 떠난다 생각해보면 너무 슬플거 같습니다.#@문장구분# 아침에 눈을떠서부터 학교갔다 집으로 돌아가는길 분명 집엔 날 반겨주고 안아주는 가족들이 있습니다.#@문장구분# 당연히 집에 있는 사람들이라 생각하지만 익숙함에 속아 소중함을 잊지말자\" (Do not get fooled by something familiar and forget what is priceless.)#@문장구분# 너무너무 좋은 말이고 항상 잊지않고 살아야하는 말이지만 익숙함 그것에 소중한 가치를 모르는거 같아 속상합니다.#@문장구분#지금부터라도 내 소중한 것들을 사랑하고 아끼고 살아가겠습니다.#@문장구분# 친구들 또한 마찬가지 일 것입니다.#@문장구분# 친하다고 내옆에 항상 있을거란 생각을 가지고 귀하게 여기지 안고 막대하는 경우도 종종 있는데, 익숙함이 편안함이 소중함이라는걸 깨달아야 하겠습니다.#@문장구분#",
+      "paragraph_len": 1105,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.6666667,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5555556,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.5,
+      24.277779,
+      22.666666
+    ],
+    "essay_scoreT_avg": 24.814814,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.21",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "031",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_73640",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 787,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

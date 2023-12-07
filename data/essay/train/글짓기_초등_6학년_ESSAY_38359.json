@@ -1,0 +1,404 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 거북이가 될 거다.#@문장구분# 왜냐하면 헤엄도 잘 치고 별로 사납지 않아서 친구들도 많이 사귈 수 있을 것 같아서 거북이로 하였다.#@문장구분# 나는 바닷속에서 해보고 싶은 것들이 정말 많다. #@문장구분#그 중에 몇 가지를 말해보자면#@문장구분# ①. 친구 사귀기- 친구를 사귀면 재미있게 놀 수도 있고 같이 수다도 떨고 위험할 때 도와주는 친구를 사귈 것 입니다.#@문장구분# ②. 멋진 모험 떠나기- 나는 친구와 함께 멋진 모험을 떠날 것이다.#@문장구분# 짐을 챙기고 친구와 행복하고 멋진 모험을 말이다. #@문장구분#모험을 하다가 위험한 곳에서 무서운 상어를 만나면 ... 용감하게 친구랑 같이 싸울거다.#@문장구분# ㅋㅋ 내가 지어낸 이야기를 시작할게요.#@문장구분# 어느날 어떤 집에서 온북이라는 거북이가 살고 있었어요.#@문장구분# \"아 심심한데 뭐 할거 없나\" 그때 초인종 소리가 들렸어요.#@문장구분# \"누구세요?\" 문을 열어보자 아무도 없었어요.#@문장구분# 그런데 밑에 편지 한장이 떨어져 있었어요.#@문장구분# \"이게뭐지?\" 온북이는 그 편지를 읽어보았어요. #@문장구분#편지에는 \"달리기 대회에 참가할수있는 참가권(?) 을 드립니다#@문장구분#.\" 온북이는 참가권을 받았어요.#@문장구분# \"우와 달리기 참가권?!\" 그리고 대회 날짜에서 온북이는 얼른 준비해서 대회장으로 갔어요. #@문장구분#대회장엔 바다친구들이 많았어요.#@문장구분# \"난 누구랑 경주하지?\" 그때 마침 토끼가 왔어요.#@문장구분# \"나랑 할래?\" \"처음보는 얘인데 음...좋아!\" 온북이는 토끼랑 경주를 하게 되었어요.#@문장구분# \"자... 준비하시고~! 출발!!! \" 좋아! 이대로만 가면 이길 수 있어!\" 경주는 당연히 온북이가 이겼답니다. #@문장구분#이유는 토끼는 바닷속에선 잘 뛰지 못하는데 거북이는 빠르니까.. 끝#@문장구분#",
+      "paragraph_len": 1201,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      22.1,
+      22.5
+    ],
+    "essay_scoreT_avg": 22.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.27",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 헤엄도 잘 치고 별로 사납지 않아서 친구들도 많이 사귈 수 있을 것 <스타일링_패러프레이징>같아서 거북이로 하였다</스타일링_패러프레이징>.",
+      "sentence_corr_txt_styling": " 왜냐하면 헤엄도 잘 치고 별로 사납지 않아서 친구들도 많이 사귈 수 있을 것 같아서이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 중에 몇 가지를 말해볼 것이다.",
+      "sentence_corr_reason": [
+        "문장 형성 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그 중에 몇 가지를 <문법_기타>말해보자면</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>①. 친구 사귀기-</스타일링_기타> 친구를 사귀면 재미있게 놀 수도 있고 같이 수다도 떨고 위험할 때 도와주는 친구를 사귈 것 입니다.",
+      "sentence_corr_txt_styling": " 첫째, 친구 사귀기이다. 친구를 사귀면 재미있게 놀 수도 있고 같이 수다도 떨고 위험할 때 도와줄 수 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>②. 멋진 모험 떠나기-</스타일링_기타> 나는 친구와 함께 멋진 모험을 떠날 것이다.",
+      "sentence_corr_txt_styling": " 둘째, 멋진 모험 떠나기이다. 나는 친구와 함께 멋진 모험을 떠날 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 짐을 챙기고 친구와 행복하고 멋진 모험을 <스타일링_기타>말이다</스타일링_기타>. ",
+      "sentence_corr_txt_styling": " 짐을 챙기고 친구와 행복하고 멋진 모험을 떠날 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "모험을 하다가 위험한 곳에서 무서운 상어를 만나면, 용감하게 친구랑 같이 싸울거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "모험을 하다가 위험한 곳에서 무서운 상어를 <문법_기타>만나면 ...</문법_기타> 용감하게 친구랑 같이 싸울거다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제부터 내가 지어낸 이야기를 시작해 보겠다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " <문법_기타>ㅋㅋ</문법_기타> 내가 지어낸 이야기를 <문법_조사><문법_어미>시작할게요</문법_어미></문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 날 어떤 집에서 온북이라는 거북이가 살고 있었어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느날</문법_맞춤법> 어떤 집에서 온북이라는 거북이가 살고 있었어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"아 심심한데 뭐 할거 없나?\" 그때 초인종 소리가 들렸어요.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " \"아 심심한데 뭐 할거 <문법_기타>없나</문법_기타>\" 그때 초인종 소리가 들렸어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 밑에 편지 한 장이 떨어져 있었어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 밑에 편지 <문법_맞춤법>한장이</문법_맞춤법> 떨어져 있었어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "편지에는 \"달리기 대회에 참가할 수 있는 참가권(?) 을 드립니다",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "편지에는 \"달리기 대회에 <문법_맞춤법>참가할수있는</문법_맞춤법> 참가권(?) 을 드립니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"우와 달리기 참가권?\" 대회 날짜여서 온북이는 얼른 준비해서 대회장으로 갔어요. ",
+      "sentence_corr_reason": [
+        "문장부호",
+        "",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " \"우와 달리기 <문법_기타>참가권?!</문법_기타>\" <문법_조사><문법_어미>그리고 대회 날짜에서</문법_어미></문법_조사> 온북이는 얼른 준비해서 대회장으로 갔어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"나랑 할래?\" \"처음보는 애인데 음... 좋아!\" 온북이는 토끼랑 경주를 하게 되었어요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"나랑 할래?\" \"처음보는 얘인데 <문법_맞춤법>음...</문법_맞춤법>좋아!\" 온북이는 토끼랑 경주를 하게 되었어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"자... 준비하시고, 출발! \" 좋아! 이대로만 가면 이길 수 있어!\" 경주는 당연히 온북이가 이겼답니다. ",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " \"자... <문법_기타>준비하시고~!</문법_기타> 출발!!! \" 좋아! 이대로만 가면 이길 수 있어!\" 경주는 당연히 온북이가 이겼답니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이유는 토끼는 바닷속에선 잘 뛰지 못하는데 거북이는 빠르니까요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "이유는 토끼는 바닷속에선 잘 뛰지 못하는데 거북이는 <문법_어미><문법_기타>빠르니까.. 끝</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38359",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 762,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

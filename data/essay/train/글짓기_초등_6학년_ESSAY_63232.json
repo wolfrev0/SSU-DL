@@ -1,0 +1,404 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어느 날 아침 눈을 떠 보니 내가 고래가 되어 있었다. #@문장구분#평소에 고래가 되고 싶었지만 막상 고래가 되니 당황스럽고 놀랐어.#@문장구분# 나는 가장 먼저 바다를탐험해 보고 싶어서 여기 저기를 살펴봤지.#@문장구분# 둘러 보고 있는데 저기 저 위에 떼거지로 어딘가를 가고 있는 물고기를 봤어.#@문장구분# 물고기들에게 다가가니 물고기들은 나를 보고 인사 해주었지.#@문장구분# 그렇게 물고기들을 만나고 난 뒤 바다모험이 재미있을 것 같다고 생각한 나는 바닷속 모험을 떠나기로 결심했어.#@문장구분#그 때였어!#@문장구분# 저기에 있는 아기 해마가다른 물고기에게 잡아 먹히려는 것을 본 나는 잽싸게 헤엄쳐 아기 해마를 구했어. #@문장구분#아기 해마는 고맙다며 몇번이나 감사 인사를 하고 갔어.#@문장구분# 나는 아기 해마를 구했다는 생각에 내가 영웅이 된 것 같았어.#@문장구분# 아기 해마를 구하고 나는 도움이 필요한 바닷속 친구들을 도와주기로 마음 먹었지.#@문장구분# 할머니 물고기, 아기 물고기 등 도움이 필요하면 바로 도와주러 갔지.#@문장구분# 그렇게 바닷속 친구들을 도와주고 한숨 돌리려는데 저기 앞에서 물고기들이 엄청 빠른속도로 헤엄쳐 오는게 보였어.#@문장구분# 처음에는 아무 생각도 안 들었는데 물고기들이 점점 더 가까워지자 내 몸은 서서히 굳어 갔지.#@문장구분# 왜냐하면 물고기들 뒤에 엄청 큰 상어가 있었거든#@문장구분# 나는 깜짝 놀라서 몇초간 멈춰 있다가 이내 정신을 차리고 물고기들이 도망 갈 수 있게 도와주었지#@문장구분# \"여기야 여기! 빨리도망가!\"#@문장구분# 내 손짓과 지휘로 물고기들은 다행히 안전하게 도망 갈 수 있었어.#@문장구분# 상어는 잠시 두리번 거리다가 너는 누군데 내 일을 방해하냐는 눈빛으로 나를 바라 보았지#@문장구분# 나는 상어에게 친절하게 설명을 해 주었고 상어는 알겠다고 대답했지 #@문장구분#상어에게 불편한 점은 없냐고 물어보니 상어는 바다에 플라스틱과 쓰레기가 많아서 힘들다고 말했어#@문장구분#이 말을 끝으로 나는 깨어났지#@문장구분# 그래 맞아 나는 꿈을 꾼거야 #@문장구분#나는 생생했던이야기를 다시 한번 떠올리고 상어가 말했던 것 처럼 바다가 깨끗해 지기 위해 노력했지 #@문장구분#지금 이 글을 읽는 너희들도 할 수 있어#@문장구분# 한번 도전해봐!",
+      "paragraph_len": 1461,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      24.5,
+      24.75
+    ],
+    "essay_scoreT_avg": 25.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 나는 가장 먼저 바다를 탐험해보고 싶어서 여기 저기를 살펴봤지.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 가장 먼저 <문법_맞춤법>바다를탐험해 보고</문법_맞춤법> 싶어서 여기 저기를 살펴봤지.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 물고기들을 만나고 난 뒤 바다 모험이 재미있을 것 같다고 생각한 나는 바닷속 모험을 떠나기로 결심했어.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 물고기들을 만나고 난 뒤 <문법_맞춤법>바다모험이 </문법_맞춤법>재미있을 것 같다고 생각한 나는 바닷속 모험을 떠나기로 결심했어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때였어!",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그 때였어!</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저기에 있는 아기 해마가 다른 물고기에게 잡아 먹히려는 것을 본 나는 잽싸게 헤엄쳐 아기 해마를 구했어. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저기에 있는 아기 <문법_맞춤법>해마가다른 </문법_맞춤법>물고기에게 잡아 먹히려는 것을 본 나는 잽싸게 헤엄쳐 아기 해마를 구했어. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 바닷속 친구들을 도와주고 한숨 돌리려는데 저기 앞에서 물고기들이 엄청 빠른 속도로 헤엄쳐 오는게 보였어.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 바닷속 친구들을 도와주고 한숨 돌리려는데 저기 앞에서 물고기들이 엄청 <문법_맞춤법>빠른속도로 </문법_맞춤법>헤엄쳐 오는게 보였어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 깜짝 놀라서 몇 초간 멈춰 있다가 이내 정신을 차리고 물고기들이 도망갈 수 있게 도와주었지.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 나는 깜짝 놀라서 <문법_맞춤법>몇초간 </문법_맞춤법>멈춰 있다가 이내 정신을 차리고 물고기들이 도망 갈 수 있게 <문법_기타>도와주었지</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"여기야 여기! 빨리 도망가!\"",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"여기야 여기! <문법_맞춤법>빨리도망가</문법_맞춤법>!\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 손짓과 지휘로 물고기들은 다행히 안전하게 도망갈 수 있었어.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내 손짓과 지휘로 물고기들은 다행히 안전하게 <문법_맞춤법>도망 갈 </문법_맞춤법>수 있었어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 상어는 잠시 두리번거리다가 너는 누군데 내 일을 방해하냐는 눈빛으로 나를 바라보았지.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 마침표"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 상어는 잠시 <문법_맞춤법>두리번 거리다가 </문법_맞춤법>너는 누군데 내 일을 방해하냐는 눈빛으로 나를 <문법_기타>바라 보았지</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 상어에게 친절하게 설명을 해 주었고 상어는 알겠다고 대답했지. ",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 상어에게 친절하게 설명을 해 주었고 상어는 알겠다고 <문법_맞춤법>대답했지</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "상어에게 불편한 점은 없냐고 물어보니 상어는 바다에 플라스틱과 쓰레기가 많아서 힘들다고 말했어.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "상어에게 불편한 점은 없냐고 물어보니 상어는 바다에 플라스틱과 쓰레기가 많아서 힘들다고 <문법_기타>말했어</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 말을 끝으로 나는 깨어났지.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "이 말을 끝으로 나는 <문법_기타>깨어났지</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래 맞아 나는 꿈을 꾼 거야. ",
+      "sentence_corr_reason": [
+        "마침표, 띄어쓰기",
+        "마침표, 띄어쓰기"
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그래 맞아 나는 꿈을 <문법_맞춤법><문법_기타>꾼거야</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 생생했던 이야기를 다시 한번 떠올리고 상어가 말했던 것처럼 바다가 깨끗해지기 위해 노력했지. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "마침표",
+        ""
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>생생했던이야기를 </문법_맞춤법>다시 한번 떠올리고 상어가 말했던 것 처럼 바다가 깨끗해 지기 위해 <문법_기타>노력했지</문법_기타> ",
+      "sentence_corr_txt_styling": "나는 생생했던 이야기를 다시 한번 떠올리고 상어가 말했던 것처럼 바다가 깨끗해지기 위해 노력했지. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지금 이 글을 읽는 너희들도 할 수 있어.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "지금 이 글을 읽는 너희들도 할 수 <문법_기타>있어</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63232",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 961,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

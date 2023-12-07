@@ -1,0 +1,606 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "오늘은 조개의 일기를써보겠다. #@문장구분#나는바다에 사는 조개이다. #@문장구분#지금부터 나의 일기를 쓰겠다. #@문장구분#나는 바닷속 아주깊은곳에서 살고있었다. #@문장구분#아침잠을 자고있었는데 갑자기 소라게 한마리가 들어왔다. #@문장구분#나는 뭐하는거야?! 하며 화를냈다. #@문장구분#소라게는 죽은줄알았다며 사과를하고 나갔다. #@문장구분#이런일은 항상있는일이다.#@문장구분# 하지만 지난주부터 바다상태가 심상치않다.#@문장구분# 태풍이 올거같다. 꺄아악!! 파도가 엄청나게 세다. #@문장구분#내일까지 버텨야할거같다. #@문장구분#다음날 나는 해수욕장으로 떠밀려왔다.#@문장구분# 해수욕장은 바닷물이 더럽다.#@문장구분#인간들이 쓰던 폭죽쓰레기는 화학물질이있어 숨쉬기 힘들고 인간들이 음료수, 과자봉지를 해수욕장에 많이버려서 해수욕장 근처에는 쓰레기가 너무 많아 매우힘들다. #@문장구분#곧있으면 물이 빠지기 시작한다.#@문장구분# 해수욕장에서 물이 빠지기 시작하면 인간들이 나를 잡으러오기 시작한다. #@문장구분#내 친구들도 해수욕장에 떠밀려왔다가 조개구이가 되어 죽었다.#@문장구분# 나는 얼른 도망쳐야한다. #@문장구분#아무리 움직여도 움직여지지 않는다. #@문장구분#심지어 쓰레기가 너무많아서 물이 더러워져 앞이 보이지 않는다. #@문장구분#저기 캠핑장에는 이미 조개구이가 되어 죽은 조개 껍데기가 있다. #@문장구분#저게 내 미래의 모습이 될수있다. #@문장구분#도망가는거는 무리다. #@문장구분#일단 땅밑으로 들어가야겠다. #@문장구분#땅밑에 들어가는거 까지는 성공했다. #@문장구분#이제 깊숙이 들어가야 한다.#@문장구분# 갯벌에 쓰레기가 너무 많아서 땅밑에도 비닐,다먹은 생수통, 과자봉지 등이 있다.#@문장구분# 내가 사는 바다 깊숙한 곳에도 쓰레기가 많아서 힘든데 여기는 바다인지 쓰레기장인지 알수없다. #@문장구분#일단 땅 밑으로 깊숙이 들어왔다. #@문장구분#이제서서히 인간들이 오기시작했다.#@문장구분# 위에서 조개들이 잡혀가는 소리가 들린다.#@문장구분# 삼가조개의명복을빈다. #@문장구분#이제 밤이다. #@문장구분#사람들이 거의 가기시작했다. #@문장구분#오늘 밤에 파도가 크게 친다. #@문장구분#나는 그 파도를 타고 집에갈 예정이다.#@문장구분# 아! 글구 인간들아 쓰레기좀 그만버리고 온난화때문에 점물이 따듯해져서 물에서 조개구이 될거 같으니까 전기아껴서 사용해주고 쓰레기좀 그만버려주길 바래!#@문장구분#",
+      "paragraph_len": 1684,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      23.9,
+      22.65
+    ],
+    "essay_scoreT_avg": 23.516668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "오늘은 조개의 일기를 써 보겠다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "오늘은 조개의 <문법_맞춤법>일기를써보겠다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 바다에 사는 조개이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>나는바다에</문법_맞춤법> 사는 조개이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 바닷속 아주 깊은 곳에서 살고 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기, 시제"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": "나는 바닷속 <문법_맞춤법>아주깊은곳에서</문법_맞춤법> <문법_시제>살고있었다</문법_시제>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아침잠을 자고 있었는데 갑자기 소라게 한 마리가 들어왔다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아침잠을 <문법_맞춤법>자고있었는데</문법_맞춤법> 갑자기 소라게 한마리가 들어왔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 \"뭐하는거야?\" 하며 화를냈다. ",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "나는 <문법_기타>뭐하는거야?!</문법_기타> 하며 화를냈다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "소라게는 죽은 줄 알았다며 사과를 하고 나갔다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "소라게는 <문법_맞춤법>죽은줄알았다며</문법_맞춤법> 사과를하고 나갔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이런 일은 항상 있는 일이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이런일은</문법_맞춤법> 항상있는일이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 지난주부터 바다의 상태가 심상치않다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 하지만 지난주부터 <문법_맞춤법><문법_조사>바다상태가</문법_조사></문법_맞춤법> 심상치않다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 태풍이 올 것 같다. 꺄아악! 파도가 엄청나게 세다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>태풍이 올거같다.</문법_맞춤법> <문법_기타>꺄아악!!</문법_기타> 파도가 엄청나게 세다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내일까지 버텨야 할 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내일까지 <문법_맞춤법>버텨야할거같다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "인간들이 쓰던 폭죽쓰레기는 화학물질이 있어 숨쉬기 힘들고 인간들이 음료수, 과자봉지를 해수욕장에 많이 버려서 해수욕장 근처에는 쓰레기가 너무 많아 매우 힘들다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "인간들이 쓰던 폭죽쓰레기는 화학물질이있어 숨쉬기 힘들고 인간들이 음료수, 과자봉지를 해수욕장에 <문법_맞춤법>많이버려서</문법_맞춤법> 해수욕장 근처에는 쓰레기가 너무 많아 매우힘들다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "곧 있으면 물이 빠지기 시작한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>곧있으면</문법_맞춤법> 물이 빠지기 시작한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 해수욕장에서 물이 빠지기 시작하면 인간들이 나를 잡으러오기 시작한다. ",
+      "sentence_corr_txt_styling": " 해수욕장에서 물이 빠지기 시작하면 인간들이 나를 잡으러오기 시작한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 얼른 도망쳐야 한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 얼른 <문법_맞춤법>도망쳐야한다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "심지어 쓰레기가 너무 많아서 물이 더러워져 앞이 보이지 않는다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "심지어 쓰레기가 <문법_맞춤법>너무많아서</문법_맞춤법> 물이 더러워져 앞이 보이지 않는다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "저게 내 미래의 모습이 될 수 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저게 내 미래의 모습이 <문법_맞춤법>될수있다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "도망가는 것은 무리다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사>도망가는거는</문법_조사></문법_맞춤법> 무리다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 땅 밑으로 들어가야겠다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 <문법_맞춤법>땅밑으로</문법_맞춤법> 들어가야겠다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "땅 밑에 들어가는 것 까지는 성공했다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>땅밑에</문법_맞춤법> 들어가는거 까지는 성공했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 갯벌에 쓰레기가 너무 많아서 땅 밑에도 비닐, 다 먹은 생수통, 과자봉지 등이 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 갯벌에 쓰레기가 너무 많아서 <문법_맞춤법>땅밑에도</문법_맞춤법> 비닐,다먹은 생수통, 과자봉지 등이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 사는 바다 깊숙한 곳에도 쓰레기가 많아서 힘든데 여기는 바다인지 쓰레기장인지 알 수 없다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0028",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 사는 바다 깊숙한 곳에도 쓰레기가 많아서 힘든데 여기는 바다인지 쓰레기장인지 <문법_맞춤법>알수없다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 땅 밑으로 깊숙히 들어왔다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0029",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 땅 밑으로 <문법_맞춤법>깊숙이</문법_맞춤법> 들어왔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이제서서히 인간들이 오기 시작한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0030",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "이제서서히 인간들이 <문법_맞춤법><문법_어미>오기시작했다</문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 삼가 조개의 명복을 빈다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0032",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>삼가조개의명복을빈다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들이 거의 가기 시작했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0034",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사람들이 거의 <문법_맞춤법>가기시작했다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 그 파도를 타고 집에 갈 예정이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0036",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 그 파도를 타고 <문법_맞춤법>집에갈</문법_맞춤법> 예정이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아! 그리고 인간들아 쓰레기 좀 그만 버리고 온난화때문에 점물이 따뜻해져서 물에서 조개구이 될 것 같으니까 전기를 아껴서 사용해주고 쓰레기 좀 그만버려주길 바래!",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0037",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 아! <문법_맞춤법>글구</문법_맞춤법> 인간들아 쓰레기좀 그만버리고 온난화때문에 점물이 따듯해져서 물에서 조개구이 될거 같으니까 <문법_조사>전기아껴서</문법_조사> 사용해주고 쓰레기좀 그만버려주길 바래!",
+      "sentence_corr_txt_styling": " 아! 그리고 인간들아 쓰레기 좀 그만 버리고 온난화때문에 점물이 따뜻해져서 물에서 조개구이 될 것 같으니까 전기를 아껴서 사용해주고 쓰레기 좀 그만버려주길 바래!",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40020",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 945,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

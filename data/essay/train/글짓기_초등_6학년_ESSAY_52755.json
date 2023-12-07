@@ -1,0 +1,363 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다 거북.#@문장구분# 내가 파충류를 좋아하지만 그냥 바다 거북으로 했다.#@문장구분#\n내가 알을 깨고 어떤 세상일까 궁금해지다 봤는데 그냥 흙속 이었다.#@문장구분# 그때 형재들은 흙 위로 올라갔다. #@문장구분#나도 본능적으로 흙 위로 올라갔다. #@문장구분#그리고 본능적으로 바다로 가야하는 것 같았다.#@문장구분# 그런데 어떤 게가 우리 형재를 죽이고 있었다. #@문장구분#그때 게가 날 죽이려 하자 난게에게 패드립, 욕을 했는데 게는 충격을 받아서 그런지 바로 도망 갔다. #@문장구분#그리고 우리도 바다로 갔다.#@문장구분# 바다는 완전 파란 데다 육지에 있을때랑 달랐다. #@문장구분#그래서 매번 숨쉬러 위로 올라갈 때도 있었다. #@문장구분#아무튼 난 가다가 배가 고파서 뭘 먹어야 할지 했는데 근처에 군침을 싹 돌게한 물고기가 있어서 혼좀 내줬다. #@문장구분#그리고 밑에 산호초도 맛있어보여서 다 먹었다. #@문장구분#그렇게 돼지 거북이 된 체 여행을 하다가 암컷을 만났다.#@문장구분# 그리고는 같이 짝짓기를... #@문장구분#그런데 이거 쓰면 안될 것 같은데 다른 수컷이 와서 방해하다가 방해를 실패했다.#@문장구분# 그리고 그게 다 끝나고 여친과 헤어졌다. #@문장구분#그리고 다시 여행을 하다가 백상아리한테 먹혔다.",
+      "paragraph_len": 860,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      24.25,
+      25.9
+    ],
+    "essay_scoreT_avg": 26.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다거북.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>바다 거북</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 파충류를 좋아하지만 그냥 바다거북으로 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 파충류를 좋아하지만 그냥<문법_맞춤법> 바다 거북으로</문법_맞춤법> 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n내가 알을 깨고 어떤 세상일까 궁금해지다 봤는데 그냥 흙 속이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n내가 알을 깨고 어떤 세상일까 궁금해지다 봤는데 그냥 <문법_맞춤법>흙속 이었다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때 형제들은 흙 위로 올라갔다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때 <문법_맞춤법>형재들은</문법_맞춤법> 흙 위로 올라갔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 본능적으로 바다로 가야 하는 것 같았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 본능적으로 바다로 <문법_맞춤법>가야하는</문법_맞춤법> 것 같았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 어떤 게가 우리 형제를 죽이고 있었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 어떤 게가 우리 <문법_맞춤법>형재를</문법_맞춤법> 죽이고 있었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때 게가 날 죽이려 하자 난 게에게 패드립, 욕을 했는데 게는 충격을 받아서 그런지 바로 도망갔다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그때 게가 날 죽이려 하자 <문법_맞춤법>난게에게</문법_맞춤법> 패드립, 욕을 했는데 게는 충격을 받아서 그런지 바로 도망 갔다. ",
+      "sentence_corr_txt_styling": "그때 게가 날 죽이려 하자 난 게에게 패드립, 욕을 했는데 게는 충격을 받아서 그런지 바로 도망갔다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다는 정말 파란 데다 육지에 있을 때랑 달랐다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다는 <문법_맞춤법>완전 파란 </문법_맞춤법>데다 육지에 있을때랑 달랐다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 매번 숨 쉬러 위로 올라갈 때도 있었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 매번<문법_맞춤법> 숨쉬러</문법_맞춤법> 위로 올라갈 때도 있었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아무튼 난 가다가 배가 고파서 뭘 먹어야 할지 했는데 근처에 군침을 싹 돌게 한 물고기가 있어서 혼 좀 내줬다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아무튼 난 가다가 배가 고파서 뭘 먹어야 할지 했는데 근처에 군침을 싹 <문법_맞춤법>돌게한</문법_맞춤법> 물고기가 있어서 혼좀 내줬다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 밑에 산호초도 맛있어 보여서 다 먹었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 밑에 산호초도 <문법_맞춤법>맛있어보여서</문법_맞춤법> 다 먹었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 이거 쓰면 안 될 것 같은데 다른 수컷이 와서 방해하다가 방해를 실패했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "그런데 이거 <문법_맞춤법>쓰면 안될 것</문법_맞춤법> 같은데 다른 수컷이 와서 방해하다가 방해를 실패했다.",
+      "sentence_corr_txt_styling": "그런데 이거 쓰면 안 될 것 같은데 다른 수컷이 와서 방해하다가 방해를 실패했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 그게 다 끝나고 여자친구와헤어졌다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 그게 다 끝나고 <문법_맞춤법>여친과 </문법_맞춤법>헤어졌다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52755",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 520,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

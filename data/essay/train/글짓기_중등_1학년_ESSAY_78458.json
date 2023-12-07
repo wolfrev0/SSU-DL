@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래에 모든 병을 고칠 수 있고 엄청 오래 사는 사회가 될 것 같습니다.#@문장구분# 이런 평균수명이 긴 도시는 장수도시입니다. #@문장구분#옛날에 비교해서도 지금 평균수명이 엄청 늘었다고 들었습니다. #@문장구분#지금은 100세 시대라고 하지만 옛날에는 50대면 많이 사는 것이었다는 것을 알았습니다.#@문장구분# 지금도 그러면 많이 발전했다는 것인데 아직은 못 고치는 병이 많습니다.#@문장구분# 그렇다면 만약 미래에 모든 병을 고칠 수 있게 되면 사람들은 아플일이 없이 오래 살 수 있을 것입니다.#@문장구분# 그리고 이런 의료기술을 이용해서 병을 고치는 것뿐만 아니라 죽지 않는 사람을 만들어낼 수도 있습니다.#@문장구분# 어떤 영화에서는 자기와 똑같은 복제품을 만들어서 만약에 심장이 안 좋아지면 그것의 심장을 가져와 병을 고쳤습니다. #@문장구분#이것은 가능하다고 생각합니다.#@문장구분# 어디가 망가졌으면 새 장기가 있으면 되는 것입니다.#@문장구분# 이것이 가능하면 장수도시는 가능할 것입니다.#@문장구분#",
+      "paragraph_len": 661,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.65,
+      26.15,
+      24.65
+    ],
+    "essay_scoreT_avg": 23.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그렇다면 만약 미래에 모든 병을 고칠 수 있게 되면 사람들은 아플 일이 없이 오래 살 수 있을 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다면 만약 미래에 모든 병을 고칠 수 있게 되면 사람들은 <문법_맞춤법>아플일</문법_맞춤법>이 없이 오래 살 수 있을 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_78458",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 442,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

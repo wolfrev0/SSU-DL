@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래에 우리 인간이 어떻게 발전되어 있을지 정말 궁금하다.#@문장구분# 예전 우리 인간의 조상들은 우리가 이렇게 발전해서 이런 세상에서 살게 될 것을 알았을까?#@문장구분# 짚신을 신고 다니던 기시에 우리가 걷는 것 뿐만 아니라 자동차 같이 바퀴달린 자동으로 달리는 기계가 생길지몰랐을 것이다.#@문장구분# 그래서 나도 정확하게 상상하지는 못하겠지만 나중에 미래가 된다면 날아다니는 자동차가 발명돼서 '하늘을 날아다니는 세상'이 되지 않을까 하는 상상을 한다.#@문장구분# 하늘을 날면 경로가 많이 짧아진다.#@문장구분# 배를 타는 것 보다 비행기를 타는 것이 훨씬 빠른 것처럼 하늘을 나는 자동차가 나온다면 그 자동차를 타고 다니는 것이 도로를 달리는 자동차보다 이동에 짧은 시간을 쓰게 해 줄 것이다.#@문장구분# 그래서 지금 이동에 쓰는 시간보다 이용 시간이 많이 준다면 그 시간을 훨씬 생산적이고 유용하게 사용할 수 있을 것이다.#@문장구분# 그래서 나는 하루라도 빨리 하늘을 나는 자동차가 생기면 좋겠다.#@문장구분#",
+      "paragraph_len": 625,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      24,
+      24
+    ],
+    "essay_scoreT_avg": 25.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_60087",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 466,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

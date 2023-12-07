@@ -1,0 +1,391 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시에는 대중교통이 더욱 더 발달하면서 하늘을 나는 택시, 택시용 비행기 같은게 따로 생길것 같다.#@문장구분# 그래서 일을 보거나 어딜 급하게 가야하는 상황이라고 보았을때 유용하게 이용할 수 있을것같다.#@문장구분# 그리고 지금도 무인 편의점, 아이스크림 할인점 등이 많이 생겨나고 있는 추세인데 미래에는 바쁜 현대인들의 사회에 맞게 무인가게가 더욱 더 많이 생겨 날것같다.#@문장구분# 일자리는 더욱 더 줄어들고 AI로봇이 대부분 일자리를 차지할 것같다.#@문장구분# 실제로 서비스직이나 공장에서 일하는 직업같은 경우에는 거의 다 AI로 바뀔거 같다.#@문장구분# 도시를 생각하면서 미래의 인간도 같이 생각이 되었다.#@문장구분# 예를들어 천 년 후에 인간은 살아있을까?#@문장구분# 살아있다면 지금의 인간적이라는 말과 천 년 후의 인간적이라는 말이 얼마나 다를까?#@문장구분# 그때의 인간은 어떤것에 공포를 느끼고 무서워 할까?#@문장구분# 그때의 인간에 죽음이란 아무렇지 않은 것이 될수도 있지 않을까? 라는 생각이 들었다.#@문장구분# 만약 생각해봤을때에는 미래도시에도 사람은 그리 많지 않을 것같다.#@문장구분# 시내를 가도 회사를가도 길거리를 돌아다녀도 사람보다 로봇의 수가 더욱 더 많지 않을까?#@문장구분# 그때의 인간이 도시에서 생활할 때엔 더욱 엄한 규칙이 생겨날것같다.#@문장구분# 그때 인간의 직업은 지금 생각해봤을땐 심리상담사나 수술전문 의사가 대부분일거 같다.#@문장구분# 그때가 되면 운전을 안하고 가는 자동차도 생겨나서 사람들이 많이 타고 다닐거 같다.#@문장구분# 음식을 파는 가게들도 점점 줄어들거 같다. 로봇이 쉬거나 충전을 하는 곳만 더욱더 늘어날거 같다.#@문장구분#",
+      "paragraph_len": 1054,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      26.25,
+      20
+    ],
+    "essay_scoreT_avg": 24.216667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래 도시에는 대중교통이 더욱 더 발달하면서 하늘을 나는 택시, 택시용 비행기 같은 게 따로 생길것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미래 도시에는 대중교통이 더욱 더 발달하면서 하늘을 나는 택시, 택시용 비행기 <문법_맞춤법>같은게</문법_맞춤법> 따로 생길것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 일을 보거나 어딜 급하게 가야 하는 상황일 때  유용하게 이용할 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그래서 일을 보거나 어딜 급하게 <문법_맞춤법>가야하는</문법_맞춤법> <스타일링_담화 맥락 오류>상황이라고 보았을때</스타일링_담화 맥락 오류> 유용하게 이용할 수 있을것같다.",
+      "sentence_corr_txt_styling": " 그래서 일을 보거나 어딜 급하게 가야 하는 상황일 때  유용하게 이용할 수 있을 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 지금도 무인 편의점, 아이스크림 할인점 등이 많이 생겨나고 있는 추세인데 미래에는 바쁜 현대인들의 사회에 맞게 무인 가게가 더욱 더 많이 생겨날 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 지금도 무인 편의점, 아이스크림 할인점 등이 많이 생겨나고 있는 추세인데 미래에는 바쁜 현대인들의 사회에 맞게 <문법_맞춤법>무인가게가</문법_맞춤법> 더욱 더 많이 생겨 날것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 일자리는 더욱 더 줄어들고 AI로봇이 <스타일링_담화 맥락 오류><스타일링_패러프레이징>대부분 일자리를 차지할 것같다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 일자리는 더욱 더 줄어들고 AI로봇이 대부분의 일을 처리할 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 실제로 서비스직이나 공장에서 일하는 직업 같은 경우에는 거의 다 AI로 바뀔 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 실제로 서비스직이나 공장에서 일하는 <문법_맞춤법>직업같은</문법_맞춤법> 경우에는 거의 다 AI로 바뀔거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어 천 년 후에 인간은 살아있을까?",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>예를들어</문법_맞춤법> 천 년 후에 인간은 살아있을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때의 인간은 어떤 것에 공포를 느끼고 무서워할까?",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때의 인간은 <문법_맞춤법>어떤것에</문법_맞춤법> 공포를 느끼고 무서워 할까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때의 인간에게 죽음이란 아무렇지 않은 것이 될 수도 있지 않을까? 라는 생각이 들었다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때의 <문법_조사>인간에</문법_조사> 죽음이란 아무렇지 않은 것이 <문법_맞춤법>될수도</문법_맞춤법> 있지 않을까? 라는 생각이 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생각해 봤을 때  미래도시에도 사람은 그리 많지 않을 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>만약 생각해봤을때에는</스타일링_담화 맥락 오류> 미래도시에도 사람은 그리 많지 않을 <문법_맞춤법>것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 생각해 봤을 때  미래도시에도 사람은 그리 많지 않을 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 시내를 가도 회사를 가도 길거리를 돌아다녀도 사람보다 로봇의 수가 더욱 더 많지 않을까?",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 시내를 가도 <문법_맞춤법>회사를가도</문법_맞춤법> 길거리를 돌아다녀도 사람보다 로봇의 수가 더욱 더 많지 않을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때의 인간이 도시에서 생활할 때엔 더욱 엄한 규칙이 생겨날 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때의 인간이 도시에서 생활할 때엔 더욱 엄한 규칙이 <문법_맞춤법>생겨날것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때 인간의 직업은 지금 생각해 봤을 땐 심리상담사나 수술 전문 의사가 대부분일 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때 인간의 직업은 지금 <문법_맞춤법>생각해봤을땐</문법_맞춤법> 심리상담사나 수술전문 의사가 대부분일거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때가 되면 운전을 안 하고 가는 자동차도 생겨나서 사람들이 많이 타고 다닐 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때가 되면 운전을 <문법_맞춤법>안하고</문법_맞춤법> 가는 자동차도 생겨나서 사람들이 많이 타고 다닐거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " 음식을 파는 가게들도 점점 <스타일링_담화 맥락 오류><스타일링_패러프레이징>줄어들거 같다.</스타일링_패러프레이징></스타일링_담화 맥락 오류> 로봇이 쉬거나 충전을 하는 곳만 <스타일링_맞춤법>더욱더 늘어날거 같다.</스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 음식을 파는 가게들도 점점 줄어들고  로봇이 쉬거나 충전을 하는 곳만 더 늘어날 것 같다. ",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35555",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 734,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

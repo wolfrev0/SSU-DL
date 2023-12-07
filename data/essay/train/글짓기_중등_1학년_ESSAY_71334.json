@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "현재 복제인간에 대한 이야기로 찬반토론을 하고 있다.#@문장구분# 복제인간을 개발한다면 세상에 혼란이 올 확률이 높다.#@문장구분# 복제인간을 만들어 사람과 복제인간이 만난다면 둘 중 하나를 죽이고 본인 혼자만이 살아가기 위해 애쓸 것 같다.#@문장구분# 그 사태를 막기 위해 복제인간을 개발하기 위한 연구들을 막아야 한다고 생각한다.#@문장구분# 하지만 어떠한 사람들에게는 복제인간이라는 것이 좋기도 하여 너무나도 고민이 되는 분야인 것 같다.#@문장구분# 복제인간이 득인지 아닌지를 잘 가려야 미래에 혼란이 오지 않을 것이다.#@문장구분# 다들 한 번쯤은 아이언맨이란 단어를 들어봤을 것이다.#@문장구분# 마블 영화 속 주인공 중 아이언맨은 아주 중요한 역할 중 하나이다.#@문장구분# 로버트 다우니 주니어가 발명한 아이언맨이 전투용으로도 쓰이고 군사들의 용병으로도 쓰이고 이동수단으로도 쓰일 것이다.#@문장구분# 이처럼 로봇을 사람들에게 이롭게 개발이 된다면 더할 나위 없이 좋겠지만 그렇지 않을 상황 때문에 걱정이 된다.#@문장구분#",
+      "paragraph_len": 656,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27.15,
+      26.7
+    ],
+    "essay_scoreT_avg": 27.950003,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71334",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 457,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

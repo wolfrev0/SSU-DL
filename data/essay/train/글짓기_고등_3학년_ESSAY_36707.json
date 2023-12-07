@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 유튜버이기도 하며 군인이기도 하였던 이근 대위에 대해 내가 가장 기억에 남는 사람, 본받고 싶은 사람이라고 생각한다.#@문장구분# 왜냐하면 그는 자기주장이 뚜렷한 모습이 좋으며, 꾸준하게 노력을 하는 습관도 가지고 있다.#@문장구분# 또한 그는 자신이 직접 옛 전쟁의 단편영화를 만들어 사람들에게 역사를 기억하게 해주었고, 옛날 우리나라를 지켜주신 분들게 감사하는 멋진 모습을 보여준다.#@문장구분# 군인으로서 대한민국의 국방에 대하여 사람들에게 자신의 생각을 전할 수 있는 표현력이 있고, 일상생활에서 긴급상황에 쓰일 수 있는 생존수영, 대처법 등을 알려주며 누구를 만나더라도 자신의 생각을 전달할 수 있기 때문에 나는 그가 나의 관심직업인 군인으로서의 모습을, 그뿐만아니라 리더십, 친절함, 강인함 등을 갖추고 있는 사람이라고 생각하여 나의 롤모델로 제안한다.#@문장구분#",
+      "paragraph_len": 489,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.2857144,
+          2.2857144,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1904762,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.920635,
+      20.920635,
+      17.555555
+    ],
+    "essay_scoreT_avg": 19.798943,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          0
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.16",
+    "student_educated": true,
+    "student_grade": "고등_3학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "고등_3학년",
+    "organization_weight": {
+      "org_paragraph": 3,
+      "org": 2,
+      "org_essay": 3,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "나의 위인전",
+    "expression_weight": {
+      "exp_style": 2,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_36707",
+    "essay_prompt": " 요즘은 책을 통해서뿐만 아니라 유튜브, 강의와 같이 다양한 매체를 통해 자신만의 롤모델을 찾을 수 있습니다.\n\n 여러분도 자신만의 롤모델이 있을 것 같은데요. 자신의 롤모델인 인물처럼 되었다고 생각하고 나만의 위인전을 작성해보세요. 본인이 그 사람이 되었다고 생각하고 작성해도 좋고, 제 3자의 입장에서 바라보는 형식으로 작성해도 좋아요.\n\n 나의 롤모델은 목표를 이루기 위해 어떤 노력을 했을지, 어떤 행운이 있었을지, 목표를 이루고 난 다음에 어떤 기분이 들었을지 마음 껏 상상해보시고 작성해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 409,
+    "essay_main_subject": "나의 위인전"
+  }
+}

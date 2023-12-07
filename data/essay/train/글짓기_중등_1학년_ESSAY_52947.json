@@ -1,0 +1,238 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "신 역사의 흐름은 아무래도 인류가니 지구의 운명은 미국,중국 진 냉전의 승자에 따라 나뉜다.#@문장구분# 미국과 NATO가 승리한다면, 더욱 살기 좋은 민주주의+자본주의 사회에서 살겠지만 중국의 SCO(상하이 조약 위원회)가 승리한다면 미래를 장담할수 없다.#@문장구분# 아무래도 NATO(북때평양조약기구)의 승리로 가정하면 처음 몇 십년은 환경오염과 여러 자원 고갈로 3차 중동 전쟁이나 수많은 내전이 있겠지만, 지구가 1단계 운명으로 들어서면 문명의 발전속도는 증가 할 것이고 이는 인류의 변명이나 매우 거대한 스캐일(Scale)의 전쟁으로 양측의 열암이나 파열에 가까운 결과를 초래할 것이지만 그럼에도 SCO(상하이 조약기구)의 승리보단 더욱 짧은 행성의 운명을 맞겠지만 그럼에도 지구는 1,2차 세계대전을 살아남고 구 냉전 미소 핵전쟁의 위험에서 살아남았다.#@문장구분# 미래는 어둡다.#@문장구분# 너무 어둡다.#@문장구분# 기술의 발전은 행성의 멸망을 초래 할것이고 결과적으로 모두 멸망할것이다.#@문장구분# 즉 우리가 아무리 발버둥 처도 우리의 미래는 종말 뿐이라는 것이다.#@문장구분#",
+      "paragraph_len": 650,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.85,
+      21.85,
+      22.65
+    ],
+    "essay_scoreT_avg": 21.449999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.20",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "신 역사의 흐름은 아무래도 인류와 지구의 운명은 미국, 중국 간 냉전의 승자에 따라 나뉜다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "신 역사의 흐름은 아무래도 <문법_맞춤법>인류가니 </문법_맞춤법>지구의 운명은 미국,중국 진 냉전의 승자에 따라 나뉜다.",
+      "sentence_corr_txt_styling": "신 역사의 흐름은 아무래도 인류와 지구의 운명은 미국, 중국 간 냉전의 승자에 따라 나뉜다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미국과 NATO가 승리한다면, 더욱 살기 좋은 민주주의, 자본주의 사회에서 살겠지만 중국의 SCO(상하이 조약 위원회)가 승리한다면 미래를 장담할 수 없다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미국과 NATO가 승리한다면, 더욱 살기 좋은 <문법_맞춤법>민주주의+자본주의</문법_맞춤법> 사회에서 살겠지만 중국의 SCO(상하이 조약 위원회)가 승리한다면 미래를 장담할수 없다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무래도 NATO(북태평양조약기구)의 승리로 가정하면 처음 몇 십 년은 환경오염과 여러 자원 고갈로 3차 중동 전쟁이나 수많은 내전이 있겠지만, 지구가 1단계 운명으로 들어서면 문명의 발전 속도는 증가할 것이고 이는 인류의 변명이나 매우 거대한 스케일(Scale)의 전쟁으로 양측의 멸망이나 파열에 가까운 결과를 초래할 것이지만 그럼에도 SCO(상하이 조약기구)의 승리보단 더욱 짧은 행성의 운명을 맞겠지만 그럼에도 지구는 1, 2차 세계대전에서 살아남고 구 냉전 미소 핵전쟁의 위험에서 살아남았다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 아무래도 NATO(<문법_맞춤법>북때평양조약기구</문법_맞춤법>)의 승리로 가정하면 처음 몇 십년은 환경오염과 여러 자원 고갈로 3차 중동 전쟁이나 수많은 내전이 있겠지만, 지구가 1단계 운명으로 들어서면 문명의 발전속도는 증가 할 것이고 이는 인류의 변명이나 매우 거대한 스캐일(Scale)의 전쟁으로 양측의 열암이나 파열에 가까운 결과를 초래할 것이지만 그럼에도 SCO(상하이 조약기구)의 승리보단 더욱 짧은 행성의 운명을 맞겠지만 그럼에도 지구는 1,2차 <문법_조사>세계대전을 </문법_조사>살아남고 구 냉전 미소 핵전쟁의 위험에서 살아남았다.",
+      "sentence_corr_txt_styling": " 아무래도 NATO(북태평양조약기구)의 승리로 가정하면 처음 몇 십 년은 환경오염과 여러 자원 고갈로 3차 중동 전쟁이나 수많은 내전이 있겠지만, 지구가 1단계 운명으로 들어서면 문명의 발전 속도는 증가할 것이고 이는 인류의 변명이나 매우 거대한 스케일(Scale)의 전쟁으로 양측의 멸망이나 파열에 가까운 결과를 초래할 것이지만 그럼에도 SCO(상하이 조약기구)의 승리보단 더욱 짧은 행성의 운명을 맞겠지만 그럼에도 지구는 1, 2차 세계대전에서 살아남고 구 냉전 미소 핵전쟁의 위험에서 살아남았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기술의 발전은 행성의 멸망을 초래할 것이고 결과적으로 모두 멸망할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기술의 발전은 행성의 멸망을 <문법_맞춤법>초래 할것이고</문법_맞춤법> 결과적으로 모두 멸망할것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 즉, 우리가 아무리 발버둥 쳐도 우리의 미래는 종말뿐이라는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>즉 </문법_맞춤법>우리가 아무리 발버둥 처도 우리의 미래는 종말 뿐이라는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52947",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 511,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

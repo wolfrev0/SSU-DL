@@ -1,0 +1,249 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여러분들은 초등학생 때 미술시간에 미래의 모습 그리기를 해보셨나요?#@문장구분# 저와 제 친구들은 다 해봤답니다. #@문장구분#저는 항상 미래하면 왜 하늘을 나는 자동차 밖에 생각이 안 날까요? #@문장구분#이 처럼 어렸을 때 한번쯤은 미래의 모습에 생각을 한 번쯤 해보셨을 겁니다.#@문장구분# ",
+      "paragraph_len": 218,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 저의 미래의 모습은 항상 하늘을 나는 자동차가 있을 것 같다고 말을 해요.#@문장구분# 심지어 이제 몇몇 자동차 회사가 하늘을 나는 자동차를 만들고 있다고 하네요.#@문장구분# 그런 자동차는 꿈만 꿨는데, 제가 왜 미래에 하늘을 나는 자동차가 있을 거라고 생각하는 지 아시나요?#@문장구분# 오래 전부터 우리 나라의 기술이라면 충분히 가능할 거라고 생각했기 때문이에요.#@문장구분#",
+      "paragraph_len": 266,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      15.7,
+      20.75,
+      12
+    ],
+    "essay_scoreT_avg": 16.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "여러분들은 초등학생 때 미술시간에 미래의 모습 그리기를 해 보셨나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여러분들은 초등학생 때 미술시간에 미래의 모습 그리기를 <문법_맞춤법>해보셨나요</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저와 제 친구들은 다 해 봤답니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저와 제 친구들은 다 <문법_맞춤법>해봤답니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이처럼 어렸을 때 한번쯤은 미래의 모습에 생각을 한 번쯤 해 보셨을 겁니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>이 처럼</문법_맞춤법> 어렸을 때 한번쯤은 미래의 모습에 생각을 한 번쯤 해보셨을 겁니다.",
+      "sentence_corr_txt_styling": "이처럼 어렸을 때 한번쯤은 미래의 모습에 생각을 한 번쯤 해 보셨을 겁니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 자동차는 꿈만 꿨는데, 제가 왜 미래에 하늘을 나는 자동차가 있을 거라고 생각하는지 아시나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 자동차는 꿈만 꿨는데, 제가 왜 미래에 하늘을 나는 자동차가 있을 거라고 <문법_맞춤법>생각하는 지</문법_맞춤법> 아시나요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75832",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 326,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

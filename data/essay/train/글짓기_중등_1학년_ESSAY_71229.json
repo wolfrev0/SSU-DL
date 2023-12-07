@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시의 이름은 그 지역에서 공헌한 인물들의 이름으로 지으면 좋을 것 같습니다.#@문장구분# 그 지역을 위해 몇 년간 봉사를 하신 할아버지의 성함을 지역 이름으로 해도 좋을 것 같고 지역을 위해 힘쓴 국회의원의 이름이 돼도 좋을 것 같습니다.#@문장구분# 왜냐하면 지역의 이름에 자신의 이름이 들어간다는 것이 쉬운 일이 아니기 때문에 지역 이름이 자신의 이름이 되기 위해서 사람들은 더욱 치열하게 지역의 발전을 위해서 힘쓸 것입니다.#@문장구분# 그래서 지역의 이름은 그 지역을 위해 공헌한 사람의 이름이 되었으면 좋겠습니다.#@문장구분# 그리고 미래의 도시는 하늘을 떠다니는 자동차는 물론 혼자 날아서 어딘가로 이동할 수 있는 장치가 개발되어 새처럼 날아다녔으면 좋겠습니다.#@문장구분# 왜냐하면 그렇게 새처럼 날 수 있다면 매연을 당연히 안 생길 것이고 차가 밀리는 상황도 생기지 않을 것이며 언제 어디서나 자유롭게 사용 가능할 것 같기 때문입니다.#@문장구분#",
+      "paragraph_len": 571,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.25,
+      18.9,
+      14.8
+    ],
+    "essay_scoreT_avg": 19.983334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71229",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 451,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

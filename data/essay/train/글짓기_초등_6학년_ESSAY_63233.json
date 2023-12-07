@@ -1,0 +1,238 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "평화로운 주말,오늘은 나의 꿈 이야기를 들려줄까한다. #@문장구분#이제 저녁 너무 졸려서 10분만 눈을 붙이려고 했는데 그만 잠에 깊게 빠져버렸다.#@문장구분# 그 꿈은 너무나도 생생했다.#@문장구분# 꿈에서 정신을 차려보니 난.. 돌고래가 되어있었다.#@문장구분# 너무 생생하고 실감이 난 나머지 소리를 빽! 하고 질러버렸다. #@문장구분#그래도 아무런 변화도 없었다.#@문장구분# 어찌저찌 쉼터를 찾고 거기서 좀 쉬다가 배가 너무 고파서 다른 더 멀리 나가보았다. #@문장구분#그런데 내가 생각한 바닷소과는 너무나도 다른 것이다.#@문장구분# 예두 컴컴한 암흑의 바다가 아닌 우리의 세상와 다름 없는 가게,상점,아파트가 모두 있었기 때문이다. #@문장구분#또 철창이 있었다.#@문장구분# 거기엔 절대 넘어가선 안된다! 라고 적혀있었다.#@문장구분# 저기가 너무 궁금했지만 보는 눈이 많았기에 들어가지 않았다. #@문장구분#이것저것 사먹고 멋있는 옷도 샀다.#@문장구분# 여기선 신기한 것은 돈과 지폐는 성게로 대신했다. #@문장구분#그 날 밤 그 철창이 너무나도 궁금한 나머지 그 철창을 넘어가 버렸다!! #@문장구분#그 순간 무시무시한 상위 포식자 상어가 나타났다!#@문장구분# 너무 놀라 계속 헤엄쳤다.#@문장구분# 많이 달렸을까 뒤를 돌아보는 순간 상어가 입을 쩌억 벌리고 있었다.#@문장구분# 그 순간 잠이 확 꺠어버렸다.#@문장구분# 너무나 생생했고 실감이 나서 이 꿈은 절대로 못 잊을 것 같다.#@문장구분# 재밌었지만 한편으론 무서웠던 꿈 이었다.",
+      "paragraph_len": 1023,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      24.5,
+      25.75
+    ],
+    "essay_scoreT_avg": 24.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그런데 내가 생각한 바닷속과는 너무나도 다른 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 내가 생각한 <문법_맞춤법>바닷소과는 </문법_맞춤법>너무나도 다른 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예두 컴컴한 암흑의 바다가 아닌 우리의 세상과 다름 없는 가게,상점,아파트가 모두 있었기 때문이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 예두 컴컴한 암흑의 바다가 아닌 우리의 <문법_조사>세상와</문법_조사> 다름 없는 가게,상점,아파트가 모두 있었기 때문이다. ",
+      "sentence_corr_txt_styling": " 예두 컴컴한 암흑의 바다가 아닌 우리의 세상과 다름 없는 가게,상점,아파트가 모두 있었기 때문이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기엔 절대 넘어가선 안 된다! 라고 적혀있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 거기엔 절대 넘어가선 <문법_맞춤법>안된다</문법_맞춤법>! 라고 적혀있었다.",
+      "sentence_corr_txt_styling": " 거기엔 절대 넘어가선 안 된다! 라고 적혀있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 순간 잠이 확 깨버렸다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그 순간 잠이 확 <문법_맞춤법><문법_어미>꺠어버렸다.</문법_어미></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 재밌었지만 한편으론 무서웠던 꿈이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 재밌었지만 한편으론 무서웠던 <문법_맞춤법>꿈 이었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63233",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 623,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

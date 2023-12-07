@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시를 생각해보기 전에 내가 몇 년전 초등학교때 그렸던 상상화가 생각이 났다.#@문장구분# 내가 그렸던 상상화는 바다속으로 기차가 다니고 있고 많은 건물이 크게 들어서있었다.#@문장구분# 이제는 나의 상상이 현실이 되어 수많은 도시 속에 존재한다.#@문장구분# 그렇기에 몇 년이 지난 지금에서 생각하는 미래도시에 대한 나의 상상도 현실이 될 것이라고 생각한다.#@문장구분# 나는 이런 미래를 생각해 보았다.#@문장구분# 이제는 순간이동도 가능한 시대가 오지 않을까? 라고 상상해보았다.#@문장구분# 꼭 사람이 아니라도 집에 두고온 중요한 서류를 깜빡잊고 가져오지 않아서 급하게 가져와야하는 상황에 꼭 맞는 물건이 순간이동 할 수 있는 순간이동 도구 말이다.#@문장구분# 이를 생각하게 된 근거는 우리나라는 끊임없이 연구를 계속진행한다.#@문장구분# 우리나라 뿐만이 아니다.#@문장구분# 전세계에서 지금도 연구는 활발히 진행되고 있다.#@문장구분# 그렇기에 불가능한 것은 없다고 생각한다.#@문장구분# 나의 과학적인 지식이 지금 이 생각을 뒷받침 해주지는 못하지만 몇 십년 전에는 판타지에서만 나올 법한 일이라는 것이 지금 현대사회에 많은 과학적 발전으로 존재하고 있는 것을 보면 틀림 없다.#@문장구분#",
+      "paragraph_len": 776,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      28.4,
+      24.8
+    ],
+    "essay_scoreT_avg": 27.199999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_76426",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 537,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

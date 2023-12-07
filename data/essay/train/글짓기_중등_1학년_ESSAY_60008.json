@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시에서는 세계 여행이 아닌 우주 여행을 갈 수 있을 것 같다.#@문장구분# 그리고 항공우주산업이 발전이 잘되어 달 여행 패키지와 같은 우주관광 산업도 상당히 잘될 것 같다는 생각이 든다.#@문장구분# 현재로써는 상상도 할 수 없는 이야기이지만 미래도시에서는 충분하고도 남을 정도일 것 같다.#@문장구분# 만약 우주여행이 미래도시에서 가능하다고 한다면 나는 우주의 끝에 다가가보고 싶다.#@문장구분# 우주는 끝없이 팽창하는 중이지만 끝을 볼 수만 있다면 한번 보고 싶다.#@문장구분# 그리고 달도 한번 가보고 싶다.#@문장구분# 달은 중력이 지구보다 훨씬 약해 점프를 하면 체공시간이 상당하여 나는 듯한 느낌이 들 것 같다.#@문장구분# 그래서 방방이 타는 듯이 달에 가서 점프를 한번 해보고 싶다.#@문장구분# 거의 무중력인 상태에서 우주를 거닐어 보고 싶다.#@문장구분# 그리고 달에서 지구를 바라보는 것 도 하고 싶다.#@문장구분# 그렇게 나는 하루 빨리라도 우리 과학기술이 발전하여 우주를 나가보고 싶다.#@문장구분#",
+      "paragraph_len": 663,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.3,
+      28.4
+    ],
+    "essay_scoreT_avg": 28.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_60008",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 444,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

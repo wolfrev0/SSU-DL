@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리의 미래 세상은 외계인들이 조종하는 삶을 살아갈 것 같습니다.#@문장구분# 헛된 상상일 수도 있지만 유튜브나 네이버 등을 찾아보다보면 외계인이 존재하는 증거에 대한 글과 영상들이 많습니다.#@문장구분# 그 글과 영상들을 보다보면 정말 그럴듯한 증거들도있습니다.#@문장구분# 만약 외계인이 존재하고 그 외계인들이 우리의 지구인들보다 훨씬 강한 존재들이라면 우린 언젠가는 그 외계인들에게 지배 당하고 외계인이 조종하는 대로 삶을 살아야 할 날이 올 것 같습니다.#@문장구분# 하지만 우리가 생각하는 외계인의 모습은 막 영화 에일리언에 나오는 외계인 처럼 흐물 거리고 촉수가 나오고 혀가 길고 뾰족하고 막 이럴 것 같지만 실제로는생김새가 우리랑 비슷할 것 같다는 생각이 듭니다.#@문장구분# 모습은 우리랑 비슷한데 외계인인 것이죠.#@문장구분# 그렇다면 세상에 이미 섞여서 살고 있을 지도 모르겠네요.#@문장구분#",
+      "paragraph_len": 545,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.3,
+      16.55
+    ],
+    "essay_scoreT_avg": 23.616667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 헛된 상상일 수도 있지만 유튜브나 네이버 등을 찾아보다 보면 외계인이 존재하는 증거에 대한 글과 영상들이 많습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 헛된 상상일 수도 있지만 유튜브나 네이버 등을 <문법_맞춤법>찾아보다보면</문법_맞춤법> 외계인이 존재하는 증거에 대한 글과 영상들이 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 글과 영상들을 보다 보면 정말 그럴듯한 증거들도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 글과 영상들을 <문법_맞춤법>보다보면 </문법_맞춤법>정말 그럴듯한 증거들도있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 우리가 생각하는 외계인의 모습은 막 영화 에일리언에 나오는 외계인처럼 흐물 거리고 촉수가 나오고 혀가 길고 뾰족하고 막 이럴 것 같지만 실제로는 생김새가 우리랑 비슷할 것 같다는 생각이 듭니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 우리가 생각하는 외계인의 모습은 막 영화 에일리언에 나오는 <문법_맞춤법>외계인 </문법_맞춤법>처럼 흐물 거리고 촉수가 나오고 혀가 길고 뾰족하고 막 이럴 것 같지만 실제로는생김새가 우리랑 비슷할 것 같다는 생각이 듭니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71278",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 406,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

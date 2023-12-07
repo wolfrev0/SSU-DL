@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 우리가 어떤 모습으로 살아가고 있을까요?#@문장구분# 저는 이 글을 쓰기 위해 한 번 곰곰이 생각해 보았습니다.#@문장구분# 음.. 불현 듯 나중에는 공기 오염의 정도가 심해진다는 과학 잡지의 내용이 떠올랐습니다.#@문장구분# 그렇게 된다면 물을 사서 마시는 것처럼 공기도 사서 숨을 쉬지 않을까? 라는 생각이 들었습니다.#@문장구분# 맑은 공기가 담긴 산소 탱크를 사서 숨을 쉬는 것이지요.#@문장구분# 저희 부모님의 말씀을 들어보아도 물을 사서 마시게 될 줄은 상상도 못했다고 하십니다.#@문장구분# 이렇게 물도 수질 오염이 심해지면서 식용 생수를 사서 마시는 미래가 왔습니다.#@문장구분# 이처럼 공기도 오염이 심해지면서 나중에는 사서 마실 것 같습니다.#@문장구분# 사람들은 모두 우주복처럼 둥그런 투명 구를 머리에 쓰고 살아갈 것입니다.#@문장구분# 거기에 산소를 주입해서 숨을 쉬는 것이지요.#@문장구분# 바깥 공기는 너무 탁해서 마시면 치명적일 수도 있습니다.#@문장구분#",
+      "paragraph_len": 643,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.75,
+      19.55,
+      16.8
+    ],
+    "essay_scoreT_avg": 21.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그렇게 된다면 물을 사서 마시는 것처럼 공기도 사서 숨을 쉬지 않을까라는 생각이 들었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 된다면 물을 사서 마시는 것처럼 공기도 사서 숨을 쉬지 <문법_맞춤법>않을까? 라는</문법_맞춤법> 생각이 들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71284",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 424,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

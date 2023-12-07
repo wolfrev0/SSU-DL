@@ -1,0 +1,342 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시에 대해서 본인의 생각이다.#@문장구분# 그리고 미래 도시를 발전을 하고있다.#@문장구분# 미래 도시의 어떤 모습이 기술이 발전이나 나으는 자동차나 자동운전 자동차도 있고 미래시대 전철이나 등등 그런것도 있다.#@문장구분# 미래시대에서는 더욱더 발전을 하고 그리고 그러고 로봇을 만들어 로봇과 자연스럽게 대화를 하며 지내거나 그런다.#@문장구분# 그리고 로봇이 잘못하면 폭주나 혁명을 일으키기도 한다.#@문장구분# 그래서 로봇들한테 안전프로그램이나 바이러스 백신프로그램을 깔아주면 폭주나 혁명을 일으키지도 않고 인간이랑 잘지낼수가 있다.#@문장구분# 로봇의 종류는 여러가지가 있다.#@문장구분# 안내 로봇 환경 지킴이 로봇 그리고 미래공장로봇 등등 이렇게 여러가지가 있다.#@문장구분# 그리고 미래 도시에서는 기계와 인간이 공동이되는 세계라 말한다.#@문장구분# 그리고 자연이나 숲을 줄어지않게 해주고 그리고 로봇들과 사회생활을 잘 실천도 할수가 있다.#@문장구분# 그리고 미래의 기술들은 더나아가거나 사회생활도 잘 실천을 할수있게한다.#@문장구분# 다른 말로는 앞으로 미래의 잘 실천되는것이나 그리고 사회생활도 잘되게 해준다.#@문장구분#^^#@문장구분#",
+      "paragraph_len": 765,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.35,
+      20.25,
+      18.25
+    ],
+    "essay_scoreT_avg": 21.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "미래 도시에 대해서 본인의 생각이다.",
+      "sentence_corr_txt_styling": "미래 도시에 대해서 본인의 생각이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 미래 도시를 발전을 하고있다.",
+      "sentence_corr_txt_styling": " 그리고 미래 도시를 발전을 하고있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 미래 도시의 어떤 모습이 기술이 발전이나 나으는 자동차나 자동운전 자동차도 있고 미래시대 전철이나 등등 그런것도 있다.",
+      "sentence_corr_txt_styling": " 미래 도시의 어떤 모습이 기술이 발전이나 나으는 자동차나 자동운전 자동차도 있고 미래시대 전철이나 등등 그런것도 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 미래시대에서는 더욱더 발전을 하고 그리고 그러고 로봇을 만들어 로봇과 자연스럽게 대화를 하며 지내거나 그런다.",
+      "sentence_corr_txt_styling": " 미래시대에서는 더욱더 발전을 하고 그리고 그러고 로봇을 만들어 로봇과 자연스럽게 대화를 하며 지내거나 그런다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 로봇들한테 안전프로그램이나 바이러스 백신프로그램을 깔아주면 폭주나 혁명을 일으키지도 않고 인간이랑 잘 지낼 수가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 로봇들한테 안전프로그램이나 바이러스 백신프로그램을 깔아주면 폭주나 혁명을 일으키지도 않고 인간이랑 <문법_맞춤법>잘지낼수가</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 로봇의 종류는 여러 가지가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 로봇의 종류는 <문법_맞춤법>여러가지</문법_맞춤법>가 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안내 로봇, 환경 지킴이 로봇 그리고 미래 공장 로봇 등등 이렇게 여러 가지가 있다.",
+      "sentence_corr_reason": [
+        "쉼표, 띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>안내 로봇 환경 지킴이 로봇 그리고 미래공장로봇 등등 이렇게 여러가지가 있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 미래 도시에서는 기계와 인간이 공동이 되는 세계라 말한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 미래 도시에서는 기계와 인간이 <문법_맞춤법>공동이되는</문법_맞춤법> 세계라 말한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 자연이나 숲을 줄지 않게 해주고 그리고 로봇들과 사회생활을 잘 실천도 할 수가 있다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 자연이나 숲을 <문법_어미>줄어지않게</문법_어미> 해주고 그리고 로봇들과 사회생활을 잘 실천도 <문법_맞춤법>할수가</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 미래의 기술들은 더 나아가거나 사회 생활을 잘 실천할 수 있게 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그리고 미래의 기술들은 <문법_맞춤법><문법_조사>더나아가거나 사회생활도 잘 실천을 할수있게한다.</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 다른 말로는 앞으로 미래의 잘 실천되는것이나 그리고 사회생활도 잘되게 해준다.",
+      "sentence_corr_txt_styling": " 다른 말로는 앞으로 미래의 잘 실천되는것이나 그리고 사회생활도 잘되게 해준다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42426",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 506,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

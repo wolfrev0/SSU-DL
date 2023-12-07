@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 방탄소년단처럼 우리나라를 대표하고 음악을 통해 세상을 하나로 만드는 아이돌이 되고 싶습니다.#@문장구분# 현재는 예고에 진학하는 것을 목표로 하며 학업과 연습 모두 병행하고 있습니다.#@문장구분# 학교가 끝나면 보컬 레슨을 받고 그 후엔 연습실에 가서 춤 연습을 합니다.#@문장구분# 집에 오면 거의 자정인데 매일 이런 일상이 반복되기도 하고 주말엔 하루 종일 연습하기 때문에 때론 지치지만 저의 꿈을 이루기 위해 노력하는 것이기에 뿌듯하기도 하고 하루빨리 연습생이 되고 싶습니다.#@문장구분# 저는 논란이나 스캔들이 없는 순수한 아이돌이 되는 것을 우선으로 두고 10년 뒤에는 어느 정도 유명해져서 해외 진출에 조금씩 성과가 있는 아이돌이 되어있을 것 같습니다.#@문장구분# 아이돌 계약 기간이 끝나면 배우의 길로 들어서고 싶기 때문에 20년 뒤에는 배우가 되어있을 것 같습니다.#@문장구분# 이때는 아이돌보다는 배우로 인정받고 싶어서 연기 연습을 열심히 할 것입니다.#@문장구분# 30년 뒤에는 배우 생활을 그만두고 제 자신과 삶에 집중하는 사람이 되고 싶습니다.#@문장구분# 그때 동안 아이돌로서 그리고 배우로서 열심히 달려왔기에 이제는 제가 원하는 것을 즐기며 사는 삶을 살고 있을 것 같습니다.",
+      "paragraph_len": 724,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.888889,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.38889,
+      30,
+      28.5
+    ],
+    "essay_scoreT_avg": 27.296295,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74851",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 565,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

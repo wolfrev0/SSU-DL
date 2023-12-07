@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕?나는 갈매기라고 해. #@문장구분#난 바다속에서 사는 건 아니지만 바다를 정말 많이 돌아다니고 거의 바다생물이라고 할 수 있을만큼 바다하면 내가 빠질 수 없지 나를 소개하자면,몸길이는 대개 약 40cm이고, 날개를 폈을 때의 길이는 119∼122cm이다. #@문장구분#가늘면서 노란빛을 띤 녹색의 다리와 물갈퀴가 달린 발이 특징이야. #@문장구분#암수가 서로 비슷하지만 수컷이 약간 큰 편이지. #@문장구분#등과 날개는 회색이고, 머리는 순백색이며, 부리는 푸른빛을 띤 노란색이야.#@문장구분#구애행동은 암컷이 몸을 쪼그리고서 수컷에게 먹이를 받아먹는거야. #@문장구분#암컷은 작은 언덕이나 바위 등에 해조류, 작은 나뭇가지, 나무껍질 등을 이용해 둥지를 지어.#@문장구분# 알은 밝은 갈색 또는 올리브빛 갈색이며 암수가 교대로 알을 품곤해.#@문장구분#부화하는 데 3∼4주일이 걸리지. 새끼의 깃털은 갈색으로 노란빛을 띤 갈색의 반점이 있고, 부리는 분홍색 바탕에 검은색이고.#@문장구분# 새끼가 어른과 같은 깃털로 바뀌려면 27개월 정도가 걸린다고!.#@문장구분#주된 서식지는 해안과 조수가 밀려드는 강 하구, 내륙의 호수, 축축한 늪지 등으로 육지로부터 그리 멀리 벗어나지 않아.#@문장구분# 식성은 잡식성으로 물고기나 그 밖의 해산물은 물론 벌레나 쥐, 작은 새, 식물의 열매, 곡물 등을 먹고살아. #@문장구분#야생에서 24년 이상을 산 기록이 있지 후훗.#@문장구분#",
+      "paragraph_len": 887,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      20.9,
+      24.65
+    ],
+    "essay_scoreT_avg": 22.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕? 나는 갈매기라고 해. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "안녕?<문법_맞춤법>나는 </문법_맞춤법>갈매기라고 해. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "난 바닷속에서 사는 건 아니지만 바다를 정말 많이 돌아다니고 거의 바다생물이라고 할 수 있을 만큼 바다 하면 내가 빠질 수 없지 나를 소개하자면, 몸길이는 대개 약 40cm이고, 날개를 폈을 때의 길이는 119∼122cm이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "난 <문법_맞춤법>바다속에서 </문법_맞춤법>사는 건 아니지만 바다를 정말 많이 돌아다니고 거의 바다생물이라고 할 수 있을만큼 바다하면 내가 빠질 수 없지 나를 소개하자면,몸길이는 대개 약 40cm이고, 날개를 폈을 때의 길이는 119∼122cm이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "구애행동은 암컷이 몸을 쪼그리고서 수컷에게 먹이를 받아먹는 거야. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "구애행동은 암컷이 몸을 쪼그리고서 수컷에게 먹이를 <문법_맞춤법>받아먹는거야</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 알은 밝은 갈색 또는 올리브 빛 갈색이며 암수가 교대로 알을 품곤 해.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 알은 밝은 갈색 또는 <문법_맞춤법>올리브빛 </문법_맞춤법>갈색이며 암수가 교대로 알을 품곤해.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 식성은 잡식성으로 물고기나 그 밖의 해산물은 물론 벌레나 쥐, 작은 새, 식물의 열매, 곡물 등을 먹고 살아. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 식성은 잡식성으로 물고기나 그 밖의 해산물은 물론 벌레나 쥐, 작은 새, 식물의 열매, 곡물 등을 <문법_맞춤법>먹고살아</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64267",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 628,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

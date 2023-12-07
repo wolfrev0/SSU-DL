@@ -1,0 +1,417 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제: 바다 생물이야기 짓기#@문장구분#\n제시문: 일단 바다는 70%를 차지 합니다. #@문장구분#그리고 바다는 육대양 으로 이루어져있다.#@문장구분# 거기중에서 가장 깊은곳은 마리아나해구 라고 한다.#@문장구분# 혹시 올하요 마리아나 해구에 매갈로돈 이 있슬지. #@문장구분#일단 저는 첫번째는 바다 거북이 이다. #@문장구분#일단 거북이는 장수이다.#@문장구분# 그레서 난 장수로 살아보고싶다. #@문장구분#바다거북이는 알을 밖에 나와서 까서 한동안 밥도안먹고 그주변에있다. #@문장구분#알에서 나오자 마자빨리 바다로 가야되기땜이지 왜냐하면 갈매기 들은 새끼 거북이 들을 먹고살기때문이다. #@문장구분#일단 바다로 내려오면 먹이 를먹고 생활한다. #@문장구분#일단 다음은 내가 하고 싶은 바다 생물은 상어이다.#@문장구분# 상어중에서 백상아리이다. #@문장구분#백상아리는 바다중에서 먹이사슬 탑1이다. #@문장구분#한번 탑원은 어떤느낌 일지궁금 해서 한번 해보고 싶다.#@문장구분#",
+      "paragraph_len": 690,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.15,
+      20.25,
+      16.85
+    ],
+    "essay_scoreT_avg": 18.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "주제: 바다 생물 이야기 짓기",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "주제: 바다 <문법_맞춤법>생물이야기</문법_맞춤법> 짓기",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n제시문: 일단 바다는 지구의 70%를 차지한다. ",
+      "sentence_corr_reason": [
+        "호응",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "\n제시문: 일단 바다는 <문법_기타>70%를</문법_기타> <문법_맞춤법><문법_어미>차지 합니다</문법_어미></문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 바다는 육대양 으로 이루어져 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 바다는 육대양 으로 <문법_맞춤법>이루어져있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 중 가장 깊은 곳은 마리아나 해구라고 한다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_기타>거기중에서</스타일링_기타> 가장 <문법_맞춤법>깊은곳은</문법_맞춤법> 마리아나해구 라고 한다.",
+      "sentence_corr_txt_styling": " 그 중 가장 깊은 곳은 마리아나 해구라고 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 혹시 올하요 마리아나 해구에 매갈로돈이 있을지도 모른다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 혹시 올하요 마리아나 해구에 <문법_맞춤법>매갈로돈 이</문법_맞춤법> <스타일링_기타>있슬지</스타일링_기타>. ",
+      "sentence_corr_txt_styling": " 혹시 올하요 마리아나 해구에 매갈로돈이 있을지도 모른다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 나는 바다 거북이가 되고 싶다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "<스타일링_기타>일단 저는 첫번째는</스타일링_기타> 바다 <문법_조사><문법_어미>거북이 이다</문법_어미></문법_조사>. ",
+      "sentence_corr_txt_styling": "일단 나는 바다 거북이가 되고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 난 오래 살아보고 싶다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>그레서</문법_맞춤법> 난 <문법_기타>장수로 살아보고싶다</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다거북이는 알을 밖에 나와서 까서 한동안 밥도 안 먹고 그 주변에 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다거북이는 알을 밖에 나와서 까서 한동안 <문법_맞춤법>밥도안먹고</문법_맞춤법> 그주변에있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "알에서 나오자마자 빨리 바다로 가야하기 때문이다. 왜냐하면 갈매기들이 새끼 거북이들을 잡아먹기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "문장 끊는 부분",
+        "문장 끊는 부분",
+        "문장 끊는 부분"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "알에서 <문법_맞춤법>나오자 마자빨리</문법_맞춤법> 바다로 <문법_조사><문법_어미><문법_기타>가야되기땜이지</문법_기타></문법_어미></문법_조사> 왜냐하면 갈매기 들은 새끼 거북이 들을 먹고살기때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 바다로 내려오면 먹이를 먹고 생활한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 바다로 내려오면 <문법_맞춤법>먹이 를먹고</문법_맞춤법> 생활한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다음에 내가 하고 싶은 바다 생물은 상어이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "<문법_조사><문법_기타>일단 다음은</문법_기타></문법_조사> 내가 하고 싶은 바다 생물은 상어이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 중에서도 백상아리가 되고 싶다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " <스타일링_기타>상어중에서</스타일링_기타> <문법_조사><문법_어미>백상아리이다</문법_어미></문법_조사>. ",
+      "sentence_corr_txt_styling": " 그 중에서도 백상아리가 되고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "백상아리는 바다생물 중에서 먹이사슬 1위이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "백상아리는 <문법_기타>바다중에서</문법_기타> 먹이사슬 탑1이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_맞춤법><스타일링_패러프레이징>한번 탑원은 어떤느낌 일지궁금 해서 한번 해보고 싶다</스타일링_패러프레이징></스타일링_맞춤법>.",
+      "sentence_corr_txt_styling": "먹이사슬 1위는 어떤 느낌일지 한 번 해 보고 싶다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38353",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 390,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

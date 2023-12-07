@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시는 로봇과 인간이 함께 공존하여 살아갈 것 같습니다.#@문장구분# 왜냐하면 일단 지금 코로나19로 원격수업을 하고 있죠.#@문장구분# 원격수업을 하는데 사용되는 \"줌\"같은 앱은 코로나19가 끝나도 앞으로 계속 더 많이 발전하여 사용하게 될 것 입니다.#@문장구분# 또 의료기기 또한 많은 발전을 할 것 입니다.#@문장구분#지금도 조금씩은 사용되고 있기는 하지만 아직은 부족하죠.#@문장구분# 하지만 미래에는 기술이 더 발달하여 의료기기,로봇이 사람들을 직접 수술하는 사례 또한 쉽게 접할 수 있을 것 입니다.#@문장구분# 또한 의료기기를 두고 로봇에게 수술을 맡길 수 없다며 항의를 하는 사례도 찾아볼 수 있을 것 같죠.#@문장구분# 그리고 식당주인 입장에서는 더 이득인 서빙로봇을 이용하여 알바대신 로봇을 사용하는 일도 일상화 될 것 입니다.#@문장구분# 그리고 이에 대하여 일자리를 뺏는다는 항의도 할 것 같습니다.#@문장구분# 그래서 제가 생각하기에는 로봇과 공존하지만 아직은 서툴러서 그에대한 많은 방법들을 토의하는 그런 미래가 될 것이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 686,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      30,
+      30
+    ],
+    "essay_scoreT_avg": 30,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.15",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_50446",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 488,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

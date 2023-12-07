@@ -1,0 +1,347 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 대왕문어가 있을지 궁금해요.#@문장구분# 바다는 완전 그니까 완전 신기한 동물이있을것입니다.#@문장구분#\n 그리고 로보 상어가 있으면 되게 시기 할것 같습니다.#@문장구분#\n 저는 대왕문어에 관심이 많은것같습니다.#@문장구분#\n대왕문어 거대 하니까 저는 대왕문어가 어떻게 생기고 다리는 몇개고 얼마나 큰지 궁금합니다.#@문장구분#\n 만약 제가 대왕 문어가 되다면 저는 한국에 가서 일부로 잡혀서 먹히고 싶습니다.#@문장구분#\n 그 이유 는 대왕 문어를 잡으면 한국이 대왕 문어를 잡다 라는 뉴스를 볼수 있을것입니다.#@문장구분#\n 그럼 한국은 대왕문어를 잡은 나라라고 뉴스가 떠서 한국이 완전 유몀해질수있습니다.#@문장구분#\n 그리고 그냥 독도에 있는 바다를 앙넌 가고싶습니다.#@문장구분#\n거기에서 새우를 보고 멋진 물고기를볼것입니다.#@문장구분#\n 큰 바다가 있으면 거기에서 막 수영하고 싶다#@문장구분#\n 내가 수영을 잘못해 문어는 수영을잘하겠지?#@문장구분#\n 저는 문어처럼 완전 빨리 수영을 하고 막 바다를 해쳐 가면서 해염을 칠것입니다.#@문장구분#\n 그리고 맛있다고 소문난 물고기도 먹어보고 킹크랩 상어 알르 그것도 먹어볼 것입니다.#@문장구분#\n 한번 예전 부터 바다에서 헤엄을치고 싶었습니다.",
+      "paragraph_len": 805,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.65,
+      22.65
+    ],
+    "essay_scoreT_avg": 25.1,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 바다는 완전 그니까 정말 신기한 동물이 있을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다는 완전 그니까 <문법_맞춤법>완전 신기한 동물이있을것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 로보 상어가 있으면 되게 시기할 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 로보 상어가 있으면 되게 <문법_맞춤법>시기 할것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 저는 대왕문어에 관심이 많은 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 저는 대왕문어에 관심이 <문법_맞춤법>많은것같습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n대왕문어 거대하니까 저는 대왕문어가 어떻게 생기고 다리는 몇 개고 얼마나 큰지 궁금합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n대왕문어 <문법_맞춤법>거대 하니까</문법_맞춤법> 저는 대왕문어가 어떻게 생기고 다리는 몇개고 얼마나 큰지 궁금합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그 이유는 대왕 문어를 잡으면 한국이 대왕 문어를 잡다 라는 뉴스를 볼 수 있을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그 <문법_맞춤법>이유 는</문법_맞춤법> 대왕 문어를 잡으면 한국이 대왕 문어를 잡다 라는 뉴스를 볼수 있을것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그럼 한국은 대왕문어를 잡은 나라라고 뉴스가 떠서 한국이 완전 유명해질 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그럼 한국은 대왕문어를 잡은 나라라고 뉴스가 떠서 한국이 완전 <문법_맞춤법>유몀해질수있습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 그냥 독도에 있는 바다를 앙넌 가고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": "\n 그리고 그냥 독도에 있는 바다를 <문법_맞춤법>앙넌 가고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "\n 그리고 그냥 독도에 있는 바다를 앙넌 가고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n거기에서 새우를 보고 멋진 물고기를 볼 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n거기에서 새우를 보고 멋진 <문법_맞춤법>물고기를볼것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 내가 수영을 잘못해 문어는 수영을 잘 하겠지?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 내가 수영을 잘못해 문어는 <문법_맞춤법>수영을잘하겠지</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 저는 문어처럼 완전 빨리 수영을 하고 막 바다를 헤쳐 가면서 헤엄을칠 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 저는 문어처럼 완전 빨리 수영을 하고 막 바다를<문법_맞춤법> 해쳐 가면서 해염을 칠것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 그리고 맛있다고 소문난 물고기도 먹어보고 킹크랩 상어 알 그것도 먹어볼 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 그리고 맛있다고 소문난 물고기도 먹어보고 킹크랩 상어<문법_맞춤법> 알르</문법_맞춤법> 그것도 먹어볼 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 한번 예전부터 바다에서 헤엄을치고 싶었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 한번<문법_맞춤법> 예전 부터</문법_맞춤법> 바다에서 헤엄을치고 싶었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52655",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 526,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

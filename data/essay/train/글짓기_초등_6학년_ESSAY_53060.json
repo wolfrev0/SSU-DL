@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 일주일동안 바다의 생물로 살아갈 기회가 주어진다면 거북이가 되고 싶습니다.#@문장구분# 왜냐하면 수영을 잘하는 거북이의 특징을 이용해서 바다를 헤엄치고 다니고 싶습니다.#@문장구분# 그렇게 일주일을 산다면 바다 속의 있는 물고기들을 구경을 하며 이 곳 저 곳 여행을 하고 또 때론 해변 가로 나가서 육지도 구경도 하고 많은 곳을 여행하며 다니고 바다 속 친구들도 사귀고 같이 여행을 다니면서 추억도 쌓고 위험에 처한 바다 친구들을 도와줄 것입니다.#@문장구분# 그리고 아직 바다의 생물 중 밝혀지지 않은 생물이 많은데 그 생물들을 구경할 것이고 바다 밑 끝까지 내려가서 뭐가 있는지에 대해 구경해보고 싶습니다.#@문장구분# 그렇게 일주일 내내 여행하고 싶습니다.#@문장구분#",
+      "paragraph_len": 445,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      26.7,
+      28.4
+    ],
+    "essay_scoreT_avg": 24.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 거북이가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 <문법_맞춤법>일주일동안 </문법_맞춤법>바다의 생물로 살아갈 기회가 주어진다면 거북이가 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 수영을 잘하는 거북이의 특징을 이용해서 바다를 헤엄치고 다니고 싶습니다.",
+      "sentence_corr_txt_styling": " 왜냐하면 수영을 잘하는 거북이의 특징을 이용해서 바다를 헤엄치고 다니고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 일주일을 산다면 바닷속에 있는 물고기들을 구경하며 이곳저곳 여행을 하고 또 때론 해변 가로 나가서 육지도 구경하고 많은 곳을 여행하며 다니고 바닷속 친구들도 사귀고 같이 여행을 다니면서 추억도 쌓고 위험에 처한 바다 친구들을 도와줄 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그렇게 일주일을 산다면 <문법_어미>바다 속의</문법_어미> 있는 물고기들을 구경을 하며 <문법_맞춤법>이 곳 저 곳</문법_맞춤법> 여행을 하고 또 때론 해변 가로 나가서 육지도 구경도 하고 많은 곳을 여행하며 다니고 바다 속 친구들도 사귀고 같이 여행을 다니면서 추억도 쌓고 위험에 처한 바다 친구들을 도와줄 것입니다.",
+      "sentence_corr_txt_styling": " 그렇게 일주일을 산다면 바닷속에 있는 물고기들을 구경하며 이곳저곳 여행을 하고 또 때론 해변 가로 나가서 육지도 구경하고 많은 곳을 여행하며 다니고 바닷속 친구들도 사귀고 같이 여행을 다니면서 추억도 쌓고 위험에 처한 바다 친구들을 도와줄 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 아직 바다의 생물 중 밝혀지지 않은 생물이 많은데 그 생물들을 구경할 것이고 바다 밑 끝까지 내려가서 뭐가 있는지에 대해 구경해 보고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 아직 바다의 생물 중 밝혀지지 않은 생물이 많은데 그 생물들을 구경할 것이고 바다 밑 끝까지 내려가서 뭐가 있는지에 대해 <문법_맞춤법>구경해보고 </문법_맞춤법>싶습니다.",
+      "sentence_corr_txt_styling": " 그리고 아직 바다의 생물 중 밝혀지지 않은 생물이 많은데 그 생물들을 구경할 것이고 바다 밑 끝까지 내려가서 뭐가 있는지에 대해 구경해 보고 싶습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53060",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 346,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

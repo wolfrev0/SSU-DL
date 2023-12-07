@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하기에 미래 도시에는 해저 도시라는 이름을 가진 도시가 많이 생길 것 같다.#@문장구분# 사실상 하늘에 건물을 띄어서 만들 가능성은 거의 없다고 생각하겠지만 해저 도시는 몇몇 나라에서 시도하고 있다는 것을 본 적이 있기 때문이다.#@문장구분# 해저 도시를 만들게 되면 나라 영토에 비해 국민이 많은 나라에서 건물을 지을 수 있는 땅을 더 많이 확보할 수 있고 지구 온난화로 인해 나라가 물에 잠길 수 있는 나라들은 해저에 도시를 만들어 자신들의 나라를 지킬 수 있다.#@문장구분# 해저 도시가 생기게 되면 바다 속으로 들어가서 생활할 수 있기 때문에 어부들의 경우 대부분은 해저 도시로 이동할 것 같다.#@문장구분# 그리고 지상에 있는 아쿠아리움은 사라지게 될 것 같다.#@문장구분# 왜냐하면 해저에 도시를 만들게 되면 해저 도시로 들어가면 바로 바다 생물을 볼 수 있는데 바다 생물들에게 스트레스를 주면서 지상에 굳이 가둬놓지 않아도 되기 때문이다.#@문장구분#",
+      "paragraph_len": 566,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.7,
+      24.35,
+      29.5
+    ],
+    "essay_scoreT_avg": 27.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.20",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_57002",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 447,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

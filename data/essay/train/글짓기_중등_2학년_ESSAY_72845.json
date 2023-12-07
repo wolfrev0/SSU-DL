@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 초등학교 선생님이 꿈이다. #@문장구분#나는 차별당하는 친구들을 많이 봐왔는데 보통 그런 친구들은 장애를 가지고 있거나 평범한 아이지만 겉으로 들어나는 병을 앓고 있는 친구였다.#@문장구분# 주로 아토피, 비염 등이었다.#@문장구분# 이 친구들이 아픈 이유는 부모님의 탓도 본인의 탓도 아니지만 아직 많은 것을 모르는 아이들은 그 아이들을 놀리고 마음의 상처를 입힌다.#@문장구분# 물론 다 커서도 천지분간 못하고 사람들을 차별하는 사람이 있기는 하다.#@문장구분# 하여튼 그래서 나는 아이들이 마음의 상처를 입지 않게 차별 없는 학교를 만들고 싶다.#@문장구분# 한명이라도 아프다면 그게 포근한 학교, 안전한 학교라고 할수 있을까?#@문장구분# 나는 학생들에게 차멸 없는 안전한 학교를 선물 하고 싶다. #@문장구분#이런 마음가짐을 가지고 있는 나는 미래에 멋진 초등학교 선생님이 되어있을거다.#@문장구분# 나의 제자들은 내가 자릉스러워 졸업을 하고 어른이 된 후에 선생님 덕에 멋진 어른으로 자라날 수 있었다는 말을 들을수 있는 멋진 초등학교 선생님이 내 꿈이자 목표이다.",
+      "paragraph_len": 666,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.8333333,
+          2.3333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.722222,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      25.11111,
+      22.5
+    ],
+    "essay_scoreT_avg": 24.537039,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_72845",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 486,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

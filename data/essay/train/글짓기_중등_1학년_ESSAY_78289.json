@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 지구가 멸망하고 다른 행성으로 넘어가서 살아갈 것 같다.#@문장구분# 그 행성은 아마 화성일 것 같다.#@문장구분# 화성에 가서 우리 인류는 물을 개발하며 사람이 살 수 있는 환경으로 발전시키면서 생존을 이어나갈 것 같다.#@문장구분# 그곳에서는 다양한 외계인들과의 만남이 자주 있을 것같다.#@문장구분# 지금 우리가 지구에서 다른 나라들과 무역을하고 교류를 하듯이 미래에는 외계인들과 무역을 하고 교류를 해 나갈 것같다.#@문장구분# 외계인은 인간보다 더 발전된 기술을 가지고 있을 것 같아서 순간이동이나 냉동인간들이 진짜 이루어질 것 같다는 기대가 생긴다.#@문장구분# 미래 도시의 이름은 행성의 이름을 따서 '화성'이라고 지을 것이다.#@문장구분# 미래에 화성에 가서 엄마 아빠랑 행복하게 잘 살고 싶고 평생 죽지 않고 사는 약이 발명 되어서 계속 살고 싶다.#@문장구분# 그리고 나는 우주 정거장에서 일하면서 많은 외계행성에 대해 더 알고싶다.#@문장구분#",
+      "paragraph_len": 605,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.1,
+      20.25,
+      20
+    ],
+    "essay_scoreT_avg": 20.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_78289",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 426,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

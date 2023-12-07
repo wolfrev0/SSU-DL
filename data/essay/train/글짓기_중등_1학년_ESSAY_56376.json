@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시의 이름은 바로 슈퍼 에일리언타운이다.#@문장구분# 며칠전에 다녀왔던 인천에 있는 차이나 타운이 너무 멋져서 이렇게 지은것인데. 미래의 도시면 외계인들도 많이 살 수 있을수도 모르니 외계인 친구들도 살 수 있는 도시를 만들면 재밌겟다고 생각했다.#@문장구분# 외계인들과 함께 학교를 다니면서 축구도하고 농구도 하면서 놀면 매우 재밌을 것 같다.#@문장구분# 게다가 학교에서 현장체험학습을 가면 UFO도 타고 날아 갈 수 있을거 같아서 너무 즐거운 도시가 될 것이다.#@문장구분# 그리고 경찰들도 UFO를 타고 다니면서 순찰해서 나쁜사람들이 모두 잡힐 수 있으니 미래에 사는 도시는 엄청 안전하고 좋을 것이다.#@문장구분#그리고 어디를 여행가더라도 오래오래 안기다리고 UFO타고 바로 갈 수 있을꺼 같다.#@문장구분# 내가 살아있는동안 어서 그런 세상이 왔으면 좋겠다.#@문장구분#",
+      "paragraph_len": 540,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      25.1,
+      21.85
+    ],
+    "essay_scoreT_avg": 23.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래 도시의 이름은 바로 슈퍼 에일리언 타운이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 미래 도시의 이름은 바로 슈퍼 <문법_맞춤법>에일리언타운이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 며칠 전에 다녀왔던 인천에 있는 차이나타운이 너무 멋져서 이렇게 지은 것인데. 미래의 도시면 외계인들도 많이 살 수 있을 수도 모르니 외계인 친구들도 살 수 있는 도시를 만들면 재밌겠다고 생각했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>며칠전에 다녀왔던 인천에 있는 차이나 타운이 너무 멋져서 이렇게 지은것인데.</문법_맞춤법> 미래의 도시면 외계인들도 많이 살 수 있을수도 모르니 외계인 친구들도 살 수 있는 도시를 만들면 재밌겟다고 생각했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 외계인들과 함께 학교를 다니면서 축구도 하고 농구도 하면서 놀면 매우 재밌을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 외계인들과 함께 학교를 다니면서 <문법_맞춤법>축구도하고</문법_맞춤법> 농구도 하면서 놀면 매우 재밌을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게다가 학교에서 현장체험학습을 가면 UFO도 타고 날아갈 수 있을 거 같아서 너무 즐거운 도시가 될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게다가 학교에서 현장체험학습을 가면 UFO도 타고 <문법_맞춤법>날아 갈 수 있을거</문법_맞춤법> 같아서 너무 즐거운 도시가 될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 경찰들도 UFO를 타고 다니면서 순찰해서 나쁜 사람들이 모두 잡힐 수 있으니 미래에 사는 도시는 엄청 안전하고 좋을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 경찰들도 UFO를 타고 다니면서 순찰해서 <문법_맞춤법>나쁜사람들이</문법_맞춤법> 모두 잡힐 수 있으니 미래에 사는 도시는 엄청 안전하고 좋을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 어디를 여행 가더라도 오래오래 안 기다리고 UFO 타고 바로 갈 수 있을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 어디를 <문법_맞춤법>여행가더라도 오래오래 안기다리고 UFO타고 바로 갈 수 있을꺼</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 살아있는 동안 어서 그런 세상이 왔으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법>살아있는동안</문법_맞춤법> 어서 그런 세상이 왔으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56376",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 402,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

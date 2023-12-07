@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래의 우리 사회는 로봇과 함께 공존하는 사회일 것 같다고 생각한다.#@문장구분# 요즘 무인 편의점이나 가게들이 늘어나고 있기도 하고, 심지어 자율주행 버스나 자율주행 자동차도 많이 개발되고 있다.#@문장구분# 또, 움직이는 로봇이 음식을 배달해주는 서비스나, 드론으로 택배를 배송해주기도 한다.#@문장구분# 우리도 아직은 어색하고 서툴지만 점점 이렇게 편리하고 자동화 되어 있는 사회에 자연스레 적응해나가고 있다.#@문장구분# 나는 기술이 전진하지, 후진하지는 않는다고 생각한다.#@문장구분# 왜냐하면 사람들은 더 편리하고 더 빠른 것을 좋아하기 때문이다.#@문장구분# 또, 사람들의 요구에 따라 그 전진 속도는 계속해서 점점 빨라질 것이라고 생각한다.#@문장구분# 그래서 나는 머지않은 미래에 우리는 영화에 나오는 것처럼 모든 것이 자동화된 아주 편리한 도시에서 살게될 것 같다고 생각했다.#@문장구분#",
+      "paragraph_len": 558,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      23.45,
+      23.7
+    ],
+    "essay_scoreT_avg": 23.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 또, 움직이는 로봇이 음식을 배달해주는 서비스나, 드론으로 택배를 배송해주기도 한다.",
+      "sentence_corr_txt_styling": " 또, 움직이는 로봇이 음식을 배달해주는 서비스나, 드론으로 택배를 배송해주기도 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 머지않은 미래에 우리는 영화에 나오는 것처럼 모든 것이 자동화된 아주 편리한 도시에서 살게될 것 같다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 그래서 나는 머지않은 미래에 우리는 영화에 나오는 것처럼 모든 것이 자동화된 아주 편리한 도시에서 살게될 것 같다고 <문법_시제>생각했다</문법_시제>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60109",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 399,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

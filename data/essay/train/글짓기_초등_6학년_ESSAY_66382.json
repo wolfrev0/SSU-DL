@@ -1,0 +1,186 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 고래가 되고 싶습니다.#@문장구분#왜냐하면 물고기들을 잡아먹지 않고 친하게 지내고 싶어서 고래가 되고 싶습니다.#@문장구분#그리고 또 다른 이유는 물고기와 친해져서 물고기 집으로 가서 갔이 밥을 먹고 놀고 얘기하고 자고 일어나서 갔이 먹이를 찾으러 가서 친하게 지내고 십다.#@문장구분#그래서 나와 물고기가 같이 모험을 떠나서 세로운 친구도 사귀고 십고 갔이 물고기를 나의 등에 태워서 놀이기구 같이 재미있게 태워주고 숨도 같이 쉬어주고 같이 바다 아주 밑바닥에 있는 자갈돌 갔은 걸로 축구하고, 야구하고, 공놀이를 돌들로 해서 물고기와 엄청나게 좋은 친구가 될 것 이다.",
+      "paragraph_len": 362,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      20.55,
+      10.8
+    ],
+    "essay_scoreT_avg": 17.999998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그리고 또 다른 이유는 물고기와 친해져서 물고기 집으로 가서 같이 밥을 먹고 놀고 얘기하고 자고 일어나서 같이 먹이를 찾으러 가서 친하게 지내고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "그리고 또 다른 이유는 물고기와 친해져서 물고기 집으로 가서 <문법_맞춤법>갔이</문법_맞춤법> 밥을 먹고 놀고 얘기하고 자고 일어나서 <문법_맞춤법>갔이</문법_맞춤법> 먹이를 찾으러 가서 친하게 지내고 <문법_높임법>십다</문법_높임법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그래서 나와 물고기가 같이 모험을 떠나서 세로운 친구도 사귀고 십고 갔이 물고기를 나의 등에 태워서 놀이기구 같이 재미있게 태워주고 숨도 같이 쉬어주고 같이 바다 아주 밑바닥에 있는 자갈돌 갔은 걸로 축구하고, 야구하고, 공놀이를 돌들로 해서 물고기와 엄청나게 좋은 친구가 될 것 이다.",
+      "sentence_corr_txt_styling": "그래서 나와 물고기가 같이 모험을 떠나서 세로운 친구도 사귀고 십고 갔이 물고기를 나의 등에 태워서 놀이기구 같이 재미있게 태워주고 숨도 같이 쉬어주고 같이 바다 아주 밑바닥에 있는 자갈돌 갔은 걸로 축구하고, 야구하고, 공놀이를 돌들로 해서 물고기와 엄청나게 좋은 친구가 될 것 이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66382",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 302,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

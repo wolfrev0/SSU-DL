@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아빠는 회사에 다니시다가 이제는 조그만 사업체를 운영하고 계시고 엄마는 함께 아빠 회사다닐때에 회사에 다니시다가 아빠가 사업을 하면서부터 일을 안하시고 전업주부를 하고 계신다.#@문장구분# 나는 잘 와닿진 않지만 엄마는 늘 옛날옛적에 추억을 회상하면 몇년전만해도 아빠가 회사에 다닐때는 경제적으로 넉넉하지 않아서 나도 함께 돈을 벌었는데도 빠듯했다면서 지금은 감사한줄 알아라.. #@문장구분#고생하는 아빠에게 늘 감사해야된다라고 입버릇처럼 말씀하시곤 한다.#@문장구분# 어렸을 적이라 나는 크게 와닿진 않는다.#@문장구분#",
+      "paragraph_len": 344,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "지금 보면 우리는 크게 경제적으로는 어렵진 않은것 같다.#@문장구분# 왜냐하면 늘 성실히 열심히 아빠가 계시기 때문이다.#@문장구분# 부자는 아니지만 전보다 확실히 경제적으로 여유로워진건 사실인것 같다.#@문장구분# 지금 누리고 있는것들 몇년 안된 아파트, 그리고 내가 많은 혜택을 받고 있는 엄마 아빠차, 특별한 날에 가족끼리 먹고 싶은 것을 먹을 수 있는 그런 외식활동 등이 어느 순간 당연하지만 이것은 분명 내가 누리고 있는 것들에 대해서 늘 감사하고, 축복이라는 생각을 해야 된다는 생각을 해야된다고 생각한다.#@문장구분# 하지만 잘 되지는 않지만, 그런 아빠에게 감사하고, 부모님에게 늘 감사하는 마음으로 우리 부모님한테 잘 해야 되겠다고도 생각한다.#@문장구분# 언제 어려워질지도 모르고, 그래서 나는 아직 학생이긴 하지만, 그런 부모님에게 보답이라도 하듯 학생의 본분에 맞게 공부를 열심히 하도록 해야겠다.#@문장구분#",
+      "paragraph_len": 543,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          2.6666667,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.888889,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      27.166668,
+      28.5,
+      24.666668
+    ],
+    "essay_scoreT_avg": 26.777779,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.24",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_76150",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 689,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

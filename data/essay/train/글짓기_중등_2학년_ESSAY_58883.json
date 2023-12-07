@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 친구들의 옷을 골라주고, 화장을 해주는 일을 굉장히 좋아한다.#@문장구분# 내가 골라준 옷을 입고, 화장을 했을 때 사람들이 잘어울린다고 해주면 그것만큼 행복한 일이 없기 때문이다. #@문장구분#그래서 나는 내가 좋아하는 일을 마음껏 할 수 있는 스타일리스트가 되고싶다. #@문장구분#내가 고른 옷과 신발을 입고 활동하는 사람을 보면 뿌듯할 것 같고, 보람있을 것 같기 때문이다. #@문장구분#사실 스타일리스트라는 직업을 선택하는 것이 조금 겁나기도 한다. #@문장구분#왜냐하면, 내가 좋아하는 일이 직업이 되면 그 일을 더이상 좋아하지 못하게된다는 말이 있듯이, 나도 내가 좋아하는 옷이 싫어질까봐 두렵다.#@문장구분# 스타일리스트는 출퇴근도 불규칙하고 매우 바쁜직업이기 때문이다. #@문장구분#하지만, 그래도 내가 좋아하는 일인만큼 마음껏 좋아해보고 싶다는 생각이 더 큰 것 같다. #@문장구분#옷이 날개라는 말이 있다. #@문장구분#나는 사람들이 더 열심히 일할 수 있도록 사람들에게 날개를 달아주는 일을 하고싶다. #@문장구분#지금처럼 옷을 좋아하고, 옷에 대한 공부도 열심히 하며 노력해서 10년 후에는 연예인들의 멋있는 옷을 코디하는 스타일리스트가 될거다.",
+      "paragraph_len": 730,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.888889,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      28.5,
+      28.666668
+    ],
+    "essay_scoreT_avg": 28.555557,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_58883",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 531,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

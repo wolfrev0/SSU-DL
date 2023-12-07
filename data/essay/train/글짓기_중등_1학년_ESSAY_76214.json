@@ -1,0 +1,268 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래에 아마 휴대폰이 우리 몸속에 일체되어 있을 것이라고 생각합니다.#@문장구분# 손목에서 터치를 하면 휴대폰 화면이 공중에 띄어지고 우리는 그 화면을 터치하며 일반 휴대폰을 사용하는 것 처럼 사용하는 것입니다.#@문장구분# 휴대폰을 들고다니지 않아도 간편하게 쓸 수 있고 잃어버릴 위험도 없어집니다.#@문장구분# 유심 칩을 우리 피부 속에 삽입하며 우리 몸과 합체된 최신현 휴대폰을 만드는 것입니다.#@문장구분# 최신 기술이 나올 때 마다 유심칩을 원격으로 조종하여 기능을 업데이트하고 그 기능을 쓰는 사람들은 더 많아질 것입니다.#@문장구분# 그리고 전자파 걱정은 안 해도 됩니다.#@문장구분# 그때 쯤이면 전자파를 조절할 수 있는 기능도 나올 것이라고 저는 생각합니다.#@문장구분# 그래서 저는 휴대폰을 들고다니지 않고 몸에 함께 일체되어 있는 미래도시를 꿈꾸고 있습니다.#@문장구분# 어서 빨리 최첨단 기술을 사용해보고 싶습니다.#@문장구분#",
+      "paragraph_len": 595,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.65,
+      25.6,
+      18
+    ],
+    "essay_scoreT_avg": 22.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 미래에 아마 휴대폰이 우리 몸속에 일체 되어 있을 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 미래에 아마 휴대폰이 우리 몸속에 <문법_맞춤법>일체되어 </문법_맞춤법>있을 것이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 손목에서 터치를 하면 휴대폰 화면이 공중에 띄어지고 우리는 그 화면을 터치하며 일반 휴대폰을 사용하는 것처럼 사용하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 손목에서 터치를 하면 휴대폰 화면이 공중에 띄어지고 우리는 그 화면을 터치하며 일반 휴대폰을 사용하는 <문법_맞춤법>것 </문법_맞춤법>처럼 사용하는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 휴대폰을 들고 다니지 않아도 간편하게 쓸 수 있고 잃어버릴 위험도 없어집니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 휴대폰을 <문법_맞춤법>들고다니지 </문법_맞춤법>않아도 간편하게 쓸 수 있고 잃어버릴 위험도 없어집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유심 칩을 우리 피부 속에 삽입하며 우리 몸과 합체된 최신형 휴대폰을 만드는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유심 칩을 우리 피부 속에 삽입하며 우리 몸과 합체된 <문법_맞춤법>최신현 </문법_맞춤법>휴대폰을 만드는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때쯤이면 전자파를 조절할 수 있는 기능도 나올 것이라고 저는 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그때 </문법_맞춤법>쯤이면 전자파를 조절할 수 있는 기능도 나올 것이라고 저는 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 휴대폰을 들고 다니지 않고 몸에 함께 일체 되어 있는 미래도시를 꿈꾸고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 휴대폰을 <문법_맞춤법>들고다니지 </문법_맞춤법>않고 몸에 함께 일체되어 있는 미래도시를 꿈꾸고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어서 빨리 최첨단 기술을 사용해 보고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어서 빨리 최첨단 기술을 <문법_맞춤법>사용해보고 </문법_맞춤법>싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_76214",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 416,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

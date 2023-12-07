@@ -1,0 +1,321 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제: 바다 생물 이야기 짓기#@문장구분#\n 제시문: 나는 복어가 되고싶다. 왜냐 귀여워서이다. #@문장구분#아주 먼 옛날 지나라는 아이가 살았어요. #@문장구분#지나는 아주귀여운 복어를 키우고 살았어요#@문장구분# 그런데 지나는 복어를 보며 말했어요.#@문장구분# \"너는 그 삶이 행복하니?\" #@문장구분#지나도 학교가고 학원가는게 힘들었거든요.#@문장구분# 지나는 그날 밤 하늘에 복어가 되게 해달라고 비렀어요. #@문장구분# 하느님 제발 제가 복어가 되게 해주세요. #@문장구분#그러곤 잠이 들었지요. #@문장구분#그리고 다음날 아침 지나는 눈을 떠 보니 진짜로 복어가 되어 있었어요!#@문장구분# 헉! 진짜 내가 복어가 되 다니!#@문장구분# 그럼 내가 키우던 복어는?.... #@문장구분#헉! 지나는 놀랐어요.#@문장구분# 왜냐면 복어랑 몸이 바꼈기 때문이에요! #@문장구분#후훗 역시 하늘은 날 배신 하지 않아! #@문장구분#지나는 자유를 가진다고 생각 해서 기분이 좋았어요! #@문장구분#그리고 몇시간 후 지나는 엄청 심심해 했어요. #@문장구분#하.. 우리복어는 정말 좋아했던것 같은데 복어라고 꼭 좋은건 아니네.. 이건 자유가 아니라 감옥 갔잖아! #@문장구분#우리 복어는 행복하게 살줄 알았는데... 잘못된 선택이었어! 나다시 돌아갈래!!#@문장구분# 지나는 엄청 후회했어요. #@문장구분#그리고 또 잠이 들었어요.#@문장구분# 그리고 다음날 엄마가 날 깨우는 소리가 들렸어요.#@문장구분# 어? 어! 우와아 돌아왔다!! 지나는 원래대로 돌아왔어요.#@문장구분# 정말 다행이에요!#@문장구분#",
+      "paragraph_len": 1114,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      23.7,
+      16.55
+    ],
+    "essay_scoreT_avg": 20.966665,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 제시문: 나는 복어가 되고싶다. 왜냐면 귀여워서이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "\n 제시문: 나는 복어가 되고싶다. <문법_어미>왜냐</문법_어미> 귀여워서이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지나는 아주 귀여운 복어를 키우고 살았어요",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지나는 <문법_맞춤법>아주귀여운</문법_맞춤법> 복어를 키우고 살았어요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지나도 학교가고 학원가는 게 힘들었거든요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지나도 학교가고 <문법_맞춤법>학원가는게</문법_맞춤법> 힘들었거든요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '하느님 제발 제가 복어가 되게 해주세요.' ",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>하느님 제발 제가 복어가 되게 해주세요.</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 헉! 진짜 내가 복어가 되다니!",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 헉! 진짜 내가 복어가 <문법_맞춤법>되 다니</문법_맞춤법>!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"후훗 역시 하늘은 날 배신하지 않아!\" ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호",
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>후훗 역시 하늘은 날 배신 하지 않아!</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지나는 자유를 가진다고 생각하니 기분이 좋았어요! ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 어미",
+        "띄어쓰기, 어미"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "지나는 자유를 가진다고 <문법_맞춤법><문법_어미>생각 해서</문법_어미></문법_맞춤법> 기분이 좋았어요! ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"하... 우리 복어는 정말 좋아했던 것 같은데 복어라고 꼭 좋은건 아니네... 이건 자유가 아니라 감옥 같잖아!\" ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호, 맞춤법",
+        "띄어쓰기, 문장부호, 맞춤법"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>하.. 우리복어는 정말 좋아했던것 같은데 복어라고 꼭 좋은건 아니네.. 이건 자유가 아니라 감옥 갔잖아!</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"우리 복어는 행복하게 살 줄 알았는데... 잘못된 선택이었어! 나 다시 돌아갈래!\"",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호",
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>우리 복어는 행복하게 살줄 알았는데... 잘못된 선택이었어! 나다시 돌아갈래!!</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '어? 어! 우와아 돌아왔다!' 지나는 원래대로 돌아왔어요.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>어? 어! 우와아 돌아왔다!!</문법_기타> 지나는 원래대로 돌아왔어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38350",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 614,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

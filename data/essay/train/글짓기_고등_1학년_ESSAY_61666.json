@@ -1,0 +1,214 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저에게는 5살 차이가 나는 친형이 있습니다.#@문장구분# 나이 차이가 많이 나는 편이라 어릴 때 형이 하는 모든게 멋있고, 따라하고 싶어 했습니다.#@문장구분# 그래서 어릴 때부터 형의 옷 스타일이며 말투, 악세서리 등 똑같이 입고 싶어했고, 돈이 없었던 저는 맨날 형의 옷, 악세서리 등을 같이 입었습니다.#@문장구분# 형이 그런데 욕심이 없어서 매일 같이 입게 해주었지만 저는 털털해 옷을 험하게 입는 편입니다.#@문장구분#형의 옷을 빌려 입고 옷을 매일 망가트려서 집에 왔습니다. #@문장구분#형도 털털한 저를 알기에 조금 투덜거리고 모두 이해해주었습니다.#@문장구분# ",
+      "paragraph_len": 400,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 저는 그걸 당연하게 생각하고 점점 클수록 형이 투덜거리면 내가 털털한걸 어떻게?#@문장구분# 나도 몰랐어 라는 말로 어물쩡 넘어갔습니다. #@문장구분#그러다 형이 아끼던 옷을 빌려 입고 나갔는데 옷을 망가트려 그 옷을 입지 못하게 되었습니다.#@문장구분# 저는 망가트리고도 이번에도 그냥 넘어가주겠지? 라는 생각으로 집에 돌아갔습니다.#@문장구분#",
+      "paragraph_len": 247,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 옷을 본 형은 화가 많이 났고, 그 뒤로 저에게 말도 안 걸고, 대답도 해주지 않고 저를 모르는 사람인 것처럼 대했습니다. #@문장구분#형과의 냉전은 2년 정도 지속 되었습니다.#@문장구분# 매일 형 옷을 입어 옷을 사지 않았던 제가 옷을 사고 그걸 관리하다 보니 내가 열심히 골라서 산 옷이 망가졌을 때의 심정을 알게 되었고 형에게 너무 미안함을 느꼈습니다.#@문장구분# 저는 형이 항상 이해를 해줘서 매번 괜찮을거라 생각했지만 그렇지 않았습니다.#@문장구분# 제일 친하고 편했던 형이 2년 동안 없듯이 생활하니 너무 힘든 시간이었습니다.#@문장구분# 후에 형에게 진심으로 사과했고, 형도 그 사과를 받아주었습니다.#@문장구분# 그 일로 저는 형의 물건을 소중하게 다뤘고, 형도 저의 바뀐 점을 보며 점점 관계가 예전으로 돌아갔습니다.#@문장구분# 항상 곁에 있었던 형이기에 언제고 내 옆에 있어줄거라 생각했던 형이 한순간에 멀어질 수 있다는 걸 알고나니 형이 더욱 소중하게 느껴졌습니다.#@문장구분#",
+      "paragraph_len": 610,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.1666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.1666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.1666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28,
+      24.666668
+    ],
+    "essay_scoreT_avg": 27.555557,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_61666",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 903,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

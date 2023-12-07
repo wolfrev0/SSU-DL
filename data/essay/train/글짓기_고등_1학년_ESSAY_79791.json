@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 부모님의 익숙함에 속아서 부모님께 버릇이 없게 행동하며 소중함을 잊었었다,#@문장구분# 항상 엄마와 아빠는 내가 하고 싶은 것을 거의 다 하게 해주시고 나에게 많은 것을 경험할 수 있도록 도와주신다.#@문장구분# 항상 내가 하고 싶다고 하는 것을 다 해주셔서 그런지 나는 조그마한 것 한 개만 못하게 해도 굉장히 기분이 상해하고 계속 엄마와 아빠에게 말을 안 하는 등의 행동을 했다.#@문장구분# 그래서 엄마와 아빠가 나를 불러서 엄마와 아빠가 나에게 거의 다 해주게 하고 대부분의 아이들이 많이 하지 못하는 것도 많이 경험하게 해주었는데, 너무 사소한 것에도 짜증을 내고 해줄 때까지 엄마와 아빠에게 말을 안 거는 행동은 정말 좋지 못한 것이라고 하셨다.#@문장구분# 나는 큰일들은 해주면서 왜 사소한 일을 못해주나 라는 생각을 했는데, 엄마와 아빠의 말을 들어보니 나는 다른 아이들이 많이 경험할 수 없는 소중한 경험들을 많이 했고 너무 엄마와 아빠에게 버릇없게 굴었다는 생각이 들었다.#@문장구분# 그래서 나도 그때부터 부모님이 안 된다고 말씀하시는 것은 왜 안 된다고 했는지 이해를 하려고 노력하고 부모님과의 관계를 다시 더 돈독하게 만들 수 있었던 기회가 된 것 같아서 좋았다.#@문장구분# 나만을 생각하는 이기적인 사람이 되지 않고 이해할 수 있는 인내심을 키우는 것이 세상을 살아가면서 중요한 것임을 알 수 있었다.#@문장구분# 그렇게 얻은 깨달음으로 소중함을 신경쓰면서 살아가려고 한다.#@문장구분#",
+      "paragraph_len": 842,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      28.5,
+      26.5
+    ],
+    "essay_scoreT_avg": 27.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.24",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "054",
+    "student_grade_group": "고등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_79791",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 682,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

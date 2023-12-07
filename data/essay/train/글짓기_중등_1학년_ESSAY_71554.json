@@ -1,0 +1,266 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시가 있을것이라고 생각하시나요?#@문장구분# 지구온난화로 인해 해수면이 상승하고 더이상 섬이 아닌 대륙이 잠기기 시작하였고 지구에서 지구촌 인구 전체를 수용할 공간이 부족해지자 사람들은 결국 지구를 떠나는 선택을 하게 될것입니다.#@문장구분# 그럼 이제 앞의 말을 다시 바꿔말해보겠습니다.#@문장구분# 지구에 미래도시가 있을 것이라고 생각하시나요?#@문장구분# 제 생각에 이 질문에 대한 대답은 아니요입니다.#@문장구분# 아마 지구에 미래도시는 생길 수 없을 것입니다.#@문장구분# 우주로 떠날 돈이 부족한 사람들만 남아있는 폐허이겠죠.#@문장구분# 어느정도 돈 있는 사람은 미래도시를 찾아 떠난지 이미 오래입니다.#@문장구분# 아직 만들어지지 않았을지도 모르고 존재하는지도 모르지만 우선 여기선 더이상 살 수 없다며 떠났습니다.#@문장구분# 그렇다면 다시 앞선 질문을 바꿔서, 우주에는 미래도시가 있을것이라고 생각하시나요?#@문장구분# 어쩌면 우리는 표류해야하는 삶을 살아야할지도 모릅니다.#@문장구분#",
+      "paragraph_len": 652,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.6,
+      20.5,
+      14.5
+    ],
+    "essay_scoreT_avg": 20.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          1,
+          1,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래도시가 있을 것이라고 생각하시나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미래도시가 <문법_맞춤법>있을것이라고 </문법_맞춤법>생각하시나요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지구온난화로 인해 해수면이 상승하고 더 이상 섬이 아닌 대륙이 잠기기 시작하였고 지구에서 지구촌 인구 전체를 수용할 공간이 부족해지자 사람들은 결국 지구를 떠나는 선택을 하게 될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지구온난화로 인해 해수면이 상승하고 <문법_맞춤법>더이상 </문법_맞춤법>섬이 아닌 대륙이 잠기기 시작하였고 지구에서 지구촌 인구 전체를 수용할 공간이 부족해지자 사람들은 결국 지구를 떠나는 선택을 하게 될것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 이제 앞의 말을 다시 바꿔 말해보겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 이제 앞의 말을 다시 <문법_맞춤법>바꿔말해보겠습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 정도 돈 있는 사람은 미래도시를 찾아 떠난 지 이미 오래입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느정도 </문법_맞춤법>돈 있는 사람은 미래도시를 찾아 떠난지 이미 오래입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아직 만들어지지 않았을지도 모르고 존재하는지도 모르지만 우선 여기선 더 이상 살 수 없다며 떠났습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아직 만들어지지 않았을지도 모르고 존재하는지도 모르지만 우선 여기선 <문법_맞춤법>더이상 </문법_맞춤법>살 수 없다며 떠났습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇다면 다시 앞선 질문을 바꿔서, 우주에는 미래도시가 있을 것이라고 생각하시나요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇다면 다시 앞선 질문을 바꿔서, 우주에는 미래도시가 <문법_맞춤법>있을것이라고 </문법_맞춤법>생각하시나요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어쩌면 우리는 표류해야 하는 삶을 살아야 할지도 모릅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어쩌면 우리는 <문법_맞춤법>표류해야하는 </문법_맞춤법>삶을 살아야할지도 모릅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71554",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 433,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

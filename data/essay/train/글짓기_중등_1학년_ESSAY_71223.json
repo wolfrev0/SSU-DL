@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 가족들과 해외 여행을 가는 걸 정말 좋아한다.#@문장구분# 지금까지 일본, 중국, 대만은 물론이고 미국, 호주까지 가 보았다.#@문장구분# 코로나 바이러스 때문에 초등학생 때 이후로는 해외 여행을 가지 못했지만, 이제 위드 코로나가 진행되고 있고, 세계적으로도 이제 점차 해외 여행을 할 수 있게 되는 추세이다.#@문장구분# 해외 여행을 하다보면 느끼는 것이, 입국 심사는 굉장히 까다롭다는 것이다.#@문장구분# 입국심사를 하려면 최소 30분에서 1시간 기다려야 한다.#@문장구분# 만약, 기술이 발전해서 우리 몸에 주민등록증과 같이, 1인 증명서 칩을 심을 수 있다면 해외 여행할 때 뿐만 아니라도 본인을 증명해야하는 일이 있는 경우에 칩을 인식하는 기계에 칩을 대면 나의 기본 정보가 찍힐 수 있게 한다면 엄청 편리할 거 같다.#@문장구분# 나는 이런 미래 도시에 <나를 증명할 수 있는 도시>라고 이름 짓고 싶다.#@문장구분#",
+      "paragraph_len": 565,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      20.5,
+      18.95
+    ],
+    "essay_scoreT_avg": 21.983332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 가족들과 해외여행을 가는 걸 정말 좋아한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "감정",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 가족들과 <문법_맞춤법>해외 </문법_맞춤법>여행을 가는 걸 정말 좋아한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 코로나 바이러스 때문에 초등학생 때 이후로는 해외여행을 가지 못했지만, 이제 위드 코로나가 진행되고 있고, 세계적으로도 이제 점차 해외여행을 할 수 있게 되는 추세이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 코로나 바이러스 때문에 초등학생 때 이후로는 <문법_맞춤법>해외 </문법_맞춤법>여행을 가지 못했지만, 이제 위드 코로나가 진행되고 있고, 세계적으로도 이제 점차 <문법_맞춤법>해외 </문법_맞춤법>여행을 할 수 있게 되는 추세이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해외여행을 하다 보면 느끼는 것이, 입국 심사는 굉장히 까다롭다는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 해<문법_맞춤법>외 여행을 하다보면</문법_맞춤법> 느끼는 것이, 입국 심사는 굉장히 까다롭다는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약, 기술이 발전해서 우리 몸에 주민등록증과 같이, 1인 증명서 칩을 심을 수 있다면 해외여행할 때 뿐만 아니라도 본인을 증명해야 하는 일이 있는 경우에 칩을 인식하는 기계에 칩을 대면 나의 기본 정보가 찍힐 수 있게 한다면 엄청 편리할 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약, 기술이 발전해서 우리 몸에 주민등록증과 같이, 1인 증명서 칩을 심을 수 있다면 <문법_맞춤법>해외 </문법_맞춤법>여행할 때 뿐만 아니라도 본인을 증명해야하는 일이 있는 경우에 칩을 인식하는 기계에 칩을 대면 나의 기본 정보가 찍힐 수 있게 한다면 엄청 편리할 거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71223",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 419,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에 저는 현대사회를 이끌어나가는 ceo가 되어있을것이라고 생각합니다.#@문장구분# 어릴때부터 사람들 앞에 나가서 말하는것을 좋아하고 여러 사람들의 의견을 모아 더 나은 해결책을 만들어나가는것에 흥미를 느끼면서 살아왔기 때문입니다.#@문장구분# 그리고 저는 다른 사람들보다 더 빨리 무언가에 대한 해결책을 찾고 잘못된 점들을 찾아내는데 뛰어남이 있는것 같기때문이기도 합니다.#@문장구분# 그 뿐만 아니라 사람들의 기분이나 특성등을 파악해서 그 사람에게 도움이 될것 같은 해결책을 제시해주기도 합니다.#@문장구분# 그렇기때문에 저는 같이 일할 사람들의 각각의 특징들을 파악해서 일의 효율을 높일수 있을것입니다.#@문장구분# 그렇게 되년 같은 사업을 하는 다른 기업이나 스타트업들보다 더 적은 비용으로 더 뛰어난 효과를 만들어낼수 있을것이라고 생각합니다.#@문장구분# 그리고 저 또한 멈추지 않고 계속해서 더 나은 회사를 만들기 위해 노력할것이기 때문에 분명하 멋진 기업을 이루고 운영하고 있을것이라는 확신이 듭니다.#@문장구분# 저는 저렇게 제가 잘하고 좋아하는 일을 하고 있을 제 미래를 상상하면 정말 행복해지는것 같습니다.",
+      "paragraph_len": 665,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.166666,
+      28.666666,
+      24.666668
+    ],
+    "essay_scoreT_avg": 25.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74826",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 526,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

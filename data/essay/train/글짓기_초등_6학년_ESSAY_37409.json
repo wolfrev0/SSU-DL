@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "생산자, 생태계의 근본. 지구상에 수없이 많은 플랑크톤 중 하나가 되었다.#@문장구분# 딱 7일만 이 작은 미생물로 살 수 있다.#@문장구분# 나는 지금 앞으로든 뒤로든 갈 수 없다.#@문장구분#파도에 물의 흐름에 몸을 맡긴채로 이곳에 존재할 뿐이다. #@문장구분#그리고 고래를 만났다.#@문장구분# 본증적인 위압감과 두려움에 나도 모르게 \"살려줘!\"라고 말했다.#@문장구분# \"배고프지 않아\" 고래였다.#@문장구분# 안도감이 들어서인지 \"어디가니?\"라고 물었다.#@문장구분# \"이 바다는 너무 좁아. 나는 더더 멀리 갈 거야. 나를 반겨줄 푸른 바다를 넓은 곳을 찾을 거야.\"#@문장구분#\n \"그래, 고래가 없으면 푸른 바다가 아니지. 바다는 너를 기다리고 있을거야.\" 파도가 쳤다.#@문장구분#기분이 이상했다.#@문장구분#나에게 바다는 너무나 커서 내가 어디에 있는지 모를 정도인데, 고래에게는 큰 고래에게는 이 바다가 좁다니.#@문장구분# 문득 '어쩌면 나는 지금쯤 대서양에 있는걸까?'하는 생각도 들었다. #@문장구분#솔직히 작은 미생물이 되고 잡아먹히지 않은 것 또한 놀랍다.#@문장구분# 작은 존재, 플랑크톤이 되니 느낄 수 있다.#@문장구분#세상은 너무나 크다.#@문장구분#세상의 세포 하나에 불과할 뿐이다. #@문장구분#살아있다는 그 하나의 사실이 기적인 것. #@문장구분#행복이란 감정은 소유에 비례하지 않다는 것을 깨달았다.#@문장구분#그렇게 나는 7일동안 바다에 몸을 맡긴채 물에게 의지하며 살았다.#@문장구분#\"첨벙\"\n 플랑크통느 너무나 작아서 눈으로 보기조차 쉽지않다. #@문장구분#그렇기 때문에 바다에 몸을 맡긴 채 살아가야만 한다.#@문장구분# 너무나 풍요로워진 나머지 자신에게 너무 심취하지 않았는디, 삶에서 감사와행복을 잃지는 않았는지, 작은 존재가 된다면 그런 것들을 잘 느낄 수 있지 않을까?#@문장구분#",
+      "paragraph_len": 1216,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.75,
+      24.5
+    ],
+    "essay_scoreT_avg": 27.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.12",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "파도에 물의 흐름에 몸을 맡긴 채로 이곳에 존재할 뿐이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "파도에 물의 흐름에 몸을 <문법_맞춤법>맡긴채로</문법_맞춤법> 이곳에 존재할 뿐이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 본능적인 위압감과 두려움에 나도 모르게 \"살려줘!\"라고 말했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>본증적인</문법_맞춤법> 위압감과 두려움에 나도 모르게 \"살려줘!\"라고 말했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"배고프지 않아.\" 고래였다.",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " \"배고프지 <문법_기타>않아</문법_기타>\" 고래였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 안도감이 들어서인지 \"어디 가니?\"라고 물었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 안도감이 들어서인지 \"<문법_맞춤법>어디가니?</문법_맞춤법>\"라고 물었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n \"그래, 고래가 없으면 푸른 바다가 아니지. 바다는 너를 기다리고 있을 거야.\" 파도가 쳤다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n \"그래, 고래가 없으면 푸른 바다가 아니지. 바다는 너를 기다리고 <문법_맞춤법>있을거야.</문법_맞춤법>\" 파도가 쳤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇게 나는 7일 동안 바다에 몸을 맡긴채 물에게 의지하며 살았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇게 나는 <문법_맞춤법>7일동안</문법_맞춤법> 바다에 몸을 맡긴채 물에게 의지하며 살았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"첨벙.\"\n 플랑크톤은 너무나 작아서 눈으로 보기조차 쉽지 않다. ",
+      "sentence_corr_reason": [
+        "문장 부호",
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "\"<문법_기타>첨벙</문법_기타>\"\n <문법_맞춤법>플랑크통느</문법_맞춤법> 너무나 작아서 눈으로 보기조차 쉽지않다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 너무나 풍요로워진 나머지 자신에게 너무 심취하지 않았는지, 삶에서 감사와 행복을 잃지는 않았는지, 작은 존재가 된다면 그런 것들을 잘 느낄 수 있지 않을까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 너무나 풍요로워진 나머지 자신에게 너무 심취하지 <문법_맞춤법>않았는디, 삶에서 감사와행복을</문법_맞춤법> 잃지는 않았는지, 작은 존재가 된다면 그런 것들을 잘 느낄 수 있지 않을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37409",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 762,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

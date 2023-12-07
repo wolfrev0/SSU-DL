@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시는 어떤 모습일까?#@문장구분#",
+      "paragraph_len": 35,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 요즘 사회는 급속히 발전되고 있습니다.#@문장구분# 예전에는 존재하지 않았던 로봇이 현재에는 로봇이 존재합니다.#@문장구분# 이것처럼 미래에도 우리가 생각하지 못한 발명이 이어질 것 입니다.#@문장구분# 미래 도시의 모습은 요즘 심해지는 환경오염으로 지구온난화가 지속되어서 도시가 엉망이 될수 도 있습니다.#@문장구분# 그러나 지금부터라도 환경을 깨끗하게 만든다면 미래 도시의 모습은 엄청 신기하고 예전과 다른 모습일지도 모릅니다.#@문장구분# 미래에는 지금보다 훨씬 다양한 모습의 건물들이 생겨날 것입니다.#@문장구분# 에를 들면 꼬인 모양의 건물, 분리되는 건물둘 같은 것 말입니다.#@문장구분# SF영화속에 나타난 미래 도시가 우리가 미래에 살 도시가 될 수 도 있습니다.#@문장구분# A.I와 인간이 한 사회의 구성원이 될 가능성, 빅데이터가 적용되어 가로등은 자외선 센서로 시간마다 켤 수 있게할 가능성등 많은 가능성들이 존재합니다.#@문장구분# 기술의 발전으로 로봇이 인간 대신 자동차를 운전해주거나 공중을 떠다니는 자동차 같이 꿈에서 그리고 상상속에서 보았던 것들이 실제로 생겨난다면 되게 편리해서 사람들이 자주 이용할 것입니다.#@문장구분# 저는 미래 도시의 모습이 신박하고 지금과는 많이 다른 모습일 것이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 787,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27.15,
+      23.3
+    ],
+    "essay_scoreT_avg": 26.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "055",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65723",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 584,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

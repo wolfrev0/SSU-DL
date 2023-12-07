@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 고래로 변신하고싶다.#@문장구분# 왜냐하면 다른 생물들에게 먹히지 않고 조금 잔잔하게 살아갈 수 있을 것 같기때문이다. #@문장구분#그리고 내가 고래가 된다면 바다에서 물깊속까지가서 헤엄치면서 바다깊속에 무엇들이 있는지 어떤 물고기등 바다생물이 돌아다니는지 구경하고 다니고싶다.#@문장구분# 그리고 물속의 바다생물들 하고도 같이 다니며 다른바다생물들은 무엇을 바닷속에서하는지 무엇을 먹고사는지 사람들이 모르는 무엇이 있는지 알아내고싶다.#@문장구분# 그 중에서 가장 알아보고 싶은 것은 물고기들은 물속안에서 무엇을 먹고사는지 고래들도 무엇을 먹고사는지가 궁금하다. #@문장구분#고래가 물고기를 먹는 것은 알고있지만 그 외의 다른 먹이들도 있는지가 궁금하다. #@문장구분#그리고 물고기들은 바닷속에 있는 지렁이를 먹을까#@문장구분# 아니면 물고기도 물고기를 먹을까가 은근 정말 궁금하다.",
+      "paragraph_len": 533,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20.25,
+      21.75
+    ],
+    "essay_scoreT_avg": 24,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 고래로 변신하고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 고래로 <문법_맞춤법>변신하고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 다른 생물들에게 먹히지 않고 조금 잔잔하게 살아갈 수 있을 것 같기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 다른 생물들에게 먹히지 않고 조금 잔잔하게 살아갈 수 있을 것 <문법_맞춤법>같기때문이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 내가 고래가 된다면 바다에서 물 깊은 속까지 가서  헤엄치면서 바닷속에 무엇들이 있는지 어떤 물고기 등 바다생물이 돌아다니는지 구경하고 다니고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 내가 고래가 된다면 바다에서 <문법_맞춤법>물깊속까지가서</문법_맞춤법> 헤엄치면서 바다깊속에 무엇들이 있는지 어떤 물고기등 바다생물이 돌아다니는지 구경하고 다니고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 물속의 바다생물들 하고도 같이 다니며  다른 바다생물들은무엇을 바닷속에서 하는지 무엇을 먹고 사는지 사람들이 모르는 무엇이 있는지 알아내고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 물속의 바다생물들 하고도 같이 다니며 <문법_맞춤법>다른바다생물들은 </문법_맞춤법>무엇을 바닷속에서하는지 무엇을 먹고사는지 사람들이 모르는 무엇이 있는지 알아내고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중에서 가장 알아보고 싶은 것은 물고기들은 물속 안에서 무엇을 먹고사는지 고래들도 무엇을 먹고 사는지가가 궁금하다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그 중에서</문법_맞춤법> 가장 알아보고 싶은 것은 물고기들은 물속안에서 무엇을 먹고사는지 고래들도 무엇을 먹고사는지가 궁금하다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "고래가 물고기를 먹는 것은 알고 있지만 그 외의 다른 먹이들도 있는지가 궁금하다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "고래가 물고기를 먹는 것은 <문법_맞춤법>알고있지만</문법_맞춤법> 그 외의 다른 먹이들도 있는지가 궁금하다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 물고기들은 바닷속에 있는 지렁이를 먹을까?",
+      "sentence_corr_reason": [
+        "물음표"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그리고 물고기들은 바닷속에 있는 지렁이를 <문법_기타>먹을까</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 아니면 물고기도 물고기를 먹을까가 은근 정말 궁금하다.",
+      "sentence_corr_txt_styling": " 아니면 물고기도 물고기를 먹을까가 은근 정말 궁금하다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52749",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 393,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

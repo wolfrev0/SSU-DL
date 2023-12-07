@@ -1,0 +1,247 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시는 기후변황[ 의해 건축물이 물 위에 떠 있을 것이다.#@문장구분# 나와 같은 생각을 한 사람이 있었다.#@문장구분# 그 이름은 건축가 쿤 알트 하이스 이다. #@문장구분#그는 세계적인 수상 구조물 전문가다.#@문장구분# ",
+      "paragraph_len": 181,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 알버그의 수삼 스택을 디자인 하기도 한 그는 수상 건축물에 주력하며 물 위에 띄울 수 있는 혁신적인 건물들을 디자인 해왔다.#@문장구분# 도시는 늘 같은 문제점을 가지고 있다.#@문장구분# 혼잡,도시화,해수면 상승 등 그래서 그런 문제들에 대해 대응해야한다.#@문장구분# 단순히 고층빌딩이 해결책이 될 수 없다.#@문장구분# 새로운 공간을 찾아야 하는데 그 새로운 공간이 물 위다.#@문장구분# ",
+      "paragraph_len": 287,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 왜 물 위에다 도시를 세워야 하는지 그것은 대도시 지역의 친환경적인 해법이다.#@문장구분# 그리고 육지 위에 짓는 것 보다 지속가능성과 경제성이 있기 때문이다. #@문장구분#물 위에 떠다닐 수 있도록 제작 한다면 올림픽 같은 경우 다음 개최할 장소를 굳이 안 짓고 이동만 시키면 되기 때문이다.#@문장구분# ",
+      "paragraph_len": 212,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 이 도시가 전 세계에 퍼지면 나중에 일어날 미래를 대비 할 수 있지 않을까라고 생각한다.#@문장구분#",
+      "paragraph_len": 70,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.5,
+      27.9
+    ],
+    "essay_scoreT_avg": 28.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "055",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65731",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 496,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

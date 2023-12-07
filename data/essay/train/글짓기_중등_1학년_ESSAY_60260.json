@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "잠에서 깨어나 창밖을 보니 청소하는 새가 창문을 닦고 있다.#@문장구분# 내 책상 옆에 있는 사의 스케줄 로봇이 지금은 아침식사 시간이라면서 알약하나는 내 입속에 준다.#@문장구분# 조금 후 내 뱃속에서 커다란 용암이 폭발하듯이 배가 불러온다.#@문장구분# 이런 상황이 우리의 미래가 아닐까 싶다.#@문장구분# 맛있는 음식을 먹을 수 없는 것이 속상하긴 하지만 그래도 내가 먹는 알약에 먹고 싶은 음식의 맛을 느낄 수 있다면 나름대로 괜찮을 것 같다.#@문장구분# 또 교통사고도 줄어들 것 같다.#@문장구분# 도로를 하늘로 만들고 땅으로 만들고 땅속에도 있어서 언제든 막히지 않고 어디든 갈 수 있기 때문이다.#@문장구분# 옷을 사러 가면 점원도 로봇이다.#@문장구분# 아파서 병원을 가면 의사도 로봇이다.#@문장구분# 학교도 가지 않고 인터넷으로 수업을 듣는다.#@문장구분# 집에서도 엄마가 하던 일을 모두 로봇이 한다.#@문장구분# 그러면 나는 가끔 생각한다.#@문장구분# 과연 나는 무엇을 하며 어떤 어른이 되어야 할까?#@문장구분# 편리함뒤에 인간이 사라지면 어떻게 될까?#@문장구분#\n 나는 이렇게 내가 상상하는 미래 세계가 가끔은 상상되고 기대되기도 하지만 가끔은 내가 없어져버릴까봐 무섭기도 하다.#@문장구분# 과연 진짜 미래는 어떨까?#@문장구분#나는 어떤 직업을 얻고 살아야 할까?#@문장구분#인간의 직업이 로봇한테 다 빼앗길 수도 있을까?#@문장구분#그럼 인간은 무엇을 먹고 살아가야할까?#@문장구분#",
+      "paragraph_len": 985,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.95,
+      22.4,
+      22.8
+    ],
+    "essay_scoreT_avg": 23.049997,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 내 책상 옆에 있는 사의 스케줄 로봇이 지금은 아침식사 시간이라면서 알약 하나는 내 입속에 준다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내 책상 옆에 있는 사의 스케줄 로봇이 지금은 아침식사 시간이라면서 <문법_맞춤법>알약하나는</문법_맞춤법> 내 입속에 준다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 편리함 뒤에 인간이 사라지면 어떻게 될까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>편리함뒤에</문법_맞춤법> 인간이 사라지면 어떻게 될까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럼 인간은 무엇을 먹고 살아가야 할까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그럼 인간은 무엇을 먹고 <문법_맞춤법>살아가야할까?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60260",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 606,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

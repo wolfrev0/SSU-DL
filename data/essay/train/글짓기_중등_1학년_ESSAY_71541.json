@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에 우리는 요리도 청소도 심지어는 씻는것도 하지 않게 될 수도 있다고 생각을 한다.#@문장구분# 내가 어릴때만 하더라도 로봇 청소기가 스스로 청소를 하는 것이 아니라 부모님이 빗자루나 청소기를 사용해서 쓸고 닦았어야 했다.#@문장구분# 그리고 설거지도 마찬가지로 지금처럼 식기세척기가 해주는 것이 아니라 직접 다 했어야 했다.#@문장구분# 더 과거에는 빨래도 손으로 다 했어야 했지만 세탁기가 나타나면서 손빨래를 하는 경우도 현저히 줄어들었다.#@문장구분# 이런 모습을 보고 나는 미래에 요리를 해주는 기계도 나오지 않을까라고 생각을 해보았다.#@문장구분# 요즘에는 피자를 만드는 기계도 있다고 하는데 기술이 조금만 더 발전한다면 정말 내가 요리를 하지도 않고 음식을 먹을 수 있을 것 같다고 생각한다.#@문장구분# 그리고 항상 씻기 귀찮을 때마다 누가 나좀 씻겨줬으면 좋겠다고 생각을 했는데 미래에는 정말 씻는것도 로봇이 다 해주는 시대가 오지 않을까 라고 생각을 했다.#@문장구분# 로봇이 일상생활에서 해야할 일들을 다 해주고 개인적인 일들도 다 해주기 때문에 생활이 편해지기는 하겠지만 갈수록 자기 스스로 할 수 있는 일이 줄어들 것 같은 생각이 든다.#@문장구분#",
+      "paragraph_len": 705,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      19.8,
+      21.3
+    ],
+    "essay_scoreT_avg": 23.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래에 우리는 요리도 청소도 심지어는 씻는 것도 하지 않게 될 수도 있다고 생각을 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미래에 우리는 요리도 청소도 심지어는 <문법_맞춤법>씻는것도 </문법_맞춤법>하지 않게 될 수도 있다고 생각을 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 어릴 때만 하더라도 로봇 청소기가 스스로 청소를 하는 것이 아니라 부모님이 빗자루나 청소기를 사용해서 쓸고 닦았어야 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법>어릴때만 </문법_맞춤법>하더라도 로봇 청소기가 스스로 청소를 하는 것이 아니라 부모님이 빗자루나 청소기를 사용해서 쓸고 닦았어야 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 항상 씻기 귀찮을 때마다 누가 나 좀 씻겨줬으면 좋겠다고 생각을 했는데 미래에는 정말 씻는 것도 로봇이 다 해주는 시대가 오지 않을까라고 생각을 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 항상 씻기 귀찮을 때마다 누가 <문법_맞춤법>나좀 </문법_맞춤법>씻겨줬으면 좋겠다고 생각을 했는데 미래에는 정말 씻는것도 로봇이 다 해주는 시대가 오지 않을까 라고 생각을 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 로봇이 일상생활에서 해야 할 일들을 다 해주고 개인적인 일들도 다 해주기 때문에 생활이 편해지기는 하겠지만 갈수록 자기 스스로 할 수 있는 일이 줄어들 것 같은 생각이 든다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 로봇이 일상생활에서 <문법_맞춤법>해야할 </문법_맞춤법>일들을 다 해주고 개인적인 일들도 다 해주기 때문에 생활이 편해지기는 하겠지만 갈수록 자기 스스로 할 수 있는 일이 줄어들 것 같은 생각이 든다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71541",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 546,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

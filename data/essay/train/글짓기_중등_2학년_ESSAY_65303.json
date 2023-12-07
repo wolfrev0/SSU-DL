@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제일 중요한 것은 요즘 친구들도 그렇고 저도 그렇게 중학교 2학년인 저희가 벌써부터 꿈을 가지고 있을까요?#@문장구분# 있는 친구들도 분명히 있을 겁니다.#@문장구분#\n 꿈을 가지고 있어야 내가 10년뒤 20년뒤 30년뒤 어떤 일을 하고 있을거 같은 상상을 할수 있지 않을까요?#@문장구분# 꿈을 아직 가지고 있지 않은 나는 10년뒤에 부모님의 도움으로 편안히 대학교를 다니고 있을거 같습니다.#@문장구분# 어느대학 어떤과를 다니고 있을거고 공부는 그렇게 하고 있지 않을거 같습니다.#@문장구분# 이렇게 저렇게 시간을 보내다가 20년 뒤에는 저의 아빠가 운영하는 카페를 제가 맡아서 하고 있을거 같습니다.#@문장구분# 카페를 운영하면서 지금 아빠가 하는것보다 뭔가 잘될수 있도록 나름 저만의 노력으로 잘 운영할거 같고 30년 뒤에는 카페의 운영으로 번돈으로 건물을 몇채 사들여 세입자들에게 월세를 받아가면서 가족들과 행복하게 살고 있을거 같습니다.#@문장구분# 솔직히 엄마 아빠에게 많은 의지를 하면서 살아 가는게 제일 편하게 사는게 아닐까 싶습니다.#@문장구분# 내가 고등학교를 가면 나도 꿈이 생기면서 그걸 이루기 위해 노력하겠지만 지금 나에게 묻는 것이라면 위에 적은 글처럼 될거 같습니다.",
+      "paragraph_len": 717,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              1,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.5,
+      20,
+      22.222221
+    ],
+    "essay_scoreT_avg": 20.907408,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.17",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65303",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 558,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

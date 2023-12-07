@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "넓고 깊은 바다속, 아름다운 꼬리를 가진 인어가 살았다.#@문장구분# 그인어의 이름은 클라라이다. #@문장구분#클라라는 아름다운 꼬리를 가졌지만 아름다운 얼굴은 가지지 못했다. #@문장구분#천둥이 치던 어느날, 왕자와 그의 신하들이 탄 배가 천둥을 맞고 가라 앉았다.#@문장구분# 때마침, 그주위에서 놀고 있던 클라라는 바다에 빠진 왕자를 보았다. #@문장구분#클라라는 왕자에게로 재빨리 헤엄쳐갔다.#@문장구분# 클라라는 왕자를 해변에 데려다 주었다.#@문장구분# 클라라는 눈치채지 못했지만 왕자는 정신을 잃기직전에 클라라를 보았다.#@문장구분# 클라라는 왕자를 해변에 데려다 주고 마녀를 찾아갔다. #@문장구분#클라라는 무엇을 가져가도 좋으니 사람다리와 예쁜 얼굴을 달라고 하였다.#@문장구분# 그말에 마녀는 씩 웃으며 클라라와 아름다운 자신의 얼굴을 바꾸어 주었다. #@문장구분#마녀는 클라라의 얼굴이면 충분하다며 사람다리를 주었다. #@문장구분#클라라는 의문이 들었지만, 우선 왕자를 찾아갔다.#@문장구분# 왕자를 찾아간 클라라는 자신이 왕자를 구했다고 했다.#@문장구분#하지만, 왕자가 본 클라라의 얼굴은 지금의 클라라의 얼굴이 아니였기 때문에 그녀를 믿지못했다. #@문장구분#그때, 클라라의 얼굴을 가진 마녀가 자신이 왕자를 구했다며 나타났다.#@문장구분# 왕자는 마녀를 클라라라고 생각해서 마녀를 자신의 은인이고 그녀와 결혼할것이라고 말했다.#@문장구분# 그리고, 자신을 속인 사람들을 모두 처형할 것 이라고 하였다.#@문장구분# 물론, 그안에는 클라라도 포함 되어 있었다.#@문장구분# 클라라와 나머지 처형인들은 모두 바다로 떨어졌다. #@문장구분#인어의 꼬리를 가지지 않은 클라라는 결국 죽고 말았다. #@문장구분#그녀가 죽고 난뒤, 그녀는 물거품이되었고 그녀의 꼬리만큼 물거품이 아름다웠기 때문에 물거품이된 클라라는 왕자에게 바쳐졌다. #@문장구분#그녀는 아직까지도 물거품인 상태로 왕자를 바라보고 있다.#@문장구분#",
+      "paragraph_len": 1269,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.65,
+      25.5,
+      22.1
+    ],
+    "essay_scoreT_avg": 22.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "넓고 깊은 바다 속, 아름다운 꼬리를 가진 인어가 살았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "넓고 깊은 <문법_맞춤법>바다속</문법_맞춤법>, 아름다운 꼬리를 가진 인어가 살았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 인어의 이름은 클라라이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그인어의 </문법_맞춤법>이름은 클라라이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 때마침, 그 주위에서 놀고 있던 클라라는 바다에 빠진 왕자를 보았다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 때마침, <문법_맞춤법>그주위에서 </문법_맞춤법>놀고 있던 클라라는 바다에 빠진 왕자를 보았다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 클라라는 눈치채지 못했지만 왕자는 정신을 잃기 직전에 클라라를 보았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 클라라는 눈치채지 못했지만 왕자는 정신을 <문법_맞춤법>잃기직전에 </문법_맞춤법>클라라를 보았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "클라라는 무엇을 가져가도 좋으니 사람 다리와 예쁜 얼굴을 달라고 하였다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "클라라는 무엇을 가져가도 좋으니 <문법_맞춤법>사람다리와 </문법_맞춤법>예쁜 얼굴을 달라고 하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 말에 마녀는 씩 웃으며 클라라와 아름다운 자신의 얼굴을 바꾸어 주었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그말에 </문법_맞춤법>마녀는 씩 웃으며 클라라와 아름다운 자신의 얼굴을 바꾸어 주었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만, 왕자가 본 클라라의 얼굴은 지금의 클라라의 얼굴이 아니었기 때문에 그녀를 믿지 못했다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만, 왕자가 본 클라라의 얼굴은 지금의 클라라의 얼굴이 <문법_어미>아니였기 </문법_어미>때문에 그녀를 <문법_맞춤법>믿지못했다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왕자는 마녀를 클라라라고 생각해서 마녀를 자신의 은인이고 그녀와 결혼할 것이라고 말했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왕자는 마녀를 클라라라고 생각해서 마녀를 자신의 은인이고 그녀와 <문법_맞춤법>결혼할것이라고 </문법_맞춤법>말했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고, 자신을 속인 사람들을 모두 처형할 것이라고 하였다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고, 자신을 속인 사람들을 모두 처형할 <문법_맞춤법>것 이라고</문법_맞춤법> 하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론, 그 안에는 클라라도 포함되어 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론, <문법_맞춤법>그안에는 </문법_맞춤법>클라라도 포함 되어 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그녀가 죽고 난 뒤, 그녀는 물거품이 되었고 그녀의 꼬리만큼 물거품이 아름다웠기 때문에 물거품이 된 클라라는 왕자에게 바쳐졌다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그녀가 죽고 <문법_맞춤법>난뒤</문법_맞춤법>, 그녀는 물거품이되었고 그녀의 꼬리만큼 물거품이 아름다웠기 때문에 물거품이된 클라라는 왕자에게 바쳐졌다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39973",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 810,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

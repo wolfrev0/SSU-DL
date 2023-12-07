@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시의 이름은 한나라 입니다.#@문장구분# 왜냐하면 세계화가 이루어지고 있는 도시에서 하나의 나라로 모두가 뭉칠 수 있다고 생각하기 때문입니다.#@문장구분# 그렇기 때문에 저는 도시 이름을 한나라라고 설정하려고 합니다.#@문장구분# 미래에는 우선 음식으로는 다양한 맛을 낼 수 있는 캡슐이 생각납니다.#@문장구분# 귀찮아서 밥을 먹지 않거나 돈이 없어서 밥을 먹지 못하여 굶어죽는 이들이 세계여러 곳에서 존재합니다.#@문장구분# 이러한 문제에 기아 문제에 있어서 캡슐로 만들어진 음식을 사용한다면 충분히 이를 해결가능하다고 생각합니다.#@문장구분# 그렇기 때문에 캡슐로 먹는 음식이 생길 것입니다.#@문장구분# 이는 거식증에 걸린 사람들에게도 영양분을 충분히 줄 수 있어 도움이 되고 음식 자체를 먹는 것을 즐긴다면 이또한 이루어 질 것입니다.#@문장구분# 다음으로는 이동수단입니다.#@문장구분# 저는 지금 지상에서 자동차로 정체가 심하게 이루어지고 있는데 하늘로 나는 교통수단이 확장되어 교통 체증 현상이 지상과 지하로 나누어 잘 떨어질 것 같습니다.#@문장구분# 한나라라는 도시가 잘 실행되어서 미래에 이렇게 쾌적한 도시에 살아가고 싶습니다.#@문장구분#",
+      "paragraph_len": 745,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.9,
+      21.3
+    ],
+    "essay_scoreT_avg": 26.066666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_75677",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 526,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

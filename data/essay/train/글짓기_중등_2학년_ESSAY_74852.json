@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래의 나의 모습은 대통령이 되어있을 것이라고 생각한다.#@문장구분# 늠름한 우리나라의 여자대통령이 되어 성별에 대한 편견을 깨고 더 밝은 대한민국, 진보되고 변화를 향해 나아가는 대한민국을 만들기 위해 노력하는 내 모습을 상상해볼 수 있다.#@문장구분# 우선 10년 뒤에는 25살로 대학교 정치외교학과에 입학하거나 행정학과에 입학하여 내 꿈을 위해 공부를 행하는 시간, 학업에 매진하며 그 시절을 보낼 것으로 예상한다.#@문장구분# 그리고 20년 뒤에는 35살이 되어 내가 원하는 당에 들어가서 국회의원으로써 혹은, 도지사나 시장으로 활동하며 국민들의 고충을 충분히 파악하고 해결하는데 앞장서는 사람으로 성장해 있을 것이라고 생각한다.#@문장구분# 그리고 그 속에서도 당파 싸움에 이어지지 않고 오직 나라는 존재를 믿는 사람들을 넓히기 위해서 나의 신뢰도를 돋보이도록 많은 노력을 진행할 것이다.#@문장구분# 그리고 30년 뒤에는 45살로 드디어 대통령 입후보를 하면서 대통령에 도전할 나이가 되어 많은 시행착오를 거쳐 나가겠지만 결국에는 대통령이 되어 많은 사람들에게 힘을 줄 수 있는 대통령으로써 사람들의 기억 속에 자리매김하고 싶다.",
+      "paragraph_len": 647,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.166666,
+      30,
+      29.5
+    ],
+    "essay_scoreT_avg": 27.555555,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74852",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 548,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

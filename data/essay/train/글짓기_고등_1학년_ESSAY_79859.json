@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일이든 관계든, 권태는 언젠가 찾아오기 마련입니다.#@문장구분# 영화 우디 앨런의 <환상의 그대>를 보면 권태와 환상은 서로를 좀먹는 관념처럼 느껴집니다. #@문장구분#권태에 빠지면 환상에 눈이 가고, 그 환상이 마침내 현실이 됐을 땐 나를 권태에 빠뜨렸던 그 자리가 또 아쉽습니다.#@문장구분# 어찌 보면 인간은 항상 내 것이 아닌 다른 것을 탐하는 존재랄까요.#@문장구분# <환상의 그대>는 권태와 환상의 굴레를 반복하는 인간의 어리석음이 적나라하게 드러나는 코미디입니다.#@문장구분# 익숙함에 속아 소중함을 잊지 말자는, 그 흔한 경구조차 결코 남의 얘기 같지 않게 느껴질 이야기죠.#@문장구분# 평범해 보이는 한 가족이 있습니다.#@문장구분# 샐리와 로이는 중년 부부입니다.#@문장구분#이들도 한때는 여느 커플들처럼 달콤한 연애와 신혼을 즐겼을 테지만, 지금은 매일같이 싸움만 반복하는 권태로운 부부입니다.#@문장구분# 부업으로 운전을 하는 로이와 갤러리에서 일하는 샐리의 봉급으로도 변변찮아 생활비는 샐리의 부모님께 의지한지도 꽤 됐고요.#@문장구분# 이 영화에서 보이듯이,남자 주인공은 여자 주인공에게 익숙해지고 심지어는 화를 자주 내기도 하고 싸우는 빈도도 잦아집니다.#@문장구분# 하지만 마지막에는 위기를 경험하고 다시 속죄하고 잘 지내게 됩니다.#@문장구분#",
+      "paragraph_len": 825,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 우리는 왜 한번의 위기가 있은 후에야 후회를 하고 소중함을 깨닫는 걸까요? #@문장구분#인간관계를 맺으면서 권태가 찾아올때마다 꼭 위기를 겪어야만할까요?#@문장구분#그러기 보다는 먼저 자신의 행동을 돌이키고 신중하게 행동하면서 주변인의 소중함을 한번 더 깨달아봅시다.#@문장구분#",
+      "paragraph_len": 196,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          2.6666667,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.777778,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      27.166668,
+      27.166668,
+      30
+    ],
+    "essay_scoreT_avg": 28.111113,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "054",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_79859",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 713,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

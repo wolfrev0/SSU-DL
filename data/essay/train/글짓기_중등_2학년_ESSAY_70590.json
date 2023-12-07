@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 화장을 좋아합니다. #@문장구분#처음에는 엄마가 쓰고계시는 화장품을 일부 같이 써보다가 나중에는 올리브영에서 파는 화장품을 자주 써보고 있습니다. #@문장구분#특히 틴트종류에 관심이 많아서 나중에 성인이 되면 모든 틴트들을 발라서 저를 꾸며보고 싶습니다.#@문장구분# 그래서 처음에는 올리브영에서 파는 가성비 있는 화장품부터 시작해서 건강 기능성 화장품과 나중에는 TV광고에 나오는 아이오페 같은 고급 화장품 메이커의 화장품도 발라보고 싶습니다.#@문장구분# 또한 지금은 안하지만 나중에는 인스타그램이나 유튜브를 통해서 제가 사용하는 화장품을 사서 직접 발라보면서 효과나 경과되면 변하는 모습을 보여주면서 사람들과 소통하며 공유하고 그리고 유튜브를 하게 된다면 나중에는 광고나 협찬을 받으면서 화장품도 바르고 수익이 발생해서 저에게 많은 이익이 생길거 같습니다.#@문장구분# 만약에 여유가 되면 제가 직접 화장품을 만들어서 사람들에게 좋은 건강화장품을 팔아서 모두가 예뻐지는 화장품을 보여주고 싶습니다.#@문장구분#",
+      "paragraph_len": 593,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          2.6666667,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.666668,
+      28.666668,
+      26.666668
+    ],
+    "essay_scoreT_avg": 26.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_70590",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 474,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

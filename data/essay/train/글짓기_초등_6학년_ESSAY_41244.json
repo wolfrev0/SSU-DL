@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 상어가 되고싶습니다.#@문장구분# 왜냐하면 우선 다른 힘이쎈 사냥감이 나에게 잘 오지못합니다.#@문장구분# 바다에서는 강한생물이 잘 살아남을것 같습니다.#@문장구분# 그래서 상어를 선택했습니다.#@문장구분# 그리고 상어는 스피드도 빨라서 잘 도망갈수도있습니다.#@문장구분# 하지만 바다에는 상어보다 강한 생물이 많습니다.#@문장구분# 그래서 조금 위험하기도 하지만 상어는 스피드가 빨라서 조금은 도망갈수도 있습니다.#@문장구분# 근데 상어는 무는 힘이 세서 왠만한 바다 생물들은 거의다 상어보단 약합니다.#@문장구분# 하지만 상어보다 쎈 범고래등등 북극에 사는 바다 생물들이 상어보다쎕니다.#@문장구분# 하지만 범고래같은 북극에 사는 생물들이   바다에 올 일은 거의 없기때문에 웬만하면 바다에서 가장 힘이쎈 생물은 상어라고 생각합니다.#@문장구분# 하지만 상어도 바다에서 죽는 경우가 많이 있습니다.#@문장구분# 그래서 꼭 상어가 바다 생물중 최강으로 힘이 세다고 하기엔 조금 그럽니다.#@문장구분#그래도 상어는 멋있고 힘이세고 스피드도 빠르고 거의 바다 생물중에 최강 이여서 상어를 고른것같습니다.#@문장구분#",
+      "paragraph_len": 739,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.65,
+      30
+    ],
+    "essay_scoreT_avg": 28.883333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_41244",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 481,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

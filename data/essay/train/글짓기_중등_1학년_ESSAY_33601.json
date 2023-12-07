@@ -1,0 +1,358 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래도시의 모습은 대부분의 사람들이 지금의 폰처럼 스마트워치를 사용할것 같고 자율주행 자동차가 더 업그레이드가 되서 사람이 사용하는 모든 기능을 알아서 해주고 고층건물이 많아질 것 같다.#@문장구분# 이유는 땅값이 오르면 땅을 사기 어려우니까 높게지을것 같다.#@문장구분# 그리고 로봇도 마찬가지로 업그레이드가 되서 거의 사람의 행동을 똑같이 따라할 정도가 될것같고 더 발전 된다면 사람이 하기 힘든일 까지 할수있을것 같다.#@문장구분# 미래도시에 산다면 최첨단 로봇이 나를 깨워주고 씻고나면 밥을 해주고 자율주행 자동차가 학교에 데려다주고 교실에는 청소를 하지 않아도 되는 청소를 해주는 로봇이 생길 것 같다. #@문장구분#그리고 문같은 것도 더 단단해지고 보안이 활성화 될것같다.#@문장구분# 그리고 말만 하면 거의 모든것이 되고 공장이 많아지고 나무를 많이 심을 것 같다. #@문장구분#왜냐하면 공장이 많으면 공기가 않좋으니까 나무를 많이 심거나 나무에서 나오는 공기를 만들어서 나무가 차지하는 비율을 줄여 공간을 확보하고 그 공간에는 삶에 필요한 것을 만드는 공장이라던지 연구하는 곳을 만든다.#@문장구분# 또한 코로나가 사라져 해외여행을 가도 파파고에 들어가지 않아도 된다.#@문장구분# 왜냐하면 에어팟이나 버즈를 끼면 외국인이 말하는게 번역되어 한국어로 나오고 내가 한국어로 말해도 상대방도 알아들을수 있다.#@문장구분# 이처럼 미래도시에는 말도 안되는 것도 있겠지만 나중이 되면 지금은 믿기 힘들지만 그때는 너무 당연히 여겨질수도 있을 것이다.#@문장구분# 마침 지금에 휴대폰 처럼.#@문장구분#",
+      "paragraph_len": 939,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      27.2,
+      20.25
+    ],
+    "essay_scoreT_avg": 22.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "033",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래도시의 모습은 대부분의 사람들이 지금처럼 스마트워치를 사용할 것 같고 자율주행 자동차가 더 업그레이드돼서 사람이 사용하는 모든 기능을 알아서 해주고 고층건물이 많아질 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "내가 생각하는 미래도시의 모습은 대부분의 사람들이 <스타일링_기타>지금의 폰처럼</스타일링_기타> 스마트워치를 <문법_맞춤법>사용할것</문법_맞춤법> 같고 자율주행 자동차가 더 <문법_조사>업그레이드가 되서</문법_조사> 사람이 사용하는 모든 기능을 알아서 해주고 고층건물이 많아질 것 같다.",
+      "sentence_corr_txt_styling": "내가 생각하는 미래도시의 모습은 대부분의 사람들이 지금처럼 스마트워치를 사용할 것 같고 자율주행 자동차가 더 업그레이드돼서 사람이 사용하는 모든 기능을 알아서 해주고 고층건물이 많아질 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 땅값이 오르면 땅을 사기 어려우니까 높게 지을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이유는 땅값이 오르면 땅을 사기 어려우니까 <문법_맞춤법>높게지을것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 로봇도 마찬가지로 업그레이드돼서 거의 사람의 행동을 똑같이 따라할 정도가 될 것 같고 더 발전된다면 사람이 하기 힘 든일까지 할 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그리고 로봇도 마찬가지로 <문법_맞춤법><문법_조사>업그레이드가 되서</문법_조사></문법_맞춤법> 거의 사람의 행동을 똑같이 따라할 정도가 될것같고 더 발전 된다면 사람이 하기 힘든일 까지 할수있을것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래도시에 산다면 최첨단 로봇이 나를 깨워주고 씻고 나면 밥을 해주고 자율주행 자동차가 학교에 데려다주고 교실에는 청소를 해주는 로봇이 생길 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기띄어쓰기띄어쓰기띄어쓰기띄어쓰기띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 미래도시에 산다면 최첨단 로봇이 나를 깨워주고 <문법_맞춤법>씻고나면</문법_맞춤법> 밥을 해주고 자율주행 자동차가 학교에 데려다주고 교실에는 <스타일링_패러프레이징>청소를 하지 않아도 되는 청소를 해주는</스타일링_패러프레이징> 로봇이 생길 것 같다. ",
+      "sentence_corr_txt_styling": " 미래도시에 산다면 최첨단 로봇이 나를 깨워주고 씻고 나면 밥을 해주고 자율주행 자동차가 학교에 데려다주고 교실에는 청소를 해주는 로봇이 생길 것 같다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 문같은 것도 더 단단해지고 보안이 활성화될 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 문같은 것도 더 단단해지고 보안이 <문법_맞춤법>활성화 될것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 말만 하면 거의 모든 것이 되고 공장이 많아지고 나무를 많이 심을 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 말만 하면 거의 <문법_맞춤법>모든것이</문법_맞춤법> 되고 공장이 많아지고 나무를 많이 심을 것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 공장이 많으면 공기가 안좋으니까 나무를 많이 심어서 나무가 차지하는 비율을 줄여 공간을 확보하고 그 공간에는 삶에 필요한 것을 만드는 공장이라든지 연구하는 곳을 만드는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "왜냐하면 공장이 많으면 공기가 <문법_맞춤법>않좋으니까</문법_맞춤법> <스타일링_담화 맥락 오류>나무를 많이 심거나 나무에서 나오는 공기를 만들어서</스타일링_담화 맥락 오류> 나무가 차지하는 비율을 줄여 공간을 확보하고 그 공간에는 삶에 필요한 것을 만드는 공장이라던지 연구하는 곳을 <문법_조사><문법_어미>만든다</문법_어미></문법_조사>.",
+      "sentence_corr_txt_styling": "왜냐하면 공장이 많으면 공기가 안좋으니까 나무를 많이 심어서 나무가 차지하는 비율을 줄여 공간을 확보하고 그 공간에는 삶에 필요한 것을 만드는 공장이라든지 연구하는 곳을 만드는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 해외여행을 가도 파파고에 들어가지 않아도 될 것이다.",
+      "sentence_corr_reason": [
+        "코로나와 상관 없음",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 또한 <스타일링_기타>코로나가 사라져 해외여행을 가도</스타일링_기타> 파파고에 들어가지 않아도 <문법_조사><문법_어미>된다</문법_어미></문법_조사>.",
+      "sentence_corr_txt_styling": " 또한 해외여행을 가도 파파고에 들어가지 않아도 될 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 에어팟이나 버즈를 끼면 외국인이 말하는게 번역되어 한국어로 나오고 내가 한국어로 말해도 상대방도 알아들을 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 에어팟이나 버즈를 끼면 외국인이 말하는게 번역되어 한국어로 나오고 내가 한국어로 말해도 상대방도 <문법_맞춤법>알아들을수</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이처럼 미래도시에는 말도 안되는 것도 있겠지만 나중이 되면 너무 당연히 여겨질 수도 있을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " 이처럼 미래도시에는 말도 안되는 것도 있겠지만 <스타일링_패러프레이징>나중이 되면 지금은 믿기 힘들지만 그때는</스타일링_패러프레이징> 너무 당연히 <문법_맞춤법>여겨질수도</문법_맞춤법> 있을 것이다.",
+      "sentence_corr_txt_styling": " 이처럼 미래도시에는 말도 안되는 것도 있겠지만 나중이 되면 너무 당연히 여겨질 수도 있을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마침 지금의 휴대폰처럼.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 마침 <문법_조사>지금에</문법_조사> <문법_맞춤법>휴대폰 처럼</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33601",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 720,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

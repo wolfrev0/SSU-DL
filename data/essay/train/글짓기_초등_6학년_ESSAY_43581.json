@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 소개할 바다 생물은 바다거북 입니다.#@문장구분# 바다 거북은 알을 육지에 낳으며 잠수를 매우 잘해서 바다 속에 아주 오랫동안 머무를 수 있습니다.#@문장구분# \n 평화로운 어느날, 한 바다거북이 막 잠에서 깨어나 집을 나서고 있었습니다. #@문장구분#그런데 갑자기 상어가 쫓아오는 것 입니다! #@문장구분#결국 바다거북은 아무것도 못하고 잡아먹혔습니다.#@문장구분# 그런데 다시 눈을 떠보니 집안에 있던 것 입니다. #@문장구분#바다 거북은 꿈이였던 것을 알고 다시 집을 나섰습니다.#@문장구분# 집밖에 상어는 없었습니다.#@문장구분# 그제서야 안심한 바다거북은 집을 나서는데 갑자기 용오름현상이 발생하여 바다거북은 날라갔습니다.#@문장구분# 눈을 떠보니 다시 집이였습니다.#@문장구분# 바다거북은 정말로 어이가 없었습니다.#@문장구분# \n 바다거북은 집밖을 살펴보았고 바다거북은 밖에서 헤엄치는 다른 거북이들을 보곤 드디어 잠에서 깬 것을 알고 집을 나서는데 그순간, 상어가 바다거북을 먹어버렸습니다.#@문장구분#",
+      "paragraph_len": 672,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.75,
+      30
+    ],
+    "essay_scoreT_avg": 28.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_43581",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 433,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

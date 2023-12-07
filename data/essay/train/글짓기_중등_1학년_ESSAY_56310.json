@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시를 상상해 그릴 때 난 항상 건물 모양을 물리 법칙에서 벗어나도록 뒤죽박죽 이상하게 그리고 하늘엔 날아다니는 자동차를 그렸었다.#@문장구분# 하지만 이 글을 쓰기 위해 곰곰이 생각해보니, 미래의 도시라고 해봤자 건물의 모양새는 지금과 별반 다르지 않을 것 같다.#@문장구분#\n \n 대신 내부의 무언가가 바뀌지 않았을까?#@문장구분# 요즘 환경오염 문제로 전세계가 떠들썩하다.#@문장구분# 화석연료가 친환경 연료로 대체되고, 플라스틱 대신 생분해성 제품을 쓰자는 추세이다.#@문장구분# 그리고 환경 보호에도 힘쓰고 있다.#@문장구분# 이를 봐선 미래의 도시는 정말 친환경적이게 될 것 같다.#@문장구분# 도시 한 가운데는 나무가 잘 보존되어 숲을 이루고 있을 것이다.#@문장구분# 도로에는 기름 대신 전기로 움직이는 자동차들이 널려있을 거다.#@문장구분# 그리고 건물은 모든 에너지를 태양광으로 공급받는 구조이기 때문에 태양광 전지판이 깔려있을 것이다.#@문장구분# 이렇게 힘을 쓴 덕에 하늘은 지금보다 파랗고, 공기는 맑을 것이다.#@문장구분# 도시 이름은 친환경적으로 살아가자는 의미로 '초록 나라'로 하면 좋을 것 같다.#@문장구분#",
+      "paragraph_len": 740,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      26.35,
+      26.25
+    ],
+    "essay_scoreT_avg": 27,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56310",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 501,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

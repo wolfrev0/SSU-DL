@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "여러분은 미래 도시하면 무엇이 떠오르시나요?#@문장구분# 저는 개인적으로 '미래'라는 말을 떠올리면 칙칙하고 어두컴컴한 이미지가 떠오른답니다.#@문장구분# 우리가 메르스, 코로나 세대여서 그런 건지는 모르겠지만 앞으로도 바이러스는 끊임없이 새로 생겨나고, 신종 변이를 일으켜서 계속 우리 곁에 있을 것 같습니다.#@문장구분# 그래서 미래에는 어쩌면 방독면을 쓰고 돌아다녀야 할지도 모른다는 생각이 듭니다.#@문장구분# 어쩌면 코로나 바이러스보다 더 강력한 바이러스가 나와서 인류를 몽땅 쓸어버릴지도 모르는 노릇입니다.#@문장구분# 저는 이런 미래에 바이러스와 맞서 싸우는 생명 공학 연구원, 신약 개발자가 되어 백신을 개발할 것인데요.#@문장구분# 미래 도시에서 제 역할을 할 수 있었으면 좋겠습니다.#@문장구분# 적어도 인간이 살아갈 수는 있는 상황이었으면 좋겠습니다.#@문장구분# 바이러스와 함께하는 미래에 다들 자신의 삶을 잃지 않았으면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 602,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.1,
+      24.1,
+      16.55
+    ],
+    "essay_scoreT_avg": 21.583334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 저는 개인적으로 '미래'라는 말을 떠올리면 칙칙하고 어두컴컴한 이미지가 떠오릅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 저는 개인적으로 '미래'라는 말을 떠올리면 칙칙하고 어두컴컴한 이미지가 <문법_어미>떠오른답니다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이런 미래에 바이러스와 맞서 싸우는 생명 공학 연구원, 신약 개발자가 되어 백신을 개발할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 저는 이런 미래에 바이러스와 맞서 싸우는 생명 공학 연구원, 신약 개발자가 되어 백신을 개발할 <문법_어미>것인데요</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 적어도 인간이 살아갈 수는 있는 상황이면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 적어도 인간이 살아갈 수는 있는 <문법_시제>상황이었으면</문법_시제> 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75802",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 423,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

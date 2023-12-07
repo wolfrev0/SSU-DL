@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래가 얼마나 먼 미래인지 안나와있으므로 150년 후라고 가정하겠습니다.#@문장구분# 그때쯤이면 지구는 심각한 환경파괴로 살 수 없는 곳이 되어있을 것입니다.#@문장구분# 심각한 지구온난화, 그로인한 엄청난 규모의 자연 재해.#@문장구분# 저는 150년 후 인류는 태양계에서 가장 지구와 환경이 비슷한 화성에서 살고 있을거란 생각을 하고 있습니다.#@문장구분# 화성에서 인류는 예전 거주 행성이였던 지구 같은 상황이 발생하지 않게 최선을 다할 것입니다.#@문장구분# 환경 보호에 대한 법적 처벌도 강해질것이고, 바이오 에너지의 활약이 엄청날 것입니다.#@문장구분# 이런 도시의 이름은 Mars+Earth 'Marth'입니다.#@문장구분# Marth의 환경은 대부분 자연적일 것입니다.#@문장구분# 친환경 공원이 많고 자연 환경을 파괴하지 않는 시설들로 가득 할 것입니다.#@문장구분# 또, 동물들이 인공교배가 되어서 생겨난다면 동물원은 없고 친환경 속에서 살아갈 것입니다.#@문장구분# 물론 남획 같은 일도 없을 것입니다.#@문장구분# 모든 차, 대중교통은 전기차로 바뀔 것 입니다.#@문장구분# 150년 후니까 자동차가 날아다닐수도 있겠죠.#@문장구분# Marth는 자연 환경을 전혀 파괴해서는 안되는 인류의 마지막 거주 행성일 것입니다.#@문장구분#",
+      "paragraph_len": 827,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.15,
+      26.9,
+      28.95
+    ],
+    "essay_scoreT_avg": 27.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_42010",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 548,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

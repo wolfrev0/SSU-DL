@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 대통령이 꿈이다.#@문장구분# 사회에 도움이 되도록 도움이 필요한 사람들에게 필요한 법안을 만들도록 하는 대통령이 되고 싶다.#@문장구분# 그래서 10년 뒤에는 정치외교학과나 아예 도움이 되기 위해서 사회복지학과를 복수 전공으로 졸업해서 대학원도 정치외교로 가서 공부를 열심히 할 것이다.#@문장구분# 그리고 나의 정치성향을 빨리 파악해서 졸업 후 정치성향이 잘 맞다고 생각하는 국회의원의 사무소에 취직해서 열심히 보필하며 일하는 모습을 배울 것이다.#@문장구분# 20년 뒤에는 그 국회의원의 가장 가까운 보필하는 사람이 되어서 열심히 일하고 내가 대통령이 된다면 어떤 공약을 내세우고 어떤 법안을 만들고 어떤 세상을 만들지 고민할 것이다.#@문장구분# 그리고 30년 뒤에는 대통령 후보로 출마해서 내가 꿈꾸는 세상을 사람들에게 꾸준히 보여주고 고쳐야 할 법들은 제대로 고치도록 목소리를 키우고 사회적으로 약자인 사람들을 직접 찾아가서 어떤 도움이 필요하고 어떤 복지가 필요한지 파악해서 열심히 노력할 것이다.#@문장구분# 그래서 살기 좋은 대한민국을 만드는 대통령이라는 소리를 들을 것이다.",
+      "paragraph_len": 636,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          2.5,
+          2.3333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.944445,
+      25.61111,
+      26
+    ],
+    "essay_scoreT_avg": 26.518518,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_78009",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 517,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

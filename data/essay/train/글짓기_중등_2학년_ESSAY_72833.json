@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 꿈은 가수입니다.#@문장구분# 가수가 되기 위해서는 10년 뒤에는 오디션을 찾아다니거나 경쟁하는 프로그램에 나가서 실력을 보여주어서 이름을 알릴 것입니다. #@문장구분#이렇게 이름을 알리고 데뷔를 할 것입니다. #@문장구분#저는 이렇게 데뷔를 하고 싶기 때문에 저의 롤모델은 악동뮤지션입니다.#@문장구분# 악동뮤지션은 케이팝스타에 나와서 유명해지고 데뷔를 한 대표적인 오디션 가수 케이스이기 때문입니다. #@문장구분#그래서 저의 20년 뒤에는 예능과 드라마,영화 등에 나가면서 연기도 하고 고정 예능도 만들고 싶습니다. #@문장구분#연기를 하는 것도 재밌을 것 같고 예능은 놀다가 오는 느낌이 들어서 재밌을 것 같기 때문입니다. #@문장구분#30년 뒤에는 완전 배우로 전향할 것입니다.#@문장구분# 그래서 연예인으로 시작하고 끝나고 싶습니다.#@문장구분# 저는 유명한 사람이 되어서 나중에 저의 아이들이 봤을 때 우리 엄마 멋있다라는 말이 나오게 하고 싶습니다.#@문장구분# 또 엄마가 일하는 모습들을 볼 수 있게 해주고 싶습니다. #@문장구분#그렇게 저는 유명한 연예인이 되고 싶습니다.",
+      "paragraph_len": 699,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.8333333,
+          2.8333333,
+          2.3333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.333332,
+      25.555555,
+      22.944445
+    ],
+    "essay_scoreT_avg": 24.611109,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_72833",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 479,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "70%는 바다 그 중 95%는 밝혀지지 않은 신기한 존재.#@문장구분# 바다란 그런 존재이다.#@문장구분# 아직 밝혀지지 않은 그런 존재도 있을 것이다. #@문장구분#나는 그런 존재가 되고 싶다. #@문장구분#인간에게 들키지 않아서 자유로운 그런 삶. 방해받지 않고 조용히 살아가고 싶다. #@문장구분#5%의 정체가 밝혀진 바다생물들.#@문장구분# 그 말인 즉슨 한 마리 이상 인간에 의해 죽었다는 말이다. #@문장구분#내 친구 혹은 내가 인간에 의해 죽는 건 싫다. #@문장구분#조용히 바닷속 안에서 친구와 가족이 되는 것 모든 바다생물이 바라던 것도 그것이 아니었을까? #@문장구분#내가 직접 바다 생물에게 물어볼 수는 없지만 대부분의 바다생물들은 나와 같은 길을 택할 것이다. #@문장구분#죽는 것 그것만큼 괴로운 것은 아마 없을 것이다.#@문장구분# 함께 살아가는 것.#@문장구분#인간에 방해받지 않는 것 그런 바다 생물이 되는 것. #@문장구분#내가 바다생물이 된다면 밝혀지지 않은 95%의 바다생물이 되고싶다.#@문장구분#",
+      "paragraph_len": 704,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.95,
+      19.9,
+      27.6
+    ],
+    "essay_scoreT_avg": 25.483332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_37399",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 427,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

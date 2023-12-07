@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시는 '프리'라는 이름의 도시입니다.#@문장구분# 이 도시에서는 사람들이 반드시 직업을 가지고 일 할 필요가 없습니다.#@문장구분# 인공지능과 로봇의 발달로 일하지 않아도 먹고 살 수 있고 사회가 돌아갈 수 있기 때문입니다.#@문장구분# 각종 서비스업은 물론 돈을 생산하는 것도 기계가, 생활에 필요한 물건이나 장소, 건물 등을 만들어 내는 것도 모두 기계가 할 것입니다. #@문장구분#그리고 이 기계를 제작하는 것도 기계가 할 것입니다.#@문장구분# 일을 하지 않아도 돈은 지급되고, 어쩌면 아예 돈이 필요하지 않을지도 모릅니다.#@문장구분# ",
+      "paragraph_len": 395,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 일을 하지 않으면 사람들이 너무 나태해질 수 있는 것을 우려해 기계가 아닌 사람이 일할 수 있는 분야도 생겨날 것입니다.#@문장구분# 또, 돈을 버는 일이 아니더라도 열심히 움직일 수 있는 다양한 여가 활동이 새롭게 생겨날 것입니다.#@문장구분# ",
+      "paragraph_len": 165,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 로봇을 이용한 철저한 치안 유지는 마을을 평화롭게 만들고, 굳이 지도자가 없어도 될 것입니다.#@문장구분#",
+      "paragraph_len": 73,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          1,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      20.75,
+      23.3,
+      23.9
+    ],
+    "essay_scoreT_avg": 22.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이 도시에서는 사람들이 반드시 직업을 가지고 일할 필요가 없습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 도시에서는 사람들이 반드시 직업을 가지고 <문법_맞춤법>일 할</문법_맞춤법> 필요가 없습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_78463",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 458,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

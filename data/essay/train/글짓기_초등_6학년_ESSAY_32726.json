@@ -1,0 +1,254 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 바다생물 중 돌고래가 되고 싶습니다.#@문장구분# 그런데 돌고래도 행복하지만은 않습니다.#@문장구분# 왜냐하면 돌고래는 운이 좋지 않으면 인간들의 욕심때문에 생긴 아주 작은 우리안에서 평생 인간들 앞에서 구경거리가 되야하기 때문입니다.#@문장구분# 하지만 그럼에도 저는 돌고래가 되어 아주 넓은 바다를 다른 돌고래들과 하하호호 웃으며 마음껏 헤엄치며 놀고 싶습니다.#@문장구분# 이제부터 제가 왜 우리에 평생 살 수 있는 위험이 있는 걸 알고도 돌고래가 되고 싶은지 설명하겠습니다.#@문장구분#\n 첫째, 돌고래는 천적을 잘 피해 자신의 생명줄을 늘립니다.#@문장구분# 돌고래는 잠을 평균적으로 8시간동안 잠을 자는데 이렇게 오래동안 잠을 잔다면 천적(상어나 범고래)에게 무방비해질 수 있습니다.#@문장구분# 하지만 돌고래는 20~50마리까지 무리를 지어 다니며 잠을 잘 때에도 한마리씩 보초를 서서 주변을 경계하기에 천적의 위험이 낮습니다.#@문장구분#\n 둘째, 돌고래는 거의 굶을 걱정이 없다.#@문장구분# 다른 동물들은 먹이를 먹기위하여 고군분투하지만 돌고래는 아닙니다.#@문장구분# 돌고래는 시력과청각이 뛰어나기 때문에 먹이가 있을 때 잘 대응할 수 있습니다. #@문장구분#이러한 이유로 저는 돌고래가 되고 싶습니다.#@문장구분#",
+      "paragraph_len": 794,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.15,
+      30,
+      22.4
+    ],
+    "essay_scoreT_avg": 26.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 돌고래는 운이 좋지 않으면 인간들의 욕심 때문에 생긴 아주 작은 우리 안에서 평생 인간들 앞에서 구경거리가 돼야 하기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 돌고래는 운이 좋지 않으면 인간들의 <문법_기타>욕심때문에 </문법_기타>생긴 아주 작은 우리안에서 평생 인간들 앞에서 구경거리가 <문법_맞춤법>되야하기</문법_맞춤법> 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 그럼에도 저는 돌고래가 되어 아주 넓은 바다를 다른 돌고래들과 하하 호호 웃으며 마음껏 헤엄치며 놀고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하지만 그럼에도 저는 돌고래가 되어 아주 넓은 바다를 다른 돌고래들과 <문법_기타>하하호호 </문법_기타>웃으며 마음껏 헤엄치며 놀고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돌고래는 잠을 평균적으로 8시간 동안 잠을 자는데 이렇게 오랫동안 잠을 잔다면 천적(상어나 범고래)에게 무방비해질 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 돌고래는 잠을 평균적으로 8<문법_기타>시간동안 </문법_기타>잠을 자는데 이렇게 <문법_맞춤법>오래동안 </문법_맞춤법>잠을 잔다면 천적(상어나 범고래)에게 무방비해질 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 돌고래는 20~50마리까지 무리를 지어 다니며 잠을 잘 때에도 한 마리씩 보초를 서서 주변을 경계하기에 천적의 위험이 낮습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 하지만 돌고래는 20~50마리까지 무리를 지어 다니며 잠을 잘 때에도 <문법_기타>한마리씩 </문법_기타>보초를 서서 주변을 경계하기에 천적의 위험이 낮습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 동물들은 먹이를 먹기 위하여 고군분투하지만 돌고래는 아닙니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 다른 동물들은 먹이를 <문법_기타>먹기위하여 </문법_기타>고군분투하지만 돌고래는 아닙니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돌고래는 시각과 청각이 뛰어나기 때문에 먹이가 있을 때 잘 대응할 수 있습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 돌고래는 <문법_맞춤법><문법_기타>시력과청각이 </문법_기타></문법_맞춤법>뛰어나기 때문에 먹이가 있을 때 잘 대응할 수 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32726",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 555,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 한평생을 살아가는 데 가장 소중한 것은 무엇일까?#@문장구분# 많은 시간을 살아놓고도 이제사 궁금한 걸 보면평생을 엄벙덤벙 헛살았다는 이야긴지 언제서야 철이 들려는지 알딸딸하다.#@문장구분# 우선 언뜻 생각나기로는 빛인 것도 같고 공기인 것도 같고 물인 것도 같고 땅인 것도 같다.#@문장구분# 식물인 것도 같고 사람인 것도 같고 먹이인 것도 같고 사랑인 것도 같다.#@문장구분# 제일 큰 것은 무엇이고 제일 작은 건 무엇이며 가장 넓은 것은 무엇이고 가장 좁은 것은 무엇일까?#@문장구분# 눈을 떠도 감아도 머리를 굴려 봐도 아리까리 아롱아롱 꼬집기가 어렵다.#@문장구분# 생각다 못해 국어사전을 뒤져보니 귀중한 건 \"매우 소중한 것\"이라 적혀 있고 소중한 건 \"매우 귀중한 것\"이라 적혀 있다.#@문장구분# 국어사전을 엮은 사람도 아마 내 나이의 나 같은 어리버리한 인물였나 보다.#@문장구분# 존재하는 모든 것은 짝이 있어야 한다.#@문장구분# 하늘이 가장 크다면 빛과 공기라는 가장 작은 입자와 파동으로 빈틈없이 가득 차있어야 한다.#@문장구분# 하늘은 분명 필요충분조건을 갖춘 가장 작은 것으로 뭉쳐진 가장 큰 것임에 틀림이 없다.#@문장구분#",
+      "paragraph_len": 735,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "그렇다면 가장 작은 것은 곧 가장 큰 것이 되고 가장 큰 것은 가장 작은 것들의 모임인 것, 크고 작음과 길고 짧음이란 사람이 만들어낸 말일 뿐 별 의미가 없어도 보인다.#@문장구분# 가장 소중한 것의 짝은 가장 별 볼일 없는 것, 가장 귀중한 것의 짝은 가장 천한 것일 것이다.#@문장구분# 가장 소중한 것을 잃는 것은 가장 귀중한 것을 잃는 것과 별반 다르지 않을 것이다.#@문장구분# 소중한 것을 잃는 경험을 우리는 많이 한다.#@문장구분#",
+      "paragraph_len": 301,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.5,
+      26.5
+    ],
+    "essay_scoreT_avg": 27.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.16",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "041",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_66139",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 738,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

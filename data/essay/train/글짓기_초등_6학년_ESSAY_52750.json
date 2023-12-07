@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다에는 많은생물이 살고있습니다. #@문장구분#만약 그중 1개에 동물로 변신한다면 저는 거북이로 변신할거 갔습니다.#@문장구분# 왜냐하면 요즘 숙제, 청소등 힘들거나 귀찮은 일들이 많은데 거북이로 변신하면 그런 일상을 떠나 나만의 슬로우라이프를 즐길수있을거같은 느낌이듭니다. #@문장구분#느긋하게 헤엄치면서 느긋하게 생활 느긋하게 먹고 느긋한일상이 될것만갔습니다. #@문장구분#또 느긋하게 헤험치며 여행, 모험을 하는것도 재미있을거갔습니다.#@문장구분# 니모를 찾아서라는 영화처럼 해류를타고 먼곳을 누비며 친구도 만나고 멋진 구경도하고 새로운 것 을 발견하여 재미있는 시간을 보내고십습니다. #@문장구분#그렇게 시간이흐르면 1주일이지나 다시 사람으로 살고 뜻 깊은 경험이라 생각할거갔습니다. #@문장구분#그러면 여러분은 무슨 동물로 변신할건가요?#@문장구분# 여러분의 이야기는 무엇인가요? #@문장구분#생각을 말해주세요",
+      "paragraph_len": 575,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      21.85,
+      23.1
+    ],
+    "essay_scoreT_avg": 24.449999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다에는  많은 생물이 살고 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다에는 <문법_맞춤법>많은생물이 살고있습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 그중 1개에 동물로 변신한다면 저는 거북이로 변신할 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약 그중 1개에 동물로 변신한다면 저는 거북이로 <문법_맞춤법>변신할거 갔습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 요즘 숙제, 청소 등 힘들거나 귀찮은 일들이 많은데 거북이로 변신하면 그런 일상을 떠나 나만의 슬로라이프를 즐길 수 있을 거 같은 느낌이 듭니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 요즘 숙제,<문법_맞춤법> 청소등</문법_맞춤법> 힘들거나 귀찮은 일들이 많은데 거북이로 변신하면 그런 일상을 떠나 나만의 슬로우라이프를 즐길수있을거같은 느낌이듭니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "느긋하게 헤엄치면서 느긋하게 생활 느긋하게 먹고 느긋한 일상이 될 것만 갔습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "느긋하게 헤엄치면서 느긋하게 생활 느긋하게 먹고 <문법_맞춤법>느긋한일상이 될것만갔습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 느긋하게 헤엄치며 여행, 모험을 하는 것도 재미있을 거 갔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 느긋하게 <문법_맞춤법>헤험치며</문법_맞춤법> 여행, 모험을 하는것도 재미있을거갔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 니모를 찾아서라는 영화처럼 해류를 타고 먼 곳을  누비며 친구도 만나고 멋진 구경도 하고 새로운 것 을 발견하여 재미있는 시간을 보내고 싶습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 니모를 찾아서라는 영화처럼 <문법_맞춤법>해류를타고 먼곳을</문법_맞춤법> 누비며 친구도 만나고 멋진 구경도하고 새로운 것 을 발견하여 재미있는 시간을 보내고십습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇게 시간이 흐르면 1주일이 지나  다시 사람으로 살고 뜻 깊은 경험이라 생각할 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇게 <문법_맞춤법>시간이흐르면 1주일이지나</문법_맞춤법> 다시 사람으로 살고 뜻 깊은 경험이라 생각할거갔습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러면 여러분은 무슨 동물로 변신할 건가요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러면 여러분은 무슨 동물로 <문법_맞춤법>변신할건가요</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "생각을 말해주세요.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "생각을 <문법_기타>말해주세요</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52750",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 396,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래의 나는 조향사가 되어 있을 것이다. #@문장구분#나는 향기나는 것들을 좋아해서 향수도 좋아하는데 어떤 향기가 나는지 맞추는 것과 친구들을 보면서 어떤 향기가 잘 어울릴지를 맞추는 게 재미있기 때문이다.#@문장구분# 나는 샤넬처럼 나만의 브랜드를 만들어서 향수로 전 세계적으로 까지는 아니더라도 우리나라에서라도 유명한 향수 브랜드로 만들고 싶다. #@문장구분#그리고 나는 친구들에게도 향수를 선물해주는 걸 좋아하기 때문에 향수가 인기가 많아지면 샴푸회사같은 곳과 콜라보를 해서 내가 만든 내 브랜드만의 향수를 더 많이 알리고 싶다. #@문장구분#그리고 향수는 화학물질이기 때문에 피부가 예민한 사람은 향수를 잘 쓰지 못하는 사람도 있는데 그런 사람들을 위해서 천연 성분을 사용하고 자극적이지 않은 향수를 만들어서 어떤 피부타입의 사람이라도 향수를 다 즐길 수 있도록 하고 싶다.#@문장구분# 그러기 위해서 내가 제일 어려워하는 화학 공부를 열심히 해야 한다고 해서 미래의 내 꿈을 위해 열심히 공부할 것이다.",
+      "paragraph_len": 575,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.388889,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.222221,
+      25.38889,
+      18.444445
+    ],
+    "essay_scoreT_avg": 21.351852,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_81192",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 477,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

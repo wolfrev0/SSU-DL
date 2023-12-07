@@ -1,0 +1,217 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시는 더 많은 사람들이 기계에 의존하는 삶을 살고 있을 것 같다.#@문장구분# 예를 들어, 이미 시행되고 있는 자율주행자동차를 넘어 이동하는 집에서 생활한다거나, 일을 할 때도 컴퓨터와 더하여 여러 기계들을 사용하면서 자신들의 업무를 수행해나가는 모습을 상상할 수 있을 것이라고 생각한다.#@문장구분# 미래에는 지금 인간이 하기 힘든 일을 대신 하는 로봇들이 많이 개발되고 있듯이 인간이 하기 힘든 일 뿐만 아니라 귀찮은 일, 번거로운 일들은 다 기계가 도맡아서 하는 모습을 상상해볼 수도 있을 것이라고 생각한다.#@문장구분# 그렇게 된다면 많은 사람들이 기계에만 의존하다보니 여러 나라에서는 다른 나라의 기계를 쟁취하여 그 나라의 국력을 약화시키는 등의 일들을 하고 개인끼리에서도 경쟁할 때 자신들의 능력을 믿고 경쟁을 하기 보다 기계를 어떻게 하면 뺏어서 최대한 기계의 의존을 최소화하면서 상대를 약화시킬 수 있을지 고민하는 등 점점 더 사람들이 개인적이고 야비하고 치사한 동물로 변질 될 수 밖에 없을 것이라고 생각한다.#@문장구분# 그래서 나는 미래도시를 상상해보면서 그것을 대비하기 위해 지금부터라도 기계에 대한 의존도를 낮추기 위해 노력해야한다고 생각한다.#@문장구분#",
+      "paragraph_len": 672,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.1,
+      20.25,
+      21.3
+    ],
+    "essay_scoreT_avg": 21.883331,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 예를 들어, 이미 시행되고 있는 자율주행 자동차를 넘어 이동하는 집에서 생활한다거나, 일을 할 때도 컴퓨터와 더하여 여러 기계들을 사용하면서 자신들의 업무를 수행해나가는 모습을 상상할 수 있을 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어, 이미 시행되고 있는 <문법_맞춤법>자율주행자동차를 </문법_맞춤법>넘어 이동하는 집에서 생활한다거나, 일을 할 때도 컴퓨터와 더하여 여러 기계들을 사용하면서 자신들의 업무를 수행해나가는 모습을 상상할 수 있을 것이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에는 지금 인간이 하기 힘든 일을 대신하는 로봇들이 많이 개발되고 있듯이 인간이 하기 힘든 일뿐만 아니라 귀찮은 일, 번거로운 일들은 다 기계가 도맡아서 하는 모습을 상상해 볼 수도 있을 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래에는 지금 인간이 하기 힘든 일을 <문법_맞춤법>대신 </문법_맞춤법>하는 로봇들이 많이 개발되고 있듯이 인간이 하기 힘든 일 뿐만 아니라 귀찮은 일, 번거로운 일들은 다 기계가 도맡아서 하는 모습을 상상해볼 수도 있을 것이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 된다면 많은 사람들이 기계에만 의존하다 보니 여러 나라에서는 다른 나라의 기계를 쟁취하여 그 나라의 국력을 약화시키는 등의 일들을 하고 개인끼리에서도 경쟁할 때 자신들의 능력을 믿고 경쟁을 하기 보다 기계를 어떻게 하면 뺏어서 최대한 기계의 의존을 최소화하면서 상대를 약화시킬 수 있을지 고민하는 등 점점 더 사람들이 개인적이고 야비하고 치사한 동물로 변질 될 수밖에 없을 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 된다면 많은 사람들이 기계에만 <문법_맞춤법>의존하다보니 </문법_맞춤법>여러 나라에서는 다른 나라의 기계를 쟁취하여 그 나라의 국력을 약화시키는 등의 일들을 하고 개인끼리에서도 경쟁할 때 자신들의 능력을 믿고 경쟁을 하기 보다 기계를 어떻게 하면 뺏어서 최대한 기계의 의존을 최소화하면서 상대를 약화시킬 수 있을지 고민하는 등 점점 더 사람들이 개인적이고 야비하고 치사한 동물로 변질 될 수 밖에 없을 것이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 미래도시를 상상해 보면서 그것을 대비하기 위해 지금부터라도 기계에 대한 의존도를 낮추기 위해 노력해야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 미래도시를 <문법_맞춤법>상상해보면서 </문법_맞춤법>그것을 대비하기 위해 지금부터라도 기계에 대한 의존도를 낮추기 위해 노력해야한다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_76207",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 573,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

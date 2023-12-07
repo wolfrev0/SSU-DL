@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시의 이름은 바로 배부름의 도시입니다.#@문장구분# 그이유에는 미래에는 식량을 엄청나게 늘릴 수 있는 기술이 생겨서 그 기술로 모든 사람이 엄청나게 배부르게 먹을 수 있게 하는 방법이 생길 것 이라고 생각합니다.#@문장구분# 그렇기 때문에 미래에 배부름의 도시가 생길 것 이라고 생각합니다.#@문장구분# 그래서 그 도시에는 사람들이 마른사람이 없고 전부 뚱뚱한사람 밖에 없어서 전부 100kg이 넘어갈 것입니다.#@문장구분# 그렇게 되면 그 도시는 비만도시가 되어서 사람들이 건강이 나빠질 것입니다.#@문장구분# 그래서 저는 미래에 아무리 식량이 많아져도 무턱대고 먹는게 아니라 조심히 양을 조절해가며 먹어야겠다고 생각했다.#@문장구분#\n 그래야지만 양이 조절되고 사람들이 몸무게가 유지 가능할 것이라고 생각합니다.#@문장구분# 그래도 배부름의 도시에는 못먹어서 쓰러지고 돈이없어서 밥을 못 먹는 그런일은 없을꺼 같다고 생각하니 기분이 좋은거 같습니다.#@문장구분#",
+      "paragraph_len": 599,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      20.55,
+      16.8
+    ],
+    "essay_scoreT_avg": 20.749998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 이유에는 미래에는 식량을 엄청나게 늘릴 수 있는 기술이 생겨서 그 기술로 모든 사람이 엄청나게 배부르게 먹을 수 있게 하는 방법이 생길 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유에는</문법_맞춤법> 미래에는 식량을 엄청나게 늘릴 수 있는 기술이 생겨서 그 기술로 모든 사람이 엄청나게 배부르게 먹을 수 있게 하는 방법이 생길 것 이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 미래에 배부름의 도시가 생길 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 미래에 배부름의 도시가 생길 <문법_맞춤법>것 이라고</문법_맞춤법> 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 그 도시에는 사람들이 마른 사람이 없고 전부 뚱뚱한 사람밖에 없어서 전부 100kg이 넘어갈 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 그 도시에는 사람들이 <문법_맞춤법>마른사람이</문법_맞춤법> 없고 전부 뚱뚱한사람 밖에 없어서 전부 100kg이 넘어갈 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 되면 그 도시는 비만 도시가 되어서 사람들이 건강이 나빠질 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 되면 그 도시는<문법_맞춤법> 비만도시가 </문법_맞춤법>되어서 사람들이 건강이 나빠질 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저는 미래에 아무리 식량이 많아져도 무턱대고 먹는 게 아니라 조심히 양을 조절해가며 먹어야겠다고 생각했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 저는 미래에 아무리 식량이 많아져도 무턱대고 <문법_맞춤법>먹는게</문법_맞춤법> 아니라 조심히 양을 조절해가며 먹어야겠다고 생각했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 배부름의 도시에는 못 먹어서 쓰러지고 돈이 없어서 밥을 못 먹는 그런 일은 없을 거 같다고 생각하니 기분이 좋은 거 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래도 배부름의 도시에는 <문법_맞춤법>못먹어서 </문법_맞춤법>쓰러지고 돈이없어서 밥을 못 먹는 그런일은 없을꺼 같다고 생각하니 기분이 좋은거 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75730",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 440,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

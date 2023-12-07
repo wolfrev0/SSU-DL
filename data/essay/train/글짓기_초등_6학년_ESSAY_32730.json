@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 바다에 있는 거북이가 되고 싶습니다.#@문장구분# 거북이는 오래 살수 있고 육지에서도 살수있고 보기 힘든 생물 이기 때문에 거북이가 되고 싶습니다.#@문장구분# 만약 거북이가 된다면 드넓은 바다로가 헤엄치고 싶습니다.#@문장구분# 거북이는 등껍질이 단단해서 먹히기가 힘들어 힘쌘 동물 일지도 모릅니다.#@문장구분# 처음에는 해파리가 독이 있고 위험한 바다생물이라 되고 싶었지만 육지에도 못가고 딱딱 하지도 않아 잡아 먹히기 쉬울 수도 있어 거북이를 선택하였 습니다.#@문장구분# 거북이는 다른 생물들을 비해 오래 살아서 좋을것 같습니다.#@문장구분# 저는 미역, 해초를 싫어해서 만약 거북이가 된다면 미역, 해초를 좋아해 보는 것도 나쁘지 않을 것 같습니다.#@문장구분# 거북이 말고도 다른 바다 생물들이 되고 싶지만 그래도 첫번째로 거북이가 되어 드넓은 바다에서 바다 생물과 바다에 있는 신기한 것도 보고 싶습니다.#@문장구분# 하지만 거북이가 되서도 않좋을 것 같습니다.#@문장구분# 거북이는 느려서 안좋은거 같습니다.#@문장구분# 동물마다 약점, 장점이 있지만 꼭 장점만 있어도 않좋을 것 같습니다.#@문장구분#",
+      "paragraph_len": 715,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      30,
+      20
+    ],
+    "essay_scoreT_avg": 24.216667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 거북이는 오래 살수 있고 육지에서도 살 수 있고 보기 힘든 생물이기 때문에 거북이가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 거북이는 오래 살수 있고 육지에서도 <문법_기타>살수있고 </문법_기타>보기 힘든 생물 이기 때문에 거북이가 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 거북이가 된다면 드넓은 바다로 가 헤엄치고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 만약 거북이가 된다면 드넓은 <문법_기타>바다로가 </문법_기타>헤엄치고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거북이는 등껍질이 단단해서 먹히기가 힘들어 힘센 동물 일지도 모릅니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 거북이는 등껍질이 단단해서 먹히기가 힘들어 <문법_맞춤법>힘쌘 </문법_맞춤법>동물 일지도 모릅니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 처음에는 해파리가 독이 있고 위험한 바다생물이라 되고 싶었지만 육지에도 못 가고 딱딱하지도 않아 잡아먹히기 쉬울 수도 있어 거북이를 선택하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>처음에는 해파리가 독이 있고 위험한 바다생물이라 되고 싶었지만 육지에도 못가고 딱딱 하지도 않아 잡아 먹히기 쉬울 수도 있어 거북이를 선택하였 습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거북이는 다른 생물들을 비해 오래 살아서 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 거북이는 다른 생물들을 비해 오래 살아서 <문법_기타>좋을것 </문법_기타>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거북이 말고도 다른 바다 생물들이 되고 싶지만 그래도 첫 번째로 거북이가 되어 드넓은 바다에서 바다 생물과 바다에 있는 신기한 것도 보고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 거북이 말고도 다른 바다 생물들이 되고 싶지만 그래도 <문법_기타>첫번째로 </문법_기타>거북이가 되어 드넓은 바다에서 바다 생물과 바다에 있는 신기한 것도 보고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 거북이가 돼서도 안 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>하지만 거북이가 되서도 않좋을 것 같습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거북이는 느려서 안 좋은 거 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 거북이는 느려서 <문법_기타>안좋은거 </문법_기타>같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동물마다 약점, 장점이 있지만 꼭 장점만 있어도 안 좋을 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 동물마다 약점, 장점이 있지만 꼭 장점만 있어도 <문법_맞춤법><문법_기타>않좋을 </문법_기타></문법_맞춤법>것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32730",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 495,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래가 되면 현재 우리가 이용하고 함께 살아가는 생태계를 더 위한 환경에서 살고싶다.#@문장구분# 지금은 우리가 살고있는 자연환경들을 너무 많이 해치면서 살고 있는 것 같다.#@문장구분# 석유를 사용하기 위해 많은 지역의 땅을 파고, 또 그 석유를 이용해서 자동차나 기계들을 돌려 엄청난 양의 매연이 나오게 되고, 또 에어컨이나 냉장고들이 돌아가면서 프레온 가스가 나오게 된다.#@문장구분# 그래서 우리가 현재 살고있는 환경이 파괴되고, 망가지고 지구온난화로 인해 이상기후도 생기게 된다.#@문장구분# 그래서 나는 먼 미래에는 우리가 더욱 발전해서 인간과 자연 모두 어울어져 살아가는 세상이 되었으면 좋겠다.#@문장구분# 나는 그 도시의 이름을 '자연과 함께하는 도시'라고 붙혀주고 싶다.#@문장구분# 인간이 자연을 파괴하면서 살아가기 보다는 자연을 지켜가면서 인간도 자연을 도와주고, 자연도 인간을 위하면서 서로 서로가 잘 어우러져 조화를 이르어서 살아갔으면 좋겠다.#@문장구분#",
+      "paragraph_len": 587,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      26.5,
+      24.4
+    ],
+    "essay_scoreT_avg": 25.633333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 지금은 우리가 살고 있는 자연환경들을 너무 많이 해치면서 살고 있는 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금은 우리가 <문법_맞춤법>살고있는</문법_맞춤법> 자연환경들을 너무 많이 해치면서 살고 있는 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 우리가 현재 살고 있는 환경이 파괴되고, 망가지고 지구 온난화로 인해 이상기후도 생기게 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 우리가 현재 <문법_맞춤법>살고있는</문법_맞춤법> 환경이 파괴되고, 망가지고 지구온난화로 인해 이상기후도 생기게 된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 먼 미래에는 우리가 더욱 발전해서 인간과 자연 모두 어우러져 살아가는 세상이 되었으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 먼 미래에는 우리가 더욱 발전해서 인간과 자연 모두 <문법_맞춤법>어울어져</문법_맞춤법> 살아가는 세상이 되었으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 그 도시의 이름을 '자연과 함께하는 도시'라고 붙여주고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 그 도시의 이름을 '자연과 함께하는 도시'라고 <문법_맞춤법>붙혀</문법_맞춤법>주고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인간이 자연을 파괴하면서 살아가기보다는 자연을 지켜가면서 인간도 자연을 도와주고, 자연도 인간을 위하면서 서로 서로가 잘 어우러져 조화를 이루어서 살아갔으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인간이 자연을 파괴하면서 <문법_맞춤법>살아가기 보다는</문법_맞춤법> 자연을 지켜가면서 인간도 자연을 도와주고, 자연도 인간을 위하면서 서로 서로가 잘 어우러져 조화를 이르어서 살아갔으면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60307",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 448,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

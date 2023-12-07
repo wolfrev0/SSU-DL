@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 만화책을 좋아합니다.#@문장구분# 그래서 여가시간에는 만화카페에 들어가서 여러 가지 만화책들을 보는 것을 재미있게 즐기고 있습니다.#@문장구분# 거희 시간나는 매일매일 밥먹듯이 가고 있습니다.#@문장구분# 그러다가 어느날문득 이런 생각을 한적이 있습니다.#@문장구분# 제가 자주가는 만화카페가 제것이였으면 하루종일 제가 보고싶은 만화를 하루종일 볼수도있고 또한 저처럼 만화를 좋아해주는 사람들이 와서 이용료를 지불해서 간식을 먹으면서 만화를 보면 심심함과 무료함을 달랠수가 있고 저는 수익이 생깁니다.#@문장구분# 그래서 사람들이 예전에 좋아했던 원피스나 블리치 같은 만화들을 보면서 놓쳤던 부분이나 또한 애니메이션에선 나오지않았던 장면들이 만화책에서 나오기 때문에 특히 오랫동안 만화를 봐온 사람들에게는 더할나위없이 좋은장소라고 생각합니다.#@문장구분# 그래서 저는 만화책을 누구나 편안하게 볼수가있고 만화책뿐만아니라 각종 놀이를 하면서 커피와 간식을 먹으며 시간을 때울 수 있는 만화카페를 가지고싶습니다.",
+      "paragraph_len": 589,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.3333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              1,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.611111,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.61111,
+      28.5,
+      20.222221
+    ],
+    "essay_scoreT_avg": 24.111109,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74850",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 470,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

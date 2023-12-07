@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 10년 후가 된다면 제가 대학교를 다니고 있거나 대학원을 다니고 있을 것이라고 생각합니다.#@문장구분# 저는 새로운 지식을 얻는 것을 좋아합니다.#@문장구분# 특히 책을 읽는 것을 통해서 새로운 지식을 얻는 것은 정말 의미가 있고 즐거운 일이라고 생각합니다. #@문장구분#하지만 저는 이러한 것을 대학원을 간다면 더 많이 그리고 더 잘 할수 있게 될것이라고 생각합니다. #@문장구분#왜냐하면 대학원은 무언가를 탐구하고, 연구하고, 공부를 하는 곳이라고 알고있습니다. #@문장구분#그래서 이러한 대학원을 다니게 되고 또 그곳에서 공부를 하게 된다면 정말 좋을 것 같습니다.#@문장구분# 물론 그곳에 들어가기는 정말 힘들 것입니다. #@문장구분#그래서 그런 대학원에 들어가기 위해서는 더욱 열심히 공부를 해야 할 것입니다. #@문장구분#그래서 저는 앞으로 학교에서 나가는 진도를 잘 따라가기 위해서 수업시간에 졸지 말고 또 예습과 복습을 열심히 할 것입니다.#@문장구분# 그리고 만약 20년 후가 된다면 직장을 다니면서 독서모임을 다니고 있을 것 같습니다.#@문장구분# 저는 앞에서도 말을 햇듯이 책 읽는 것을 좋아하고 또 그 책에 대한 이야기를 하는 것을 좋아하기 때문에 그럴 것 같습니다.",
+      "paragraph_len": 742,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      24.722221,
+      26.666668
+    ],
+    "essay_scoreT_avg": 26.462961,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_81120",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 544,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

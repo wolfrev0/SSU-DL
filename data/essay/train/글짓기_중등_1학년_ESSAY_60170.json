@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래 우리사회는 되게 화로 가득한 사회일 것 같다.#@문장구분# 사람들은 수많은 혐오표현을 생산하고 퍼뜨리고 사용하고 있다.#@문장구분# SNS를 비롯한 인터넷을 통해서 말이다.#@문장구분# 인터넷이라는 익명의 공간을 통해 자신의 생각을 가감없이 표현하기 시작한 사람들은 성별문제, 인종문제, 가치관문제 등 다양한 문제로 서로를 물고 뜯고 싸운다.#@문장구분# 서로를 조금씩만 이해하고 공감한다면 해결될 문제라고 생각하는데, 사람들은 그게 쉽지 않은 것 같다.#@문장구분# 그렇게 물고 뜯고 싸우는 사람들의 화는 가라앉을 것처럼 보이지 않는다.#@문장구분# 그렇게 점점 대립의 간극을 벌어질 것이고, 결국 우리의 사회는 화로 가득한 사회가 될 것이다.#@문장구분# 그런 미래사회가 오지 않도록 하려면 상대방의 입장을 한번 더 생각해보고, 공감하고 인정할 줄 아는 자세가 필요할 것이라고 생각한다.#@문장구분#",
+      "paragraph_len": 559,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      13.5,
+      15.75
+    ],
+    "essay_scoreT_avg": 17.883333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 미래 우리 사회는 되게 화로 가득한 사회일 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 미래 <문법_맞춤법>우리사회는</문법_맞춤법> 되게 화로 가득한 사회일 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인터넷이라는 익명의 공간을 통해 자신의 생각을 가감없이 표현하기 시작한 사람들은 성별 문제, 인종 문제, 가치관 문제 등 다양한 문제로 서로를 물고 뜯고 싸운다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인터넷이라는 익명의 공간을 통해 자신의 생각을 가감없이 표현하기 시작한 사람들은 <문법_맞춤법>성별문제, 인종문제, 가치관문제</문법_맞춤법> 등 다양한 문제로 서로를 물고 뜯고 싸운다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60170",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 400,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

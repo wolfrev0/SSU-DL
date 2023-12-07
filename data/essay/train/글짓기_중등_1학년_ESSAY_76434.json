@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 어떤 직업이 생기고 어떤 직업이 없어질까.#@문장구분# 생각해 본다.#@문장구분# 자동차를 만드는 공장을 보면 로봇들이 사람이 하는일을 대신하기도 하고 자동차도 자율 주행으로 알아서 운전하는 시대이기도 하다.#@문장구분#그리고 CF에도 AI모델이 등장한다.#@문장구분# 우리는 과학에 발전에 편안함을 누리고 있지만 한편으로는 과학에 발전으로 사람이 해야 할 일을 다른 것이 대체하는 삶을 살기도 하다.#@문장구분# 미래를 바라보며 우리가 무엇을 어떻게 해서 내가 무엇을 직업으로 할지 생각해 봐야 한다.#@문장구분# 어른들은 의사,판사,선생님,공무원등이 좋은 직업이라고 하지만 미래에도 정말 안정적인 직업이 될지 앞으로 세상이 어떤직업이 안정적이 직업이 될지 생각해 보게 된다.#@문장구분# 과학의 발전이 어떻게 보면 좋은 것 많이 아닌 것 갔다.#@문장구분# 많은 사람들에 일자리를 잃게 되는 일이 생길 것 갔아서 이다.#@문장구분# 미래에는 환경의 소중함을 생각에서 환경 발전에 도움이 되는 아이디어들이 많이 나와서 미세먼지 없이 좋은 공기와 지금처럼 코로나라는 세계적인 펜더믹이 생기는 일이 없었으면 좋겠다.#@문장구분# 사람들이 마스크 없이 자유로이 길를 다니고 자유로이 여행을 할수 있는 미래이면 더 좋겠다.#@문장구분#",
+      "paragraph_len": 780,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      28.4,
+      30
+    ],
+    "essay_scoreT_avg": 28.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "063",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_76434",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 561,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

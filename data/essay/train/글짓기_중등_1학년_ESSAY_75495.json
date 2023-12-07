@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래 우리도시는 행복으로 가득할 것 같다는 생각이 들었다.#@문장구분# 이제 우리사회에는 많은 부분들이 자동화되고 있고, 사람들의 근무시간은 점점 줄어들고 있다.#@문장구분# 더이상 어떤 방향으로든 성장을 멈추게 된다면, 이제 우리사회는 비로소 많은 사람들이 일하지 않아도 돈을 벌게되고, 그 돈으로 자신의 행복을 사기 시작할 것이라고 생각한다.#@문장구분# 요즘 욜로족이나, 워라밸과 같은 단어들이 나오고 있는 이유도 그런 이유가 아닐까.#@문장구분# 사람들은 이제 집을 사고, 땅을 사고, 차를 사는 일 보다는 그냥 자신이 쓰고싶은 곳에, 자신의 흥미를 느끼는 곳에 돈을 써버리는 추세이다.#@문장구분# 그렇게 사람들이 각자 자신의 진로를, 적성을, 취미를 찾아 즐기다보면 나는 우리 사회는 미래에 정말 행복해질 것이라고 생각한다.#@문장구분# 그때는 나도 행복했으면 좋겠다.#@문장구분#",
+      "paragraph_len": 537,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      20.65,
+      16.55
+    ],
+    "essay_scoreT_avg": 19.066668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 미래 우리 도시는 행복으로 가득할 것 같다는 생각이 들었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 미래<문법_맞춤법> 우리도시는</문법_맞춤법> 행복으로 가득할 것 같다는 생각이 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제 우리 사회에는 많은 부분들이 자동화되고 있고, 사람들의 근무시간은 점점 줄어들고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이제 <문법_맞춤법>우리사회에는</문법_맞춤법> 많은 부분들이 자동화되고 있고, 사람들의 근무시간은 점점 줄어들고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 더 이상 어떤 방향으로든 성장을 멈추게 된다면, 이제 우리 사회는 비로소 많은 사람들이 일하지 않아도 돈을 벌게 되고, 그 돈으로 자신의 행복을 사기 시작할 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>더이상</문법_맞춤법> 어떤 방향으로든 성장을 멈추게 된다면, 이제 우리사회는 비로소 많은 사람들이 일하지 않아도 돈을 벌게되고, 그 돈으로 자신의 행복을 사기 시작할 것이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들은 이제 집을 사고, 땅을 사고, 차를 사는 일보다는 그냥 자신이 쓰고 싶은 곳에, 자신의 흥미를 느끼는 곳에 돈을 써버리는 추세이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람들은 이제 집을 사고, 땅을 사고, 차를 사는 <문법_맞춤법>일 보다는</문법_맞춤법> 그냥 자신이 쓰고싶은 곳에, 자신의 흥미를 느끼는 곳에 돈을 써버리는 추세이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 사람들이 각자 자신의 진로를, 적성을, 취미를 찾아 즐기다 보면 나는 우리 사회는 미래에 정말 행복해질 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 사람들이 각자 자신의 진로를, 적성을, 취미를 찾아 <문법_맞춤법>즐기다보면 </문법_맞춤법>나는 우리 사회는 미래에 정말 행복해질 것이라고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75495",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 398,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

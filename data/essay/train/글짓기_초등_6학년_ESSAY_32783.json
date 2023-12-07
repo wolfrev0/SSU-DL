@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다에는 정말 많은 생물들이 살고 있고 아직 밝혀지지 않은 것도 많아요.#@문장구분# \n바다는 정말 아름답고 신비한 곳입니다.#@문장구분# 저는 바다를 굉장히 좋아합니다.#@문장구분# 바다에는 아주 많은 종류의 생물들이 살아가고 있어요.#@문장구분# 만약 바다에 놀러간다면 바로 바다에 뛰어들어가서 수영하고 싶네요.#@문장구분# 이렇게 좋은 바다를 괴롭히는 나쁜 사람들이 있어요.#@문장구분# 바다에다가 쓰레기를 버리는 사람들이지요.#@문장구분# 그 쓰레기들 때문에 바다에 사는 생물들은 죽어버립니다.#@문장구분# 저는 바다에 사는 생물중 하나가 무엇이 되고 싶냐는 질문에 상어라고 대답할거에요.#@문장구분# 이유는 상어는 누구한테도 심해에서 죽지 않을거라고 생각해서 입니다.#@문장구분# 물론 상어도 누구에게는 죽지만 그래도 강한쪽에 있으니 상어가 되고 싶은 것입니다.#@문장구분# 또한 제 별명이 상어여서 그런것도 있습니다.#@문장구분# 상어는 잔인하지만 정말 멋있는 동물입니다.#@문장구분# 상어는 강할뿐더러 몸집도 커서 정말 멋있다고 생각 합니다.#@문장구분# 상어말고도 저는 또 하나 되고 싶은 동물은 거북이 입니다.#@문장구분# 거북이는 여유가 있는것 같아 너무 부럽 습니다.#@문장구분# 그런식으로 살면 소원이 없을겁니다.#@문장구분# 여러분이 되고싶은 동물은 무엇인가요?#@문장구분# 이상 #@이름#이였습니다#@문장구분#.",
+      "paragraph_len": 952,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      20,
+      23.05
+    ],
+    "essay_scoreT_avg": 21.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 만약 바다에 놀러 간다면 바로 바다에 뛰어들어가서 수영하고 싶네요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 바다에 <문법_맞춤법>놀러간다면 </문법_맞춤법>바로 바다에 뛰어들어가서 수영하고 싶네요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 바다에 사는 생물 중 하나가 무엇이 되고 싶냐는 질문에 상어라고 대답할 거예요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 저는 바다에 사는 <문법_기타>생물중 </문법_기타>하나가 무엇이 되고 싶냐는 질문에 상어라고 대답할거에요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 상어는 누구한테도 심해에서 죽지 않을 거라고 생각해서입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>이유는 상어는 누구한테도 심해에서 죽지 않을거라고 생각해서 입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 상어도 누구에게는 죽지만 그래도 강한 쪽에 있으니 상어가 되고 싶은 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 물론 상어도 누구에게는 죽지만 그래도 <문법_기타>강한쪽에 </문법_기타>있으니 상어가 되고 싶은 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 제 별명이 상어여서 그런 것도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 또한 제 별명이 상어여서 <문법_기타>그런것도 </문법_기타>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 상어는 강할뿐더러 몸집도 커서 정말 멋있다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 상어는 강할뿐더러 몸집도 커서 정말 멋있다고 <문법_기타>생각 합니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 상어 말고도 저는 또 하나 되고 싶은 동물은 거북이입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>상어말고도 저는 또 하나 되고 싶은 동물은 거북이 입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거북이는 여유가 있는 것 같아 너무 부럽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>거북이는 여유가 있는것 같아 너무 부럽 습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 식으로 살면 소원이 없을 겁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그런식으로 살면 소원이 없을겁니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여러분이 되고 싶은 동물은 무엇인가요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>여러분이 되고싶은 동물은 무엇인가요?</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32783",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 556,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

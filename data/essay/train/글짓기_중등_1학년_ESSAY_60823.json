@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시는 바로 \"스마트시티\"입니다.#@문장구분# 스마트시티는 바로 모든게 자동으로 돌아가는 도시입니다.#@문장구분# 왜냐하면 기계가 우리 생활을 많이 도와주고 있는데 요즘, 이제 더 좋은 기계가 많이 생기면서 우리들이 사는 것을 더 편하게 만들어 줄수 있을 거라고 생각하기 때문입니다.#@문장구분# 어떤 기계가 생기냐면, 자동으로 빨래를 널어주는 기계입니다.#@문장구분# 빨래를 돌리는 거는 세탁기가 해주고 있는데 다 돌아간 빨래를 꺼내서 하나하나 털어서 빨랫대에 널는 것은 지금은 기계가 할수 없기 때문입니다.#@문장구분# 만약 그런 기계가 발명이 된다면 우리가 하나하나 털어서 힘들게 빨래를 햇빛에 보이게 널을 필요가 없을 거라고 생각합니다.#@문장구분# 또 어떤 기계가 있냐면 쓰레기를 자동으로 버려주는 기계입니다.#@문장구분# 저는 요즘 방안에서 수업을 듣고 살아서 거기서 먹을 걸 먹고 하니까 다양한 쓰레기가 많이 나옵니다.#@문장구분# 그런 쓰레기를 치우기 귀찮아졌을때 한곳에다가 대충 놓아두는데 이것으로 어머니께 많이 혼납니다.#@문장구분# 이런 귀찮음을 없애주는 기계가 만약에 생긴다면 아주 편할것 같습니다.#@문장구분# 제가 성인이 될때 스마트시티가 된다면 저도 더 편하게 살수 있기 떄문에 더 많이 행복해질것 같습니다.#@문장구분#",
+      "paragraph_len": 795,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.55,
+      28,
+      24.5
+    ],
+    "essay_scoreT_avg": 25.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 기계가 우리 생활을 많이 도와주고 있는데 요즘, 이제 더 좋은 기계가 많이 생기면서 우리들이 사는 것을 더 편하게 만들어 줄 수 있을 거라고 생각하기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 기계가 우리 생활을 많이 도와주고 있는데 요즘, 이제 더 좋은 기계가 많이 생기면서 우리들이 사는 것을 더 편하게 만들어 <문법_맞춤법>줄수</문법_맞춤법> 있을 거라고 생각하기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 쓰레기를 치우기 귀찮아졌을 때 한 곳에다가 대충 놓아두는데 이것으로 어머니께 많이 혼납니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 쓰레기를 치우기 <문법_맞춤법>귀찮아졌을때 한곳에다가</문법_맞춤법> 대충 놓아두는데 이것으로 어머니께 많이 혼납니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 귀찮음을 없애주는 기계가 만약에 생긴다면 아주 편할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 귀찮음을 없애주는 기계가 만약에 생긴다면 아주 <문법_맞춤법>편할것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 성인이 될 때 스마트시티가 된다면 저도 더 편하게 살 수 있기 때문에 더 많이 행복해질 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 성인이 <문법_맞춤법>될때</문법_맞춤법> 스마트시티가 된다면 저도 더 편하게 살수 있기 떄문에 더 많이 행복해질것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60823",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 576,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

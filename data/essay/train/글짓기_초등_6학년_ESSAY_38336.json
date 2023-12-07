@@ -1,0 +1,262 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 바다에 사는 생물중에서 바다거북을 선택했습니다.#@문장구분# 저의 상상속 바다거북의 이야기는 원래 거북이는 느릿느릿 한데 바다거북이는 바다에서 살기 때문에 다리로 수영을 하면서 가기 때문에 정말 빠르게 지나다닐수 있습니다.#@문장구분# 그레서 다른 바다 생물들이 위험에 처하거나 급할 때 바다거북이 다른 바다 생물체를 도와준다고 합니다. #@문장구분#그렇기 때문에 바다에서 바다거북은 정말 착하다고 알려져 있습니다. #@문장구분#그레서 다른 생물들이 급할때면 바다거북을 찾는다고해요. #@문장구분#바다생물중에서 가장 잘 도와주는 바다거북이 인기가 많다고 해요. #@문장구분#이 바다의 인기쟁이 바다거북! 거북이를 무서워해서 피하는 사람들이 많은데 바다거북이는 정말 착한 아이입니다. #@문장구분#무서운 사람들은 당연히 무서울 수 있지만 거북이에 대한 마음을 좀만 더 열어준다면 거북이와 친해질 수 있습니다.#@문장구분#",
+      "paragraph_len": 565,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.75,
+      22.85,
+      20
+    ],
+    "essay_scoreT_avg": 21.199999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 바다에 사는 생물 중에서 바다거북을 선택했습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 바다에 사는 <문법_맞춤법>생물중에서</문법_맞춤법> 바다거북을 선택했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저의 상상 속 바다거북의 이야기는 원래 거북이는 느릿느릿한데, 바다거북이는 바다에서 살기 때문에 다리로 수영을 하면서 가므로 정말 빠르게 지나다닐 수 있다는 것입니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "'때문에'가 반복됩니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 저의 <문법_맞춤법>상상속</문법_맞춤법> 바다거북의 이야기는 원래 거북이는 느릿느릿 한데 바다거북이는 바다에서 살기 때문에 다리로 수영을 하면서 <스타일링_기타>가기 때문에</스타일링_기타> 정말 빠르게 지나다닐수 있습니다.",
+      "sentence_corr_txt_styling": " 저의 상상 속 바다거북의 이야기는 원래 거북이는 느릿느릿한데, 바다거북이는 바다에서 살기 때문에 다리로 수영을 하면서 가므로 정말 빠르게 지나다닐 수 있다는 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 다른 바다 생물들이 위험에 처했거나 급할 때 바다거북이 다른 바다 생물체를 도와준다고 합니다. ",
+      "sentence_corr_reason": [
+        "'그래서'가 옳은 표현입니다.",
+        "과거 시제가 자연스럽습니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " <문법_맞춤법>그레서</문법_맞춤법> 다른 바다 생물들이 위험에 <문법_시제>처하거나</문법_시제> 급할 때 바다거북이 다른 바다 생물체를 도와준다고 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 다른 생물들이 급할 때면 바다거북을 찾는다고 합니다. ",
+      "sentence_corr_reason": [
+        "'그래서'가 옳은 표현입니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그레서</문법_맞춤법> 다른 생물들이 급할때면 바다거북을 찾는다고해요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다생물 중에서 가장 잘 도와주는 바다거북은 인기도 많다고 합니다. ",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "'은'이 자연스럽습니다.",
+        "종결어미는 통일하는 것이 좋을 것 같습니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>바다생물중에서</문법_맞춤법> 가장 잘 도와주는 <문법_조사>바다거북이</문법_조사> 인기가 많다고 <스타일링_기타>해요</스타일링_기타>. ",
+      "sentence_corr_txt_styling": "바다생물 중에서 가장 잘 도와주는 바다거북은 인기도 많다고 합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "거북이를 무서워하는 사람들은 당연히 무서울 수 있지만 거북이에 대한 마음을 좀만 더 열어 준다면 거북이와 친해질 수 있습니다.",
+      "sentence_corr_reason": [
+        "목적어가 필요합니다.",
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>무서운</문법_기타> 사람들은 당연히 무서울 수 있지만 거북이에 대한 마음을 좀만 더 <문법_맞춤법>열어준다면</문법_맞춤법> 거북이와 친해질 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38336",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 406,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

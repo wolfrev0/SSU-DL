@@ -1,0 +1,245 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시의 이름은 바로 컴퓨터시티입니다.#@문장구분# 미래에는 컴퓨터를 이용해서 정말 많은 것들을 할 수가 있을 것입니다.#@문장구분# 그렇게 되면 컴퓨터로 정말 다양한 일들을 할 수 있을것입니다. #@문장구분#컴퓨터로 다양한 주문도 시키고 또 다양한 활동을 할 수 있을 것입니다. #@문장구분#게다가 컴퓨터로 자동차도 조종해서 운전을 못하지만 운전을 하고 싶으면 운전을 하는사람이 컴퓨터로 자동차를 운전하는 그런 신기한 상황이 펼쳐 질 것입니다.#@문장구분# 그럼 정말 자신이 운전이 자신없지만 어딘가를 가야 할 때 정말 큰 도움이 될 것입니다. #@문장구분#그리고 컴퓨터는 어디서든 사용이 가능하기 때문에 휴대성도 간편하고 찾기도 흔하여서 충분히 모두가 사용할 수 있을것입니다.#@문장구분#어서 미래에 컴퓨터로 게임만 하는게 아니라 다양한 조종도 가능한 그런 세상이 왔으면 좋겠다고 생각 했습니다.#@문장구분#",
+      "paragraph_len": 567,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      21.75,
+      19.5
+    ],
+    "essay_scoreT_avg": 21.300001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 미래도시의 이름은 바로 컴퓨터 시티입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 생각하는 미래도시의 이름은 바로 <문법_맞춤법>컴퓨터시티입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에는 컴퓨터를 이용해서 정말 많은 것들을 할 수가 있을 것 입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래에는 컴퓨터를 이용해서 정말 많은 것들을 할 수가 <문법_맞춤법>있을 것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "게다가 컴퓨터로 자동차도 조종해서 운전을 못하지만 운전을 하고 싶으면 운전을 하는 사람이 컴퓨터로 자동차를 운전하는 그런 신기한 상황이 펼쳐질 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "게다가 컴퓨터로 자동차도 조종해서 운전을 못하지만 운전을 하고 싶으면 운전을 <문법_맞춤법>하는사람이 </문법_맞춤법>컴퓨터로 자동차를 운전하는 그런 신기한 상황이 펼쳐 질 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 정말 자신이 운전이 자신 없지만 어딘가를 가야 할 때 정말 큰 도움이 될 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 정말 자신이 운전이 <문법_맞춤법>자신없지만 </문법_맞춤법>어딘가를 가야 할 때 정말 큰 도움이 될 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 컴퓨터는 어디서든 사용이 가능하기 때문에 휴대성도 간편하고 찾기도 흔하여서 충분히 모두가 사용할 수 있을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 컴퓨터는 어디서든 사용이 가능하기 때문에 휴대성도 간편하고 찾기도 흔하여서 충분히 모두가 사용할 수<문법_맞춤법> 있을것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어서 미래에 컴퓨터로 게임만 하는 게 아니라 다양한 조종도 가능한 그런 세상이 왔으면 좋겠다고 생각했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어서 미래에 컴퓨터로 게임만 <문법_맞춤법>하는게 </문법_맞춤법>아니라 다양한 조종도 가능한 그런 세상이 왔으면 좋겠다고 생각 했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75734",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 409,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

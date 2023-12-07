@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래의 모습은 다른 대다수의 학생들이 생각하는 그것과는 많이 다르다.#@문장구분# 우리는 지금 '종전'이 아닌, '휴전'의 상태에 놓여있다.#@문장구분# '휴전'이라는 것은 말 그대로 전쟁을 잠시 '쉰다'라는 이야기다. 중국은 대만을 침공하겠다고 대놓고 야욕을 표하고 있다. #@문장구분#더불어 러시아까지도 우크라이나 침공에 대한 의지를 대놓고 표출하고 있는 상황이다.#@문장구분# 나는 미래의 사회학도로서 앞으로의 상황에 대해 우리 학생들이 진지하게 생각하고 고찰할 의무가 있다고 생각한다.#@문장구분# 미래 도시는 우리가 꿈꾸는 이상적인 상황이 아닐 것이다. #@문장구분#제 3차 세계대전이 발생할 것이고, 온갖 살상무기의 동원과 더럽고 치졸한 수법들로 인해 인류는 물론이고 지구 전체가 초토화될 것이다.#@문장구분# 황폐화된 세계에서 살아남는 사람들조차도 제대로 된, 우리가 이전까지 '인간다운 삶'이라고 규정했던 그런 삶들을 영위하기는 어려울 것이다.#@문장구분# 미래는 우리가 생각하는 것보다 훨씬 더 암울하다.#@문장구분#",
+      "paragraph_len": 647,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.9,
+      23.85,
+      16.55
+    ],
+    "essay_scoreT_avg": 21.1,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 우리는 지금 '종전'이 아닌, '휴전'의 상태에 놓여 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 지금 '종전'이 아닌, '휴전'의 상태에 <문법_맞춤법>놓여있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래는 우리가 생각하는 것보다 훨씬 더 암울할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 미래는 우리가 생각하는 것보다 훨씬 더 <문법_시제>암울하다</문법_시제>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75795",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 468,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

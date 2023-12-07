@@ -1,0 +1,405 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 좋아하는게 있다.#@문장구분#바로 낚시이다. #@문장구분#낚시를 좋아하는 까닭은 물고기를 좋아하기 때문이다. #@문장구분#난 바다낚시 1번민물낚시는 많이 가는편이다 바다낚시에는 좌대낚시라서 우럭을 많이 잡았다.#@문장구분#민물낚시는 큰걸많이잡은편이다.#@문장구분# 나는 고리에 걸린 민물고기들이 제일 불쌍했다.#@문장구분# 구글어스라는 어플을 들어가면 심해생물,미확인 생물채등등 많이 찍히는데 너무 징그럽고 흥미로웠다. #@문장구분#바다는 지구표면에 70% 이다. 나는 일주일동안 고래가 되고 싶다. #@문장구분#왜냐하면 고래는 자유적으로 생활하기 때문입니다.#@문장구분# 나는 바다에서 이것 저것 다해보고 싶기 때문입니다.#@문장구분# 플라스틱 으로 인해 많은 생물들이 죽습니다.#@문장구분# 그러므로 플라스틱 빨대대신에 종이 빨대를 쓰고  1회용 플라스틱 통 대신에 머그컵을 사용하면 좋겠다. #@문장구분#나는 관심이 있는 바다생물이 심해 생물이다. #@문장구분#왜냐하면 신기하고 징그럽고 위험한 생물이기 때문 입니다.#@문장구분# 도와주고 싶은 바다생물은 거북이입니다.#@문장구분# 왜냐하면 플라스틱 빨때가 코에 끼었기 때문입니다.#@문장구분#",
+      "paragraph_len": 798,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      20.25,
+      20.25
+    ],
+    "essay_scoreT_avg": 20.966667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 좋아하는 게 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>좋아하는게 </문법_맞춤법>있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "난 바다 낚시는 한  번 가봤고 민물낚시는 많이 가봤다. 바다 낚시는 좌대낚시라서 우럭을 많이 잡았다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "어미",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "난 <스타일링_담화 맥락 오류>바다낚시 1번</스타일링_담화 맥락 오류>민물낚시는 많이 <문법_어미>가는편이다</문법_어미> <문법_맞춤법><문법_조사>바다낚시에는</문법_조사></문법_맞춤법> 좌대낚시라서 우럭을 많이 잡았다.",
+      "sentence_corr_txt_styling": "난 바다 낚시는 한  번 가봤고 민물낚시는 많이 가봤다. 바다 낚시는 좌대낚시라서 우럭을 많이 잡았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "민물 낚시로는 큰 걸 많이 잡은 편이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사>민물낚시는 </문법_조사></문법_맞춤법>큰걸많이잡은편이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 구글어스라는 어플에 들어가면 심해 생물, 미확인 생물체 등등이 많이 찍히는데 너무 징그럽고 흥미로웠다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 구글어스라는 <문법_조사>어플을 </문법_조사>들어가면 <문법_맞춤법>심해생물,미확인 생물채등등 </문법_맞춤법>많이 찍히는데 너무 징그럽고 흥미로웠다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다는 지구 표면의 70%를 차지한다. 나는 일주일 동안 고래가 되고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_조사><문법_어미>바다는 지구표면에 70% 이다.</문법_어미></문법_조사></문법_맞춤법> 나는 일주일동안 고래가 되고 싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 고래는 자유적으로 생활하기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": "왜냐하면 고래는 자유적으로 생활하기 <문법_어미><문법_높임법>때문입니다</문법_높임법></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나는 바다에서 이것 저것 다 해보고 싶기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>나는 바다에서</스타일링_담화 맥락 오류> 이것 저것 <문법_맞춤법>다해보고 </문법_맞춤법>싶기 <문법_어미><문법_높임법>때문입니다</문법_높임법></문법_어미>.",
+      "sentence_corr_txt_styling": " 그리고 나는 바다에서 이것 저것 다 해보고 싶기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 플라스틱으로 인해 많은 생물들이 죽습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>플라스틱 으로</문법_맞춤법> 인해 많은 생물들이 죽습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 플라스틱 빨대 대신에 종이 빨대를 쓰고  1회용 플라스틱 통 대신에 머그컵을 사용하면 좋겠다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러므로 플라스틱 <문법_맞춤법>빨대대신에 </문법_맞춤법>종이 빨대를 쓰고  1회용 플라스틱 통 대신에 머그컵을 사용하면 좋겠다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 관심이 있는 바다 생물은 심해 생물이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "나는 관심이 있는 <문법_맞춤법><문법_조사>바다생물이 </문법_조사></문법_맞춤법>심해 생물이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 신기하고 징그럽고 위험한 생물이기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": "왜냐하면 신기하고 징그럽고 위험한 생물이기 <문법_어미><문법_높임법>때문 입니다.</문법_높임법></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 도와주고 싶은 바다 생물은 거북이이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": " 도와주고 싶은 <문법_맞춤법>바다생물은 </문법_맞춤법><문법_어미><문법_높임법>거북이입니다</문법_높임법></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 플라스틱 빨대가 코에 끼인 모습을 봤기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 플라스틱 <문법_맞춤법>빨때가 </문법_맞춤법>코에 <스타일링_담화 맥락 오류>끼었기 때문입니다</스타일링_담화 맥락 오류>.",
+      "sentence_corr_txt_styling": " 왜냐하면 플라스틱 빨대가 코에 끼인 모습을 봤기 때문이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39972",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 481,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

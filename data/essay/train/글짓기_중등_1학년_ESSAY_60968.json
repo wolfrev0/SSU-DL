@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래 도시는 평균 수명이 200세인 도시일 것 같습니다.#@문장구분# 지금도 100세 시대라고 할 정도로 의료기술이 많이 발달했고 건강식품도 정말 많은데, 먼 미래에는 의학 기술이 더 발전해서 평균수명이 약 200세까지 되는 시대가 올 것 같습니다.#@문장구분# 평균 수명이 늘어났을 뿐만 아니라 100세에도 지금 30, 40살 정도의 몸 상태를 유지해서 일을 하며 살 것 같습니다.#@문장구분# 그래서 미래도시에는 정말 다양한 나이의 사람들이 존재할 거 같고 사람들마다 개인 로봇 의사가 있어서 아픈 사람이 없는 행복한 도시의 모습일 것 같다는 상상이 됩니다.#@문장구분# 빨리 의학기술이 더 많이 발전해서 제가 생각하는 것처럼 모두가 오래오래 행복하게 잘 사는 세상이 오면 좋겠고 나중에 100살이 되어서도 엄마, 아빠와 함께 살고 싶다는 생각이 듭니다.#@문장구분#",
+      "paragraph_len": 504,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.65,
+      17.35
+    ],
+    "essay_scoreT_avg": 24,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 미래 도시에는 정말 다양한 나이의 사람들이 존재할 거 같고 사람들마다 개인 로봇 의사가 있어서 아픈 사람이 없는 행복한 도시의 모습일 것 같다는 상상이 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>미래도시</문법_맞춤법>에는 정말 다양한 나이의 사람들이 존재할 거 같고 사람들마다 개인 로봇 의사가 있어서 아픈 사람이 없는 행복한 도시의 모습일 것 같다는 상상이 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60968",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 405,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

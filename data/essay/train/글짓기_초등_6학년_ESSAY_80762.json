@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "신비로운 바다에서 내가 일주일 동안 만일 바다속 생물로 생활하게 된다면 나는 첫번째로 해파리가 되어 보고 싶다.#@문장구분# 해파리는 바다 또는 민물을 떠다니는 특성을 보이는 동물들과 유즐동물을 총칭하는 단어이며 좁게는 자포동물 중에서 해파리강의 생물을 의미한다. #@문장구분#해파리는 종류에 따라 그 크기와 색, 촉수의 모양등이 다양하다고 한다. #@문장구분#해파리가 헤엄칠때 박자가 사람의 심장 박동과 유사해 심리적으로도 높은 안정감을 준다고 하는데 만일 내가 해파리가 되어서 헤엄쳐보면 어떤 느낌일지 궁금하기도 하고, 해파리는 내가 보기에 예쁜 생물이라고 생각해서 나는 해파리가 되어보고 싶다는 생각을 해보았다.#@문장구분#\n 둘째로는 난 돌고래도 되어보고 싶다. #@문장구분#돌고래는 고래치곤 소형으로 2m도 안되지만 돌고래는 고래가 보이는 특출난 감각은 단연 청각이라고 들었다.#@문장구분# 방향정위를 이용해서 초음파를 쏘아보내고 그 쏘아보낸 초음파가 물체에 닿아 다시 돌아오는 것을 듣는 것으로 세상을 본고 하여 내가 돌고래가 되면 어떻게 초음파를 보내는지 부터 돌고래에 대해 조금은 알고, 내가 돌고래가 된다면 재미있을 것 같기 때문이다.",
+      "paragraph_len": 666,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.15,
+      25.35,
+      25.5
+    ],
+    "essay_scoreT_avg": 25.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "053",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_80762",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 548,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

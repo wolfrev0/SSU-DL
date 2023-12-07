@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금부터 제가 생각하는 미래 도시의 모습을 서술하도록 하겠습니다.#@문장구분#\n  저는 수없이 미래 관련 책, 만화, 그림등을 일상 속에서 매일 봐왔습니다.#@문장구분# 거기서 보는 미래 도시의 모습 다양했습니다.#@문장구분# 어느 책에선 미래엔 도가 넘는 아이디어 때문에 폐허가 되는 미래에 모습도 있고, 최첨단 시설과 구름까지 뻗어난 고층 건물들, 하늘을 나는 자동차가 대부분이다.#@문장구분# 이것말고도 우리의 상상을 넘는 많은 미래 도시의 모습이 있습니다. #@문장구분#저는 미래도시라 하면 과학 기술이 제일 발달했을 거라 생각합니다.#@문장구분# 예를들면 드론이 거대해져 지금 우리가 타는 오토바이, 전동 킥보드 처럼 탈 수 있을거라 생각합니다.#@문장구분# 아니면 반대로 지금 현제 2021년 처럼 아파트와 주택단지, 빌라나 오피스텔 등 다양하게 어우러져 있고, 우리가 자주 보는 대중교통인 버스, 지하철, 택시 등 아무것도 변하지 않는 미래가 있을 수도 있습니다.#@문장구분# 왜냐하면 1970년 때, 사람들은 미래가 오면 제가 지금까지 서술한 내용의 미래의 모습이 된다고 했습니다.#@문장구분# 그래서 바로 내년이 아니어도 10년, 20년, 30년 후 쯤에는 구름을 넘는 빌딩과 하늘을 나는 자동차 등 다양한 과학 기술과, 생명 기술 등이 발달해 흥미로운 미래 도시가 생길 것 같습니다.#@문장구분# \n  지금까지 제가 생각하는 미래 도시의 모습이었습니다.#@문장구분# 이상입니다.#@문장구분#",
+      "paragraph_len": 888,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.15,
+      20,
+      17.6
+    ],
+    "essay_scoreT_avg": 19.25,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n  저는 수없이 미래 관련 책, 만화, 그림 등을 일상 속에서 매일 봐왔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n  저는 수없이 미래 관련 책, 만화, <문법_맞춤법>그림등을</문법_맞춤법> 일상 속에서 매일 봐왔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기서 보는 미래 도시의 모습은 다양했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 거기서 보는 미래 도시의 <문법_조사>모습</문법_조사> 다양했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 책에선 도가 넘는 아이디어 때문에 폐허가 되는 미래의 모습도 있고, 최첨단 시설과 구름까지 뻗어난 고층 건물들, 하늘을 나는 자동차가 대부분이었습니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 어느 <스타일링_담화 맥락 오류>책에선 미래엔</스타일링_담화 맥락 오류> 도가 넘는 아이디어 때문에 폐허가 되는 <문법_조사>미래에</문법_조사> 모습도 있고, 최첨단 시설과 구름까지 뻗어난 고층 건물들, 하늘을 나는 자동차가 <문법_어미>대부분이다.</문법_어미>",
+      "sentence_corr_txt_styling": " 어느 책에선 도가 넘는 아이디어 때문에 폐허가 되는 미래의 모습도 있고, 최첨단 시설과 구름까지 뻗어난 고층 건물들, 하늘을 나는 자동차가 대부분이었습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이것 말고도 우리의 상상을 넘는 많은 미래 도시의 모습이 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이것말고도</문법_맞춤법> 우리의 상상을 넘는 많은 미래 도시의 모습이 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들면 드론이 거대해져 지금 우리가 타는 오토바이, 전동 킥보드처럼 탈 수 있을 거라 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>예를들면</문법_맞춤법> 드론이 거대해져 지금 우리가 타는 오토바이, 전동 킥보드 처럼 탈 수 있을거라 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아니면 반대로 지금 현재 2021년처럼 아파트와 주택단지, 빌라나 오피스텔 등 다양하게 어우러져 있고, 우리가 자주 보는 대중교통인 버스, 지하철, 택시 등 아무것도 변하지 않는 미래가 있을 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아니면 반대로 지금 <문법_맞춤법>현제</문법_맞춤법> 2021년 처럼 아파트와 주택단지, 빌라나 오피스텔 등 다양하게 어우러져 있고, 우리가 자주 보는 대중교통인 버스, 지하철, 택시 등 아무것도 변하지 않는 미래가 있을 수도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35547",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 650,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

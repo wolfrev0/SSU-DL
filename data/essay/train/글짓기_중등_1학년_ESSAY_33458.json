@@ -1,0 +1,401 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래에는 2070쯤에는 아마 경제는 잘 돌아갈 듯 하다.#@문장구분# 계속해서 과학이 발전해서 새로운 물질, 더욱 다양한 발명을 할수있을 것 같다.#@문장구분# 대신 지구의 자원이 거의 없어져 신 자원을 만들어 쓰고 새로운 제품에 도입할 것 같다.#@문장구분# 하지만 자연은 지금으로 봐서는 사막화와 가뭄이 올 것이라고 생각한다.#@문장구분# 그때쯤이면 대한민국이 여름온도 35~45°가 될것으로 보이고 봄과 가을은 아주 적은달 약1달 정도가 될듯하다.#@문장구분# 겨울은 추위가 계속되거나 여름 때문에 더워질것같다.#@문장구분# 만약 추워지면 -5~-10° 가 더워지면 7~13°가 될 듯하다.#@문장구분# 그렇기에 사람들은 살기좋은 곳을 찾아가고 거기서 살것이다.#@문장구분# 그래도 찾아간 곳은 자원이 남아서 그것으로 신 에너지, 신 자원들을 얻어 이걸 멀리 퍼트려서 새로운 삶이 시작될 것이다.#@문장구분# 단점이 없는 자원들로 무한의 가까운 자원을 갖고 그것들로 새로운 제품이 만들어 질 것 같다.#@문장구분# 그래서 사람들은 새로운 문화로 살아갈 것 이다.#@문장구분# 한 영화에서 이러한 말이 있다.#@문장구분# \"그들은 언제나 답을 찾을거야 늘 그랬드시\" 이게 2100년대에서는 맞는 말이 될 것이다.#@문장구분# 이러한 문화의 발달로 사라지는 직업이 많을것이다#@문장구분# 사람은 다양한 인격이 있어서 어떻게 될지 모른다#@문장구분# 하지만 그래도 인류는 살아갈 것이다.#@문장구분# 이런 세상에는 어떤생물과 음식과 자연이 있는지 보고싶다.#@문장구분#",
+      "paragraph_len": 995,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.6,
+      22.65
+    ],
+    "essay_scoreT_avg": 24.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "033",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래 2070년쯤에는 아마 경제는 잘 돌아갈 듯 하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "내가 생각하는 <문법_맞춤법><문법_조사>미래에는 2070쯤에는</문법_조사></문법_맞춤법> 아마 경제는 잘 돌아갈 듯 하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 계속해서 과학이 발전해서 새로운 물질, 더욱 다양한 발명을 할 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 계속해서 과학이 발전해서 새로운 물질, 더욱 다양한 발명을 <문법_맞춤법>할수있을</문법_맞춤법> 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대신 지구의 자원이 거의 없어져 신 자원을 만들어 쓰고 새로운 제품을 도입할 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 대신 지구의 자원이 거의 없어져 신 자원을 만들어 쓰고 새로운 <문법_조사>제품에</문법_조사> 도입할 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때쯤이면 대한민국이 여름온도 35~45°가 될 것으로 보이고 봄과 가을은 아주 적어져 약 1달 정도가 될듯하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그때쯤이면 대한민국이 여름온도 35~45°가 <문법_맞춤법>될것으로</문법_맞춤법> 보이고 봄과 가을은 아주 <문법_어미>적은달</문법_어미> 약1달 정도가 될듯하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 겨울은 추위가 계속되거나 더워질 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 겨울은 추위가 계속되거나 <문법_맞춤법><문법_기타>여름 때문에 더워질것같다</문법_기타></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 추워지면 -5~-10° 가. 더워지면 7~13°가 될 듯하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 만약 추워지면 <문법_기타>-5~-10° 가</문법_기타> 더워지면 7~13°가 될 듯하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기에 사람들은 살기 좋은 곳을 찾아가고 거기서 살 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기에 사람들은 <문법_맞춤법>살기좋은</문법_맞춤법> 곳을 찾아가고 거기서 살것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "불필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그래도 찾아간 곳은 자원이 남아서 <스타일링_기타>그것으로 신 에너지, 신 자원들을 얻어</스타일링_기타> 이걸 멀리 퍼트려서 새로운 삶이 시작될 것이다.",
+      "sentence_corr_txt_styling": " 그래도 찾아간 곳은 자원이 남아서 신 에너지, 신 자원들을 얻어 이걸 멀리 퍼트려서 새로운 삶이 시작될 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 단점이 없는 자원들로 무한에 가까운 자원을 갖고 그것들로 새로운 제품이 만들어 질 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 단점이 없는 자원들로 <문법_조사>무한의</문법_조사> 가까운 자원을 갖고 그것들로 새로운 제품이 만들어 질 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 사람들은 새로운 문화로 살아갈 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 사람들은 새로운 문화로 살아갈 <문법_맞춤법>것 이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 영화에서 이러한 말이 나왔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 한 영화에서 이러한 말이 <문법_기타>있다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '그들은 언제나 답을 찾을거야 늘 그랬듯이.' 이게 2100년대에서는 맞는 말이 될 것이다.",
+      "sentence_corr_reason": [
+        "문장부호, 맞춤법",
+        "문장부호, 맞춤법"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " \"그들은 언제나 답을 찾을거야 늘 그랬드시\" 이게 2100년대에서는 맞는 말이 될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이러한 문화의 발달로 사라지는 직업이 많을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장부호"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이러한 문화의 발달로 사라지는 직업이 <문법_맞춤법>많을것이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람은 다양한 인격이 있어서 어떻게 될지 모른다.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 사람은 다양한 인격이 있어서 어떻게 될지 <문법_기타>모른다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 세상에는 어떤 생물과 음식과 자연이 있는지 보고싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 세상에는 <문법_맞춤법>어떤생물과</문법_맞춤법> 음식과 자연이 있는지 보고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33458",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 657,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

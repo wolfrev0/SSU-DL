@@ -1,0 +1,599 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제목: 참치 대모험#@문장구분#",
+      "paragraph_len": 30,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 만약 내가 일주일동안 바다의 생물로 살아갈 기회가 주어진다면 나는 참치로 살아보고 싶다. #@문장구분#왜냐하면 참치는 맛있고 빠르게 헤엄칠수 있기 때문이다.#@문장구분#",
+      "paragraph_len": 121,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 나는 다른 참치들과 얘기하면서 헤엄치고 있었다. #@문장구분#그때 검정색 천이 나를 감쌌다.#@문장구분# 그건 그물이었다. #@문장구분#내 친구들과 나는 바다위로 올라가서 배위에 던져졌다. #@문장구분#\"오늘은 큰거 많이 잡혔네\"\"그러게 말이야\"어부들이 말했다.#@문장구분# 나는 어디로 가는지도 모른채 양동이에 내 친구들과 같혀서 끌려갔다.#@문장구분# 거기는 동원참치를 많드는 회사였다.#@문장구분# 나는 냉동실로 가서 얼었다.#@문장구분# 너무 추워서 비늘이 서로 붙었고 감각이 마비되었다. #@문장구분#나는 운이 좋았다. #@문장구분#공장 직원이 실수로 냉각기 설정을 잘못한 것이다. #@문장구분#얼음이녹고 방안에는 물로 가득차게 되었다. #@문장구분#처음 얼음이 살짝녹았을때는 질식할 번했다.#@문장구분# 직원이 냉동실 문을 열자 엄창난 물이 공장 전체를 휩쓸었고나는그냥그 물살을 따라갔다. #@문장구분#내 친구들은 안타갑게도 다른 냉동실이었다. #@문장구분#나는 친구들을 뒤로한체 공장 밖으로 나왔는데 운이 좋게도 호수에 빠졌고 누가호숫가 벤치에 물이 담긴 커다란 병을 놓고갔다.#@문장구분# 나는 점프해서 그병안에 들어갔고 병을굴리고 굴렸다. #@문장구분#밤이되었다.#@문장구분# 집에 불이켜지고 한집에 가보니 가족들이 동원참치를 먹고있었다.#@문장구분# \"엄마 맛있어요\"\"맛있지?많이먹어\"#@문장구분# 순간 내친구들이 아닌가라는 생각이 스쳐지나갔고 내친구들을 버린 나에게 자괴감과 자책감이 들었고 그와동시에 꼭 바다로 들어가야겠다고 다짐을 했다. #@문장구분#마음같아선 인간들을 꼬리로 싸대기를 치고 싶었지만 그냥 갔다.#@문장구분# 해변가에 도착했다. #@문장구분#모래때문에 질퍽질퍽해서 병이 움직이지 않았다.#@문장구분# 저정도 거리면 숨참고 갈수 있을 거리이다.#@문장구분# 병에서 나왔고 그 순간 갈매기가\"너참 맛있겠다\"\"?\"\"너참맛있겠다\"라고하면서 나를 낙아챘다. #@문장구분#참으로 멍청한 갈매기 였다.#@문장구분# 오히려잘됐다.#@문장구분# 나는 바다로 갔을때 반항을 했고 떨어졌다.#@문장구분# 순간 발톱에 몸이 찢겼다.#@문장구분# 엄청 아팠다. #@문장구분#떨어졌다. #@문장구분#해냈다는 생각이드는 순간 상어한테 먹혔다.",
+      "paragraph_len": 1511,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          1.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          1.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      19.85,
+      21.85
+    ],
+    "essay_scoreT_avg": 22.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 참치는 맛있고 빠르게헤엄칠 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 참치는 맛있고 빠르게<문법_맞춤법> 헤엄칠수</문법_맞춤법> 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때검은색 천이 나를 감쌌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그때<문법_맞춤법> 검정색</문법_맞춤법> 천이 나를 감쌌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 친구들과 나는 바다 위로 올라가서 배 위에 던져졌다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내 친구들과 나는 <문법_맞춤법>바다위로</문법_맞춤법> 올라가서 배위에 던져졌다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"오늘은 큰 거 많이 잡혔네\"\"그러게 말이야\"어부들이 말했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"오늘은 <문법_맞춤법>큰거</문법_맞춤법> 많이 잡혔네\"\"그러게 말이야\"어부들이 말했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 어디로 가는지도 모른 채 양동이에 내 친구들과 갇혀서 끌려갔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 어디로 가는지도<문법_맞춤법> 모른채</문법_맞춤법> 양동이에 내 친구들과 같혀서 끌려갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기는 동원참치를 만드는 회사였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 거기는 동원참치를 <문법_맞춤법>많드는</문법_맞춤법> 회사였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "얼음이 녹고 방안에는 물로 가득 차게 되었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>얼음이녹고</문법_맞춤법> 방안에는 물로 가득차게 되었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "처음 얼음이  살짝 녹았을 때는 질식할 뻔했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "처음 얼음이 <문법_맞춤법>살짝녹았을때는 질식할 번했다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 직원이 냉동실 문을 열자 엄창난 물이 공장 전체를 휩쓸었고 나는 그냥 그 물살을 따라갔다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 직원이 냉동실 문을 열자 엄창난 물이 공장 전체를 <문법_맞춤법>휩쓸었고나는그냥그</문법_맞춤법> 물살을 따라갔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 친구들은 안타깝게도 다른 냉동실이었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내 친구들은 <문법_맞춤법>안타갑게도</문법_맞춤법> 다른 냉동실이었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 친구들을 뒤로한 채공장 밖으로 나왔는데 운이 좋게도 호수에 빠졌고 누가 호숫가 벤치에 물이 담긴 커다란 병을 놓고 갔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 친구들을 <문법_맞춤법>뒤로한체 </문법_맞춤법>공장 밖으로 나왔는데 운이 좋게도 호수에 빠졌고 누가호숫가 벤치에 물이 담긴 커다란 병을 놓고갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 점프해서 그 병안에 들어갔고 병을 굴리고 굴렸다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 점프해서 <문법_맞춤법>그병안에</문법_맞춤법> 들어갔고 병을굴리고 굴렸다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "밤이 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>밤이되었다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집에 불이 켜지고 한집에 가보니 가족들이 동원참치를 먹고 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집에 <문법_맞춤법>불이켜지고 </문법_맞춤법>한집에 가보니 가족들이 동원참치를 먹고있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"엄마 맛있어요\"\"맛있지? 많이 먹어\" ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"엄마<문법_맞춤법> 맛있어요\"\"맛있지?많이먹어\"</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 순간 내 친구들이 아닌가라는 생각이 스쳐지나갔고 내친구들을 버린 나에게 자괴감과 자책감이 들었고 그와 동시에 꼭 바다로 들어가야겠다고 다짐을 했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 순간 <문법_맞춤법>내친구들이</문법_맞춤법> 아닌가라는 생각이 스쳐지나갔고 내친구들을 버린 나에게 자괴감과 자책감이 들었고 그와동시에 꼭 바다로 들어가야겠다고 다짐을 했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "마음 같아선 인간들을 꼬리로 싸대기를 치고 싶었지만 그냥 갔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>마음같아선</문법_맞춤법> 인간들을 꼬리로 싸대기를 치고 싶었지만 그냥 갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "모래 때문에 질퍽질퍽해서 병이 움직이지 않았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>모래때문에 </문법_맞춤법>질퍽질퍽해서 병이 움직이지 않았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저 정도 거리면 숨 참고 갈수 있을 거리이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0028",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저정도</문법_맞춤법> 거리면 숨참고 갈수 있을 거리이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 병에서 나왔고 그 순간 갈매기가\"너 참 맛있겠다\"\"?\"\"너 참 맛있겠다\"라고 하면서 나를 낚아챘다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0029",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 병에서 나왔고 그 순간<문법_맞춤법> 갈매기가\"너참 맛있겠다\"\"?\"\"너참맛있겠다\"라고하면서</문법_맞춤법> 나를 낙아챘다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "참으로 멍청한 갈매기였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0030",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "참으로 멍청한 <문법_맞춤법>갈매기 였다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오히려 잘 됐다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0031",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>오히려잘됐다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 바다로 갔을 때 반항을 했고 떨어졌다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0032",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 바다로<문법_맞춤법> 갔을때 </문법_맞춤법>반항을 했고 떨어졌다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": "해냈다는 생각이 드는 순간 상어한테 먹혔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0036",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "해냈다는 <문법_맞춤법>생각이드는</문법_맞춤법> 순간 상어한테 먹혔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52786",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 966,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

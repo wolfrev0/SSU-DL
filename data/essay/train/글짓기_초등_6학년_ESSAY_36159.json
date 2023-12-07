@@ -1,0 +1,281 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 바다 생물 중 하나가 된다면 해마가 되어보고 싶습니다.#@문장구분# 왜냐면 색다른 경험을 할수 있기 때문입니다.#@문장구분# 동물들은거의 암컷이 알을 낳고 키우는데 해마는 암컷이 수컷의 알주머니에 알을 넣고 합니다. #@문장구분#그러면 수컷은 알을 수컷이 맡게 됩니다.#@문장구분# 그런 색다른경험을 할수 있어서 해마가 되어보고 싶고, 또 작고 눈에 안띄는 색이 되어 포식자,천적에게 안잡혀먹고 싶고,해마가 된 저의 꿈은 바다 정복입니다. #@문장구분#바다를 깨끗하고 멋진 곳으로 만드고 한 무리의 대장이 되어, 해마 친구들을 건드리면 가만두지 않을것 입니다. #@문장구분#매일을 위험하고 스릴있게사는것보단 안전하고 즐거운,행복하게사는 것이 더 좋으니 그렇게 살겠습니다. #@문장구분#다른 해마들보다 오래오래 살것이고, 모든 순간을 기억하며, 인간처럼 살것입니다.#@문장구분# 현실에 저처럼 친구를 다독여주고,공감해주고,같이 놀고, 떠들어주는 해마가 될것입니다. #@문장구분#해마가 된다면 진짜 이렇게 살아보고 싶습니다.#@문장구분#",
+      "paragraph_len": 655,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      26.25,
+      20.8
+    ],
+    "essay_scoreT_avg": 22.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 색다른 경험을 할 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐면 색다른 경험을 <문법_맞춤법>할수</문법_맞춤법> 있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 동물들은 거의 암컷이 알을 낳고 키우는데 해마는 암컷이 수컷의 알 주머니에 알을 넣습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>동물들은거의</문법_맞춤법> 암컷이 알을 낳고 키우는데 해마는 암컷이 수컷의 알주머니에 알을 넣고 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그러면 수컷은 알을 <스타일링_패러프레이징>수컷이 맡게</스타일링_패러프레이징> 됩니다.",
+      "sentence_corr_txt_styling": "그러면 수컷은 알을 맡게 됩니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그런 색다른경험을 할수 있어서 해마가 되어보고 싶고, 또 작고 눈에 안띄는 색이 되어 포식자,천적에게 안잡혀먹고 싶고,해마가 된 저의 꿈은 바다 정복입니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 해마가 된다면 이러한 색다른 경험을 할 수 있을 것 같아 기대가 됩니다. 또 해마는 작고 눈에 안 띄는 색으로 변하기 때문에 포식자나 천적에게 잡아먹히지 않습니다. 저는 해마가 된다면 바다 정복을 하고 싶습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_맞춤법><스타일링_담화 맥락 오류>바다를 깨끗하고 멋진 곳으로 만드고 한 무리의 대장이 되어, 해마 친구들을 건드리면 가만두지 않을것 입니다.</스타일링_담화 맥락 오류></스타일링_맞춤법> ",
+      "sentence_corr_txt_styling": "제가 해마가 된다면, 바다를 깨끗하고 멋진 곳으로 만들 것입니다. 또 한 무리의 대장이 되어 해마 친구들을 건드리면 가만두지 않을 것입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "매일을 위험하고 스릴 있게 사는 것보다는 안전하고 즐겁게, 행복하게 사는 것이 더 좋으니 그렇게 살겠습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>매일을 위험하고 스릴있게사는것보단 안전하고 즐거운,행복하게사는 것이 더 좋으니 그렇게 살겠습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다른 해마들보다 오래오래 살 것이고, 모든 순간을 기억하며, 인간처럼 살 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다른 해마들보다 오래오래 <문법_맞춤법>살것이고</문법_맞춤법>, 모든 순간을 기억하며, 인간처럼 살것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금의 저처럼 친구를 다독여주고, 공감해주고, 같이 놀고 떠들어 주는 해마가 될 것입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>현실에 저처럼 친구를 다독여주고,공감해주고,같이 놀고, 떠들어주는 해마가 될것입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36159",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 455,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

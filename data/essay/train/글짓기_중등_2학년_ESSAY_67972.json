@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "고양이를 좋아하는 저는 길에서 다친 길고양이나 배고파하는 고양이들을 보면 가슴이 많이 아팠습니다.#@문장구분# 다른 동물들도 좋아하는 저는 제가 좋아하는 고양이나 강아지가 다시 건강해질 수 있도록 도와주는 수의사가 되고 싶다는 꿈을 가지게 되었습니다.#@문장구분# 시간이 흘러 제가 25살이 되었을 때 저는 군대에 다녀와서 훌륭햔 수의사가 되어 많은 고양이들과 강아지들을 도와줄 수 있는 동물병원을 꿈꾸며 수의학과에 복학하여 공부를 계속 하고 있을 것입니다.#@문장구분#  시간이 더욱 흘러 제가 35살이 되었을 때에는 동물 병원을 개업하여 제가 좋아하는 고양이 2마리를 기르며 길고양이도 치료해주고 진료를 봐주며 많은 동물들을 치료해 줄 것입니다.#@문장구분# 그리고 시간이 많이 흘러 45살이 되었을 때는 동물을 구조하는 자원봉사단에 들어가 많이 갈고닦아온 치료 실력으로 상처받은 많은 동물들을 구하고 싶습니다.#@문장구분# 이런 동물과 함께하는 삶을 사는 저의 가치는 조화에 중점을 두고 있을 것입니다.#@문장구분# 동물과의 조화, 식물과의 조화, 인간 간의 조화와 같이 조화로운 세상을 꿈꿀 것 입니다.",
+      "paragraph_len": 643,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27.38889,
+      23.61111
+    ],
+    "essay_scoreT_avg": 27,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_67972",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 523,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

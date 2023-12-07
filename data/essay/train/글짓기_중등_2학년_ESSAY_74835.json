@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 나중에 역사 선생님이 되고 싶습니다.#@문장구분# 역사 선생님은 사실 제가 오래전부터 꿈 꾸어 왔습니다.#@문장구분# 처음에 친구들에게 제가 아는 역사 지식을 알려주면서 정말 큰 보람을 느꼈습니다.#@문장구분# 처음에는 사실 \"역사를 연구하는 사람이 될까?\" 라고 고민해보기도 했습니다.#@문장구분# 하지만 친구에게 가르쳐주면서 보람을 느꼈던 것처럼 학생들을 가르치면서 큰 보람을 느낄 수 있을 것 같다고 생각하게 되었습니다.#@문장구분# 그래서 저는 역사 선생님이라는 직업을 위해서 열심히 역사를 공부하고 있습니다.#@문장구분# 처음에 저는 한국의 역사에만 관심을 가지고 있었습니다.#@문장구분#하지만 세계사에는 생각보다 많은 분양의 역사가 있었습니다.#@문장구분# 처음에 세계사를 배우겠다고 했을 때에 친구들은 힘들 것 같다며 많이 말렸습니다.#@문장구분# 하지만 저는 호기심이 조금 더 앞선 결과 세계사를 공부하기 시작했습니다.#@문장구분# 이렇게 열심히 노력한 만큼 저는 나중에 꼭 멋진 역사 선생님이 되고 싶습니다.#@문장구분# 많은 학생들에게 우리의 역사에 대해 배우는 즐거움을 가르쳐주고 싶다고 느끼게 되었습니다.",
+      "paragraph_len": 720,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.6666667,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.166666,
+      27.166668,
+      23.055555
+    ],
+    "essay_scoreT_avg": 24.462965,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74835",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 502,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

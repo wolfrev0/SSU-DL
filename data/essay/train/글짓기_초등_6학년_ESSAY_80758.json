@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 일주일동안 거북이로 변할 수 있게 되었다.#@문장구분# 거북이로 변한 까닭은 내가 좋아하는 만화에 나오는 거북이 캐릭터가 귀여워 보였기 때문이다.#@문장구분# 먼저 다른 거북이 친구들을 만났다.#@문장구분# 서로 인사도 하고 먹을 것도 나누어주며 친해졌다.#@문장구분# 우리는 그 다음날, 바다모험을 하기로 했다.#@문장구분# 그 다음날이 되자 모두 약속한 시간에 나와있었다.#@문장구분# 우리는 한번도 가보지 못한 깊은 바다 속으로 가보기로 했다.#@문장구분# 점점 깊은 바다로 들어갔다.#@문장구분# 깊게 들어갈수록 점점 어두워졌다.#@문장구분# 우리는 손을 꼭 잡으며 아래로 헤엄쳤다.#@문장구분# 그때 감자기 내 옆에 있던 거북이 친구가 혼자 달아나기 시작했다.#@문장구분# 옆에 있던 우리도 너무 놀라 달아났다.#@문장구분# 얼마쯤 뒤에 빛이 들어오기 시작했다.#@문장구분# 알고보니 혼자 너무 무서웠던 것이었다.#@문장구분# 우리도 너무 놀랐다.#@문장구분# 이유를 알고난 후 모두 웃었다.#@문장구분# 그렇게 일주일이 지난 후 다시 돌아가야 할 시간이 왔다.#@문장구분# 너무 아쉬웠지만 다음에 만나기로 약속하며 돌아왔다",
+      "paragraph_len": 802,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      30,
+      24.5
+    ],
+    "essay_scoreT_avg": 27.5,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "053",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_80758",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 463,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

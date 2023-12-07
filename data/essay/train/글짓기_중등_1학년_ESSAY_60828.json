@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저도 상상을 하는 거를 좋아해서 미래 도시를 상상해봤습니다.#@문장구분# 제가 생각하는 미래도시의 이름은 \"천국도시\"입니다.#@문장구분# 천국의 도시라는 이름의 뜻은 거기 사는 사람들에게 그 도시가 천국같은 곳이라는 뜻입니다. #@문장구분#남들보다 돈이 없어도 비슷하게 살수 있습니다.#@문장구분# 어떤 거냐면, 모두 같은 모양의 아파트를 많이 만들어서 다 하나씩 나눠줘서 거길 같은 가구를 넣게 합니다.#@문장구분# 하지만 가구 색은 자기가 직접 고르게 해서 인테리어는 조금 다르게 합니다.#@문장구분#그렇게 해서 돈이 많은 사람한테 부러움이랑 질투심을 느끼지 않게 해줍니다.#@문장구분# 하지만 옷이나 이런 다른 거들은 자기가 번 돈으로 사게 해도 될 것 같습니다.#@문장구분# 그리고 로봇이 집안일을 다 해줘서 집에 들어와도 매일 깨끗한 집이 있을 것입니다.#@문장구분# 그래서 직장에서 일을 하고 들어와도 집을 다시 치울 필요가 없으니까 씻고 바로 누워서 쉬어도 되는 도시가 되니까 그게 바로 천국도시입니다.#@문장구분#",
+      "paragraph_len": 649,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.55,
+      24.1,
+      24.9
+    ],
+    "essay_scoreT_avg": 23.516668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 천국의 도시라는 이름의 뜻은 거기 사는 사람들에게 그 도시가 천국 같은 곳이라는 뜻입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 천국의 도시라는 이름의 뜻은 거기 사는 사람들에게 그 도시가 <문법_맞춤법>천국같은</문법_맞춤법> 곳이라는 뜻입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "남들보다 돈이 없어도 비슷하게 살 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "남들보다 돈이 없어도 비슷하게 <문법_맞춤법>살수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60828",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 451,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

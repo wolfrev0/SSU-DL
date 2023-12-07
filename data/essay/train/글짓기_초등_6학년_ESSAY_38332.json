@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 나는 물고기로 살고 싶다.#@문장구분# 왜냐하면 물속을 빠르고 자유롭게 헤엄을 치고 싶고, 바다속에서 바다의 아름다운 풍경을 보면서 힐링하고 싶다. #@문장구분#그리고 다른 생물들도 실제 눈으로 보고싶다. #@문장구분#내가 물고기가 된다면 바닷속의 보지못한 생물들을 보고 바다에 대한 지식을 쌓고 싶다. #@문장구분#물고기가 되면 보이는 모습은 어떻게 보일까? 헤엄을 얼마나 빠르게 칠 수 있을까? 바닷속의 풍경은 어떨까? 이것들을 풀면서 모험을 하고 싶다. #@문장구분#현실적이지는 않지만 상상의 인어공주가 진짜 있을지 돌아다니며 모험을 떠나고 싶다. #@문장구분#단 한번만 이라도 물고기가 되어 바다속을 탐험하고 싶다.#@문장구분#",
+      "paragraph_len": 482,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      25.1,
+      21.35
+    ],
+    "essay_scoreT_avg": 24.316666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 물속을 빠르고 자유롭게 헤엄치고 싶고, 바닷속에서 바다의 아름다운 풍경을 보면서 힐링하고 싶기 때문이다. ",
+      "sentence_corr_reason": [
+        "조사를 생략하는 것이 자연스럽습니다.",
+        "사이시옷을 써야 합니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 물속을 빠르고 자유롭게 <스타일링_기타>헤엄을 치고</스타일링_기타> 싶고, <문법_맞춤법>바다속에서</문법_맞춤법> 바다의 아름다운 풍경을 보면서 힐링하고 싶다. ",
+      "sentence_corr_txt_styling": " 왜냐하면 물속을 빠르고 자유롭게 헤엄치고 싶고, 바닷속에서 바다의 아름다운 풍경을 보면서 힐링하고 싶기 때문이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 다른 생물들도 실제 눈으로 보고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 다른 생물들도 실제 눈으로 <문법_맞춤법>보고싶다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 물고기가 된다면 바닷속의 보지 못한 생물들을 보고 바다에 대한 지식을 쌓고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 물고기가 된다면 바닷속의 <문법_맞춤법>보지못한</문법_맞춤법> 생물들을 보고 바다에 대한 지식을 쌓고 싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "물고기가 되면 <스타일링_기타>보이는</스타일링_기타> 모습은 어떻게 보일까? 헤엄을 얼마나 빠르게 칠 수 있을까? 바닷속의 풍경은 어떨까? 이것들을 풀면서 모험을 하고 싶다. ",
+      "sentence_corr_txt_styling": "물고기가 되면 바다의 모습은 어떻게 보일까? 헤엄을 얼마나 빠르게 칠 수 있을까? 바닷속의 풍경은 어떨까? 이러한 궁금증들을 풀면서 모험을 하고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "현실적이지는 않지만 상상의 인어공주가 진짜 있을지 돌아다니며 <스타일링_기타>모험을 떠나고 싶다</스타일링_기타>. ",
+      "sentence_corr_txt_styling": "현실적이지는 않지만 상상의 인어공주가 진짜 있을지 돌아다니며 찾아보고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "단 한 번만이라도 물고기가 되어 바다속을 탐험하고 싶다.",
+      "sentence_corr_reason": [
+        "'한 번'은 띄어 쓰고, '만이라도'는 붙여 써야 합니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "단 <문법_맞춤법>한번만 이라도</문법_맞춤법> 물고기가 되어 바다속을 탐험하고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38332",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 343,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

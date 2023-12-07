@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시는 막상 지금의 생활과 별반 다를 것이 없을 것 같다고 생각한다.#@문장구분# 왜냐하면 과학 기술이 발달하고 그 과학 기술을 실험하기 위해서는 인체에다 실험을 해야 되는 상황이 발생할 수 있는데 그것은 사회적으로나 윤리적으로 문제를 일으키기 때문이다.#@문장구분# 분명 실험을 강행한다고 하면 인권단체나 사회단체들이 그러한 과학 기술을 인체에 실험하는 것에 대해서 강력하게 항의할 것이기 때문이다.#@문장구분# 그렇기 때문에 기술력은 충분하고 증명할 수 있는 방법도 충분하나 막상 제대로 된 실험을 하지 못해서 지금의 모습과는 크게 다를 바가 없고 우리 일상생활에 좀 더 도움을 줄 수 있는 기계들이 많이 나올 것 같다.#@문장구분# 예를 들어서 휴대폰으로 집 안에 있는 모든 것을 제어한다든지 하는 그런 기술들 말이다.#@문장구분# 또 홀로그램을 이용하여서 멀리 있는 사람들과 영상 통화를 하려고 할 때 바로 옆에 있는 것처럼 앉아서 마주보고 통화할 수 있는 기술이 나와서 몸은 멀리 있지만 마음은 가까이 있는 그런 우리의 삶에 도움을 주는 과학 기술로 살아날 것 같다고 생각한다.#@문장구분#",
+      "paragraph_len": 648,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      26.35,
+      28.25
+    ],
+    "essay_scoreT_avg": 27.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56313",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 529,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

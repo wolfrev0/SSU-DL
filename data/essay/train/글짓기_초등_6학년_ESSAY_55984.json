@@ -1,0 +1,184 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 바다에 살 수 있는 기회가 생긴다고 하면 '복어'가 되고 싶습니다.#@문장구분# 제가 복어가 되고싶은 이유는 바로 복어에는 '테트로독신'이라는 독이 있는데, 그 독이 나에게도 있다면 저는 큰 물고기에게 공격을 받는다고 해도 혼자 죽지 않을 수 있기 때문입니다. #@문장구분#나에게 폭력을 하는 나쁜 사람들에게 나도 똑같이 해주고 싶은데 저는 지금 키가 너무 작아서 그러지 못합니다. #@문장구분#그래서 독이 있는 복어를 보면 너무 멋있고 대리만족이 되기 때문에 저는 복어가 되어서 멋있는 대장이 되고 싶습니다. #@문장구분#그래서 혹시라도 나중에 복어로 태어날 수도 있기 때문에 저는 복어탕을 먹지 않습니다.#@문장구분# 저는 복어가 되어서 바다를 마음껏 돌아다니면서 혼자만의 시간을 즐기고 싶습니다.#@문장구분# 저는 바다속에서 아주 귀여운 전복과 친구를 할 것입니다 #@문장구분#왜냐하면 전복은 건강에도 좋고 맛도 있어서 사람들이 많이 먹는데 제가 전복의 친구가 되어서 지켜주고 싶기 때문입니다.",
+      "paragraph_len": 597,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.75,
+      24.7,
+      24.15
+    ],
+    "essay_scoreT_avg": 23.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 제가 복어가 되고 싶은 이유는 바로 복어에는 '테트로독신'이라는 독이 있는데, 그 독이 나에게도 있다면 저는 큰 물고기에게 공격을 받는다고 해도 혼자 죽지 않을 수 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 복어가 <문법_맞춤법>되고싶은</문법_맞춤법> 이유는 바로 복어에는 '테트로독신'이라는 독이 있는데, 그 독이 나에게도 있다면 저는 큰 물고기에게 공격을 받는다고 해도 혼자 죽지 않을 수 있기 때문입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 바닷속에서 아주 귀여운 전복과 친구를 할 것입니다. ",
+      "sentence_corr_reason": [
+        "문장 부호",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>바다속에서</문법_맞춤법> 아주 귀여운 전복과 친구를 할 <문법_기타>것입니다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55984",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 458,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

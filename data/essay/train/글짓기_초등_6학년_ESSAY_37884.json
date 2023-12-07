@@ -1,0 +1,371 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 일주일간 바다 생물로 살수 있다면 맨티스 쉬림프(갯가재)로 살고 싶슴니다.#@문장구분# 맨티스 쉬림프에 설명을 간단히 해보겠 슴니다.#@문장구분# 맨티스 쉬림프는 주식(먹이)이 어페류,생성,가끔식 자기들 끼리도 자바먹슴니다.#@문장구분# 맨티스 쉬림프는 2가지로 나님니다.#@문장구분# 우리나라에뻘에사는 스피어형 스피어 형은 손이 사마기 앞손과 똑갓이 생겼으며 사냥을할때 팔을 늘려 사냥한다고한다.#@문장구분# 바다한 가운데 산호가 많은 곳에서 사는 스에시 형 스에시 형은 시피어 형과는다르게 갈큐 대신 주먹이 있슴니다.#@문장구분# 그주먹은 조개를 한번에 즉사시킬 만큼에 새기 임니다.#@문장구분# 주먹에 힘은 권총에맛먹는 그런힘이 람니다.#@문장구분# 그힘은 어떡게 나오냐 하면 주먹이 상대 몸에 달때 100에서 1000도까지 온도가 높아지고 주먹이 날라갈때 비행기가 활공하는그런 소리가 난다고 함니다.#@문장구분# 스애시 형은 스피어 형과는 다르게 사육된다고함니다(집에서)#@문장구분# 하지만 강화유리로 사육장을 만들어도 강화유리가 깨진다고 함니다.#@문장구분# 그래서 전 맨티스 쉬림프(스애시형)로 일주일 동안 산호 지대에서 살아보고 싶슴니다.#@문장구분#",
+      "paragraph_len": 754,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.8,
+      22.1,
+      30
+    ],
+    "essay_scoreT_avg": 25.633333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "일주일간 바다 생물로 살 수 있다면, 저는 맨티스 쉬림프(갯가재)로 살고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어순>저는 일주일간 바다 생물로 살수 있다면 맨티스 쉬림프(갯가재)로 살고 싶슴니다.</문법_어순></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 맨티스 쉬림프에 대해 설명을 간단히 해보겠습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>맨티스 쉬림프에 설명을 간단히 해보겠 슴니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 맨티스 쉬림프의 주식은 어패류, 새우인데, 가끔은 자기들끼리도 잡아먹습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>맨티스 쉬림프는 주식(먹이)이 어페류,생성,가끔식 자기들 끼리도 자바먹슴니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 맨티스 쉬림프는 2가지로 나뉩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 맨티스 쉬림프는 2가지로 <문법_맞춤법>나님니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리나라 뻘에 사는 스피어 형은 앞다리가 사마귀와 똑같이 생겼으며, 사냥을 할 때 다리를 늘려 사냥을 한다고 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>우리나라에뻘에사는 스피어형 스피어 형은 손이 사마기 앞손과 똑갓이 생겼으며 사냥을할때 팔을 늘려 사냥한다고한다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다 한가운데, 산호가 많은 곳에서 사는 스매셔형은 스피어 형과는 다르게 갈고리 대신 주먹이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>바다한 가운데 산호가 많은 곳에서 사는 스에시 형 스에시 형은 시피어 형과는다르게 갈큐 대신 주먹이 있슴니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 주먹은 조개를 한 번에 깨뜨릴 만큼 강합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그주먹은 조개를 한번에 즉사시킬 만큼에 새기 임니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 권총에 맞먹는 그런 힘이랍니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>주먹에 힘은 권총에맛먹는 그런힘이 람니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 힘을 쓸 때 주먹은 100도에서 1000도까지 온도가 높아지고, 주먹이 날아갈 때 비행기가 활공하는 그런 소리가 난다고 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그힘은 어떡게 나오냐 하면 주먹이 상대 몸에 달때 100에서 1000도까지 온도가 높아지고 주먹이 날라갈때 비행기가 활공하는그런 소리가 난다고 함니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 스매셔 형은 스피어 형과는 다르게 집에서 사육된다고 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>스애시 형은 스피어 형과는 다르게 사육된다고함니다(집에서)</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 힘이 세서 강화유리로 사육장을 만들어도 깨진다고 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>하지만 강화유리로 사육장을 만들어도 강화유리가 깨진다고 함니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 전 맨티스 쉬림프 중 스매셔 형으로 일주일 동안 산호 지대에서 살아보고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법><문법_기타>전 맨티스 쉬림프(스애시형)로 일주일 동안 산호 지대에서 살아보고 싶슴니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37884",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 514,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

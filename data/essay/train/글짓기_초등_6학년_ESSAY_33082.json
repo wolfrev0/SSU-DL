@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 바다생물이 된다면 고래가 됐으면 좋겠다#@문장구분# 왜냐하면 몸이 커서 잡아 먹히지도 않고 편하게 살아갈수 있을 것 같아서 난 고래가 되었으면 좋겠다#@문장구분# \n 고래: 포유강 고래목에 속하는 동물을 통칭한다.#@문장구분# 고래는 다시 크게 수염고래아목과 이빨고래 아목으로 나눌수있다.#@문장구분# 수염고래 아목에 속하는 고래는 긴수염이 달려있어서 물을 빨아들이고 난후 수염으로 거른 플랑크톤을 섭취하며, 이빨고래아목에 속하는 고래는 종류에 따라 작은어류에서 부터 큰 포유동물에 이르기까지 사냥해서 잡아먹는 특징이 있다.#@문장구분# 고래목에는 현재까지 총 90여종이 알려져있다.#@문장구분# 고래는 오래 전에 뭍에서 살던 포유동물이 바다로 서식지를 옮겨가면서 진화한 동물로 알려져 있다.#@문장구분# 이 진화의 과정을 통해서 고래의 몸은 어류와 유사하게 닮게되어 이러한 진화현상을 수렴진화라고 부른다#@문장구분# 고래는 앞다리로부터 진화한 앞지느러미 한쌍을 가지고 있으며 뒷다리는 퇴화되었다고 한다.#@문장구분# 실제 뒷다리는 태아시기에는 존재하지만 점차 발생과정중에 소실된다고한다.#@문장구분# 성체의경우에는 작고 쓸모없는 뼈밖에 남아있지않다.#@문장구분# 어류처럼등지느러미가 있으며 꼬리는 지느러미 모양의 플루크가 있다고 한다#@문장구분#",
+      "paragraph_len": 801,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.5,
+      29.75,
+      20.25
+    ],
+    "essay_scoreT_avg": 24.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "033",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 몸이 커서 잡아먹히지도 않고 편하게 살아갈 수 있을 것 같아서 난 고래가 되었으면 좋겠다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 몸이 커서 <문법_기타>잡아 먹히지도</문법_기타> 않고 편하게 살아갈수 있을 것 같아서 난 고래가 되었으면 좋겠다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래는 다시 크게 수염 고래 아목과 이빨고래 아목으로 나눌 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 고래는 다시 크게 <문법_기타>수염고래아목과 </문법_기타>이빨고래 아목으로 나눌수있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수염고래 아목에 속하는 고래는 긴수염이 달려있어서 물을 빨아들이고 난 후 수염으로 거른 플랑크톤을 섭취하며, 이빨 고래아목에 속하는 고래는 종류에 따라 작은 어류에서부터 큰 포유동물에 이르기까지 사냥해서 잡아먹는 특징이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 수염고래 아목에 속하는 고래는 긴수염이 달려있어서 물을 빨아들이고 <문법_기타>난후 수염으로 거른 플랑크톤을 섭취하며, 이빨고래아목에 속하는 고래는 종류에 따라 작은어류에서 부터 큰 포유동물에 이르기까지 사냥해서 잡아먹는 특징이 있다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래목에는 현재까지 총 90여 종이 알려져 있다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 고래목에는 현재까지 총 <문법_기타>90여종이 알려져있다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래는 오래전에 뭍에서 살던 포유동물이 바다로 서식지를 옮겨가면서 진화한 동물로 알려져 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 고래는 <문법_기타>오래 전에</문법_기타> 뭍에서 살던 포유동물이 바다로 서식지를 옮겨가면서 진화한 동물로 알려져 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 진화의 과정을 통해서 고래의 몸은 어류와 유사하게 닮게 되어 이러한 진화 현상을 수렴진화라고 부른다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>이 진화의 과정을 통해서 고래의 몸은 어류와 유사하게 닮게되어 이러한 진화현상을 수렴진화라고 부른다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래는 앞다리로부터 진화한 앞 지느러미 한 쌍을 가지고 있으며 뒷다리는 퇴화되었다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>고래는 앞다리로부터 진화한 앞지느러미 한쌍을 가지고 있으며 뒷다리는 퇴화되었다고 한다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 실제 뒷다리는 태아 시기에는 존재하지만 점차 발생 과정 중에 소실된다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>실제 뒷다리는 태아시기에는 존재하지만 점차 발생과정중에 소실된다고한다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 성체의 경우에는 작고 쓸모없는 뼈밖에 남아있지 않다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>성체의경우에는 작고 쓸모없는 뼈밖에 남아있지않다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어류처럼 등지느러미가 있으며 꼬리는 지느러미 모양의 플루크가 있다고 한다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>어류처럼등지느러미가</문법_기타> 있으며 꼬리는 지느러미 모양의 플루크가 있다고 한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33082",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 563,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

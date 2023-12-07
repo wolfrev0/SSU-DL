@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다는 아주 넓다.#@문장구분# 지구의 70%를 차지할 정도로 넓고 광범위하다.#@문장구분# 아직 바다의 신기함을 알고 있는 사람이 그렇게 많지 않다.#@문장구분# 요즘은 지구 온난화와 환경오염때문에 남극과 북극이 녹아 해수면이 점점 높아지고 있다.#@문장구분# 이 상황에서 되고 싶은 생물이 있다.#@문장구분# 바로 고래이다.#@문장구분# 이유는 고래가 몸이 크고 무게가 많이 나가는데도 헤엄을 잘치며 움직여 다니는 것이 신기했다.#@문장구분# 그래서 고래의 입장을 보고싶었다.#@문장구분#\n 고래가 되면 입이 커서 신기할 것 같다.#@문장구분# 입을 벌리면 마치 진공 청소기를 틀것 같은 느낌이 날 것 같았다.#@문장구분# 그리고 무게 때문에 가라 앉을 것 같았다.#@문장구분# 그리고 고래는 죽고 난 뒤 시체가 아주 많은 생물에게 도움이 된다는 것을 알았다.#@문장구분# 다른 생물도 되고싶은 것이 있다.#@문장구분# 바로 펭귄이다.#@문장구분# 펭귄은 털이 많아, 추운 날씨에도 다같이 모이면 따뜻하다고 했는데 그 느낌이 포근할 것같다.#@문장구분# 그리고 또한 펭귄은 바다에서 춥지 않을 것같은데 계속 물놀이를 해보고 싶다.#@문장구분# 펭귄은 남극에서 사는데 남극에서 살다 남극에 얼음이 녹아 펭귄이 많이 죽을 것같다.#@문장구분#",
+      "paragraph_len": 860,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.9,
+      20,
+      20
+    ],
+    "essay_scoreT_avg": 20.966667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 요즘은 지구 온난화와 환경오염 때문에 남극과 북극이 녹아 해수면이 점점 높아지고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 요즘은 지구 온난화와 <문법_기타>환경오염때문에 </문법_기타>남극과 북극이 녹아 해수면이 점점 높아지고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 고래가 몸이 크고 무게가 많이 나가는데도 헤엄을 잘 치며 움직여 다니는 것이 신기했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 이유는 고래가 몸이 크고 무게가 많이 나가는데도 헤엄을 <문법_기타>잘치며 </문법_기타>움직여 다니는 것이 신기했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 입을 벌리면 마치 진공청소기를 튼 것 같은 느낌이 날 것 같았다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 입을 벌리면 마치 <문법_어미><문법_기타>진공 청소기를 틀것</문법_기타></문법_어미> 같은 느낌이 날 것 같았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 무게 때문에 가라앉을 것 같았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 무게 때문에 <문법_기타>가라 앉을 </문법_기타>것 같았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 생물도 되고 싶은 것이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 다른 생물도 <문법_기타>되고싶은 </문법_기타>것이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 펭귄은 털이 많아, 추운 날씨에도 다 같이 모이면 따뜻하다고 했는데 그 느낌이 포근할 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 펭귄은 털이 많아, 추운 날씨에도 <문법_기타>다같이 </문법_기타>모이면 따뜻하다고 했는데 그 느낌이 포근할 것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또한 펭귄은 바다에서 춥지 않을 것 같은데 계속 물놀이를 해보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 또한 펭귄은 바다에서 춥지 않을 <문법_기타>것같은데 </문법_기타>계속 물놀이를 해보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 펭귄은 남극에서 사는데 남극에서 살다 남극에 얼음이 녹아 펭귄이 많이 죽을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 펭귄은 남극에서 사는데 남극에서 살다 남극에 얼음이 녹아 펭귄이 많이 죽을 <문법_기타>것같다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32781",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 521,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

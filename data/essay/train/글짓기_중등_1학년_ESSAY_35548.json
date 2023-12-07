@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래의 도시는 우선 일단 대부분의 직업이 로봇이 대신하고 있을것같다.#@문장구분# 내가 그렇게 생각한 이유는 요즘 점점 로봇기술(인공지능 기술)이 발달하고있기 때문이다. #@문장구분#그리고 두번째로는 드론 택배 받는곳이 생길것 같다.#@문장구분# 그렇게 생각한 이유는 요즘 택배들은 24시간 다 운영하는것같다.#@문장구분# 그러면 택배 운전기사 아저씨들도 많이 힘드시다.#@문장구분# 그리고 차도 많이 막혀서 엄청 고생하시는데 드론이면 공중이라 길도 막히지 않고 빠르게 택배로 배송할수 있을것이다.#@문장구분# 그리고 3번째로는 도시 주변에 로봇(정보로봇)이 있었으면 한다.#@문장구분# 내가 그렇게 생각한 이유는 길을 잘 모르시는 분들이나 그 위치에 정보가 필요한 사람들이 있을수도 있다고 생각하기 때문이다.#@문장구분# 그리고 4번째로는 자율주행 기능이 생겼으면 좋겠다.#@문장구분# 그 이유는 자율주행 기능이 생긴다면 시간을 많이 절약할수있다. #@문장구분#예를들어서 차 안에서 아침먹기 라던가 너무 졸리면 잠시 잠을 잘수 있다던가 물론 완벽해야 하지만(자율주행 기능이)미래에는 그랬으면 좋겠다.#@문장구분# 내가 살 미래는 어떤 모습일지 기대된다.#@문장구분#",
+      "paragraph_len": 761,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.15,
+      26,
+      17.6
+    ],
+    "essay_scoreT_avg": 21.583334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 미래의 도시는 우선 일단 대부분의 직업이 로봇이 대신하고 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 생각하는 미래의 도시는 우선 일단 대부분의 직업이 로봇이 대신하고 <문법_맞춤법>있을것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 그렇게 생각한 이유는 요즘 점점 로봇 기술(인공지능 기술)이 발달하고 있기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 그렇게 생각한 이유는 요즘 점점 <문법_맞춤법>로봇기술</문법_맞춤법>(인공지능 기술)이 발달하고있기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 두 번째로는 드론 택배 받는 곳이 생길 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>두번째로는</문법_맞춤법> 드론 택배 받는곳이 생길것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 생각한 이유는 요즘 택배들은 24시간 다 운영하는 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 생각한 이유는 요즘 택배들은 24시간 다 <문법_맞춤법>운영하는것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 차도 많이 막혀서 엄청 고생하시는데 드론이면 공중이라 길도 막히지 않고 빠르게 택배로 배송할 수 있을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 차도 많이 막혀서 엄청 고생하시는데 드론이면 공중이라 길도 막히지 않고 빠르게 택배로 <문법_맞춤법>배송할수 있을것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 그렇게 생각한 이유는 길을 잘 모르시는 분들이나 그 위치에 정보가 필요한 사람들이 있을 수도 있다고 생각하기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 그렇게 생각한 이유는 길을 잘 모르시는 분들이나 그 위치에 정보가 필요한 사람들이 <문법_맞춤법>있을수도</문법_맞춤법> 있다고 생각하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 자율주행 기능이 생긴다면 시간을 많이 절약할 수 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 이유는 자율주행 기능이 생긴다면 시간을 많이 <문법_맞춤법>절약할수있다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를 들어서 차 안에서 아침을 먹거나 너무 졸리면 잠시 잠을 잔다거나 하는 것이다.  물론 완벽해야 하지만(자율주행 기능이)미래에는 그랬으면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>예를들어서</문법_맞춤법> 차 안에서 <스타일링_담화 맥락 오류>아침먹기 라던가</스타일링_담화 맥락 오류> 너무 졸리면 잠시 잠을 잘수 있다던가 물론 완벽해야 하지만(자율주행 기능이)미래에는 그랬으면 좋겠다.",
+      "sentence_corr_txt_styling": "예를 들어서 차 안에서 아침을 먹거나 너무 졸리면 잠시 잠을 잔다거나 하는 것이다.  물론 완벽해야 하지만(자율주행 기능이)미래에는 그랬으면 좋겠다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35548",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 522,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 쓰는 바다 생물 이야기는 심해 생물이야기이다.#@문장구분#\n 어느날 정신을 차리니까 아무것도 보이지않고 뭔가 몸의느낌이 잘못하면 몸이 박살날것 같은느낌이였다.#@문장구분# 그런데 소리가 잘들리고 어떤느낌이 몸에 들어오고 나가는 느낌이였다#@문장구분# 자기장인지는 모르겠는데 일단 보이지 않아서 계속 가만히 있었다.#@문장구분# 그런데 어떤 냄새가 나는것 같았다.#@문장구분# 엄청 배고픈 상태여서 입을 벌렸다.#@문장구분# 그런데 입에 알수없는것이 들어와서 일단 먹었다.#@문장구분#\n 그렇다#@문장구분# 보이지 않고 초음파가느껴지고 소리와 냄새를 잘 탐지했던것이 나는 심해생물 이였다.#@문장구분# 그래서 조금움직였어도 몸이 아팠던것이 심해라서 압력이 엄청난것이었다.#@문장구분# 나는 좌절했다.#@문장구분# 보이지도 않고 바다속이라 높은곳에 가고싶어도 압력으로 쉽게 움직일수 없었다.#@문장구분# 일단 계속 먹고 버티면서 가만히 있으니까 정신이 안정됐다.#@문장구분# 그런데 뭔가에 빨려들어가면서 정신을 잃었다.#@문장구분# 눈을 떠보니 나는 깨달았다.#@문장구분# 이건 꿈이였다.#@문장구분#",
+      "paragraph_len": 769,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.1,
+      30
+    ],
+    "essay_scoreT_avg": 28.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_43480",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 449,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "난 전복이라고해. #@문장구분#사람들은 힘을내야하는 날, 기분 좋은 날 모두 날 찾지.#@문장구분# 그만큼 내가 귀하다는 것 아니겠어? 전 세계적으로 1백여 종이 있는 전복류 중 우리나라에는 크기가 작은 오분자기와 마대오분자기를 비롯해 내 친구들은북방전복(참전복), 둥근전복(까막전복), 말전복, 왕전복 등이 발견된단다. #@문장구분#북방전복은 가장 얕은 곳에 사는 종이고 그 다음이 둥근전복이며, 대형종인 말전복은 가장 깊은 곳에 서식한다.#@문장구분# 왕전복은 오랫동안 말전복과 구분 없이 취급되다가 1979년에 신종으로 분리되었다. #@문장구분#2001년에는 수온이 낮은 북쪽해역에 사는 참전복이 둥근전복의 변이종으로 밝혀져 북방전복으로 바뀌어단다 또한 과거 별개의 종으로 분류되었던 시볼트전복은 말전복과 같은 종으로 밝혀져 시볼트전복이라는 이름은 사라지게 되었어 ㅠㅠ . #@문장구분#둥근전복은 패각이 둥글게 생겨 이름 지어졌지만 패각이 검은 빛깔이 강한 갈녹색이라 까막전복이라고도 부른다. #@문장구분#제주도 방언으로 떡조개라 불리는 오분자기는 전복류가 4~5개의 깔대기처럼 돌출된 출수공을 가지고 있는데 비해 7~8개의 평평한 출수공을 가지고 있고 껍데기도 전복류보다 매끈한 편이라 쉽게 구별된다.#@문장구분# 우리는 이렇게 많이 다양하게 살아가.#@문장구분#",
+      "paragraph_len": 772,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      17.3,
+      20.6,
+      26.25
+    ],
+    "essay_scoreT_avg": 21.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "난 전복이라고 해. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "난 <문법_맞춤법>전복이라고해</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들은 힘을 내야 하는 날, 기분 좋은 날 모두 날 찾지.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "사람들은 <문법_맞춤법>힘을내야하는 </문법_맞춤법>날, 기분 좋은 날 모두 날 찾지.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그만큼 내가 귀하다는 것 아니겠어? 전 세계적으로 1백여 종이 있는 전복류 중 우리나라에는 크기가 작은 오분자기와 마대오분자기를 비롯해 내 친구들은 북방 전복(참전복), 둥근 전복(까막전복), 말전복, 왕전복 등이 발견된단다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그만큼 내가 귀하다는 것 아니겠어? 전 세계적으로 1백여 종이 있는 전복류 중 우리나라에는 크기가 작은 오분자기와 마대오분자기를 비롯해 내 <문법_맞춤법>친구들은북방전복</문법_맞춤법>(참전복), 둥근전복(까막전복), 말전복, 왕전복 등이 발견된단다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "북방 전복은 가장 얕은 곳에 사는 종이고 그다음이 둥근 전복이며, 대형종인 말전복은 가장 깊은 곳에 서식한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>북방전복은</문법_맞춤법> 가장 얕은 곳에 사는 종이고 그 다음이 둥근전복이며, 대형종인 말전복은 가장 깊은 곳에 서식한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "2001년에는 수온이 낮은 북쪽 해역에 사는 참전복이 둥근 전복의 변이종으로 밝혀져 북방 전복으로 바뀌어단다 . 또한 과거 별개의 종으로 분류되었던 시볼트 전복은 말전복과 같은 종으로 밝혀져 시볼트 전복이라는 이름은 사라지게 되었어 ㅠㅠ . ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "2001년에는 수온이 낮은 <문법_맞춤법>북쪽해역에 </문법_맞춤법>사는 참전복이 둥근전복의 변이종으로 밝혀져 북방전복으로 바뀌어단다 또한 과거 별개의 종으로 분류되었던 시볼트전복은 말전복과 같은 종으로 밝혀져 시볼트전복이라는 이름은 사라지게 되었어 ㅠㅠ . ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "둥근 전복은 패각이 둥글게 생겨 이름 지어졌지만 패각이 검은 빛깔이 강한 갈녹색이라 까막전복이라고도 부른다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>둥근전복은 </문법_맞춤법>패각이 둥글게 생겨 이름 지어졌지만 패각이 검은 빛깔이 강한 갈녹색이라 까막전복이라고도 부른다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제주도 방언으로 떡조개라 불리는 오분자기는 전복류가 4~5개의 깔때기처럼 돌출된 출수공을 가지고 있는데 비해 7~8개의 평평한 출수공을 가지고 있고 껍데기도 전복류보다 매끈한 편이라 쉽게 구별된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제주도 방언으로 떡조개라 불리는 오분자기는 전복류가 4~5개의 <문법_맞춤법>깔대기처럼 </문법_맞춤법>돌출된 출수공을 가지고 있는데 비해 7~8개의 평평한 출수공을 가지고 있고 껍데기도 전복류보다 매끈한 편이라 쉽게 구별된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_64262",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 594,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

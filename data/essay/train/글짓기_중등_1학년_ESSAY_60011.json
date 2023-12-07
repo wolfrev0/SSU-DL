@@ -1,0 +1,203 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시는 사람들이 다들 집에만 있어서 서로 만나지 않을 것 같다.#@문장구분# 지금 코로나때문에 일이나 수업도 집에서 하고 전부 집에서 할 수 있게 된 것 처럼 미래에는 아예 전부 다 집에서 할 것 같다.#@문장구분# 그래서 도로가 더 좁아지고 그 자리에 집들이 더 많이 생길 것 같다.#@문장구분# 그리고 사람들은 다들 집에만 있으니까 서로 만날 일이 없어서 연애도 하지 않고 결혼도 하지 않을 것이다.#@문장구분# 그리고 택배같은것도 로봇이 배달해줄 것 같다.#@문장구분# 그리고 돈은 집에서 벌어서 쓰는 것이고 다들 똑같이 벌어서 쓰는 곳도 똑같으니까 경쟁같은것도 없어지고 다들 만날 일도 없고 연애도 안하니까 운동이나 화장을 하면서 꾸미고 남들한테 잘 보이려고 하지도 않을 것 같다.#@문장구분#",
+      "paragraph_len": 473,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20.8,
+      21.75
+    ],
+    "essay_scoreT_avg": 24.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 지금 코로나때문에 일이나 수업도 집에서 하고 전부 집에서 할 수 있게 된 것처럼 미래에는 아예 전부 다 집에서 할 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금 코로나때문에 일이나 수업도 집에서 하고 전부 집에서 할 수 있게 된 <문법_맞춤법>것 처럼</문법_맞춤법> 미래에는 아예 전부 다 집에서 할 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 택배같은 것도 로봇이 배달해줄 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>택배같은것도</문법_맞춤법> 로봇이 배달해줄 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 돈은 집에서 벌어서 쓰고 다들 똑같이 벌어서 쓰는 곳도 똑같으니까 경쟁같은 것도 없어지고 다들 만날 일도 없고 연애도 안 하니까 운동이나 화장을 하면서 꾸미고 남들한테 잘 보이려고 하지도 않을 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 돈은 집에서 벌어서 <문법_기타>쓰는 것이고</문법_기타> 다들 똑같이 벌어서 쓰는 곳도 똑같으니까 <문법_맞춤법>경쟁같은것도</문법_맞춤법> 없어지고 다들 만날 일도 없고 연애도 안하니까 운동이나 화장을 하면서 꾸미고 남들한테 잘 보이려고 하지도 않을 것 같다.",
+      "sentence_corr_txt_styling": " 그리고 돈은 집에서 벌어서 쓰고 다들 똑같이 벌어서 쓰는 곳도 똑같으니까 경쟁같은 것도 없어지고 다들 만날 일도 없고 연애도 안 하니까 운동이나 화장을 하면서 꾸미고 남들한테 잘 보이려고 하지도 않을 것 같다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60011",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 354,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

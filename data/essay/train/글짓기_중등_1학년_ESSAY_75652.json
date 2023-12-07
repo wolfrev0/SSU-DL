@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "과거와 지금 현재는 많이 변화가 되었다.#@문장구분# 휴대폰이 접히고, 노트북이 접히고, 휴대폰으로 계산이 가능해지고, 인간 없이도 주문을 할 수 있어졌다.#@문장구분# 이런 변화는 시간이 흐르면서 더욱 빨라지고 있다.#@문장구분# 그래서 내가 생각하는 미래도시는 자동자 네비게이션으로도 카카오톡이 가능하고, 자동차가 완전하게 사람의 손과 발 없이도 운전과 주차가 가능할 것 같다.#@문장구분# 그렇게 되면서 발생하는 문제에 대한 법들도 많이 만들어 질 것 같고, 사람들이 입으로 대화하는 것보다 손으로 타자를 치면서 하는 대화가 늘어나서 언어 심리 상담가의 역량이 더 필요로하게 되는 날이 올 것 같다.#@문장구분# 자연이 매우 중시되고 있는데 화장품이나, 공장이 더욱 발전하면서 동물실험이 성행할 것 같고, 이로 인한 새로운 바이러스가 나타나서 세상을 집어 삼킬 것 같다.#@문장구분# 그래서 내가 생각하는 미래도시의 이름은 '바이러스 공존 도시'이다.#@문장구분# 바이러스를 달고사는 도시가 될 것 같기 때문이다.#@문장구분#",
+      "paragraph_len": 625,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.25,
+      28.75,
+      23.3
+    ],
+    "essay_scoreT_avg": 25.433334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_75652",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 466,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

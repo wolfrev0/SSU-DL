@@ -1,0 +1,414 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "넓은 바다에 있는 많은 생물들 중에 나는 고래이다. #@문장구분#나는 바다 생물들을 도와주고 지켜주는 큰 고래이다.#@문장구분#나는 아침에 일어나면 먼저 바다 순찰을 한다. #@문장구분#도움이 필요한 바다 생물이 보이면 도와주는 역할도 한다. #@문장구분#오늘은 깊은 바다에 들어가 순찰을 했다.#@문장구분# 앞이 어두깜깜 했지만 도움이 필요한 바다#@문장구분# 생물을 찾고 있던 그때 조그만한 물고기가 바위틈에서 도와달라고 소리쳤다.#@문장구분# 나는 빨리 달려가 조그만 물고기를 도와줬다. #@문장구분#조금 무거웠지만 조심히 작은 물고기를 바위틈에서 껴내주었다. #@문장구분#\"고마워\" 그리고 그 작은 물고기가 나에게 노란색 구슬을 주었다.#@문장구분# \"이게 뭐지?\" 나는 그 노란색 구슬을 멀리 던졌다. #@문장구분#그러니 어떤 아저씨 같은 요상한 사람이 나왔다.#@문장구분# \"안녕\" \"너에게 물어보고 싶은게 있어\" #@문장구분#아저씨가 말했다.#@문장구분# \"뭔데요\" \"너가 바다 생물을 잘 도와주는 고래 맞지\" #@문장구분#\"네\" #@문장구분#\"그럼 나 좀 도와줄래\"#@문장구분# \"네\" #@문장구분#나는 그 아저씨를 따라 갔다.#@문장구분# 아저씨를 따라가며 도움이 필요한 바다 생물이 아주 많이 보였다. #@문장구분#나는 다양한 바다 생물을 도와주었다.#@문장구분# 아저씨는 나에게 아주 멋진 옷을 주었다.#@문장구분# 그리고 아저씨는 어디론가 사라져 버렸다.#@문장구분# 그 이후로 도움이 필요한 생물이 점점 줄어들었다.#@문장구분# 나도 순찰하면서 힘들고 지친 마음이 있었는데 다행이라고 생각했다. #@문장구분#1년후 고래는 순찰관이 되어 바다 생물들을 구하며 즐겁게 지낸다고 한다.#@문장구분#",
+      "paragraph_len": 1186,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      25.9,
+      24.25
+    ],
+    "essay_scoreT_avg": 26.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "나는 바다 생물들을 도와주고 <스타일링_기타>지켜주는 큰 고래이다</스타일링_기타>.",
+      "sentence_corr_txt_styling": "고래는 바다 생물들을 도와주고 지켜준다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "어순을 바꾸는 것이 좋을 것 같습니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>나는 아침에 일어나면</스타일링_기타> 먼저 바다 순찰을 한다. ",
+      "sentence_corr_txt_styling": "아침에 일어나면 나는 먼저 바다 순찰을 한다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞이 어두컴컴했지만 도움이 필요한 바다",
+      "sentence_corr_reason": [
+        "'어두컴컴'이 옳은 표현입니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 앞이 <문법_기타>어두깜깜 했지만</문법_기타> 도움이 필요한 바다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생물을 찾고 있던 그때, 조그만한 물고기가 바위틈에서 도와달라고 소리쳤다.",
+      "sentence_corr_reason": [
+        "쉼표가 필요합니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 생물을 찾고 있던 <문법_기타>그때</문법_기타> 조그만한 물고기가 바위틈에서 도와달라고 소리쳤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "약간은 무거웠지만 조심히 작은 물고기를 바위틈에서 꺼내 주었다. ",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다.",
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_기타>조금</스타일링_기타> 무거웠지만 조심히 작은 물고기를 바위틈에서 <문법_맞춤법>껴내주었다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "약간은 무거웠지만 조심히 작은 물고기를 바위틈에서 꺼내 주었다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"고마워.\"라고 하며 그 작은 물고기가 나에게 노란색 구슬을 주었다.",
+      "sentence_corr_reason": [
+        "마침표가 필요합니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>\"고마워\"</문법_맞춤법><스타일링_기타> 그리고</스타일링_기타> 그 작은 물고기가 나에게 노란색 구슬을 주었다.",
+      "sentence_corr_txt_styling": "\"고마워.\"라고 하며 그 작은 물고기가 나에게 노란색 구슬을 주었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " \"이게 뭐지?\" 나는 그 노란색 구슬을 멀리 <스타일링_기타>던졌다</스타일링_기타>. ",
+      "sentence_corr_txt_styling": " \"이게 뭐지?\" 나는 그 노란색 구슬을 멀리 던져 보았다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "한 따옴표 안에 넣는 것이 좋을 것 같습니다."
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>\"안녕\" \"너에게 물어보고 싶은게 있어\"</스타일링_기타> ",
+      "sentence_corr_txt_styling": " \"안녕, 너에게 물어보고 싶은 게 있어.\" ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"뭔데요?\" \"네가 바다 생물을 잘 도와주는 고래 맞지?\" ",
+      "sentence_corr_reason": [
+        "물음표가 필요합니다."
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>\"뭔데요\"</문법_기타> \"너가 바다 생물을 잘 도와주는 고래 맞지\" ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"네.\" ",
+      "sentence_corr_reason": [
+        "마침표가 필요합니다."
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>\"네\"</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"그럼 나 좀 도와줄래?\"",
+      "sentence_corr_reason": [
+        "물음표가 필요합니다."
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>\"그럼 나 좀 도와줄래\"</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"네.\" ",
+      "sentence_corr_reason": [
+        "마침표를 써야 합니다."
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>\"네\"</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 그 아저씨를 따라갔다.",
+      "sentence_corr_reason": [
+        "붙여 써야 합니다."
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 그 아저씨를 <문법_맞춤법>따라 갔다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러자 아저씨는 나에게 아주 멋진 옷을 주었다.",
+      "sentence_corr_reason": [
+        "부사가 필요합니다."
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>아저씨는</문법_기타> 나에게 아주 멋진 옷을 주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 순찰하면서 힘들고 지치기도 했는데 다행이라고 생각했다. ",
+      "sentence_corr_reason": [
+        "'는'이 자연스럽습니다.",
+        "'지치다'에도 '마음'이라는 의미가 내포되어 있습니다."
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <문법_조사>나도</문법_조사> 순찰하면서 힘들고 <스타일링_패러프레이징>지친 마음이 있었는데</스타일링_패러프레이징> 다행이라고 생각했다. ",
+      "sentence_corr_txt_styling": " 나는 순찰하면서 힘들고 지치기도 했는데 다행이라고 생각했다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "1년 후 고래는 순찰관이 되어 바다 생물들을 구하며 즐겁게 지낸다고 한다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0026",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>1년후</문법_맞춤법> 고래는 순찰관이 되어 바다 생물들을 구하며 즐겁게 지낸다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38331",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 667,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

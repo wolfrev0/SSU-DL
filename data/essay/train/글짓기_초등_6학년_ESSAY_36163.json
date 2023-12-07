@@ -1,0 +1,394 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "p+3=나는 어찌저찌하여 게로 태어났다.#@문장구분# 그것도 아주 깁숙한곳에서 태어났다. #@문장구분#너무 어둡다. #@문장구분#내가 사는곳을 표연 하려면 이정도로 충분하다.#@문장구분# 우리 가족은 매일 돌아다니며 먹이를 찾아 다녔다.#@문장구분# 어느날 우리가족은 또 먹을걸 찾고 있었다.#@문장구분# 왜인지는 모르겠지만 맨날 먹을거를 찾는다.#@문장구분# 그러다가 엄청 큰 물고기를 만났다. #@문장구분#나는 처음보는 물고기를 계속 보고싶었지만 아빠는 나를 모래속으로 숨겼다.#@문장구분# 얼마나 지났을까 아빠가 날 꺼내주었다.#@문장구분# 아빠는 이동하며 물고기에 대한 경각심을 심어주었고 나는 먹이와 지식을 동시에 획득하였다.#@문장구분# 특희 문어를 조심하라고 하셨다. #@문장구분#그들은 우리가 주식이기 떄문에 우릴 찾아다닌다고 하였다.#@문장구분# 또 다름없이 먹이를 찾던중 하늘에서 엄청나게 큰 물고기의 사체가 내려왔다. #@문장구분#그와동시에 수많은 물고기들이 그 시체를 먹어치웠다.#@문장구분# 우리는 그물고기를 먹고있는 물고기들이 모두 가고나면 우리는 얌생이 처럼 남아있는 살을 먹기 시작했다. #@문장구분#난생 처음먹어보는 고기맛은 정말 일품이였다. #@문장구분#우리는 그렇게 한달동안 그곳에 눌러살다가 또또 먹이를 찾아돌아다닌다.#@문장구분#",
+      "paragraph_len": 887,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.1,
+      30,
+      14.55
+    ],
+    "essay_scoreT_avg": 22.550001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 게로 태어났다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_담화 맥락 오류>p+3=나는 어찌저찌하여 게로 태어났다.</문법_담화 맥락 오류></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그것도 아주 깊숙한 곳에서 태어났다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그것도 아주 <문법_맞춤법>깁숙한곳에서</문법_맞춤법> 태어났다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "내가 <스타일링_맞춤법><스타일링_담화 맥락 오류>사는곳을 표연 하려면 이정도로</스타일링_담화 맥락 오류></스타일링_맞춤법> 충분하다.",
+      "sentence_corr_txt_styling": "내가 사는 곳을 표현하는 것은 이 정도면 충분하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 날 우리 가족은 또 먹을 것을 찾고 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느날 우리가족은 또 먹을걸 찾고 있었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜인지는 모르겠지만 매일 먹을 것을 찾아다닌다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜인지는 모르겠지만 <문법_맞춤법>맨날 먹을거를</문법_맞춤법> <스타일링_담화 맥락 오류>찾는다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 왜인지는 모르겠지만 매일 먹을 것을 찾아다닌다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 처음 보는 물고기를 계속 보고 싶었지만 아빠는 나를 모래 속으로 숨겼다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>처음보는</문법_맞춤법> 물고기를 계속 보고싶었지만 아빠는 나를 모래속으로 숨겼다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 얼마나 지났을까. 아빠가 날 꺼내주었다.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 얼마나 <문법_맞춤법>지났을까</문법_맞춤법> 아빠가 날 꺼내주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 문어를 조심하라고 하셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>특희</문법_맞춤법> 문어를 조심하라고 하셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그들은 우리가 주식이기 때문에 우릴 찾아다닌다고 하였다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그들은 우리가 주식이기 <문법_맞춤법>떄문에</문법_맞춤법> 우릴 찾아다닌다고 하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 평소와 다름없이 먹이를 찾던 중 하늘에서 엄청나게 큰 물고기의 사체가 내려왔다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>또 다름없이</스타일링_담화 맥락 오류> 먹이를 <문법_맞춤법>찾던중</문법_맞춤법> 하늘에서 엄청나게 큰 물고기의 사체가 내려왔다. ",
+      "sentence_corr_txt_styling": " 평소와 다름없이 먹이를 찾던 중 하늘에서 엄청나게 큰 물고기의 사체가 내려왔다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그와 동시에 수많은 물고기들이 그 사체를 먹어치웠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그와동시에</문법_맞춤법> 수많은 물고기들이 그 시체를 먹어치웠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류><스타일링_패러프레이징>우리는 그물고기를 먹고있는 물고기들이 모두 가고나면 우리는 얌생이 처럼 남아있는 살을 먹기 시작했다.</스타일링_패러프레이징></스타일링_담화 맥락 오류></스타일링_맞춤법> ",
+      "sentence_corr_txt_styling": " 우리는 잠시 기다렸다가 다른 물고기들이 먹고 남은 살들을 먹기 시작했다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "난생처음 먹어보는 고기 맛은 정말 일품이었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>난생 처음먹어보는 고기맛은</문법_맞춤법> 정말 일품이였다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리는 그렇게 한 달 동안 그곳에서 살다가 다시 먹이를 찾아다닌다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "우리는 그렇게 <문법_맞춤법>한달동안 </문법_맞춤법><스타일링_담화 맥락 오류>그곳에 눌러살다가 또또 먹이를 찾아돌아다닌다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "우리는 그렇게 한 달 동안 그곳에서 살다가 다시 먹이를 찾아다닌다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36163",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 527,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

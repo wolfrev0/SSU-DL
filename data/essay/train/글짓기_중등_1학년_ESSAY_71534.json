@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 우주를 여행할 수 있게 될 거 같다.#@문장구분# 미래 도시의 이름은 스페이스 시티라고 지으면 좋겠다.#@문장구분# 우주와 함께하는 도시라는 뜻이다.#@문장구분# 지금도 많은 과학자들이 우주에 대해서 연구하고 있다.#@문장구분# 아직 우주에 가는 것은 어려운 기술이지만 미래에는 지금보다 더 발전하여서 우주에 자주 갈 수 있게 될 것이다.#@문장구분# 휴가철에는 사람들이 다른 나라로 여행가기보다는 우주로 여행을 가게 될 것이다.#@문장구분# 외계인을 발견할 지는 잘 모르겠다.#@문장구분# 아직 외계인의 존재가 다 밝혀지지 않았으니 외계인과 소통할 때까지는 더 오랜 시간이 걸릴 거 같다.#@문장구분# 우주의 많은 별들을 여행하고 우주에 있는 땅을 거래하는 사업도 생겨날 것이다.#@문장구분# 화성이나 달의 땅을 사고 팔고하는 일도 많이 일어날 거 같다.#@문장구분# 비록 우주로 여행가는 것은 매우 많은 돈이 들겠지만 기회가 된다면 꼭 한번 가보고 싶다.#@문장구분#",
+      "paragraph_len": 635,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20.8,
+      23.9
+    ],
+    "essay_scoreT_avg": 24.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 휴가철에는 사람들이 다른 나라로 여행 가기보다는 우주로 여행을 가게 될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 휴가철에는 사람들이 다른 나라로 <문법_맞춤법>여행가기보다는</문법_맞춤법> 우주로 여행을 가게 될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 외계인을 발견할지는 잘 모르겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 외계인을 <문법_맞춤법>발견할 지는</문법_맞춤법> 잘 모르겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 비록 우주로 여행 가는 것은 매우 많은 돈이 들겠지만 기회가 된다면 꼭 한번 가보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 비록 우주로 <문법_맞춤법>여행가는 </문법_맞춤법>것은 매우 많은 돈이 들겠지만 기회가 된다면 꼭 한번 가보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71534",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 416,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "자갈치의 하루#@문장구분#\n 나는 문어다. #@문장구분#매일 매일 바다 너머에 무엇이 있는지 궁금하다.#@문장구분# 하지만 그물망에 잡혀서 밖을 보는 것은 위험하다. #@문장구분#왜냐하면 잡아 먹힐게 뻔하다.#@문장구분#\n 어느 날, 문어친구들과 이야기 하는데... #@문장구분#어라? 어째서 내가 그물망에 들어 온거지?#@문장구분# 근데 갑자기 내 옆에 있던 잘생긴 상어가 나한테 말을 걸었다.#@문장구분# \"어이! 너는 왜 여기 있는거지? 너는 나보다 훨씬 작은데...\"#@문장구분# \"뭐래~ 나도 잡히고 싶어서 잡힌거 아니거든 하 아직 육지의 탐험도 못 해봤는데 나는 이렇게 소원을 못 이루어 보고 사람들한테 잡아 먹히는 건가...\" #@문장구분#근때 상어가 말을 걸었다. #@문장구분#\"어이 너는 이름이 뭐야?\" #@문장구분#상어가 말하자 문어는 정적이 흘렀다#@문장구분#. 그러곤 입을 벌렸다.#@문장구분# \"난 그런거 없어\"#@문장구분# \"뭐야 이름이 없다고? 하 나는 활짝이야. 우리 엄마가 다른 물고기들은 상어를 무서워해 먼저 다가가서 활짝 웃은 다음 인사를 하라고 활짝이라고 지었데.\"#@문장구분# \"우와~ 이름 멋있다\"#@문장구분# \"그니깐 너는 갈치해. 성은 자 이름은 갈치 우리 엄마가 즐겨먹었거든. 그리고 내가 여기 그물망에 나갈 수 있게 도와줄게\"#@문장구분# \"정말? 고마워~\" #@문장구분#활짝이는 자신의 이빨로 그물망을 잘랐다.#@문장구분#그리고 미세한 구멍을 통해 갈치는 빠져 나왔다. #@문장구분#그리고 갈치는 활짝이한테 마지막 인사를 하고 모험을 떠났다.#@문장구분# 그리고 멋진 풀숲에서 숨을 한 번 크게 쉬고 이곳이 멋진 세상이라고 생각한 자갈치는 밤이되어 별을 보면서 활짝이한테 감사인사를 했다.",
+      "paragraph_len": 1146,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.85,
+      22.1
+    ],
+    "essay_scoreT_avg": 24.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "매일매일 바다 너머에 무엇이 있는지 궁금하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>매일 매일</문법_맞춤법> 바다 너머에 무엇이 있는지 궁금하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 잡아먹힐게 뻔하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 <문법_맞춤법>잡아 먹힐게</문법_맞춤법> 뻔하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 어느 날, 문어 친구들과 이야기하는데... ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 어느 날, <문법_맞춤법>문어친구들과 이야기 하는데</문법_맞춤법>... ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어라? 어째서 내가 그물망에 들어온 거지?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "어라? 어째서 내가 그물망에 <문법_맞춤법>들어 온거지</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"어이! 너는 왜 여기 있는 거지? 너는 나보다 훨씬 작은데...\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"어이! 너는 왜 여기 <문법_맞춤법>있는거지</문법_맞춤법>? 너는 나보다 훨씬 작은데...\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"뭐래~ 나도 잡히고 싶어서 잡힌게 아니거든 하 아직 육지의 탐험도 못 해봤는데 나는 이렇게 소원을 못 이루어 보고 사람들한테 잡아먹히는 건가...\" ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"뭐래~ 나도 잡히고 싶어서<문법_맞춤법> 잡힌거</문법_맞춤법> 아니거든 하 아직 육지의 탐험도 못 해봤는데 나는 이렇게 소원을 못 이루어 보고 사람들한테 잡아 먹히는 건가...\" ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그때 상어가 말을 걸었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>근때</문법_맞춤법> 상어가 말을 걸었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "상어가 말하자 문어는 정적이 흘렀다.",
+      "sentence_corr_reason": [
+        "마침표"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "상어가 말하자 문어는 정적이<문법_기타> 흘렀다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"그러니깐 너는 갈치해. 성은 자 이름은 갈치 우리 엄마가 즐겨먹었거든. 그리고 내가 여기 그물망에 나갈 수 있게 도와줄게\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " \"<문법_조사>그니깐</문법_조사> 너는 갈치해. 성은 자 이름은 갈치 우리 엄마가 즐겨먹었거든. 그리고 내가 여기 그물망에 나갈 수 있게 도와줄게\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 미세한 구멍을 통해 갈치는 빠져나왔다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 미세한 구멍을 통해 갈치는 <문법_맞춤법>빠져 나왔다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 멋진 풀숲에서 숨을 한 번 크게 쉬고 이곳이 멋진 세상이라고 생각한 자갈치는 밤이 되어  별을 보면서 활짝이한테 감사 인사를 했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 멋진 풀숲에서 숨을 한 번 크게 쉬고 이곳이 멋진 세상이라고 생각한 <문법_맞춤법>자갈치는 밤이되어</문법_맞춤법> 별을 보면서 활짝이한테 감사인사를 했다.",
+      "sentence_corr_txt_styling": " 그리고 멋진 풀숲에서 숨을 한 번 크게 쉬고 이곳이 멋진 세상이라고 생각한 자갈치는 밤이 되어  별을 보면서 활짝이한테 감사 인사를 했다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52788",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 707,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

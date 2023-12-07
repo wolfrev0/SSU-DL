@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래도시의 이름을 비키니시티라고 지어주고 싶습니다.#@문장구분# 스펀지밥이라는 애니메이션을 보면 바다에 있는 도시에 여러 친구들이 살고 있습니다.#@문장구분# 그 도시의 이름이 바로 비키니시티입니다.#@문장구분# 이렇듯 나중에 사람들도 바다 안에서 살 수 있을 것 같다는 상상을 해보았습니다.#@문장구분# 지금은 수중 터널 등 여러 수중 시설들이 만들어지고 있습니다.#@문장구분# 계속 바다에 여러가지 시설들을 만드는 시도가 계속된다면 수중 도시까지 만들어지지 않을까라는 상상은 많은 생각을 하게 만듭니다. #@문장구분#수중 도시 사람들은 무엇을 하고 살지, 무엇을 먹을지, 숨은 어떻게 쉴지, 어떻게 바다까지 들어갈지 등등 모든 것이 궁금한 것 투성이입니다.#@문장구분# 하지만 그중에서도 가장 큰 궁금증은 숨을 쉬는 문제입니다.#@문장구분# 저는 수중 도시는 커다란 반원 모양의 투명 막 안에 지어질 것 같습니다.#@문장구분#그렇지 않다면 문을 열 때 집으로 물이 다 들어올테니까요.#@문장구분# 그 반원 모양의 막 안에는 항상 공기가 들어오는 장치가 설치되어 있으면 사람들이 숨을 쉬는데 편할 것 같습니다.#@문장구분#",
+      "paragraph_len": 719,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      29.2,
+      29.2,
+      28
+    ],
+    "essay_scoreT_avg": 28.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_60851",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 501,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제 꿈은 저로 인해 행복한 사람들이 더 많아지는 것입니다.#@문장구분# 우선 10년 뒤에 저는 사회복지사로 일하고 있을 것입니다.#@문장구분# 복지의 최전선에서 일하는 것이죠.#@문장구분# 도움이 필요한 이들이 어떤 문제로 도움이 필요하게 된 것인지 근원적인 이유를 찾아내어 그 원인을 해결할 것입니다.#@문장구분# 그리고 20년 뒤에 저는 사회복지사로서 굉장히 성공하여, 그러니까 복지에 관해 여러 업적들을 달성하고 NGO에서 일하고 있을 것입니다.#@문장구분# 다양한 경험을 하기 위해서요.#@문장구분# 더 세계적인 문제로 이제 관심을 돌렸습니다.#@문장구분#지구촌 한가족인 우리에게 생긴 문제이니까요.#@문장구분# 그리고 30년 뒤에서는 노벨평화상을 수상할 것입니다.#@문장구분# 10년동안 여러 세계적인 문제를 해결하기 위해서 두발 벗고 뛰어다녔기 때문이거든요.#@문장구분# 실제로 그 행동에 성과도 있었기 때문이고요.#@문장구분# 그렇게 저는 제 꿈인 저로 인해 더 많은 사람들이 행복했으면 했던 일을 해내었을 것입니다.#@문장구분# 한 30년뒤에 말이죠.#@문장구분# 저는 제가 바라는, 제가 되고 싶었던 사람이 되는데에 30년이라는 깊고 오랜 시간을 거침으로써 성공해 있을 것입니다.",
+      "paragraph_len": 782,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27.38889,
+      23.61111
+    ],
+    "essay_scoreT_avg": 27,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_67994",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 522,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

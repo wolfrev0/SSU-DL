@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "사회학연구원으로써 사회의 작은 부분들을 변화시켜나가는데에 많은 흥미를 가지고 변화의 중심점에서 사회변화를 도모하는 사람으로써 역할을 이행하는 모습을 미래 모습으로 꿈꾼다.#@문장구분# 처음에는 국회의원이나 사회복지사도 꿈꿔봤었지만 이보다는 사회에 전반적인 지식을 가지고 이를 활용해 사회의 문제를 고찰하고 해결책을 제시할 수 있는 사람이 되고 싶어졌다. #@문장구분#그래서 그 지식과 내가 제시한 해결책이 기반이 되어 국회의원과 사회복지사들에게 도움이 되는 의견을 제시하여 도움이 되는 것이 내가 바라는 나의 미래의 모습이다. #@문장구분#그렇게 되기 위해서는 우선적으로 사회학 연구원이 되기 위해 필요한 공부 과정과 관련 학과를 우선적으로 알아보고 난 후, 아무래도 사회학연구원이 흔한 직업이 아니다보니 관련되어 유명한 사회학연구원을 찾아보면서 꿈에 다가가는 나의 모습을 기대할 수 있을 것 같다. #@문장구분#나중에 유명한 사회학연구원이 되어 사회적인 약자나 소외자들이 더 검정색을 많이 가지게 되는 것보다 밝게 함께 빛을 보도록 만들어줄 수 있는 사람이 되고 싶다.#@문장구분#그렇게 하기 위해서는 공부를 열심히 해야겠다.",
+      "paragraph_len": 640,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.888889,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.5,
+      28.666668
+    ],
+    "essay_scoreT_avg": 29.055557,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_58874",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 541,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

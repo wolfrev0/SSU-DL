@@ -1,0 +1,327 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시의 모습은 일단 자동차가 현재보다 별로 없을것 같다.#@문장구분# 왜냐하면 새로운 기계가 나와 자동차를 타는 사람이 줄어들것 같고, 또 아파트가 줄어들것이다.#@문장구분# 미래에는 기술이 발달하여 아파트 한체의 사람이 50명 이상 살고 그렇기 때문이다.#@문장구분# 그리고 작은건물은 거의 없고 큰 건물이 많을 것이다.#@문장구분# 왜냐하면 아파트에 사람이 엄청 많이살면 병원등 건물 한개만 지으면 건물수가 줄어들어 복합하지도 않고 빈 땅으로 차선을 넓히거나 공원, 인도등 다양한것을 넓힐수 있어 더 좋다.#@문장구분# 그래서 운동을 하고 싶은데 환경이 안되어서 못하는 사람들을 위해 공원을 넓혀 운동을 할수 있게 된다.#@문장구분# 내가 생각하는 새로운 자동차는 캡슐 모양이고, 차안에 4명이 탈수 있고, 기능은 자신의 통장에 있는 돈을 원하는 만큼 가져갈수 있다.#@문장구분# 그리고 횡단보도는 파란불이 되면 보호막이 생겨 교통사고가 나지 않게 도와준다.#@문장구분# 그리고 빨간불이 되면 보호막이 사라진다.#@문장구분# 그리고 자동차의 추가 기능으로 교통사고가 나면 충격이 크지 않게 해주고 날수도있고, 차색을 변경 할수도 있다.#@문장구분#",
+      "paragraph_len": 729,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      25.85,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래 도시의 모습은 우선 자동차가 현재보다 별로 없는 모습이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "내가 생각하는 미래 도시의 모습은 <문법_맞춤법>일단</문법_맞춤법> 자동차가 현재보다 별로 <스타일링_담화 맥락 오류>없을것 같다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "내가 생각하는 미래 도시의 모습은 우선 자동차가 현재보다 별로 없는 모습이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 왜냐하면 새로운 기계가 나와 자동차를 타는 사람이 줄어들것 같고, <스타일링_담화 맥락 오류>또 아파트가 줄어들것이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 왜냐하면 새로운 기계가 나와 자동차를 타는 사람이 줄어들 것 같기 때문이다. 더불어 아파트도 줄어들 것이다 .",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에는 기술이 발달하여 아파트 한 채에 사람이 50명 이상 살 것 같기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 미래에는 기술이 발달하여 아파트 <문법_맞춤법>한체의</문법_맞춤법> 사람이 50명 이상 <스타일링_담화 맥락 오류>살고 그렇기</스타일링_담화 맥락 오류> 때문이다.",
+      "sentence_corr_txt_styling": " 미래에는 기술이 발달하여 아파트 한 채에 사람이 50명 이상 살 것 같기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또, 작은 건물은 거의 없고 큰 건물이 많을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고</스타일링_담화 맥락 오류> <문법_맞춤법>작은건물</문법_맞춤법>은 거의 없고 큰 건물이 많을 것이다.",
+      "sentence_corr_txt_styling": " 또, 작은 건물은 거의 없고 큰 건물이 많을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 아파트에 사람이 엄청 많이 살면 병원 같은 건물을 한 개만 지으면 되기 때문에 복잡하지도 않고 남은 땅으로 차선을 넓히거나 공원, 인도 등 다양한 것을 만들 수 있어 더 좋다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 아파트에 사람이 엄청 많이살면 <스타일링_패러프레이징>병원등 건물 한개만 지으면 건물수가 줄어들어</스타일링_패러프레이징> <문법_맞춤법>복합하지도 않고</문법_맞춤법> <스타일링_담화 맥락 오류>빈 땅으로</스타일링_담화 맥락 오류> 차선을 넓히거나 공원, 인도등 다양한것을 넓힐수 있어 더 좋다.",
+      "sentence_corr_txt_styling": " 왜냐하면 아파트에 사람이 엄청 많이 살면 병원 같은 건물을 한 개만 지으면 되기 때문에 복잡하지도 않고 남은 땅으로 차선을 넓히거나 공원, 인도 등 다양한 것을 만들 수 있어 더 좋다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한, 운동을 하고 싶은데 환경이 안 되어서 못하는 사람들을 위한 공원을 지을 수도 있게 되기 때문에 쉽게 운동을 할 수 있게 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그래서 운동을 하고 싶은데 환경이 <문법_맞춤법>안되어서</문법_맞춤법> 못하는 사람들을<스타일링_담화 맥락 오류> 위해 공원을 넓혀</스타일링_담화 맥락 오류> 운동을 할수 있게 된다.",
+      "sentence_corr_txt_styling": " 또한, 운동을 하고 싶은데 환경이 안 되어서 못하는 사람들을 위한 공원을 지을 수도 있게 되기 때문에 쉽게 운동을 할 수 있게 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각하는 새로운 자동차는 캡슐 모양이고, 차 안에 4명이 탈 수 있다. 기능은 자신의 통장에 있는 돈을 원하는 만큼 쉽게 가져갈 수 있는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 내가 생각하는 새로운 자동차는 캡슐 모양이고, <문법_맞춤법>차안에</문법_맞춤법> 4명이 탈수 <문법_어미>있고,</문법_어미> 기능은 자신의 통장에 있는 돈을 원하는 만큼 <스타일링_담화 맥락 오류>가져갈수 있다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 내가 생각하는 새로운 자동차는 캡슐 모양이고, 차 안에 4명이 탈 수 있다. 기능은 자신의 통장에 있는 돈을 원하는 만큼 쉽게 가져갈 수 있는 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고</스타일링_담화 맥락 오류> 횡단보도는 파란불이 되면 보호막이 생겨 교통사고가 나지 않게 도와준다.",
+      "sentence_corr_txt_styling": " 다음으로, 내가 생각한 미래의  횡단보도는 파란불이 되면 보호막이 생겨 교통사고가 나지 않게 도와준다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  자동차의 추가 기능으로는 교통사고가 나면 충격이 크지 않게 해주고 날 수도있고, 차량 색을 변경할 수도 있다는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고 </스타일링_담화 맥락 오류>자동차의 추가 <문법_조사>기능으로 </문법_조사>교통사고가 나면 충격이 크지 않게 해주고 <문법_맞춤법>날수도있고, 차색을 변경 할수도 있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "  자동차의 추가 기능으로는 교통사고가 나면 충격이 크지 않게 해주고 날 수도있고, 차량 색을 변경할 수도 있다는 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36475",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 529,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

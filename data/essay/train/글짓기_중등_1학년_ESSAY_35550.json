@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래도시는 사람들이 아주 편하게 살아가고 사물, 자동차 같은 것들이 아주 많이 바뀔것이라고 생각한다.#@문장구분# 내가 어떤 만화책에서 봤는데 자동차들은 바퀴없이 떠서 주행하고 지금도 발전중인 기술이지만 자동운전이 적용된다.#@문장구분# 화장실은 소변을 보면 건강도 체크 해주고 사람들과도 투명 스크린으로 연락을 주고받는다.#@문장구분# 하지만 이런 기술들때문에 해커들도 증가할수 있다고 나왔다.#@문장구분# 해킹을 당하면 미래도시에서는 모든것이 해킹 당하기때문에 위험할것이다. #@문장구분#이 문제들만 잘 보완되고 보안이 강력해지면 사람들은 안심하고 살것이다.#@문장구분# 또 도로에는 에스컬레이터 같은것이 생길거라고 생각한다.#@문장구분# 걷지 않아도 가고 싶은곳으로 갈수있다.#@문장구분# 밥 대신 간편하게 알약을 먹고 신문은 전자신문이 될 것이다.#@문장구분# 길거리에 붙어있는 포스터는 영상이 틀어져서 포스터를 더 재밌게 볼것이다. #@문장구분#또 이 미래도시는 각자 어디든 가면 인증이되는 ID카드를 가지고 다닐것이다.#@문장구분# 내가 생각하는 미래도시는 이처럼 편리하고 재밌는 기대되는 도시이다.#@문장구분# 미래가 빨리와서 신기한 도시에서 살아보고싶은 마음도 점점 커진다.#@문장구분#",
+      "paragraph_len": 793,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.15,
+      24.25,
+      22.4
+    ],
+    "essay_scoreT_avg": 24.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래도시는 사람들이 아주 편하게 살아가고 사물, 자동차 같은 것들이 아주 많이 바뀔 것이라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 미래도시는 사람들이 아주 편하게 살아가고 사물, 자동차 같은 것들이 아주 많이 <문법_맞춤법>바뀔것이라고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 어떤 만화책에서 봤는데 자동차들은 바퀴 없이 떠서 주행하고 지금도 발전 중인 기술이지만 자동 운전이 적용된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 어떤 만화책에서 봤는데 자동차들은 <문법_맞춤법>바퀴없이</문법_맞춤법> 떠서 주행하고 지금도 발전중인 기술이지만 자동운전이 적용된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 화장실은 소변을 보면 건강도 체크해 주고 사람들과도 투명 스크린으로 연락을 주고받는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 화장실은 소변을 보면 건강도 <문법_맞춤법>체크 해주고</문법_맞춤법> 사람들과도 투명 스크린으로 연락을 주고받는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 이런 기술들 때문에 해커들도 증가할 수 있다고 나왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 이런 <문법_맞춤법>기술들때문에</문법_맞춤법> 해커들도 증가할수 있다고 나왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해킹을 당하면 미래도시에서는 모든 것이 해킹당하기 때문에 위험할 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 해킹을 당하면 미래도시에서는 <문법_맞춤법>모든것이 해킹 당하기때문에 위험할것이다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 문제들만 잘 보완되고 보안이 강력해지면 사람들은 안심하고 살 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이 문제들만 잘 보완되고 보안이 강력해지면 사람들은 안심하고 <문법_맞춤법>살것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 도로에는 에스컬레이터 같은 것이 생길 거라고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 도로에는 에스컬레이터 <문법_맞춤법>같은것이 생길거라고</문법_맞춤법> 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 걷지 않아도 가고 싶은 곳으로 갈 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 걷지 않아도 가고 <문법_맞춤법>싶은곳으로 갈수있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 길거리에 붙어있는 포스터는 영상이 틀어져서 포스터를 더 재밌게 볼 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 길거리에 붙어있는 포스터는 영상이 틀어져서 포스터를 더 재밌게 <문법_맞춤법>볼것이다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 이 미래도시는 각자 어디든 가면 인증이 되는 ID카드를 가지고 다닐 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 이 미래도시는 각자 어디든 가면 <문법_맞춤법>인증이되는</문법_맞춤법> ID카드를 가지고 다닐것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래가 빨리 와서 신기한 도시에서 살아보고싶은 마음도 점점 커진다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래가 <문법_맞춤법>빨리와서</문법_맞춤법> 신기한 도시에서 살아보고싶은 마음도 점점 커진다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35550",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 534,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

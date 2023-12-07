@@ -1,0 +1,307 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "돌고래가 되고 싶다. #@문장구분#왜냐하면 사람에게 가장 익숙한 동물이기도 하고, 사람과 가장 비슷한 동물이기도 하다. #@문장구분#그래서 동물, 돌고래가 되어서 동물들의 언어로 사람을 알리고 싶다. #@문장구분#물고기들을 불러모아서 사람은 정확히 무엇인지, 무슨 역할을 하는지도 말이다. #@문장구분#그리고 내가 왜 바다에 왔는지도 설명해줄 것이다. #@문장구분#그리고 다음날에는 물고기의 종류를 가리지 않고 두루두루 친해질 것이다. #@문장구분#작은 물고기들, 큰 고래같은 물고기랑도 말이다. #@문장구분#궁금했던 바다의 아직 발견하진 못한 물고기도 찾을 것이다.#@문장구분# 그리고 지낼 곳을 마련하여 편하게 쉴 것이다.#@문장구분# 바다도 모험할 것이다! #@문장구분#깊은 바다 속으로 들어가서, 뭐가 있는지 기억으로 담아내 일주일이 지나면 뭐가 있었는지 설명도 해보고 싶다. #@문장구분#단순히 상상이지만, 직접 그렇게 가상으로 체험을 해보고 싶다. #@문장구분#하게 되면 지금까지 말한 것들을 전부다 해보고 싶다.#@문장구분#",
+      "paragraph_len": 693,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      24.85,
+      22.4
+    ],
+    "essay_scoreT_avg": 24.583334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.15",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "왜냐하면 사람에게 가장 익숙한 동물이기도 하고, 사람과 가장 비슷한 <스타일링_기타>동물이기도 하다.</스타일링_기타> ",
+      "sentence_corr_txt_styling": "왜냐하면 사람에게 가장 익숙한 동물이기도 하고, 사람과 가장 비슷한 동물이기 때문이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "동물은 생략하는 것이 좋을 것 같습니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그래서 <스타일링_기타>동물, 돌고래가</스타일링_기타> 되어서 동물들의 언어로 사람을 알리고 싶다. ",
+      "sentence_corr_txt_styling": "그래서 돌고래가 되어서 동물들의 언어로 그들에게 사람을 알리고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 내가 왜 바다에 왔는지도 설명해 줄 것이다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 내가 왜 바다에 왔는지도 <문법_맞춤법>설명해줄</문법_맞춤법> 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "'그리고'가 반복됩니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>그리고 다음날에는</스타일링_기타> 물고기의 종류를 가리지 않고 두루두루 친해질 것이다. ",
+      "sentence_corr_txt_styling": "다음날에는 물고기의 종류를 가리지 않고 두루두루 친해질 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "작은 물고기들, <스타일링_기타>큰 고래같은 물고기랑도</스타일링_기타> 말이다. ",
+      "sentence_corr_txt_styling": "작은 물고기들, 고래와 같은 큰 물고기와도 말이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "궁금했던 바다에서 아직 발견하지 못한 물고기도 찾을 것이다.",
+      "sentence_corr_reason": [
+        "'에서'가 자연스럽습니다.",
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": "궁금했던 <문법_조사>바다의</문법_조사> 아직 <스타일링_기타>발견하진</스타일링_기타> 못한 물고기도 찾을 것이다.",
+      "sentence_corr_txt_styling": "궁금했던 바다에서 아직 발견하지 못한 물고기도 찾을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 깊은 바다 속으로 들어가서, 뭐가 있는지 기억으로 담아낸 후 일주일이 지났을 때 거기에 뭐가 있었는지 설명도 해 보고 싶다. ",
+      "sentence_corr_reason": [
+        "부사가 필요합니다.",
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>깊은</문법_기타> 바다 속으로 들어가서, 뭐가 있는지 기억으로 담아내 일주일이 지나면 뭐가 있었는지 설명도 <문법_맞춤법>해보고</문법_맞춤법> 싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "단순히 상상이지만, 직접 그렇게 체험을 해 보고 싶다. ",
+      "sentence_corr_reason": [
+        "'직접'과 '가상'은 반대되는 말입니다.",
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "단순히 상상이지만, <스타일링_담화 맥락 오류>직접 그렇게 가상으로</스타일링_담화 맥락 오류> 체험을 <문법_맞춤법>해보고</문법_맞춤법> 싶다. ",
+      "sentence_corr_txt_styling": "단순히 상상이지만, 직접 그렇게 체험을 해 보고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "체험을 하게 되면 지금까지 말한 것들을 전부 다 해 보고 싶다.",
+      "sentence_corr_reason": [
+        "목적어가 필요합니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>하게 되면</문법_기타> 지금까지 말한 것들을 <문법_맞춤법>전부다</문법_맞춤법> 해보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38333",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 434,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

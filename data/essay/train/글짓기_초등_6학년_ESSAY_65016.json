@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다새물 이야기 문어 8개의 다리 누구 일까요? #@문장구분#오징어야 너니 아니야 아니야 나니 다리가10개야 다리의 빨판이 달렸어 #@문장구분#복어야 너니 아니야 아니야 나는 빨판이 없어 나는 다리 가운데 옆에 입이 달려있어#@문장구분# 해파리야 너니 아니야 아니야 나는 입이 없 나는 바다의 카멜레온 이야 #@문장구분#문어야 너니 맞아 맞아 나는 다리가8개의 다리 가운데의 입이 있고 바다의 칼멜레온이라는 별명이 있어 #@문장구분#그리고 나애 친구 중에는 독이 있는 문어가 있어 #@문장구분#개의 이름은 파란고리문어라고해#@문장구분# 그 녀석의 독은 치명 적이라서 조심해야하고 그리고 내 친구 중에는 몸의 형태를 바꾸는 친구가 있어#@문장구분# 그리고 독이 있는 친구들이 있어 #@문장구분#개네들은 다음에 이야기를 해줄게 그럼 안녕",
+      "paragraph_len": 527,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      17.6,
+      26
+    ],
+    "essay_scoreT_avg": 21.733332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바닷새 물 이야기 문어 8개의 다리 누구일까요? ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>바다새물 </문법_맞춤법>이야기 문어 8개의 다리 누구 일까요? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "오징어야 너니 아니야 아니야 나니 다리가 10개야 다리의 빨판이 달렸어 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "오징어야 너니 아니야 아니야 나니 다리가<문법_맞춤법>10개야</문법_맞춤법> 다리의 빨판이 달렸어 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해파리야 너니 아니야 아니야 나는 입이 없는 나는 바다의 카멜레온이야 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 해파리야 너니 아니야 아니야 나는 입이<문법_맞춤법> 없 </문법_맞춤법>나는 바다의 카멜레온 이야 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "문어야 너니 맞아 맞아 나는 다리가 8개의 다리 가운데의 입이 있고 바다의 카멜레온이라는 별명이 있어 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "문어야 너니 맞아 맞아 나는 다리가<문법_맞춤법>8개의 </문법_맞춤법>다리 가운데의 입이 있고 바다의 칼멜레온이라는 별명이 있어 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "개의 이름은 파란 고리 문어라고 해",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "개의 이름은 <문법_맞춤법>파란고리문어라고해</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 녀석의 독은 치명 적이라서 조심해야 하고 그리고 내 친구 중에는 몸의 형태를 바꾸는 친구가 있어",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 녀석의 독은 치명 적이라서 <문법_맞춤법>조심해야하고 </문법_맞춤법>그리고 내 친구 중에는 몸의 형태를 바꾸는 친구가 있어",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "걔네들은 다음에 이야기를 해줄게 그럼 안녕",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>개네들은 </문법_맞춤법>다음에 이야기를 해줄게 그럼 안녕",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_65016",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 347,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

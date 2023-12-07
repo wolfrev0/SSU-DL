@@ -1,0 +1,387 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에게는 바다의 생물로 지낼수있는 기회가 생겼다.#@문장구분# 나는 상어가 되기로 결정했다.#@문장구분# 상어들이 왜 사람을 먹는지 맜있는지 궁금해서 되보기로 하였다.#@문장구분# 영화나 만화에서는 상어가 나빠보였지만 사실 상어도 불쌍한 동물이였다.#@문장구분# 먹잇감을 놓치거나 못찾아서 죽는상어도 많았다.#@문장구분# 나도 물고기들을 먹지 않으려고 하다가 배고픔에 먹어버렸다.#@문장구분# 물컹물컹하고 뼈가 있었지만 상어의 강력한 이빨로 다 씹어 먹었다. #@문장구분#나름대로 맛있었다.#@문장구분# 하지만 상어로 사는것은 따분했다.#@문장구분# 그러다 친구가 생겼다. #@문장구분#나는 내가 사람이였을때를 말해주었다.#@문장구분# 내 친구는 참 신기해하고있었다.#@문장구분# 자기도 사람이 되고 싶다고 했지만 어쩔수 없었다. #@문장구분#내일이 드디어 일주일이 되는날이다.#@문장구분# 친구와 헤어질 생각에 슬펐지만 배고파서 빨리 나가고 싶다.#@문장구분# 공기를 느끼고 싶고 다리로 땅을 뛰고싶다 #@문장구분#그리고 다음날 나느 바다끝 땅에 누워있었다.#@문장구분# 정말 신기했던 경험이었다. #@문장구분#바다에서 숨쉴수있던 내가 물에 1분도 못있다니#@문장구분# 상어친구는 잘 있을까? 생각하며 집으로 가고있을때 바다로 어떤 쪽지가 든 병이 있었다.#@문장구분# 친구야 그곳가서도 잘 지내!#@문장구분# 그래서 나는 그 친구들과 쪽지를 나누며 지금까지 어떻게 지냈는지 이야기하고 있다.#@문장구분#",
+      "paragraph_len": 1017,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.6,
+      24.55,
+      21.6
+    ],
+    "essay_scoreT_avg": 23.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나에게 바다의 생물로 지낼 수 있는 기회가 생겼다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_조사>나에게는</문법_조사> 바다의 생물로 <문법_맞춤법>지낼수있는</문법_맞춤법> 기회가 생겼다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 상어들이 왜 사람을 먹는지, 맛있는지 궁금해서 돼보기로 하였다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 상어들이 왜 사람을 <문법_기타>먹는지</문법_기타> <문법_맞춤법>맜있는지</문법_맞춤법> 궁금해서 되보기로 하였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 영화나 만화에서는 상어가 나빠보였지만 사실 상어도 불쌍한 동물이었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 영화나 만화에서는 상어가 나빠보였지만 사실 상어도 불쌍한 <문법_맞춤법>동물이였다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먹잇감을 놓치거나 못 찾아서 죽는 상어도 많았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먹잇감을 놓치거나 <문법_맞춤법>못찾아서</문법_맞춤법> 죽는상어도 많았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 상어로 사는 것은 따분했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 상어로 <문법_맞춤법>사는것은</문법_맞춤법> 따분했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 내가 사람이었을 때를 말해주었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 내가 <문법_맞춤법>사람이였을때를</문법_맞춤법> 말해주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 친구는 참 신기해하고 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내 친구는 참 <문법_맞춤법>신기해하고있었다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자기도 사람이 되고 싶다고 했지만 어쩔 수 없었다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 자기도 사람이 되고 싶다고 했지만 <문법_맞춤법>어쩔수</문법_맞춤법> 없었다. ",
+      "sentence_corr_txt_styling": " 자기도 사람이 되고 싶다고 했지만 어쩔 수 없었다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공기를 느끼고 싶고 다리로 땅을 뛰고 싶다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 공기를 느끼고 싶고 다리로 땅을 <문법_맞춤법><문법_기타>뛰고싶다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": " 공기를 느끼고 싶고 다리로 땅을 뛰고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 다음날 나는 바다 끝 땅에 누워있었다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 다음날 <문법_조사>나느</문법_조사> <문법_맞춤법>바다끝</문법_맞춤법> 땅에 누워있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다에서 숨쉴 수 있던 내가 물에 1분도 못 있다니.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "바다에서 <문법_맞춤법>숨쉴수있던</문법_맞춤법> 내가 물에 1분도 <문법_기타>못있다니</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '상어친구는 잘 있을까?'라고 생각하며 집으로 가고 있을 때 바다에 어떤 쪽지가 든 병이 있었다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_조사><문법_기타>상어친구는 잘 있을까?</문법_기타></문법_조사> 생각하며 집으로 <문법_맞춤법>가고있을때</문법_맞춤법> 바다로 어떤 쪽지가 든 병이 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " 친구야 그곳가서도 잘 지내!",
+      "sentence_corr_txt_styling": " 친구야 그곳가서도 잘 지내!",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40005",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 577,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

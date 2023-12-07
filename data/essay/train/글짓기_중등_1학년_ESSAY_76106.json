@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래의 도시의 모습은 사람들의 편리함에 초점을 두고서 우리가 지금 살고 있는 모습보다 더욱 더 발전되어 있는 모습일 것 같다. #@문장구분#그리고 내 생각에는 사람이 일 하는 것보다 기계가 일을 하는 경우도 많을 것 같다.#@문장구분#기계가 많이 일을 하게 되면서, 많은 사람들이 자신들의 자유시간이 지금 살고 있는 사람보다 훨씬 더 많이 갖게 될 것이다.#@문장구분# 그래서 그렇게 자유시간이 많은 사람들을 위한 여러 가지의 취미들이 생겨날 것 같다. #@문장구분#정말 미래에는 오히려 취미로써 핸드메이드와 관련된 취미들이 더 유행을 할 것 같다.#@문장구분# 왜냐하면 많은 사람들이 기계로 만든 물건들을 쉽게 구할 수 있고, 사람 손으로 만들어진 물건들을 쉽게 구할 수 없게 되면서 사람들이 직접 사람이 만든 물건에 대해 갖고 싶은 마음이 많이 생겨날 것이다.#@문장구분# 그래서 미래의 도시에 있는 마트들에는 이러한 핸드메이드 제품들이 많이 생길 것 이다.#@문장구분# 그리고 순간이동장치가 개발되고, 많이 넓게 보편화가 되면서 많은 사람들이 자동차를 타는 것보다는 순간 이동장치를 많이 이용하게 될 것 같다.#@문장구분#",
+      "paragraph_len": 687,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      21.4,
+      20.5
+    ],
+    "essay_scoreT_avg": 22.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_76106",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 529,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "거북이가 되고 싶습니다.#@문장구분# 바다 거북은 바다를 볼수 있고, 느리게 그 바다 풍경을 보고 싶습니다.#@문장구분# 내가 알지 못한 바다속을 거북이 등에 타면서 보고 싶습니다. #@문장구분#우선 왜 바다 거북이냐면 느리게 헤엄 치면서 질리도록 바다 속을 구경 할수 있기 때문입니다.#@문장구분# 빠르게 헤엄치면 바다 속을 잘구경하지 못할수도 있고, 너무 허무 할수도 있기에 바다 거북을 선택 했습니다. #@문장구분#바다 거북을 보면서 참 부러웠던 점이 있었 습니다.#@문장구분# 늘 거대한 몸으로 자유롭게 헤엄 칠수 있다는 점이 참 많이 부러웠습니다.#@문장구분# 다른 생물도 그렇지만 유독 거북이가 많이 부러웠습니다.#@문장구분# 저의 꿈은 바다거북을 타고 바다속을 구경 해보고 싶습니다. #@문장구분#늘 바다속이 궁금 했습니다. #@문장구분#내가 모르는 생물도 볼수 있고, 내가 몰르는 풍경도 볼수있고 혼자가 아닌 바다생물과 같이 볼 생각에 더욱 제 꿈은 커져만 갔습니다. #@문장구분#6학년이 된 지금도 제 생각은 같습니다. #@문장구분#바다거북과 같이 바다속을 보며 재미있게 놀고 헤엄치고, 내가 몰랐던 생물도 보고 이것만 이룬다면 정말로 평생 감사하며 살아갈거 같네요#@문장구분#",
+      "paragraph_len": 781,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.95,
+      30,
+      16.35
+    ],
+    "essay_scoreT_avg": 21.766668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>거북이가</스타일링_담화 맥락 오류> 되고 싶습니다.",
+      "sentence_corr_txt_styling": "저는 거북이가 되고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다거북은 바다를 볼 수 있기 때문에 느리게 그 바다 풍경을 보고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>바다 거북은 바다를 볼수 있고</스타일링_담화 맥락 오류><문법_맞춤법>, 느리게</문법_맞춤법> 그 바다 풍경을 보고 싶습니다.",
+      "sentence_corr_txt_styling": " 바다거북은 바다를 볼 수 있기 때문에 느리게 그 바다 풍경을 보고 싶습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>내가 알지 못한 바다속을 거북이 등에 타면서 보고 싶습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 내가 알지 못하는 바닷속을 거북이 등에 타서 보고 싶습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우선 왜 바다거북이냐면 느리게 헤엄치면서 질릴 때까지 바닷속을 구경할 수 있기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>우선 왜 바다 거북이냐면 느리게 헤엄 치면서 질리도록 바다 속을 구경 할수 있기 때문입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 빠르게 헤엄치면 바닷속을 잘 구경하지 못할 수도 있고, 너무 허무할 수도 있기에 바다거북을 선택했습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>빠르게 헤엄치면 바다 속을 잘구경하지 못할수도 있고, 너무 허무 할수도 있기에 바다 거북을 선택 했습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다거북을 보면서 참 부러웠던 점이 있었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>바다 거북을 보면서 참 부러웠던 점이 있었 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>늘 거대한 몸으로 자유롭게 헤엄 칠수 있다는 점이 참 많이 부러웠습니다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 거대한 몸으로 늘 자유롭게 헤엄칠 수 있다는 점입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 저의 꿈은 바다거북을 타고 <스타일링_담화 맥락 오류>바다속을 구경 해보고 싶습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 저의 꿈은 바다거북을 타고 바닷속을 구경해 보는 것입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "늘 <스타일링_담화 맥락 오류>바다속이 궁금 했습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": "늘 바닷속이 궁금했기 때문입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>내가 모르는 생물도 볼수 있고, 내가 몰르는 풍경도 볼수있고 혼자가 아닌 바다생물과 같이 볼 생각에 더욱 제 꿈은 커져만 갔습니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": "내가 모르는 생물, 풍경을 혼자가 아니라 바다생물들과 같이 볼 수 있기 때문에 제 꿈은 커져만 갔습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다거북과 같이 바닷속을 보며 재미있게 놀고 헤엄치고, 제가 몰랐던 생물도 볼 수 있다면 평생 감사하며 살아갈 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "바다거북과 같이 <문법_맞춤법>바다속을</문법_맞춤법> 보며 재미있게 놀고 헤엄치고, <스타일링_담화 맥락 오류>내가 몰랐던 생물도 보고 이것만 이룬다면 정말로 평생 감사하며 살아갈거 같네요</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "바다거북과 같이 바닷속을 보며 재미있게 놀고 헤엄치고, 제가 몰랐던 생물도 볼 수 있다면 평생 감사하며 살아갈 것 같습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36162",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 521,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

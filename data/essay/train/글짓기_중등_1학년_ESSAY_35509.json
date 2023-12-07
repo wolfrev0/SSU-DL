@@ -1,0 +1,492 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에서는 여러 발전이 되고 여러개가 바뀌게 된다.#@문장구분# 혹시나 미래에는 사람이 아닌 로봇이 살수도 있다.#@문장구분# 아직현대 사회도 로봇이 있다.#@문장구분# 로봇청소기, 서빙하는 로봇, 로봇개도 있다.#@문장구분# 아직도 로봇을 만들기 때문에 미래도시에는 로봇만 사는 세계가될것 같다.#@문장구분# 인공지능 로봇도 있는데 소피아라는 로봇는것도 있는데 진짜 사람 같기도 하다.#@문장구분# 그다음 소피아는 62가지의 표정을 지을수 있다는데 진짜 미래에는 소피아같은 로봇이 많이 생길 것 같다.#@문장구분# 그다음 소피아는 로봇최초 시민권을 가지고 있기도 해서 진짜 시민같기도 하다.#@문장구분# 그다음 현실에서는 로봇을 많이 사용하기도 하다.#@문장구분# 그렇기 때문에 미래에서도 어떤 사람이 진짜 사람 같은 로봇을 발명할수도 있다.#@문장구분# 그러니까 미래는 잘모르지만 로봇은 빠지지 않을것같다.#@문장구분# 소피아같은 여러 인공지능 로봇이 생기고 진짜 인간들 처럼 대화도 하는 로봇들이 많이 생길것 같다.#@문장구분# 그다음 미래에 로봇이 사라지면 안돼기도 하다.#@문장구분# 왜냐하면 로봇이 만약 사라지면 청소하기도 편리하지 않고 불편하고 힘들기도 하다.#@문장구분# 그래서 미래에 로봇이 사라지면 안됀다.#@문장구분# 미래의 큰 도움이 되기도 하고 그다음 어떤 로봇은 죽은 사람과 대화하는 로봇도 있다.#@문장구분# 정말 신기하기도 하다.#@문장구분# 로봇은 일상생활에 필요하기도 하고 로봇청소기가 없으면 작은 먼지를 치우지 못하고 사람들은 그 작은 먼지를 먹고 살게 되는것이고 매일 청소하는것도 힘들게 되는것이다.#@문장구분# 그러니까 미래에서는 꼭 로봇이 필요하기도 하다.#@문장구분# 로봇은 유용하기도 하고 사람들이 많이 필요해하는 종류이기도 하다.#@문장구분# 그러니까 미래에는 로봇이 있길 바란다.#@문장구분# 감사합니다.#@문장구분#",
+      "paragraph_len": 1217,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.25,
+      15.7,
+      19.2
+    ],
+    "essay_scoreT_avg": 18.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "미래에서는 여러 발전이 <스타일링_맞춤법><스타일링_담화 맥락 오류>되고 여러개가</스타일링_담화 맥락 오류></스타일링_맞춤법> 바뀌게 된다.",
+      "sentence_corr_txt_styling": "미래에서는 여러 발전이 이루어지고 여러 개가 바뀌게 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 혹시나 미래에는 사람이 아닌 로봇이 살 수도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 혹시나 미래에는 사람이 아닌 로봇이 <문법_맞춤법>살수도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>아직현대</스타일링_담화 맥락 오류> 사회도 로봇이 있다.",
+      "sentence_corr_txt_styling": " 현대 사회도 로봇이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 로봇 청소기, 서빙하는 로봇, 로봇 개도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>로봇청소기,</문법_맞춤법> 서빙하는 로봇, 로봇개도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금도 로봇을 만들기 때문에 미래도시에는 로봇만 사는 세계가 될 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>아직도</스타일링_담화 맥락 오류> 로봇을 만들기 때문에 미래도시에는 로봇만 사는 <문법_맞춤법>세계가될것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": " 지금도 로봇을 만들기 때문에 미래도시에는 로봇만 사는 세계가 될 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류><스타일링_패러프레이징>인공지능 로봇도 있는데 소피아라는 로봇는것도 있는데</스타일링_패러프레이징></스타일링_담화 맥락 오류> 진짜 사람 같기도 하다.",
+      "sentence_corr_txt_styling": " 소피아라는 인공지능 로봇도 있는데 진짜 사람 같기도 하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 소피아는 62가지의 표정을 지을 수 있다는데 진짜 미래에는 이런 로봇이 많이 생길 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 ",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그다음 소피아는</스타일링_담화 맥락 오류> 62가지의 표정을 <문법_맞춤법>지을수</문법_맞춤법> 있다는데 진짜 미래에는 <스타일링_패러프레이징>소피아같은</스타일링_패러프레이징> 로봇이 많이 생길 것 같다.",
+      "sentence_corr_txt_styling": " 소피아는 62가지의 표정을 지을 수 있다는데 진짜 미래에는 이런 로봇이 많이 생길 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또  소피아는 로봇 최초로 시민권을 가지고 있기도 해서 진짜 시민 같기도 하다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그다음</스타일링_담화 맥락 오류> 소피아는 <문법_맞춤법><문법_조사>로봇최초</문법_조사></문법_맞춤법> 시민권을 가지고 있기도 해서 진짜 시민같기도 하다.",
+      "sentence_corr_txt_styling": " 또  소피아는 로봇 최초로 시민권을 가지고 있기도 해서 진짜 시민 같기도 하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 다음, 현실에서는 로봇을 많이 사용하기도 하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장 부호 ",
+        "띄어쓰기, 문장 부호 "
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그다음</문법_기타></문법_맞춤법> 현실에서는 로봇을 많이 사용하기도 하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 미래에서도 어떤 사람이 진짜 사람 같은 로봇을 발명할 수도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 미래에서도 어떤 사람이 진짜 사람 같은 로봇을 <문법_맞춤법>발명할수도</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니까 미래는 잘 모르지만 로봇은 빠지지 않을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니까 미래는 <문법_맞춤법>잘모르지만</문법_맞춤법> 로봇은 빠지지 않을것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 소피아 같은 여러 인공지능 로봇이 생기고 진짜 인간들처럼 대화도 하는 로봇들이 많이 생길것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>소피아같은</문법_맞춤법> 여러 인공지능 로봇이 생기고 진짜 인간들 처럼 대화도 하는 로봇들이 많이 생길것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에 로봇이 사라지면 안되기도  하다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그다음 미래에</스타일링_담화 맥락 오류> 로봇이 사라지면 <문법_맞춤법>안돼기도</문법_맞춤법> 하다.",
+      "sentence_corr_txt_styling": " 미래에 로봇이 사라지면 안되기도  하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 만약 로봇이  사라지면 청소하기도 불편하다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_어순>로봇이 만약</문법_어순> 사라지면 청소하기도 <스타일링_패러프레이징>편리하지 않고 불편하고 힘들기도 하다.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": " 왜냐하면 만약 로봇이  사라지면 청소하기도 불편하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 미래에 로봇이 사라지면 안 된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 미래에 로봇이 사라지면 <문법_맞춤법>안됀다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에 큰 도움이 되기도 하고 어떤 로봇은 죽은 사람과 대화하는 로봇도 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <문법_조사>미래의</문법_조사> 큰 도움이 되기도 하고 <스타일링_담화 맥락 오류>그다음 어떤</스타일링_담화 맥락 오류> 로봇은 죽은 사람과 대화하는 로봇도 있다.",
+      "sentence_corr_txt_styling": " 미래에 큰 도움이 되기도 하고 어떤 로봇은 죽은 사람과 대화하는 로봇도 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 로봇은 일상생활에 필요하기도 하고 로봇 청소기가 없으면 작은 먼지를 치우지 못하고 사람들은 그 작은 먼지를 먹고 살게 되는 것이고 매일 청소하는 것도 힘들어지는 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 ",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 로봇은 일상생활에 필요하기도 하고 <문법_맞춤법>로봇청소기가</문법_맞춤법> 없으면 작은 먼지를 치우지 못하고 사람들은 그 작은 먼지를 먹고 살게 되는것이고 매일 청소하는것도 <스타일링_담화 맥락 오류>힘들게 되는것이다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 로봇은 일상생활에 필요하기도 하고 로봇 청소기가 없으면 작은 먼지를 치우지 못하고 사람들은 그 작은 먼지를 먹고 살게 되는 것이고 매일 청소하는 것도 힘들어지는 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그러니까 미래에서는 꼭 로봇이 <스타일링_담화 맥락 오류><스타일링_패러프레이징>필요하기도 하다.</스타일링_패러프레이징></스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그러니까 미래에서는 꼭 로봇이 필요하다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이상이다. ",
+      "sentence_corr_reason": [
+        "종결 어미 통일 "
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " <문법_어미>감사합니다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35509",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 778,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

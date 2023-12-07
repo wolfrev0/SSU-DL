@@ -1,0 +1,388 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 일주일동안 바다 생물로 살아갈 기회가 있으면 나는 복어가 돼고 싶다#@문장구분# 왜냐하면 물고기들은 사람한테 잡아 먹히고 고래 상어에서도 먹혀 물고기는 돼기 싫다#@문장구분# 복어도 물고기이지만 복어는 자신이 생명을 위협당할때 독을 뿜어서 자신을 보호할수 있다.#@문장구분# 복어는 생김새가 무서운 스타일이다.#@문장구분# 복어는 강력한 무기 독 가시가 있기 때문에 무서운 물고기이다. #@문장구분#복어는 상어 고래등을 이겨낼수 있다.#@문장구분# 사람이 복어에게 독을 쏘이면 독이 느리게 가기 때문에 증상도 늦게 나오기 때문에 죽을수도 있다 #@문장구분#복어는 강력하다. #@문장구분#독중에 독은 복어가 쎄다.#@문장구분# 나는 바다뱀도 살아보고 싶다.#@문장구분# 바다뱀도 독이 있지만 복어보다 강력하다.#@문장구분# 사람이 쏘이면 3분안에 죽고 심지어 쏘이면 빨리 죽는다. #@문장구분#바다뱀은 사람들한테 매우 위험하다.#@문장구분# 그리고 돼개 빠르다. #@문장구분#바다에선 시속 50Km 까지 간다.#@문장구분# 독중에도 가장 위험한 독이다.#@문장구분# 바다뱀의 생김새는 젓소처럼 하얀색이랑 검은색이 섞여있다. #@문장구분#그리고 냄새 후각에도 민감하다. #@문장구분#1순위 바다뱀 2순위 복어#@문장구분#",
+      "paragraph_len": 875,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      21.3,
+      23.45
+    ],
+    "essay_scoreT_avg": 21.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 일주일동안 바다 생물로 살아갈 기회가 있으면 나는 복어가 되고 싶다.",
+      "sentence_corr_reason": [
+        "문장부호",
+        "문장부호"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "내가 일주일동안 바다 생물로 살아갈 기회가 있으면 나는 복어가 <문법_맞춤법><문법_기타>돼고 싶다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 물고기들은 사람한테 잡아먹히고 고래와 상어에게도 먹혀 물고기는 되기 싫다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "문장부호"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 물고기들은 사람한테 <문법_맞춤법>잡아 먹히고</문법_맞춤법> <문법_조사>고래 상어에서도</문법_조사> 먹혀 물고기는 <문법_기타>돼기 싫다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 복어도 물고기이지만 복어는 자신이 생명을 위협당할 때 독을 뿜어서 자신을 보호할 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 복어도 물고기이지만 복어는 자신이 생명을 <문법_맞춤법>위협당할때</문법_맞춤법> 독을 뿜어서 자신을 보호할수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 복어는 강력한 무기인 독과 가시가 있기 때문에 무서운 물고기이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 복어는 강력한 <문법_조사>무기 독</문법_조사> 가시가 있기 때문에 무서운 물고기이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "복어는 상어와 고래 등을 이길 수 있다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "복어는 <문법_조사>상어</문법_조사> <문법_맞춤법>고래등을</문법_맞춤법> <문법_기타>이겨낼수</문법_기타> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람이 복어에게 독을 쏘이면 독이 느리게 퍼지기 때문에 증상도 늦게 나타나서 죽을 수도 있다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람이 복어에게 독을 쏘이면 독이 느리게 <문법_어미><문법_기타>가기 때문에</문법_기타></문법_어미> 증상도 늦게 나오기 때문에 <문법_맞춤법>죽을수도</문법_맞춤법> 있다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "복어의 독은 세다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어순",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_어순><문법_기타>독중에 독은 복어가 쎄다</문법_기타></문법_어순></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 바다뱀으로도 살아보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 나는 <문법_조사>바다뱀도</문법_조사> 살아보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 사람이 쏘이면 3분안에 죽고 심지어 <스타일링_패러프레이징>쏘이면 빨리</스타일링_패러프레이징> 죽는다. ",
+      "sentence_corr_txt_styling": " 사람이 쏘이면 3분안에 죽고 심지어 빨리 죽는다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 되게 빠르다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>돼개</문법_맞춤법> 빠르다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다뱀의 독은 독 중에서도 가장 위험한 독이다.",
+      "sentence_corr_reason": [
+        "수식 필요",
+        "수식 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " <문법_조사><문법_기타>독중에도</문법_기타></문법_조사> 가장 위험한 독이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다뱀의 생김새는 젖소처럼 하얀색이랑 검은색이 섞여있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다뱀의 생김새는 <문법_맞춤법>젓소</문법_맞춤법>처럼 하얀색이랑 검은색이 섞여있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그리고 <스타일링_패러프레이징>냄새 후각에도</스타일링_패러프레이징> 민감하다. ",
+      "sentence_corr_txt_styling": "그리고 후각에도 민감하다. ",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38364",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 496,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

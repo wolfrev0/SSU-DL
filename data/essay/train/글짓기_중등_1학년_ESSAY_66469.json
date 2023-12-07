@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각한 미래도시는 동물들과 공존하는 것으로 어떤 장치를 동물에게 달아 소통할 수 있게 하는 겁니다.#@문장구분# 재밌을 것 같지 않나요? #@문장구분#그리고 또 자동차가 아닌 전기를 사용하는 비행접시 비슷하게 생긴 거를 타고 날아다니는 것도 재밌을 것 같습니다.#@문장구분# 땅에는 사람들과 동물들이 다닐 수 있게 잘 해놔야 될 것 같습니다.#@문장구분# 그리고 동물들과 함께 공존하는 세상이므로 환경을 정말 중요시 해야 해서 전기를 사용하는 비행접시 비슷하게 생긴 거를 타는게 자동차의 매연가스로 환경이 파괴되는 것보다 훨씬 낫다고 생각합니다.#@문장구분# 전기세가 아주 많이 나가겠지만요.#@문장구분# 제가 생각한 미래 도시의 이름은 깨끗할 정과 기쁠 희를 써서 정희시(淨喜)입니다.#@문장구분#",
+      "paragraph_len": 485,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.35,
+      25.1,
+      23
+    ],
+    "essay_scoreT_avg": 23.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "055",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그리고 동물들과 함께 공존하는 세상이므로 환경을 정말 중요시해야 해서 전기를 사용하는 비행접시 비슷하게 생긴 거를 타는게 자동차의 매연가스로 환경이 파괴되는 것보다 훨씬 낫다고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 동물들과 함께 공존하는 세상이므로 환경을 정말 <문법_맞춤법>중요시 해야</문법_맞춤법> 해서 전기를 사용하는 비행접시 비슷하게 생긴 거를 타는게 자동차의 매연가스로 환경이 파괴되는 것보다 훨씬 낫다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66469",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 346,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

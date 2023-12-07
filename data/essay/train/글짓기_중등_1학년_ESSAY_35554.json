@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시는 흔할 수도 있지만 남들과 다르게 특이 할 수도 있다.#@문장구분# 먼저 내가 생각하는 미래 도시는 1. 집의 벽지 같은 것을 마음대로 바꿀 수 있을 것이다.#@문장구분# 예를 들어, 내가 오늘은 꽃 벽지가 예뻐 보인다면 미래의 기술로 나의 집 벽지를 마음대로 바꾸는 것이다.#@문장구분# 집의 벽지는 집이 넓어보이게 할 수 있고 좁아보이게도 할 수 있다.#@문장구분# 그만큼 중요하다라는 것이다.#@문장구분# 2. 곳곳마다 조종실이 생길 것이다.#@문장구분# 예를 들면 한 마을을 지키고 꾸며주는 조종실 같은 것이 많이 만들어져서 조종사 라는 직업까지 생길 것이다.#@문장구분# 3. 개인 보호막 같은 것이 생길 것이다.#@문장구분# 미래에는 상상조차 할 수 없는 수 많은 바이러스가 많을 것이다.#@문장구분# 그래서 그것을 위해 개인 보호막이 꼭 필요할 것이다.#@문장구분# 그것은 나를 감쌀 만큼 커다란 물방울 안에 있는 것이다.#@문장구분# 그러면 마스크도 안 써도 되고 자유롭게 밖에 나갈 수 있다.#@문장구분# 4. 순간이동기가 생길 것이다.#@문장구분# 맨날 장거리로 이동할 때 4~5시간동안 차에만 있는 것이 너무 불편했다.#@문장구분# 하지만 이젠 단 1초만에 단거리든 장거리든 원하는 곳으로 순간이동이 가능하다.#@문장구분# 순간이동기가 있으면 만나고 싶은 친구도 만나고, 학교도 안 늦고 좋을 것 같다.#@문장구분#",
+      "paragraph_len": 913,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.2,
+      17.6,
+      24
+    ],
+    "essay_scoreT_avg": 22.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래 도시는 흔할 수도 있지만 남들과 다르게 특이할 수도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 미래 도시는 흔할 수도 있지만 남들과 다르게 <문법_맞춤법>특이 할</문법_맞춤법> 수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집의 벽지는 집이 넓어 보이게 할 수 있고 좁아 보이게도 할 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집의 벽지는 집이 <문법_맞춤법>넓어보이게</문법_맞춤법> 할 수 있고 좁아보이게도 할 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그만큼 중요하다는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그만큼 <문법_맞춤법>중요하다라는</문법_맞춤법> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들면 한 마을을 지키고 꾸며주는 조종실 같은 것이 많이 만들어져서 조종사라는 직업까지 생길 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들면 한 마을을 지키고 꾸며주는 조종실 같은 것이 많이 만들어져서 <문법_맞춤법>조종사 라는</문법_맞춤법> 직업까지 생길 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에는 상상조차 할 수 없는 수많은 바이러스가 많을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래에는 상상조차 할 수 없는 <문법_맞춤법>수 많은</문법_맞춤법> 바이러스가 많을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 맨날 장거리로 이동할 때 4~5시간 동안 차에만 있는 것이 너무 불편했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 맨날 장거리로 이동할 때 <문법_맞춤법>4~5시간동안</문법_맞춤법> 차에만 있는 것이 너무 불편했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 이젠 단 1초 만에 단거리든 장거리든 원하는 곳으로 순간이동이 가능하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 이젠 단 <문법_맞춤법>1초만에</문법_맞춤법> 단거리든 장거리든 원하는 곳으로 순간이동이 가능하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35554",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 593,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

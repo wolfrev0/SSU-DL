@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래의 나는 지구를 지키고 환경을 생각하는 세상에 이로운 영향을 줄 수 있는 채식주의자 겸 환경운동가가 되고싶다.#@문장구분# 현재 지구는 인간의 무방비한 오염물과 매연으로 인해 점점 죽어가고 있으며 이러한 징후들이 계속해서 나타나고 있는 상황이다.#@문장구분# 하지만 이러한 상황에도 개발이나 무분별한 쓰레기 투기등은 계속 되고 있으며 환경을 생각하자는 것을 머릿속으로만 생각하지 행동으로는 하지 않는 사람들이 대부분이다.#@문장구분# 나는 자연을 사랑하는 사람이기 때문에 이러한 지구가 보내는 신호들을 무시하지 않고   환경을 보존하려 집중적으로 노력하고 싶다. #@문장구분#나는 현재 육식을 하지 않는 채식주의자의 삶에 대한 유튜브를 많이 보고 있는데, 채식을 하는 것만으로도 지구의 환경에 큰 도움이 된다는 기사를 본 적이 있다. #@문장구분#현재는 고기를 끊을 수 없어 먹고 있지만 언젠가는 환경을 생각해서 채식을 주로 이루는 식사를 하고 싶다는 생각을 하게 되었다.#@문장구분# 앞으로 이러한 환경운동가가 되기 위하여 지금부터라도 환경에 대한 많은 것을 공부하고 지구를 지키기 위해 노력해야겠다는 다짐을 했다.#@문장구분#",
+      "paragraph_len": 669,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          2.6666667,
+          2.1666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.166668,
+      24.666668,
+      24.666668
+    ],
+    "essay_scoreT_avg": 24.833334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_70638",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 530,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

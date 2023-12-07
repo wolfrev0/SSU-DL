@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 50년 후 미래에는 외계인과의 교류로 인해 인류가 지금보다 훨씬 더 발전해있을 것이라고 생각한다.#@문장구분# 외계는 어떠한 것도 발견된 것이 없기 때문에  어떠한 지적생명체들이 발견될지 미지수다.#@문장구분# 만약 지적으로 뛰어나며 생산적인  활동을 할 수 있으며 지구에 도움이 될 광물들을 가지고 있다면 교류를 신청하여 외계인들의 문화와 기술을 배울 수 있을 것이라고 생각한다.#@문장구분# 외계인들로 인해 우리는 더욱 발전하여 지적으로 매우 향상된 존재가 될 수 있을지도 모른다.#@문장구분# 과학적으로 외계인이 존재한다는 사실은 아직 모르지만, 미래에는 이러한 외계인들을 발견하여 언젠가는 공유하고 교류할 수 있는 시대가 올 것이라고 생각한다.#@문장구분# 또한 이러한 시대의 미래 도시에는 인공지능마저 필요가 없어질지도 모른다.#@문장구분# 인간 자체가 인공지능 수준의 지식을 가지고 있어 많은 것을 가능하게 할 것이라고 생각한다.#@문장구분# 이런 미래에 살면서 색다른 경험을 해보고 싶다.#@문장구분#",
+      "paragraph_len": 618,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.8,
+      22,
+      23.3
+    ],
+    "essay_scoreT_avg": 22.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 외계는 어떠한 것도 발견된 것이 없기 때문에  어떠한 지적 생명체들이 발견될지 미지수다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 외계는 어떠한 것도 발견된 것이 없기 때문에  어떠한 <문법_맞춤법>지적생명체들이 </문법_맞춤법>발견될지 미지수다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71210",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 458,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래에 작사가가 되는 것이 꿈이다. #@문장구분#나는 노래를 굉장히 좋아한다. #@문장구분#노래의 멜로디를 듣는 것도 좋아하고 가사를 보는 것도 좋아한다. #@문장구분#그리고 발라드와 같은 경우에는 자신의 마음을 진솔하게 담는 경우가 종종 있어서 가사를 보는 것이 굉장히 재미있다. #@문장구분#사람들이 노래를 통해서 자신의 현재 상황을 즐겁게 표현하기도 하고 위로를 받기도 한다. #@문장구분#나는 노래에서 멜로디도 물론 중요하지만 가사가 굉장히 중요하다고 생각한다. #@문장구분#가사는 그 노래의 분위기를 만들어내고 전달하려는 내용을 담아낸다. #@문장구분#작사가가 되기 위해서 굳이 작사와 관련된 학과를 졸업하지 않아도 된다고 한다. #@문장구분#그래서 나는 문예창작과를 졸업해서 작사가의 길로 가고 싶다. #@문장구분#노래 가사는 짧은 소설과 같은 것이라고 생각하기 때문이다. #@문장구분#나는 미래에 작사가가 되어서 멜로디와 함께 가사에 그 노래의 진솔한 마음을 담아서 이야기를 해주는 듯한 가사를 쓰거나 누군가에게 위로가 될 수 있는 가사를 쓰고 싶다. #@문장구분#많은 사람이 내가 쓴 가사를 통해 행복하고 위로를 받으며 힘든 일을 헤쳐 나갈 수 있는 계기가 되었으면 좋겠다.",
+      "paragraph_len": 755,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.1666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      30,
+      24.166668
+    ],
+    "essay_scoreT_avg": 28.055557,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.20",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_54155",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 535,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

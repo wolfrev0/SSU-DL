@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "거북이 이야기#@문장구분#\n 나는 바다 생물 중에서 거북이가 되고 싶다. #@문장구분#왜냐하면 나는 동물 중에서 거북이를 가장 좋아하기 때문이다.#@문장구분#\n거북이 이야기#@문장구분#\n 어느날 조원경 거북이는 바다 마을을 돌아다니고 있었어요. #@문장구분#그런데 다른 물고기들의 이야기를 들어보니 매일 마다 사람들이 낚시를 해 물고기들이 잡여 간다는 이야기를 들었어요. #@문장구분#거북이는 결심했어요. #@문장구분#다른 물고기들이 잡여 가지 않게 다같이 이사를 하러 가기를요.#@문장구분# 이사를 하려면 좋은 터가 필요해서 물고기들 에게 물어봤어요. #@문장구분#\"말미잘아 이 근처에 좋은 땅이 있니?\" 거북이가 말했다.#@문장구분# \"여기서 북쪽으로 조금만 가면 있을거야\" 말미잘이 말했다.#@문장구분# 거북이는 북쪽으로가서 찾아보았어요. #@문장구분#그런데 갑자기 상어가 나타나서 거북이를 먹어버렸어요.#@문장구분# 아무것도 몰랐던 거북이가 살던 마을은 사람이 낚시대에 걸려서 잡여간 줄 알고 슬퍼하고 있었습니다.#@문장구분# 하지만 거북이가 상어에게 먹였다는 건 그 상어만 알고 아무도 모른다...#@문장구분#",
+      "paragraph_len": 765,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      21.85,
+      28.4
+    ],
+    "essay_scoreT_avg": 26.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 어느 날 조원경 거북이는 바다 마을을 돌아다니고 있었어요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>어느날</문법_맞춤법> 조원경 거북이는 바다 마을을 돌아다니고 있었어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그런데 다른 물고기들의 이야기를 들어보니 매일 마다 사람들이 낚시를 해 물고기들이 잡여 간다는 이야기를 들었어요. ",
+      "sentence_corr_txt_styling": "그런데 다른 물고기들의 이야기를 들어보니 매일 마다 사람들이 낚시를 해 물고기들이 잡여 간다는 이야기를 들었어요. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다른 물고기들이 잡여 가지 않게 다 같이 이사를 하러 가기를요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다른 물고기들이 잡여 가지 않게 <문법_맞춤법>다같이</문법_맞춤법> 이사를 하러 가기를요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이사를 하려면 좋은 터가 필요해서 물고기들에게 물어봤어요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이사를 하려면 좋은 터가 필요해서<문법_맞춤법> 물고기들 에게 </문법_맞춤법>물어봤어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"여기서 북쪽으로 조금만 가면 있을 거야\" 말미잘이 말했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"여기서 북쪽으로 조금만 가면 <문법_맞춤법>있을거야</문법_맞춤법>\" 말미잘이 말했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거북이는 북쪽으로 가서 찾아보았어요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 거북이는<문법_맞춤법> 북쪽으로가서</문법_맞춤법> 찾아보았어요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무것도 몰랐던 거북이가 살던 마을은 사람이 낚싯대에  걸려서 잡혀간 줄 알고 슬퍼하고 있었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무것도 몰랐던 거북이가 살던 마을은 사람이 <문법_맞춤법>낚시대에</문법_맞춤법> 걸려서 잡여간 줄 알고 슬퍼하고 있었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52791",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 466,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

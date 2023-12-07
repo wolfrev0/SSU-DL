@@ -1,0 +1,216 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 기술이 발전되어 인간과 유사한 로봇이 나올 것 같습니다.#@문장구분# 인간과 매우 똑같은 모습으로 감정이 있고 아픔도 느끼는 친구, 가족등도 되어줄 수 있는 신기한 로봇이 나올 것 같습니다.#@문장구분# 다른 것으로는 지금 우리가 사용하는 지폐, 동전 대신 전자화폐, 비트코인 등이 사용 될 것 같습니다.#@문장구분# 또 매연을 뿜어 환경을 오염 시키는 자동차 대신에 전기를 사용하여 움직이는 자동차가 대중화 될 것 같습니다.#@문장구분# 자동운전 전기가 떨어지면 직접 주위에 전기를 충전할 수 있는 곳을 자동으로 찾는 이 자동차는 정말 편리할 것 입니다.#@문장구분# 그리고 놀이터에서 뛰어 놀며 놀던 아이들은 VR기기를 사용하여 놀 것 같습니다. #@문장구분#이러한 상상을 해보니 우리나라의 미래가 기대됨니다.#@문장구분#",
+      "paragraph_len": 502,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.3,
+      23.75,
+      16.55
+    ],
+    "essay_scoreT_avg": 20.533333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 또 매연을 뿜어 환경을 오염시키는 자동차 대신에 전기를 사용하여 움직이는 자동차가 대중화될 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 매연을 뿜어 환경을 <문법_맞춤법>오염 시키는</문법_맞춤법> 자동차 대신에 전기를 사용하여 움직이는 자동차가 대중화 될 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 자동운전 전기가 떨어지면 직접 주위에 전기를 충전할 수 있는 곳을 자동으로 찾는 이 자동차는 정말 편리할 것 입니다.",
+      "sentence_corr_txt_styling": " 자동운전 전기가 떨어지면 직접 주위에 전기를 충전할 수 있는 곳을 자동으로 찾는 이 자동차는 정말 편리할 것 입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 놀이터에서 뛰어놀며 놀던 아이들은 VR기기를 사용하여 놀 것 같습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 놀이터에서 <문법_맞춤법>뛰어 놀며</문법_맞춤법> 놀던 아이들은 VR기기를 사용하여 놀 것 같습니다. ",
+      "sentence_corr_txt_styling": " 그리고 놀이터에서 뛰어놀며 놀던 아이들은 VR기기를 사용하여 놀 것 같습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이러한 상상을 해 보니 우리나라의 미래가 기대됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이러한 상상을 <문법_맞춤법>해보니</문법_맞춤법> 우리나라의 미래가 기대됨니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75831",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 362,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

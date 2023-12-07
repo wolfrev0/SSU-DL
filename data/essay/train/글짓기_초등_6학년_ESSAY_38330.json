@@ -1,0 +1,375 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 정한 바다생물은 상어입니다. #@문장구분#상어는 힘이 세고, 또 무섭게 생겼는데, 성격도 포악하지만 제가 정한 상어는 보기완 다르게 온순하고, 겁이 많은 상어입니다. #@문장구분#물론 힘은 세긴하죠. #@문장구분#본격적으로 이야기를 시작하자면 먼저, 상어는 힘이 세고 무섭게 생겼찌만 겁이많고 온순해서 심해의 끝에서 살았고 상어는 아무도 만나지 않았습니다. #@문장구분#아니, 아무도 상어를 만나지 않았다고 해야할까요? 왜냐하면, 상어는 무섭게 생겼고, 또 다른 바다생물을 잡아먹을 거라고 생각했겠죠.#@문장구분# 상어는 계속 외롭게 살았습니다.#@문장구분# 그러던 어느날, 상어는 다른 바다생물들이 어떻게 살아가고 있는지 궁금해졌습니다.#@문장구분# 그래서 한번 심해의 끝에서 조심스럽게 나왔습니다.#@문장구분# 하지만 다른 물고기들은 상어를 두려워해 상어를 피해다녔고 결국 가장 용기 있고 힘이센 고래가 상어를 박대했습니다.#@문장구분# 상어는 상처를 입어 눈물을 흘리며 달아났습니다. #@문장구분#그런데 다른 바다생물을 잡아먹기 위해 상어들이 바다생물들을 덥쳤습니다. #@문장구분#바다생물들은 혼미백산하여 우왕좌왕했습니다.#@문장구분# 고래가 어떻해든 상어를 막기위해 고군분투했지만 많고 힘이 세고 막무가내인 상어들을 막긴 어렵습니다. #@문장구분#그때 소란스러운 소리를 듣고 상어가 달려왔습니다. #@문장구분#다른 바다생물들은 상어가 싸울 줄 알았지만 상어는 현명하게 말로 상어들을 설득했습니다. #@문장구분#상어들은 조용히 물러났습니다.#@문장구분# 바다생물들은 상어를 박대하고 피했던게 부끄러워졌습니다.#@문장구분# 왜냐하면 상어는 착하고 또, 현명했거든요. #@문장구분#바다생물들은 상어에게 미안했습니다. #@문장구분#상어는 바다생물들을 용서했습니다. #@문장구분#바다생물들이 사과하지 않았는데도요.#@문장구분# 바다생물들은 더욱 감동하고 상어가 이토록 착한줄 몰랐습니다. #@문장구분#바다생물과 상어는 화해하고 친하게 지냈습니다.#@문장구분# 오래오래 행복하게 살았다는 걸 빼먹을 뻔했군요!#@문장구분#",
+      "paragraph_len": 1332,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      26.15,
+      24.25
+    ],
+    "essay_scoreT_avg": 25.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "상어는 힘이 세고, 또 무섭게 생겼으며, 성격도 포악하지만 제가 정한 상어는 보기완 다르게 온순하고, 겁이 많은 상어입니다. ",
+      "sentence_corr_reason": [
+        "'으며'가 자연스럽습니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "상어는 힘이 세고, 또 무섭게 <문법_어미>생겼는데,</문법_어미> 성격도 포악하지만 제가 정한 상어는 보기완 다르게 온순하고, 겁이 많은 상어입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 힘이 세기는 하죠. ",
+      "sentence_corr_reason": [
+        "'이'가 자연스럽습니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "물론 <문법_조사>힘은</문법_조사> <문법_맞춤법>세긴하죠</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "본격적으로 이야기를 시작하자면 먼저, 상어는 힘이 세고 무섭게 생겼지만, 겁이 많고 온순해서 심해의 끝에서 살았고 아무도 만나지 않았습니다. ",
+      "sentence_corr_reason": [
+        "'생겼지만'이 옳은 표현입니다.",
+        "주어는 생략하는 것이 좋을 것 같습니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "본격적으로 이야기를 시작하자면 먼저, 상어는 힘이 세고 무섭게 <문법_맞춤법>생겼찌만</문법_맞춤법> 겁이많고 온순해서 심해의 끝에서 살았고 <스타일링_기타>상어는 아무도</스타일링_기타> 만나지 않았습니다. ",
+      "sentence_corr_txt_styling": "본격적으로 이야기를 시작하자면 먼저, 상어는 힘이 세고 무섭게 생겼지만, 겁이 많고 온순해서 심해의 끝에서 살았고 아무도 만나지 않았습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아니, 아무도 상어를 만나지 않았다고 해야 할까요? 왜냐하면, 다들 상어는 무섭게 생겼고, 또 다른 바다생물을 잡아먹을 거라고 생각했겠죠.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다.",
+        "안은 문장의 주어가 필요합니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "아니, 아무도 상어를 만나지 않았다고 <문법_맞춤법>해야할까요</문법_맞춤법>? 왜냐하면, <문법_기타>상어는</문법_기타> 무섭게 생겼고, 또 다른 바다생물을 잡아먹을 거라고 생각했겠죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 다른 물고기들은 상어를 두려워해 상어를 피해 다녔고, 결국 가장 용기 있고 힘이 센 고래가 상어를 박대했습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 다른 물고기들은 상어를 두려워해 상어를 <문법_맞춤법>피해다녔고</문법_맞춤법> 결국 가장 용기 있고 힘이센 고래가 상어를 박대했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한편 다른 바다생물을 잡아먹기 위해 상어들이 바다생물들을 덥치고 있었습니다. ",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다.",
+        "현재 시제가 자연스럽습니다."
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "시제"
+      ],
+      "sentence_txt": "<스타일링_기타>그런데</스타일링_기타> 다른 바다생물을 잡아먹기 위해 상어들이 바다생물들을 <문법_시제>덥쳤습니다</문법_시제>. ",
+      "sentence_corr_txt_styling": "한편 다른 바다생물을 잡아먹기 위해 상어들이 바다생물들을 덥치고 있었습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래가 어떻게든 상어를 막기 위해 고군분투했지만, 수가 많고 힘이 세고 막무가내인 상어들을 막긴 어렵습니다. ",
+      "sentence_corr_reason": [
+        "'어떻게'가 옳은 표현입니다.",
+        "쉼표를 써야 합니다."
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 고래가 <문법_맞춤법>어떻해든</문법_맞춤법> 상어를 막기위해 고군<문법_기타>분투했지만</문법_기타> 많고 힘이 세고 막무가내인 상어들을 막긴 어렵습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "수식어가 필요합니다."
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그때 소란스러운 소리를 듣고 <스타일링_기타>상어가</스타일링_기타> 달려왔습니다. ",
+      "sentence_corr_txt_styling": "그때 소란스러운 소리를 듣고 온순한 상어가 달려왔습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "수식어가 필요합니다."
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "다른 바다생물들은 상어가 싸울 줄 알았지만 <스타일링_기타>상어는</스타일링_기타> 현명하게 말로 상어들을 설득했습니다. ",
+      "sentence_corr_txt_styling": "다른 바다생물들은 상어가 싸울 줄 알았지만 온순한 상어는 현명하게 말로 상어들을 설득했습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>상어들은</스타일링_기타> 조용히 물러났습니다.",
+      "sentence_corr_txt_styling": "결국 상어들은 조용히 물러났습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다생물들은 상어를 박대하고 피했던 게 부끄러워졌습니다.",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다생물들은 상어를 박대하고 <문법_맞춤법>피했던게</문법_맞춤법> 부끄러워졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다."
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>상어는</스타일링_기타> 바다생물들을 용서했습니다. ",
+      "sentence_corr_txt_styling": "하지만 상어는 바다생물들을 용서했습니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다생물들은 더욱 감동받았고 상어가 이토록 착한 줄 몰랐습니다. ",
+      "sentence_corr_reason": [
+        "이 표현이 자연스럽습니다.",
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 바다생물들은 더욱 <스타일링_기타>감동하고</스타일링_기타> 상어가 이토록 <문법_맞춤법>착한줄</문법_맞춤법> 몰랐습니다. ",
+      "sentence_corr_txt_styling": " 바다생물들은 더욱 감동받았고 상어가 이토록 착한 줄 몰랐습니다. ",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38330",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 853,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

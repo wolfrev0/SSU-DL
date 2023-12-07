@@ -1,0 +1,505 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 일주일동안 연어가되고싶습니다.#@문장구분#\n 강에서 태어나 근처를 무색하다 하류로가는 길을따라 바다로가 적응을하고 처음에는 멸치를보고 놀라고 쫓아가 같이 먹고 또커서 멸치들을 쫓아가 상어를만나 놀라며 도망치고 그러다 어느날 아침에일어나보니 아지트 아침에 평소와는 다르게 추워서 깼습니다.#@문장구분# 일어나보니 안개가 낀것처럼 뿌였고 몸은 으슬으슬하고 주변을 둘러보니 3~4개정도의 거대한돌이 있었죠#@문장구분# 한번 만져보려다가 누군가 소리쳤어요#@문장구분# \"가까이가지마세요!\" #@문장구분#그래서 전 바로 뒤로물러서자 사람들의 비명이 들렸어요#@문장구분# 알고보니 이건 거대한 빙산이었던 것이에요.#@문장구분#전부들부들 떨면서 마음을 잡았어요.#@문장구분# '꼭 살아서 나갈꺼야' 생각을하고 마음을 굳게 다짐했습니다.#@문장구분# 하늘에선 날치가 위에서 따뜻한물을뿌리고 고래는 따뜻한 물을 담아 뿜어내고 돌고래는 산소주머니? 같은걸 쓰고 사람들에게 씌어주고 다시 사람들을 데리고 나가고 계속반복하다가 한 빙산이 녹아 제쪽으로 떨어졌어요#@문장구분# \n 그때 고래가 와서저를 지켜주었답니다 .#@문장구분#그리고 추위는 사라지고 5일 6일 마지막날에는 같이 지냈던 친구들 저를 지켜주었던 돌고래, 고래, 날치들한테도 인사를하고 제가 처음 태어났던 그 강으로 갔답니다#@문장구분# 가면서 옛날에보았던 암초들 그리고 또 해초들 지나가는 조그만한 물고기들 거북이도 보이고 점점 피곤해졌습니다.#@문장구분# 그리고 도착후 30분정도 민물적응을 하고 천천히 올라갔습니다.#@문장구분# 하류에서 상류로 그런데 힘은없고 업친데 덮친격 앞에 곰이 있는거에요.#@문장구분# 알고보니 지금은 연어의고향으로와 알을낳는 시기인거죠#@문장구분# 뒤를봤는데 수백마리의 연어들이 보이고 옛적친구도 만나고 힘을모아 해쳐나가는데 갑자기곰이 저를 잡으려고 할때 친구가 저대신 뛰어들어서 저는 그친구몫까지 살아야겠다 다짐하고선 제가 태어난 곳에서 편하고 온 죽음을 맞이했답니다.#@문장구분#",
+      "paragraph_len": 1208,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      23.1,
+      21.85
+    ],
+    "essay_scoreT_avg": 23.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.21",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 일주일동안 연어가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 일주일동안 <문법_맞춤법>연어가되고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "\n 강에서 태어나 근처를 무색하다 하류로가는 길을따라 바다로가 적응을하고 처음에는 멸치를보고 놀라고 쫓아가 같이 먹고 또커서 멸치들을 쫓아가 상어를만나 놀라며 도망치고 그러다 어느날 아침에일어나보니 아지트 아침에 평소와는 다르게 추워서 깼습니다.",
+      "sentence_corr_txt_styling": "\n 강에서 태어나 근처를 무색하다 하류로가는 길을따라 바다로가 적응을하고 처음에는 멸치를보고 놀라고 쫓아가 같이 먹고 또커서 멸치들을 쫓아가 상어를만나 놀라며 도망치고 그러다 어느날 아침에일어나보니 아지트 아침에 평소와는 다르게 추워서 깼습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일어나보니 안개가 낀 것처럼 뿌였고 몸은 으슬으슬하고 주변을 둘러보니 3~4개정도의 거대한 돌이 있었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 일어나보니 안개가 <문법_맞춤법>낀것처럼</문법_맞춤법> 뿌였고 몸은 으슬으슬하고 주변을 둘러보니 3~4개정도의 거대한돌이 <문법_어미><문법_기타>있었죠</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 번 만져보려다가 누군가 소리쳤습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>한번</문법_맞춤법> 만져보려다가 누군가 <문법_어미><문법_기타>소리쳤어요</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"가까이 가지 마세요!\" ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"<문법_맞춤법>가까이가지마세요!</문법_맞춤법>\" ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 전 바로 뒤로 물러섰고 사람들의 비명이 들렸습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "그래서 전 바로 <문법_맞춤법><문법_어미>뒤로물러서자</문법_어미></문법_맞춤법> 사람들의 비명이 <문법_기타>들렸어요</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 알고보니 이건 거대한 빙산이었던 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 알고보니 이건 거대한 빙산이었던 <문법_어미><문법_기타>것이에요.</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "전 부들부들 떨면서 마음을 다잡았습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법>전부들부들</문법_맞춤법> 떨면서 마음을 <문법_어미><문법_기타>잡았어요</문법_기타></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '꼭 살아서 나갈거야.' 생각을하고 마음을 굳게 다짐했습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " '꼭 살아서 <문법_맞춤법><문법_기타>나갈꺼야</문법_기타></문법_맞춤법>' 생각을하고 마음을 굳게 다짐했습니다.",
+      "sentence_corr_txt_styling": " '꼭 살아서 나갈거야.' 생각을하고 마음을 굳게 다짐했습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하늘에선 날치가 위에서 따뜻한 물을 뿌리고 고래는 따뜻한 물을 담아 뿜어내고 돌고래는 산소주머니 같은 걸 쓰고 사람들에게 씌워주고 다시 사람들을 데리고 나가고를 계속 반복하다가 한 빙산이 녹아 제쪽으로 떨어졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 하늘에선 날치가 위에서 <문법_맞춤법>따뜻한물을뿌리고</문법_맞춤법> 고래는 따뜻한 물을 담아 뿜어내고 돌고래는 산소주머니? 같은걸 쓰고 사람들에게 씌어주고 다시 사람들을 데리고 <문법_조사>나가고</문법_조사> 계속반복하다가 한 빙산이 녹아 제쪽으로 <문법_어미><문법_기타>떨어졌어요</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 그때 고래가 와서 저를 지켜주었답니다 .",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n 그때 고래가 <문법_맞춤법>와서저를</문법_맞춤법> 지켜주었답니다 .",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 추위는 사라지고 5일 6일 마지막날에는 같이 지냈던 친구들, 저를 지켜주었던 돌고래, 고래, 날치들한테도 인사하고 제가 처음 태어났던 그 강으로 갔답니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그리고 추위는 사라지고 5일 6일 마지막날에는 같이 지냈던 <문법_기타>친구들</문법_기타> 저를 지켜주었던 돌고래, 고래, 날치들한테도 인사를하고 제가 처음 태어났던 그 강으로 갔답니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가면서 옛날에 보았던 암초들 그리고 또 해초들, 지나가는 조그만한 물고기들 거북이도 보였고 점점 피곤해졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "시제"
+      ],
+      "sentence_txt": " 가면서 <문법_맞춤법>옛날에보았던</문법_맞춤법> 암초들 그리고 또 <문법_기타>해초들</문법_기타> 지나가는 조그만한 물고기들 거북이도 <문법_시제>보이고</문법_시제> 점점 피곤해졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 도착 후 30분정도 민물적응을 하고 천천히 올라갔습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>도착후</문법_맞춤법> 30분정도 민물적응을 하고 천천히 올라갔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하류에서 상류로 오느라 힘은없고 엎친 데 덮친 격으로 앞에 곰이 있었습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "시제",
+        "기타"
+      ],
+      "sentence_txt": " 하류에서 상류로 <문법_기타>그런데</문법_기타> 힘은없고 <문법_맞춤법><문법_조사>업친데 덮친격</문법_조사></문법_맞춤법> 앞에 곰이 <문법_어미><문법_시제>있는거에요</문법_시제></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 알고보니 지금은 연어가 고향으로 와 알을 낳는 시기였던 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "시제",
+        "기타"
+      ],
+      "sentence_txt": " 알고보니 지금은 <문법_맞춤법><문법_조사>연어의고향으로와</문법_조사></문법_맞춤법> 알을낳는 <문법_어미><문법_시제><문법_기타>시기인거죠</문법_기타></문법_시제></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뒤를봤는데 수백마리의 연어들이 보이고 옛 친구도 만나고 힘을 모아 헤쳐나가려 했습니다. 갑자기 곰이 저를 잡으려고 해서 친구가 저 대신 뛰어들었습니다. 저는 그친구몫까지 살아야겠다 다짐하고선 제가 태어난 곳에서 편하고 온 죽음을 맞이했답니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미",
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 뒤를봤는데 수백마리의 연어들이 보이고 <문법_기타>옛적친구도</문법_기타> 만나고 <문법_맞춤법>힘을모아</문법_맞춤법> <문법_어미>해쳐나가는데</문법_어미> <문법_조사>갑자기곰이</문법_조사> 저를 잡으려고 할때 친구가 저대신 뛰어들어서 저는 그친구몫까지 살아야겠다 다짐하고선 제가 태어난 곳에서 편하고 온 죽음을 맞이했답니다.",
+      "sentence_corr_txt_styling": " 뒤를봤는데 수백마리의 연어들이 보이고 옛 친구도 만나고 힘을 모아 헤쳐나가려 했습니다. 갑자기 곰이 저를 잡으려고 해서 친구가 저 대신 뛰어들었습니다. 저는 그친구몫까지 살아야겠다 다짐하고선 제가 태어난 곳에서 편하고 온 죽음을 맞이했답니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40012",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 869,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

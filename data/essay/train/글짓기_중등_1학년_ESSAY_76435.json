@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내 생각에 미래도시는 모든 것이 다 자동화가 되어 돌아가는 세상일 것 같다.#@문장구분# AI가 발달되어 자동차 안에는 운전하는 사람이 없고 자동차 혼자 주행하는 5단계 자율주행이 시행될 것이고, 마트에는 점원이 없어 그냥 들어가서 물건을 가지고 나와도 자동으로 결제되는 시스템이 생길 것이다.#@문장구분# 그리고 학교에는 선생님이 수업하는 것이 아닌 인공지능으로 만들어진 가상현실의 캐릭터가 우리를 가르칠 것이다.#@문장구분# 이제 회사에 가서 일을 하는 것이 아닌 집에서 회사 일을 하는 날이 올 것이다.#@문장구분# 집에서 화상 채팅으로 회의를 하고 집에서 재택근무를 하며 일을 할 것이다.#@문장구분# 그리고 미래에는 밥을 먹지 않아도 포만감과 영양소를 채워줄 캡슐이 나올 것이다.#@문장구분# 한 끼에 알약 한 개만 먹으면 한 끼에 해당하는 열량과 영양소가 채워질 것이다.#@문장구분# 즉 먹는 시간을 단축하는 것이다.#@문장구분# 그리고 우주여행이 보편화 될 것이다.#@문장구분# 그래서 여행을 하와이나 괌이 아닌 달이나 화성으로 가는 시대가 올 것이다.#@문장구분# 또 지구의 환경오염문제를 해결하기 위해 새로운 행성을 발견해 낼 것이다.#@문장구분# 그래서 그 행성으로의 이주 프로젝트가 이뤄질 것이다.#@문장구분# 많은 사람들이 지구를 떠나 새로운 행성으로 이주해 지구보다 깨끗한 환경에서 쾌적하게 생활할 것이다.#@문장구분# 그리고 과학이 많이 발전되어서 지구에서 문제가 되고 있는 환경오염문제가 해결 될 것이다.#@문장구분# 지금 탄소에 대한 문제가 많아 범세계적으로 탄소 중립에 대한 서약을 하고 있는데 탄소가 많이 나오는 화석연료를 대신한 다른 대체에너지가 발명돼 지구에서의 환경오염이 많이 줄어들 것이다.#@문장구분# 빨리 과학이 발전돼 최첨단 사회에서 살고 싶다.#@문장구분#",
+      "paragraph_len": 1105,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      26.4,
+      22
+    ],
+    "essay_scoreT_avg": 24.933334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "063",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그리고 우주여행이 보편화될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 우주여행이 <문법_맞춤법>보편화 될 것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 지구의 환경오염 문제를 해결하기 위해 새로운 행성을 발견해 낼 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 지구의 <문법_맞춤법>환경오염문제를</문법_맞춤법> 해결하기 위해 새로운 행성을 발견해 낼 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 과학이 많이 발전되어서 지구에서 문제가 되고 있는 환경오염 문제가 해결될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 과학이 많이 발전되어서 지구에서 문제가 되고 있는 <문법_맞춤법>환경오염문제가 </문법_맞춤법>해결 될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_76435",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 786,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

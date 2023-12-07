@@ -1,0 +1,536 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아기상어의 바다모험#@문장구분#\n\"엄마, 이제 여기가 지겨워요. 우리이제 다른 곳으로 모험가요.\"#@문장구분#아기상어가 말했다.#@문장구분# \"그래. 이제 그럴만도 하지.\"#@문장구분# 그래서 엄마상어와 아기상어는 바다모험에 떠난다. #@문장구분#첫번째로 태평양에 갔다.#@문장구분# 아기상어는 모든것이 신기해서 엄마상어에게 다 물어본다.#@문장구분# 그중에 아기상어는 친구를 만났다. #@문장구분#아기상어의 엄마는 같이 가도 된다고 했지만 친구의 부모님은 반대하셨다. #@문장구분#그래서 아기상어는 어쩔수 없이 친구 집에서 노는데 친구를 잘못해서 다치게 했다. #@문장구분#화가난 친구의 아빠는 아기상어와 엄마상어를 쫓아갔다. #@문장구분#물론 친구가 말렸다.#@문장구분# 아기상어와 엄마상어는 친구아빠를 피해 대서양까지 왔다.#@문장구분# 아기상어는 친구를 다시 못 만나서 너무 슬퍼했다. #@문장구분#하지만 다시 기운을 되찾고 모험에 나선다. #@문장구분#아기상어가 말했다.#@문장구분# \"엄마, 여기는 정말 아름다워요. 저희가 사는 곳은 사람들의 쓰레기가 가득해서 친구들이 많이 죽는데 여기사는 친구들은 행복해보여요.\"#@문장구분# \"그렇지. 우리 일단 여기를 둘러보자꾸나.\"#@문장구분# 여기는 정말로 아름다웠다. #@문장구분#산호도 많이 있고 조그마한 물고기도 많이 있었다. #@문장구분#아기상어는 여기에 정말로 살고 싶었다. #@문장구분#\"엄마 저희 여기서 살면 안되요?\"#@문장구분#\"살고싶니? 엄마도 그렇단다. 여기는 정말 아름답지. 우리 여기에서 살자꾸나.\" #@문장구분#아기상어와 엄마상어는 몰랐다. #@문장구분#그의 존재를. #@문장구분#그는 이 지역을 들었다 놨다 했다.#@문장구분# 그가 온다면 동네 상어들은 집안에서 꿈쩍도 하지 않았다. #@문장구분#엄마와 아기상어는 그 상어의 존재는 꿈에도 모른채 밖에 놀러나왔다. #@문장구분#이상한 낌새를 눈치챈 엄마상어가 도망치려고 하자 상어가 와서 따라왔습니다.#@문장구분#\n 엄마상어와 아기상어는 죽을힘을 다해 도망쳤습니다. #@문장구분#하지만 엄마상어는 끝내 상어에게 잡혔습니다.#@문장구분# 아기상어를 살리기 위해서지요. #@문장구분#아기상어는 엄마상어가 무서운 그 상어에게 잡아먹히는 모습을 보고 눈물을 흘렸습니다.#@문장구분#상기상어는 엄마상어가 죽은뒤 3일 뒤에 세상을 떠났습니다. #@문장구분#마을상어들은 매년 차례를 치르고 있다고 합니다.",
+      "paragraph_len": 1630,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      23.9,
+      22.25
+    ],
+    "essay_scoreT_avg": 24.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "아기 상어의 바다 모험 ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아기상어의 바다모험</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n\"엄마, 이제 여기가 지겨워요. 우리 이제 다른 곳으로 모험 가요.\" ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n\"엄마, 이제 여기가 지겨워요. <문법_맞춤법>우리이제</문법_맞춤법> 다른 곳으로 모험가요.\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아기 상어가 말했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아기상어가</문법_맞춤법> 말했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"그래. 이제 그럴 만도 하지.\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"그래. 이제 <문법_맞춤법>그럴만도</문법_맞춤법> 하지.\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서  엄마 상어와 아기 상어는 바다 모험에 떠난다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>엄마상어와 아기상어는 바다모험에 </문법_맞춤법>떠난다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫 번째로 태평양에 갔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>첫번째로</문법_맞춤법> 태평양에 갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아기 상어는 모든 것이  신기해서 엄마 상어에게 다 물어본다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아기상어는 모든것이</문법_맞춤법> 신기해서 엄마상어에게 다 물어본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그중에 아기 상어는 친구를 만났다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그중에 <문법_맞춤법>아기상어는</문법_맞춤법> 친구를 만났다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아기 상어의 엄마는 같이 가도 된다고 했지만 친구의 부모님은 반대하셨다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아기상어의</문법_맞춤법> 엄마는 같이 가도 된다고 했지만 친구의 부모님은 반대하셨다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 아기 상어는 어쩔 수 친구 집에서 노는데 친구를 잘못해서 다치게 했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서<문법_맞춤법> 아기상어는 어쩔수 없이</문법_맞춤법> 친구 집에서 노는데 친구를 잘못해서 다치게 했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "화가 난 친구의 아빠는 아기 상어와 엄마 상어를  쫓아갔다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>화가난 </문법_맞춤법>친구의 아빠는 아기상어와 엄마상어를 쫓아갔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아기 상어와 엄마 상어는 친구 아빠를 피해 대서양까지 왔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아기상어와 엄마상어는 친구아빠를 </문법_맞춤법>피해 대서양까지 왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아기 상어는 친구를 다시 못 만나서 너무 슬퍼했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아기상어는</문법_맞춤법> 친구를 다시 못 만나서 너무 슬퍼했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아기 상어가 말했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아기상어가</문법_맞춤법> 말했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"엄마, 여기는 정말 아름다워요. 저희가 사는 곳은 사람들의 쓰레기가 가득해서 친구들이 많이 죽는데 여기사는 친구들은  행복해 보여요.\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"엄마, 여기는 정말 아름다워요. 저희가 사는 곳은 사람들의 쓰레기가 가득해서 친구들이 많이 죽는데 여기사는 친구들은 <문법_맞춤법>행복해보여요</문법_맞춤법>.\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아기 상어는 여기에 정말로 살고 싶었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아기상어는</문법_맞춤법> 여기에 정말로 살고 싶었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"엄마 저희 여기서 살면 안 되요?\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"엄마 저희 여기서<문법_맞춤법> 살면 안되요</문법_맞춤법>?\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"살고 싶니? 엄마도 그렇단다. 여기는 정말 아름답지. 우리 여기에서 살자꾸나.\" ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"<문법_맞춤법>살고싶니</문법_맞춤법>? 엄마도 그렇단다. 여기는 정말 아름답지. 우리 여기에서 살자꾸나.\" ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아기 상어와 엄마 상어는몰랐다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아기상어와 엄마상어는 </문법_맞춤법>몰랐다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "엄마와 아기 상어는 그 상어의 존재는 꿈에도 모른 채 밖에 놀러 나왔다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0028",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "엄마와 <문법_맞춤법>아기상어는</문법_맞춤법> 그 상어의 존재는 꿈에도 모른채 밖에 놀러나왔다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이상한 낌새를 눈치챈 엄마 상어가 도망치려고 하자 상어가 와서 따라왔습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0029",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "이상한 낌새를 눈치챈 <문법_맞춤법>엄마상어가</문법_맞춤법> 도망치려고 하자 상어가 와서 따라왔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아기 상어는 엄마 상어가 무서운 그 상어에게 잡아먹히는 모습을 보고 눈물을 흘렸습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0033",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아기상어는 엄마상어가 </문법_맞춤법>무서운 그 상어에게 잡아먹히는 모습을 보고 눈물을 흘렸습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아기 상어는 엄마 상어가 죽은 뒤 3일 뒤에 세상을 떠났습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0034",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>상기상어는 엄마상어가 죽은뒤</문법_맞춤법> 3일 뒤에 세상을 떠났습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "마을 상어들은 매년 차례를 치르고 있다고 합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0035",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법>마을상어들은</문법_맞춤법> 매년 차례를 치르고 있다고 합니다.",
+      "sentence_corr_txt_styling": "마을 상어들은 매년 차례를 치르고 있다고 합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52781",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 950,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

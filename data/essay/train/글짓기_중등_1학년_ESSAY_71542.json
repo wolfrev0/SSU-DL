@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "보통 미래도시라고 하면 많은 사람들이 기술이 발달한 미래를 생각하겠지만 나는 자연이 더 발달한 미래가 만들어질 것 같다고 생각을 한다.#@문장구분# 기술 발달을 막 시작하고 있을 때 쯤에는 기술을 더 발전시키기 위해 자연을 신경쓰지 않고 마음대로 훼손하면서 기술 개발을 했다.#@문장구분# 하지만 이제 우리는 그것이 얼마나 위험한 일인지를 알고 있을 것이다.#@문장구분# 지구 온난화가 가속화되면서 동물들은 삶의 터전을 잃어가고 있고 사람들은 전에는 잘 없었던 큰 재난 상황에 대비를 하느라 바쁘다.#@문장구분# 그리고 우리는 이 상황들을 통해서 자연은 없애야하는 존재가 아닌 우리가 보호하고 지켜야할 존재라는 것을 깨달았다.#@문장구분# 그래서 나는 미래에는 자연을 지키려는 많은 사람들의 노력과 훼손된 자연과 사라져가는 동물종들을 다시 복구하기 위해 생명과학과 지구과학 분야가 많이 발전을 할 것 같고 그 노력으로 인해서 지금보다는 세상에 더 많은 자연 환경들이 조성이 될 것 같다고 생각을 한다.#@문장구분# 그리고 건물을 짓더라고 자연을 최대한 훼손하지 않는 방법을 사용해서 친환경적인 주거지를 만들고 살아갈 것 같다고 생각한다.#@문장구분#",
+      "paragraph_len": 678,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      19.8,
+      19.3
+    ],
+    "essay_scoreT_avg": 23.033333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 기술 발달을 막 시작하고 있을 때쯤에는 기술을 더 발전시키기 위해 자연을 신경 쓰지 않고 마음대로 훼손하면서 기술 개발을 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기술 발달을 막 시작하고 있을 <문법_맞춤법>때 쯤에는</문법_맞춤법> 기술을 더 발전시키기 위해 자연을 신경쓰지 않고 마음대로 훼손하면서 기술 개발을 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 우리는 이 상황들을 통해서 자연은 없애야 하는 존재가 아닌 우리가 보호하고 지켜야 할 존재라는 것을 깨달았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 우리는 이 상황들을 통해서 자연은 <문법_맞춤법>없애야하는 </문법_맞춤법>존재가 아닌 우리가 보호하고 지켜야할 존재라는 것을 깨달았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 미래에는 자연을 지키려는 많은 사람들의 노력과 훼손된 자연과 사라져가는 동물 종들을 다시 복구하기 위해 생명과학과 지구과학 분야가 많이 발전을 할 것 같고 그 노력으로 인해서 지금보다는 세상에 더 많은 자연환경들이 조성이 될 것 같다고 생각을 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 미래에는 자연을 지키려는 많은 사람들의 노력과 훼손된 자연과 사라져가는 <문법_맞춤법>동물종들을 </문법_맞춤법>다시 복구하기 위해 생명과학과 지구과학 분야가 많이 발전을 할 것 같고 그 노력으로 인해서 지금보다는 세상에 더 많은 자연 환경들이 조성이 될 것 같다고 생각을 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71542",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 539,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

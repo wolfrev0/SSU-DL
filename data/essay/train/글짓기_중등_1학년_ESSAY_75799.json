@@ -1,0 +1,182 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래 도시의 모습이 지금과는 많이 다를 것이라고 생각합니다.#@문장구분# 우선 미래에는 우리가 암기 같은 것을 굳이 공해서 하지 않더라도 내장 칩 같은 걸 이식해서 충분히 뇌 속에 저장할 수 있을 것입니다.#@문장구분# 그리고 공부보다 새로운 걸 적용하고 만들어내는 사람, 코딩을 잘하고 인공지능을 다룰 수 있는 사람이 확실히 유리해지는 세상이 올 것입니다. #@문장구분#번역가, 교사, 간호사 등 많은 직업이 로봇으로 대체될 것입니다.#@문장구분# 인공지능이 고도화되어서 심지어는 의사나 변호사, 판사 같은 전문직들도 인공지능이 대체하게 될 것입니다. #@문장구분#인공지능의 알고리즘을 잘만 설계하면 오히려 의료 사고를 많이 내는 의사들보다, 불공평하게 판결하는 판사들보다, 나아가 모든 면에서 실수를 저지를 수밖에 없는 사람을 인공지능이 대체하는 것도 큰 문제는 아닐 것입니다.#@문장구분# 저는 미래 도시의 모습은 이렇듯이 인공지능이 지배하고 인공지능에 의해 움직이는 도시라고 생각합니다.#@문장구분#",
+      "paragraph_len": 601,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.75,
+      25.15,
+      16.15
+    ],
+    "essay_scoreT_avg": 22.683334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 우선 미래에는 우리가 암기 같은 것을 굳이 공해서 하지 않더라도 내장 칩 같은 걸 이식해서 충분히 뇌 속에 저장할 수 있을 것입니다.",
+      "sentence_corr_txt_styling": " 우선 미래에는 우리가 암기 같은 것을 굳이 공해서 하지 않더라도 내장 칩 같은 걸 이식해서 충분히 뇌 속에 저장할 수 있을 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 저는 미래 도시의 모습은 이렇듯이 인공지능이 지배하고 인공지능에 의해 움직이는 도시라고 생각합니다.",
+      "sentence_corr_txt_styling": " 저는 미래 도시의 모습은 이렇듯이 인공지능이 지배하고 인공지능에 의해 움직이는 도시라고 생각합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75799",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 462,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

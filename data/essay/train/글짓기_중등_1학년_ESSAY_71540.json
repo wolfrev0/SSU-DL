@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 우리나라가 미래에 많은 인공 섬을 가진 나라가 될 수도 있을 것 같다고 생각을 한다.#@문장구분# 왜냐하면 우리나라는 인구 밀집도가 높은 편이라고 한다.#@문장구분# 우리나라에는 산이 많기 때문에 실질적으로 사람이 살 수 있는 면적은 산을 제외해야하고 그렇기 때문에 사람 수에 비해 땅이 좁기 때문에 인구 밀집도가 높다고 한다.#@문장구분# 그래서 나는 미래에 우리나라가 인공 섬을 만들어서 그곳에서 살지도 모른다고 생각을 했다.#@문장구분# 그 이유는 지금 세계 곳곳에서 환경 문제 때문에 자연을 더 훼손해서는 안된다는 인식이 강하게 가지고 있기도 하고 우리나라는 산이 많기 때문에 그 산을 다 깎아내고 토지를 다지고 그 위에 건물을 세우는 것이 돈이 더 많이 들 것 같다고 생각을 하기 때문이다.#@문장구분# 지금은 바다 깊은 곳부터 섬을 차곡차곡 쌓아 올리는 것이 불가능할 수도 있지만 미래에는 그러한 건축 기술도 많이 발달되어서 바다 위에도 인공 섬을 만들어서 살 수 있게 될 것 같다.#@문장구분# 그리고 인공섬은 흔한 것이 아니기 때문에 그로 인해서 인공섬과 관련한 관광 상품들도 많이 개발되어서 우리나라의 관광지 중 하나가 될 수도 있을 것 같다.#@문장구분#",
+      "paragraph_len": 694,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      19.8,
+      22.9
+    ],
+    "essay_scoreT_avg": 24.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 우리나라에는 산이 많기 때문에 실질적으로 사람이 살 수 있는 면적은 산을 제외해야 하고 그렇기 때문에 사람 수에 비해 땅이 좁기 때문에 인구 밀집도가 높다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리나라에는 산이 많기 때문에 실질적으로 사람이 살 수 있는 면적은 산을 <문법_맞춤법>제외해야하고</문법_맞춤법> 그렇기 때문에 사람 수에 비해 땅이 좁기 때문에 인구 밀집도가 높다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 지금 세계 곳곳에서 환경 문제 때문에 자연을 더 훼손해서는 안 된다는 인식이 강하게 가지고 있기도 하고 우리나라는 산이 많기 때문에 그 산을 다 깎아내고 토지를 다지고 그 위에 건물을 세우는 것이 돈이 더 많이 들 것 같다고 생각을 하기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 이유는 지금 세계 곳곳에서 환경 문제 때문에 자연을 더 <문법_맞춤법>훼손해서는 안된다는</문법_맞춤법> 인식이 강하게 가지고 있기도 하고 우리나라는 산이 많기 때문에 그 산을 다 깎아내고 토지를 다지고 그 위에 건물을 세우는 것이 돈이 더 많이 들 것 같다고 생각을 하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71540",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 555,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

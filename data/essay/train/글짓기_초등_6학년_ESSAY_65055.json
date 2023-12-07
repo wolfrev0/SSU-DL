@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 마냐게 바다 생물중 한마리가된가고하면 상어가 되어보고싶다#@문장구분# 왜냐하면 물고기들을 먹으며 바다속을 헤어면서 돌아다녀 보고싶다 #@문장구분#내가상어가 되어서 해변가 근처를 가보고싶다 왜냐하면 사람들이 나를 얼마나 무서워하는지 알고싶고 사람들이 어떻게 나를 생각을 하는지 알고싶다 #@문장구분#그리고 바다깊은곳애가서 깊은 바다쏙 1짱들을 정리하면서 그바다의 일짱이되어서 그바다를 점졍하고 그바다에서 평화롭게 그바다에서 지내고 싶다 둘째 고래가 되고 싶습니다#@문장구분# 왜냐하면 지표면을 뛰어다니고 싶기 때문 입니다 #@문장구분#그리고 고래들이 무엇을 먹고사는지 도 알고싶고 고래무리들과 같이다니고싶다",
+      "paragraph_len": 406,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.9,
+      25.1,
+      23.6
+    ],
+    "essay_scoreT_avg": 24.533333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 만약에 바다 생물 중 한 마리가 된다고 하면 상어가 되어보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 <문법_맞춤법>마냐게 바다 생물중 한마리가된가고하면 상어가 되어보고싶다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 물고기들을 먹으며 바닷속을 헤엄 치면서 돌아다녀 보고 싶다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 물고기들을 먹으며 <문법_맞춤법>바다속을 헤어면서 돌아다녀 보고싶다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내가 상어가 되어서 해변가 근처를 가보고 싶다 왜냐하면 사람들이 나를 얼마나 무서워하는지 알고 싶고 사람들이 어떻게 나를 생각을 하는지 알고 싶다.  ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>내가상어가 되어서 해변가 근처를 가보고싶다 왜냐하면 사람들이 나를 얼마나 무서워하는지 알고싶고 사람들이 어떻게 나를 생각을 하는지 알고싶다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 바다 깊은 곳에 가서 깊은 바닷속 1짱들을 정리하면서 그 바다의 일짱이 되어서 그 바다를 점령하고 그 바다에서 평화롭게 그 바다에서 지내고 싶다.  둘째 고래가 되고 싶다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법><문법_높임법>바다깊은곳애가서 깊은 바다쏙 1짱들을 정리하면서 그바다의 일짱이되어서 그바다를 점졍하고 그바다에서 평화롭게 그바다에서 지내고 싶다 둘째 고래가 되고 싶습니다</문법_높임법></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 지표면을 뛰어다니고 싶기 때문이다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 왜냐하면 지표면을 뛰어다니고 싶기 <문법_맞춤법><문법_높임법>때문 입니다</문법_높임법></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 고래들이 무엇을 먹고 사는지도 알고 싶고 고래 무리들과 같이 다니고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 고래들이 무엇을 <문법_맞춤법>먹고사는지 도 알고싶고 고래무리들과 같이다니고싶다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_65055",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 306,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

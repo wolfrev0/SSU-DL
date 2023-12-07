@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일주일동안 바다의 생물로 살아갈 기회가 주어진다면 나는 제일 큰 상어로 변하고 싶다. #@문장구분#이유는 제일 큰 상어가 되면 아무도 건들이지 못하니까 내 마음대로 행동할 수 있기 때문입니다. #@문장구분#상어가 되면 먼저 눈에 보이는 물고기들을 먹어보고 싶다. #@문장구분#왜냐하면 물속에서 엄청 작은 물고기를 먹으면 맛이 느껴지긴 할지 궁금하기 때문이다. #@문장구분#또 바다 아주 깊숙히 들어가고 싶다. #@문장구분#왜냐하면 바다 안쪽에는 우리가 발견하지 못한 바다생물이 있을지 궁금하기 때문이다. #@문장구분#그리고 밤이 되서 해가 지는 모습을 바다에서 보고 새벽에 해가 뜨는 모습을 바다에서 보고 싶기 때문이다. #@문장구분#또 별도 바다에서 보고 싶기 때문이다. #@문장구분#계속 이렇게 살면 지루할 것 같지만 일주일이라 상어로 사는 동안 지루하지도 않고 딱 좋을 것 같다. #@문장구분#반복적인 일상과 완전 다른 색다른 경험일 것 같아서 실제로 이런 일이 일어나도 좋을 것 같다. #@문장구분#색다른 주제로 글을 쓰면서 상상하는 것이 재미있었다.",
+      "paragraph_len": 666,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.4,
+      28
+    ],
+    "essay_scoreT_avg": 28.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65041",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 466,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

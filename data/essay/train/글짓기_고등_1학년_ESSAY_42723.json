@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "소중함이란 사물이든 사람이든 나에게 있어 정말 중요하고 아끼지만 잘해주지 못하는 것인 거 같다. #@문장구분#서로 각자에게서 소중한것은 다르지만 대체로 서로의 가까운곳에 위치해있다.#@문장구분# 하지만 가까이 있는데도 그 소중함을 알지 못하고 잘 대해주지 못한다.#@문장구분# 왜냐하면 항상 내 주변 가까운 곳에 있고 항상 내 옆에 있을 거 같기때문에 잘 대해주지 못하는 거 같다.#@문장구분# 한 번쯤 자신이 되게 좋아했던 사람이나 아끼던 물건이 부서지거나 사라지거나 해본 경험이 있으면 그때서야 소중함을 깨닫거나 느끼게된다.#@문장구분# 특히 자신이 사랑했던 사람이 없어지는것은 말로 표현을 못할만큼 아프다. #@문장구분#항상 나의 곁에 있었고 계속 아프지 않고 내 옆에 있을거라 믿었던 사람이 없어져 그때서야 소중함을 깨닫고 후회를 하는것은 너무 늦었다.#@문장구분# 평소에 그 사람에게 10% 아니 5% 로만 더 잘 대해주고 그 사람에 대한 소중함을 일찍 깨달았으면 그 사람이 없어지기 전에 조금만 더 잘 했더라면 나중에 후회를 하더라도 그 후회의 양이 더 적지 않을까 라는 생각을 한다.#@문장구분# 그리고 그 사람을 잃어버렸을때는 그 사람 자리에 그 사람이 아닌 공허함과 허망감이 그 자리를 대신한다.#@문장구분# 대체로 후회를 할때는 어떤 선택을 하거나 어떤 일이 일어난 뒤에 크든 작든 후회를 한다.#@문장구분# ",
+      "paragraph_len": 817,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 우리는 주변에 자신이 진짜 중요하다고 생각하는 사람이나 사랑하는 사람에게 나중에 후회를 하지 않도록 잘해주어야한다.#@문장구분# 나중에 그 사람을 잃은 후에 후회를 해도 많이 후회하지 않하지 않도록 평소에 그 사람에게 잘 대하고 평생 나의 곁에 있지 않으니 하루라도 빨리 그 사람에 대한 소중함을 깨닫고 항상 그 사람에게 고마움을 그 사람이 내 곁에 없어졌을때를 생각하며 잘해주어야한다.#@문장구분#",
+      "paragraph_len": 250,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.8333333,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.9444444,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      28.88889,
+      30,
+      28.5
+    ],
+    "essay_scoreT_avg": 29.12963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.24",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_42723",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 830,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래의 도시이름을 스피드시티라고 짓고싶습니다.#@문장구분# 그이유는 미래에는 사람들의 성격이 지금보다 더 급해지면서 더욱 빠른걸 중요시하는 세상이 올 것이라고 생각합니다.#@문장구분# 그렇기 때문에 저는 미래의 도시이름을 스피드 도시라고 지었습니다.#@문장구분# 미래에는 모든게 첨단화 되어서 모든일들이 빨라지고 그에 따라서 사람들도 마음이 급해지는게 느껴질 것입니다.#@문장구분# 미래의 도시는 음식들도 아무리 늦어도 5분만에 전부 나오고 그런 세상이 올 것이라고 생각합니다.#@문장구분# 저는 이런세상이 오지 않기를 바랍니다.#@문장구분# 사람이 자고로 여유가 있고 여유로운 심리에서 모든게 잘된다고 생각합니다.#@문장구분# 그런데 너무나도 급한상황 이오면 사람들은 당황을 오고 패닉이 오게 되겠죠.#@문장구분# 그렇기 때문에 저는 미래에 급한세상이 아니라 여유로운 세상이 오면 좋겠다고 생각했습니다.#@문장구분#",
+      "paragraph_len": 577,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      23.9,
+      14.25
+    ],
+    "essay_scoreT_avg": 19.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          1,
+          2,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 미래의도시 이름을 스피드 시티라고 짓고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 미래의<문법_맞춤법> 도시이름을 스피드시티라고 짓고싶습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 미래에는 사람들의 성격이 지금보다 더 급해지면서 더욱 빠른 걸  중요시하는 세상이 올 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그이유는</문법_맞춤법> 미래에는 사람들의 성격이 지금보다 더 급해지면서 더욱 빠른걸 중요시하는 세상이 올 것이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 저는 미래의 도시 이름을 스피드 도시라고 지었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 저는 미래의<문법_맞춤법> 도시이름을</문법_맞춤법> 스피드 도시라고 지었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에는 모든 게 첨단화되어서 모든 일들이 빨라지고 그에 따라서 사람들도 마음이 급해지는 게 느껴질 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래에는 <문법_맞춤법>모든게 첨단화 되어서 모든일들이</문법_맞춤법> 빨라지고 그에 따라서 사람들도 마음이 급해지는게 느껴질 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래의 도시는 음식들도 아무리 늦어도 5분 만에 전부 나오고 그런 세상이 올 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래의 도시는 음식들도 아무리 늦어도<문법_맞춤법> 5분만에</문법_맞춤법> 전부 나오고 그런 세상이 올 것이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 이런 세상이 오지 않기를 바랍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 <문법_맞춤법>이런세상이</문법_맞춤법> 오지 않기를 바랍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람이 자고로 여유가 있고 여유로운 심리에서 모든 게 잘된다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람이 자고로 여유가 있고 여유로운 심리에서 <문법_맞춤법>모든게 </문법_맞춤법>잘된다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 너무나도 급한 상황 이오면 사람들은 당황을 오고 패닉이 오게 되겠죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 너무나도<문법_맞춤법> 급한상황</문법_맞춤법> 이오면 사람들은 당황을 오고 패닉이 오게 되겠죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 저는 미래에 급한 세상이 아니라 여유로운 세상이 오면 좋겠다고 생각했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 저는 미래에 <문법_맞춤법>급한세상이</문법_맞춤법> 아니라 여유로운 세상이 오면 좋겠다고 생각했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75727",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 398,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

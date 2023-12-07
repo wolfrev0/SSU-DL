@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다 생물은 무시무시하게 많습니다.#@문장구분# 그중에서 가장 흔한것은 불가사리 해파리 장어 새우 갈치등 있습니다.#@문장구분# \n 바다에서 보는 쓰레기들 바다생물들은 그것을 먹이로 인식하고 먹는 경우가 많습니다.#@문장구분# 그러면 바다 생물들의 상태는 어떨까요?#@문장구분# 제가 바다생물들이 쓰레기를 먹이로 인식한다고 했지요.#@문장구분# 뉴스에서보면 해파리를 먹는 바다생물이 있다고해요.#@문장구분# 해파리와 닮은 쓰레기는 무엇일까요?#@문장구분# 바로! 비닐봉지입니다.#@문장구분# 그리고 또 어떤 뉴스에는 거북이의 코에 빨대가 있더라고요.#@문장구분# 정말 자닌하지 않나요?#@문장구분# 이것말고 비슷한 사례가 참많아요.#@문장구분# 바다에는 바다식물 약50% 쓰래기가 약50% 입니다.#@문장구분# 자신이 바다생물이라고 생각해보세요.#@문장구분# 아우, 정말 싫으시죠.#@문장구분# 그래서 우리는 바다생물에 대해 더알아야하고, 바다 생물을 존중하고, 아겨아합니다.#@문장구분# 어떤 바다에서는 물이 않보일 정도로 쓰레기가 한가득이더라고요.",
+      "paragraph_len": 727,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      24.35,
+      25.35
+    ],
+    "essay_scoreT_avg": 23.85,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "053",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_80734",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 428,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

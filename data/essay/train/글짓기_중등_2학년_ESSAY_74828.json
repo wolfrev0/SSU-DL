@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "현재 저는 천진난만하게 중학교 생활을 보내고 있습니다.#@문장구분# 그래도 평소에 10년 뒤, 30년 뒤 모습을 상상해본  적은 있습니다.#@문장구분# 저는 10년뒤에는 아마 군대에 있지 않을까라는 생각을 합니다.#@문장구분# 마침 저의 꿈이 군 장교이기 때문에 학창시절부터 군인에 관심이 있어서 군인 관련 영상이나 영화등을 많이 보았고, 군인을 해보면 어떨까라는 생각을 하면서 군인에 대한 꿈을 키우게 되었습니다.#@문장구분# 그래서 저는 육군사관학교에 진학을 하여 학교생활을 수료하고 군 장교로 부임하여 한 부대를 통솔하면서 국군 장병들을 기르고 국가안보를 위해 조금이라도 이바지 하고 있지 않을까 생각합니다.#@문장구분# 그렇게 장교부터 시작하여 군인으로써 20년을 보내 30년 뒤쯤에는 아마 중령 정도는 하고 있지 않을까 생각해봅니다.#@문장구분# 중령을 달고 나면 막대한 책임감이 생기고 자기의 대대의 능력을 잘 이끌어내기 위해 군인 전체적인 체력과 군사능력을 매일매일 점검하며 훈련으로 강화하는 임무를 중점으로 두며 대대의 전체적인 능력을 상승시킴으로써 상관에 인정을 받음으로써 국가안보에 조금이라도 이바지 할 수 있음에 감사하면서 살 것 같습니다.",
+      "paragraph_len": 671,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.61111,
+      30,
+      24
+    ],
+    "essay_scoreT_avg": 25.87037,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74828",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 552,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

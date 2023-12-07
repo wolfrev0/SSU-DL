@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저의 장래희망은 평범한 회사원이 되는 것입니다.#@문장구분# 저는 멋진 커리어우먼이 나오는 영화를 보고 꿈을 키웠습니다.#@문장구분# ",
+      "paragraph_len": 101,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 다른 직업들에 비해 멋진 일은 많이하는 것 같아 보이지는 않았지만, 그냥 바쁘게 노트북을 두드리는 모습이 너무 멋져보였습니다.#@문장구분# 제가 어떤 분야의 회사원이 되고싶은지는 아직 확실하게 정하지 못하였습니다.#@문장구분# 그러나 안정적으로 매일 매일 회사에 나가며 맡아진 일에 최선을 다 하며 살고싶습니다.#@문장구분# 가끔은 야근이라는 것을 해보며 많은 일에 찌들어 힘들게 집에 들어가는 제 미래의 모습을 상상해 봅니다.#@문장구분# 실제 지금 회사원들은 제가 왜 그런 모습을 멋있게 생각하는지, 왜 그렇게 되고싶은지 이해를 못 할 것입니다.#@문장구분# 그런데 저는 단지 자신의 일에 최선을 다하고 열심히 하는 모습이 너무 멋져보입니다.#@문장구분# 저는 10년 뒤에,20년 뒤에, 30년 뒤에 물론 점점 승진을 하겠지만 똑같이 회사에 다니고 있을것입니다.#@문장구분# 어느 분야의 회사에서 일을 할지는 모르겠지만, 회사원이 되어서 노트북을 두드리는 저의 모습을 상상만 해도 행복합니다.#@문장구분# 회사원이 되기 위해서 저의 학업에 최선을 다 할 것입니다.",
+      "paragraph_len": 646,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.8333333,
+          2,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      27.61111,
+      22.666666,
+      28.166668
+    ],
+    "essay_scoreT_avg": 26.148148,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74784",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 549,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

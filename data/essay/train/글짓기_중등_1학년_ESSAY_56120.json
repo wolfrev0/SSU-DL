@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "100년 뒤에의 미래사회 에서의 도시는 당연히 로봇이든 첨단기술이든 자동차이든 모든것 이 전부 발전이 되어있을 것이다.#@문장구분# 미래사회의도시는 이름도 바껴 있을텐데 그 도시의 이름은 한번 지어 보자고 하면 미도 라는 이름을 지어야 겠다고 생각 한다.#@문장구분# 이유는 매우 단순하 지만 미래의 도시의 줄여서 미도 라고 지었다.#@문장구분# 미래사회의 도시는 많은 것들이 바껴 있을 것 이다.#@문장구분#  미래 도시의 새로운 베경을 보자면 첫번째로는 배달하는 형식이 매우 바껴있을 것 같다.#@문장구분# 그렇게 생각한 이유는 미래엔 드론산업이 더욱 발전 될것 같기 때문에 배달을 드론으로 할것 같습니다.#@문장구분# 두번째는 로봇이 매우 발전 되어 있을 것 같습니다.#@문장구분# 이유로는 지금도 로봇이 생각하고 행동하는 로봇인데 나중에는 이 로봇산업이 매우 크게 발전 할 것 같습니다.#@문장구분# 그리고 세번째로는 교통수단이 매우 발전되었을 것 같습니다.#@문장구분# 이유는 지금도 자율주행 차가 상용화가 되어있는 것도 있으니 나중에는 더욱 많이 발전되었을것 같기 때문입니다.#@문장구분#",
+      "paragraph_len": 689,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.6,
+      21.55,
+      18.8
+    ],
+    "essay_scoreT_avg": 18.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "055",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56120",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 490,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

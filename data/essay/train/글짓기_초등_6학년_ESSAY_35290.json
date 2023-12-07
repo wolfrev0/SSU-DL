@@ -1,0 +1,453 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "어느날 난 어찌어찌하여 말미잘로 환생하였다.#@문장구분# 아무것도 안하고 싶었기에 아주 좋은 생물로 태어났다.#@문장구분# 어느날 게 한마리가 멍청하게 다가온다 순식간에 나갔채어 맛있게 먹는다.#@문장구분# 몇일 굶어서 그런지 매우 맛있다. 바닷물이라서 소금간이 매우 잘되어 있었다. #@문장구분#어느날 지나가던 멍청한 게나 잡아먹으며 지내다가 물고기 한마리가 찾아왔다.#@문장구분# 이상한 노랑색 문의가 칠해져있는 물고기가 말을걸었다.#@문장구분# \"여기서 살아도 됩니까?\" 순간 너무당황스러워서 다시 물었다.#@문장구분# 여기서 살겠다고 했다. #@문장구분#친구한테 물어보니 지도 월세받으면서 계네 지켜준다 해서 결국 받아주었다.#@문장구분# (월세:밥) 1달이 지났다. #@문장구분#꾀 살만하다. #@문장구분#물고기 들이 밥을 주니까 편하고 별로 신경쓸것도 없고 편하다.#@문장구분# 불편 한점이 아빠물고기가 코를 겁나곤다.#@문장구분# 기포때문에 밤에 잘때 신경쓰인다.#@문장구분# 특히 눈을 뜨고 자서 잘려고하면 시선이 나쪽으로 고정되어 부담스러워 잘수가 없다.#@문장구분# 어느날 희동가리들과 수다나 떨던중 엄청큰 생물이 나와 흰동가리들을 잡아갔다.#@문장구분# 정신이 들었을 때는 드넓은 바다가 아닌 어떤 거대한 생물이 물이 없는곳에서 어딘가에 안착하여 무언갈 보고있다.#@문장구분# 그들은 이상한 괴성을 내며 이상한 표정을 짓는다.#@문장구분# 거기서 원레있던 물고기들과 대화를하며 이곳에 대헤 알아갔다.#@문장구분# 이곳은 희동가리가 주는 것만큼 싱싱하진 않지만 맛있는 밥을 꾸준희 주었다.#@문장구분# 어느날 이상한것에서 나오는 물줄기에 쓸리며 아무생각없이 나풀거리던중 갑기 어떤 물고기가 요기로 들어왔다.#@문장구분# 근데 자세히보니 나오 같은 말미잘이 들어왔다.#@문장구분# 그들은 우리와 같은 처지이기에 빠르게 친해졌고 이웃집사이가 되어 기분좋게 지내고 있다.#@문장구분#",
+      "paragraph_len": 1248,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      23.2,
+      18.15
+    ],
+    "essay_scoreT_avg": 21.066668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 아무것도 안 하고 싶었기에 아주 좋은 생물로 태어났다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무것도 <문법_맞춤법>안하고</문법_맞춤법> 싶었기에 아주 좋은 생물로 태어났다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 날 게 한 마리가 멍청하게 다가온다. 순식간에 낚아채어 맛있게 먹는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느날 게 한마리가 멍청하게 다가온다 순식간에 나갔채어 맛있게 먹는다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 며칠 굶어서 그런지 매우 맛있다. 바닷물이라서 소금 간이 매우 잘 되어있었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>몇일</문법_맞춤법> 굶어서 그런지 매우 맛있다. 바닷물이라서 소금간이 매우 잘되어 있었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어느 날 지나가던 멍청한 게나 잡아먹으며 지내다가 물고기 한마리가 찾아왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>어느날</문법_맞춤법> 지나가던 멍청한 게나 잡아먹으며 지내다가 물고기 한마리가 찾아왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이상한 노랑색 무늬가 칠해져 있는 물고기가 말을 걸었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이상한 노랑색 <문법_맞춤법>문의가 칠해져있는 물고기가 말을걸었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"여기서 살아도 됩니까?\" 순간 너무 당황스러워서 다시 물었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"여기서 살아도 됩니까?\" 순간 <문법_맞춤법>너무당황스러워서</문법_맞춤법> 다시 물었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "친구한테 물어보니 지도 월세 받으면서 걔네 지켜준다 해서 결국 받아주었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "친구한테 물어보니 지도 <문법_맞춤법>월세받으면서 계네</문법_맞춤법> 지켜준다 해서 결국 받아주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "꽤 살만하다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>꾀 살만하다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>물고기 들이 밥을 주니까 편하고 별로 신경쓸것도 없고 편하다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "물고기들이 밥도 주고 신경 쓸 것도 별로 없어서 편하다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 불편한 점이 아빠 물고기가 코를 겁나 곤다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>불편 한점이 아빠물고기가 코를 겁나곤다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기포 때문에 밤에 잘 때 신경 쓰인다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>기포때문에 밤에 잘때 신경쓰인다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 눈을 뜨고 자서 자려고 하면 시선이 내 쪽으로 고정되어 부담스러워서 잘 수가 없다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 특히 눈을 뜨고 자서 <문법_맞춤법>잘려고하면 시선이 나쪽으로 고정되어 부담스러워 잘수가 없다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 날 흰동가리들과 수다나 떨던 중 엄청 큰 생물이 나와 흰동가리들을 잡아갔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느날 희동가리들과 수다나 떨던중 엄청큰</문법_맞춤법> 생물이 나와 흰동가리들을 잡아갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정신이 들었을 때는 드넓은 바다가 아닌 어떤 거대한 생물이 물이 없는 곳에서 어딘가에 안착하여 무언갈 보고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정신이 들었을 때는 드넓은 바다가 아닌 어떤 거대한 생물이 물이 <문법_맞춤법>없는곳에서</문법_맞춤법> 어딘가에 안착하여 무언갈 보고있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기서 원래 있던 물고기들과 대화를 하며 이곳에 대해 알아갔다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 거기서 <문법_맞춤법>원레있던 물고기들과 대화를하며 이곳에 대헤</문법_맞춤법> 알아갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이곳은 흰동가리가 주는 것만큼 싱싱하진 않지만 맛있는 밥을 꾸준히 주었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이곳은 <문법_맞춤법>희동가리가</문법_맞춤법> 주는 것만큼 싱싱하진 않지만 맛있는 밥을 꾸준희 주었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느날 이상한 것에서 나오는 물줄기에 쓸리며 아무 생각 없이 나풀거리던 중 갑자기 어떤 물고기가 요기로 들어왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어느날 <문법_맞춤법>이상한것에서</문법_맞춤법> 나오는 물줄기에 쓸리며 아무생각없이 나풀거리던중 갑기 어떤 물고기가 요기로 들어왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 자세히 보니 나와 같은 말미잘이 들어왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 <문법_맞춤법>자세히보니</문법_맞춤법> 나오 같은 말미잘이 들어왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그들은 우리와 같은 처지이기에 빠르게 친해졌고 이웃집 사이가 되어 기분 좋게 지내고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그들은 우리와 같은 처지이기에 빠르게 친해졌고 <문법_맞춤법>이웃집사이가 되어 기분좋게</문법_맞춤법> 지내고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35290",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 788,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

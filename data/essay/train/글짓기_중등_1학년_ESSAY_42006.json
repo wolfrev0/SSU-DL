@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "3021년의 인간은 기계에 지배당하는 게 아니라 기계를 만들어낸 인간한테 지배되는 것이다.#@문장구분#\n기계를 생산할 돈과 기술이 있는 부자가 서민들을 지배하는 것이다.#@문장구분#\n쇠로된 거대 상자에 톱날 여러 개가 달린 슈퍼울트라마제스티킹갓엠퍼러같은 괴물기계가 사람들을 지배할 수도 있고, 만약 운석이나 기후변화로 죄다 죽을 수도 있다.#@문장구분#\n아니면 기계를 잘 다뤄서 평화롭게 살가능성도 있지만, 이건 자연을 너무 파괴하는 식이어서 유지는 안 될 것 같다.#@문장구분# \n미래도시에 제일 기대되는건 메카다.#@문장구분#\n메카에 타서 99명 3팀전으로 싸워서 1등하고싶다.#@문장구분# 기왕 메카에 타는거 검은색과 붉은색이 섞인 어깨에 용 2마리가 있는 변신형 메카를 타보고싶다.#@문장구분#",
+      "paragraph_len": 483,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.5,
+      21.75,
+      25.6
+    ],
+    "essay_scoreT_avg": 23.283333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.23",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n쇠로 된 거대 상자에 톱날 여러 개가 달린 슈퍼 울트라 마제스티 킹 갓 엠퍼러 같은 괴물 기계가 사람들을 지배할 수도 있고, 만약 운석이나 기후변화로 죄다 죽을 수도 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n<문법_맞춤법>쇠로된</문법_맞춤법> 거대 상자에 톱날 여러 개가 달린 슈퍼울트라마제스티킹갓엠퍼러같은 괴물기계가 사람들을 지배할 수도 있고, 만약 운석이나 기후변화로 죄다 죽을 수도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n아니면 기계를 잘 다뤄서 평화롭게 살 가능성도 있지만, 이건 자연을 너무 파괴하는 식이어서 유지는 안 될 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n아니면 기계를 잘 다뤄서 평화롭게 <문법_맞춤법>살가능성도 </문법_맞춤법>있지만, 이건 자연을 너무 파괴하는 식이어서 유지는 안 될 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n미래도시에 제일 기대되는 건 메카다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \n미래도시에 제일 <문법_맞춤법>기대되는건</문법_맞춤법> 메카다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n메카에 타서 99명 3팀전으로 싸워서 1등 하고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n메카에 타서 99명 3팀전으로 싸워서 <문법_맞춤법>1등하고싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기왕 메카에 타는 거 검은색과 붉은색이 섞인 어깨에 용 2마리가 있는 변신형 메카를 타보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기왕 메카에 <문법_맞춤법>타는거</문법_맞춤법> 검은색과 붉은색이 섞인 어깨에 용 2마리가 있는 변신형 메카를 타보고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_42006",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 343,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

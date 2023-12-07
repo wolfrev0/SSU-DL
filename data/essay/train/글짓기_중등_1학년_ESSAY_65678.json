@@ -1,0 +1,247 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 제가 생각하는 미래 도시의 이름을 'K-POP World' 라고 짓고 싶어요.#@문장구분# 저는 K-POP을 아주 좋아하거든요.#@문장구분# 그중에서도 방탄소년단의 팬인 아미이기도 하고요.#@문장구분# 저는 우리나라의 팝 음악인 K-POP을 좋아하는 사람들이 사는 도시를 만들고싶어요.#@문장구분#",
+      "paragraph_len": 221,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 그럼 제가 생각하는 K-POP 팬들을 위한 도시에는 무엇이 있을까요?#@문장구분# 저는 일단 아티스트들이 공연을 할 수 있는 무대와 콘서트장이 있었으면 좋겠어요.#@문장구분# 새로 생긴 무대 장치가 있는 최첨단 콘서트장이면 더 좋고요.#@문장구분#",
+      "paragraph_len": 178,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 그 다음으로 한 아티스트를 좋아하는 여러명의 사람들이 모여 살 수 있는 아파트 단지나 주택가가 있으면 좋겠어요.#@문장구분# 아파트 게시판에 좋아하는 아티스트의 일정과 기념일을 공유하면 편리할 것 같아요.#@문장구분#",
+      "paragraph_len": 148,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 다음으로는 요즘에도 실행되고 있지만 생일카페가 더 많아졌으면 좋겠어요.#@문장구분# 그렇게 된다면 어느 팬덤이 더 가까이 있냐에 따라 카페에 오는 사람의 수, 버는 돈의 액수가 차이가 나지 않을까요?#@문장구분#\n 물론 지금까지 말한 것들을 실현하기에는 어려움이 있을 수도 있습니다.#@문장구분# 뭐...진짜 실현될 일은 없겠죠...#@문장구분#그래도 원하니까 한번 써봤습니다.#@문장구분#",
+      "paragraph_len": 284,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27.15,
+      27.1
+    ],
+    "essay_scoreT_avg": 28.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65678",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 557,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

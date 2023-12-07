@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시의 범위는 미래에 더 확대될 것입니다.#@문장구분# 위의 제시문에서 말한 미래도시는 이미 생긴지 오래입니다.#@문장구분# 이제는 우주로 이민을 갈 수 있다는 선택지도 생기게되었습니다.#@문장구분# 우선 우주선이 발명되었는데, 일단 우주로 나가기만 한다면 우주 내에서는 얼마나 멀리 떨어져 있는 행성이더라도 워프를 통해 순식간에 이동할 수 있습니다. #@문장구분#그렇게 행성 곳곳마다 도시가 생기게 되었고 사람들은 자유롭게 이민을 갈 수 있게 되었습니다.#@문장구분# 그럼에 따라 우주 모험가가 새로운 직업으로 생겨났습니다.#@문장구분# 우주 여러곳곳을 자유롭게 다닐 수 있게 됨에 따라 우주 곳곳을 여행다니는 사람들이 생겨났기 때문입니다. #@문장구분#그러나 우주는 아직 미개척지이기때문에 여행가보다는 모험가라는 칭호가 붙는 것입니다.#@문장구분# 미래에는 미래도시가 지구 내에서가 아닌 태양계에서, 태양계에서만이 아닌 더 넓은 우주로 미지의 우주로 확대될 것입니다.#@문장구분#",
+      "paragraph_len": 613,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      25.6,
+      26.4
+    ],
+    "essay_scoreT_avg": 26.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71555",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 434,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

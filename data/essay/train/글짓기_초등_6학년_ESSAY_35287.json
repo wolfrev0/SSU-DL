@@ -1,0 +1,488 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 바다생물 중 되고 싶은것은 바로 오징어이다.#@문장구분# 왜냐하면 나를 놀리는 사람한테 검은 먹물을 얼굴에 뿜어버리고 싶다. #@문장구분#그러면 복수를 할 수있지 않을까하는 생각이든다.#@문장구분# 그리고 다리가 많아서 생활하는데 뭔가 편할것같다.#@문장구분# 바다속에서 무슨 일 들이 있을때, 또는 바쁠때 빠르게 해결을 할수있을것 같다. #@문장구분#만약 내가 오징어가 된다면 ?#@문장구분# 어느날 나는 눈을 뜨니 어느덫 내눈앞에 환한 빛이 나를 보고있었다.#@문장구분# 일어났는데 몸은 매끌매끌하고 끈적하니 매우 불편할뿐이었다. #@문장구분#거울을 보니 '내가 오징어?' 일어나보니 나는 오징어가 된것이었다.#@문장구분# 내가 전학간 학교는 오징징학교이다. #@문장구분#이학교는 급식부터 친구들 선생님까지 모두 오징어부터로 되어있다.#@문장구분# 월요일엔 오징어볶음, 화요일은 오징어국, 수요일은 오징어튀김, 목요일엔 삶은 오징어와 금요일엔 구운오징어이다.#@문장구분# 이런학교에 처음 온 나는 적응하기는 힘들었지만 그래도 재밌는 친구들이 많아서 적응을 할수있었다.#@문장구분# 이제 나는 어른이 되고 세상밖에 나와서 일을 하기 시작했다.#@문장구분# 20살이 되고 바닷속에서 새로운 집을사고 바닷속에 각종 자그만한 물고기들을 먹고 살며 살기 시작했다. #@문장구분#그러다가 옆동네 문어물리와 오징어 무리에서 싸움이 났다.#@문장구분# 문어무리가 오징어 무리를 공격하기 시작했다. #@문장구분#\"말라비뚤어져서 바다생활을 잘 할 수는 있겠니? #@문장구분#너가 우리 문어애들한테 위협했니?!\" #@문장구분#오징어도 만만치 않았다.#@문장구분# \"그렇게 통통해서 잘 움직일수는 있니? #@문장구분#우리는 날렵하지만 너흰 움직이기도 버겁다며 오징어와 나는 시컴한 먹물을 뿜어냈다. #@문장구분#그리곤 문어들이 위로 떠올라가며 사라졌다#@문장구분#. 인간들이 배에서 고기를 잡다가 문어를 잡아버린것이었다.#@문장구분# 그 이후로 모든 바다생물들은 밖에 나가지 못했고 오징어 19가 바다에서도 터지기 시작했고 간만에 밖에나간 생물들은 대부분 감염이 되어 사망을 하기 시작했고 바다용 마스크를 쓰고 다니면서 대학생활을 시작했다.#@문장구분# 한참 생활을 하고 집밖으로 나가는데 아주 맛있는 냄새가 나서 계속 따라갔는데 먹을것이 있어서 암! 하고 물었는데 어떤 줄이 나를 잡아당기기 시작했다. #@문장구분#안간힘을 써도 그힘은 도저히 이길수없는 힘이였고 세상위로 올라온 나는 인간들에게 잡히고 결국 생을 마감하고 말아버렸다.#@문장구분#",
+      "paragraph_len": 1602,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      21.6,
+      23.85
+    ],
+    "essay_scoreT_avg": 22.433334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.01",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 바다 생물 중 되고 싶은 것은 바로 오징어이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 <문법_맞춤법>바다생물 중 되고 싶은것은</문법_맞춤법> 바로 오징어이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러면 복수를 할 수 있지 않을까 하는 생각이 든다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러면 복수를 할 수있지 <문법_맞춤법>않을까하는 생각이든다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다리가 많아서 생활하는데 뭔가 편할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 다리가 많아서 생활하는데 뭔가 <문법_맞춤법>편할것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바닷속에서 무슨 일들이 있을 때, 또는 바쁠 때 빠르게 해결을 할 수 있을 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>바다속에서</문법_맞춤법> 무슨 일 들이 있을때, 또는 바쁠때 빠르게 해결을 할수있을것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_맞춤법><스타일링_담화 맥락 오류>어느날 나는 눈을 뜨니 어느덫 내눈앞에 환한 빛이 나를 보고있었다.</스타일링_담화 맥락 오류></스타일링_맞춤법>",
+      "sentence_corr_txt_styling": " 어느 날 눈을 뜨니 내 눈앞에 환한 빛이 나를 보고 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일어났는데 몸은 매끌매끌하고 끈적하니 매우 불편할 뿐이었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일어났는데 몸은 매끌매끌하고 끈적하니 매우 <문법_맞춤법>불편할뿐이었다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "거울을 보니 '내가 오징어?' 일어나 보니 나는 오징어가 된 것이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "거울을 보니 '내가 오징어?' <문법_맞춤법>일어나보니 나는 오징어가 된것이었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 월요일엔 오징어볶음, 화요일은 오징어국, 수요일은 오징어튀김, 목요일엔 삶은 오징어와 금요일엔 구운 오징어이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 월요일엔 오징어볶음, 화요일은 오징어국, 수요일은 오징어튀김, 목요일엔 삶은 오징어와 금요일엔 <문법_맞춤법>구운오징어이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 학교에 처음 온 나는 적응하기는 힘들었지만 그래도 재밌는 친구들이 많아서 적응을 할 수 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이런학교에</문법_맞춤법> 처음 온 나는 적응하기는 힘들었지만 그래도 재밌는 친구들이 많아서 적응을 할수있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제 나는 어른이 되고 세상 밖에 나와서 일을 하기 시작했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이제 나는 어른이 되고 <문법_맞춤법>세상밖에</문법_맞춤법> 나와서 일을 하기 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 20살이 되고 바닷속에서 새로운 집을 사고 바닷속에 각종 자그만한 물고기들을 먹고 살며 살기 시작했다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 20살이 되고 바닷속에서 새로운 <문법_맞춤법>집을사고</문법_맞춤법> 바닷속에 각종 자그만한 물고기들을 먹고 살며 살기 시작했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러다가 옆 동네 문어 무리와 오징어 무리에서 싸움이 났다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러다가 <문법_맞춤법>옆동네 문어물리와</문법_맞춤법> 오징어 무리에서 싸움이 났다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 문어 무리가 오징어 무리를 공격하기 시작했다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>문어무리가</문법_맞춤법> 오징어 무리를 공격하기 시작했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"말라비틀어져서 바다 생활을 잘 할 수는 있겠니? ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"말라비뚤어져서 바다생활을 잘 할 수는 있겠니? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "너가 우리 문어 애들한테 위협했니?!\" ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "너가 우리 <문법_맞춤법>문어애들한테</문법_맞춤법> 위협했니?!\" ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"그렇게 통통해서 잘 움직일 수는 있니? ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " \"그렇게 통통해서 잘 <문법_맞춤법>움직일수는</문법_맞춤법> 있니? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "우리는 날렵하지만 너흰 움직이기도 버겁다며 오징어와 나는 시커먼 먹물을 뿜어냈다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리는 날렵하지만 너흰 움직이기도 버겁다며 오징어와 나는 <문법_맞춤법>시컴한</문법_맞춤법> 먹물을 뿜어냈다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ". 인간들이 배에서 고기를 잡다가 문어를 잡아버린 것이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": ". 인간들이 배에서 고기를 잡다가 문어를 <문법_맞춤법>잡아버린것이었다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이후로 모든 바다생물들은 밖에 나가지 못했고 오징어 19가 바다에서도 터지기 시작했고 간만에 밖에 나간 생물들은 대부분 감염이 되어 사망을 하기 시작했고 바다용 마스크를 쓰고 다니면서 대학 생활을 시작했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 이후로 모든 바다생물들은 밖에 나가지 못했고 오징어 19가 바다에서도 터지기 시작했고 간만에 <문법_맞춤법>밖에나간</문법_맞춤법> 생물들은 대부분 감염이 되어 사망을 하기 시작했고 바다용 마스크를 쓰고 다니면서 대학생활을 시작했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한참 생활을 하고 집밖으로 나가는데 아주 맛있는 냄새가 나서 계속 따라갔는데 먹을 것이 있어서 암! 하고 물었는데 어떤 줄이 나를 잡아당기기 시작했다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0026",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한참 생활을 하고 집밖으로 나가는데 아주 맛있는 냄새가 나서 계속 따라갔는데 <문법_맞춤법>먹을것이</문법_맞춤법> 있어서 암! 하고 물었는데 어떤 줄이 나를 잡아당기기 시작했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "안간힘을 써도 그 힘은 도저히 이길 수 없는 힘이었고 세상 위로 올라온 나는 인간들에게 잡히고 결국 생을 마감하고 말아버렸다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "안간힘을 써도 <문법_맞춤법>그힘은 도저히 이길수없는 힘이였고</문법_맞춤법> 세상위로 올라온 나는 인간들에게 잡히고 결국 생을 마감하고 말아버렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35287",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 1062,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

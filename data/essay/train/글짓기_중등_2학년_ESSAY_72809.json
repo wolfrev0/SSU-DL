@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아주 어린 유치원 시절부터, 우리는 20년 뒤에 무얼 할 것인지 성인이 되면 무얼 할 것인지에 대한 질문을 받곤 했습니다. #@문장구분#더 나이가 들어서는 생애주기 그래프 라는 것을 그리는 수업도 받았습니다. #@문장구분#20년 뒤에 저는 무엇을 하고 있을까요? #@문장구분#아직 고등학교도 가지 않은 저로서는 세상이 얼마나 넓은지 무엇이 하고 싶은 것인지 잘 모릅니다. #@문장구분#유치원에서 초등학교로 초등학교에서 중학교에서 올라갈떄마다 우리의 시야가 더 커지고 새로운 관심사가 생겨나듯이 앞으로 고등학교에 가고 성인이 되면 우리는 우리가 전혀 생각하지도 못했던 것들을 접하고 만나게 되고 , 그런 것들 사이에서 새로운 관심사와 흥미를 찾게 나가게 될 것입니다.#@문장구분# ",
+      "paragraph_len": 445,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 그러나 막연하게 30년 뒤에 제 모습을 그려보자면 저는 국제구호단체 활동가가 되어 있을 것 같습니다. #@문장구분#외국의 구호자원을 현지에 있는 빈곤 어린이들과 가족에게 전달하는 것부터 시작하여 , 소외된 마을을 어떻게 발전시키고 그곳 학생들의 교육수준을 향상시키는 일을 할 것입니다.#@문장구분# 이러한 활동을 위해서는 국제공용어인 영어를 비롯하여 아프리카 지역에서 주로 사용하는 프랑스어를 자유롭게 구사할 수 잇는 능력은 당연히 갖추어야 하고, 나아가 현지 주민들과 그들의 문화속에서 대화할 수 있는 커뮤니케이션 능력을 배양할 것입니다. #@문장구분#또, 도시계획이나 정책학등 마을과 소도시를 개발하고 더 수준높은 삶을 누릴 수도 있도록 돕는 학문을 공부할 것입니다.",
+      "paragraph_len": 415,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      27.11111,
+      23.555555
+    ],
+    "essay_scoreT_avg": 25.555555,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_72809",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 702,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

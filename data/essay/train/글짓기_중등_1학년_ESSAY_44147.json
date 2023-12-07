@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래도시는 물론 인공지능 로봇도 있겠지만 환경이 오염될수도 있기에 나는 그것보다 자연환경을 더발전을 시켜 동물들과 사람들이 함께 살기를 좀더 원한다.#@문장구분# 내가 생각하는 자연환경 발전은 남극이나 북극에 부족한 얼음을 더 채우고 얼음이 녹지않게 막는 시스템이 발전하면 좋겠다.#@문장구분# 그리고 바다에 사는 물고기들은 환경에 맞게 물의 온도를 유지하고 바다가 맑았으면 좋겠다.#@문장구분# 육지에서 사는 동물은 나무가 풍성하고 사람들과 같이 살수있게 투명관을 설치하여 인간과 같이 놀수 있음 좋겠다.#@문장구분# 그리고 동물들이 하는 말을 번역할수 있는 번역기 를 만들면 좋겠다.#@문장구분# 내가 설명한 미래모습의 이름은 인간과 동물의 관계이다.#@문장구분#",
+      "paragraph_len": 459,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.1,
+      19.75
+    ],
+    "essay_scoreT_avg": 23.949999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래도시는 물론 인공지능 로봇도 있겠지만 환경이 오염될 수도 있기에 나는 그것보다 자연환경을 더 발전을 시켜 동물들과 사람들이 함께 살기를 좀 더 원한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 미래도시는 물론 인공지능 로봇도 있겠지만 환경이 <문법_맞춤법>오염될수도 있기에 나는 그것보다 자연환경을 더발전을 시켜 동물들과 사람들이 함께 살기를 좀더</문법_맞춤법> 원한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각하는 자연환경 발전은 남극이나 북극에 부족한 얼음을 더 채우고 얼음이 녹지 않게 막는 시스템이 발전하면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 생각하는 자연환경 발전은 남극이나 북극에 부족한 얼음을 더 채우고 얼음이 <문법_맞춤법>녹지않게</문법_맞춤법> 막는 시스템이 발전하면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 육지에서 사는 동물은 나무가 풍성하고 사람들과 같이 살 수 있게 투명 관을 설치하여 인간과 같이 놀 수 있으면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 육지에서 사는 동물은 나무가 풍성하고 사람들과 같이 <문법_맞춤법>살수있게 투명관을 설치하여 인간과 같이 놀수 있음 좋겠다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 동물들이 하는 말을 번역할 수 있는 번역기를 만들면 좋겠다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 동물들이 하는 말을 <문법_맞춤법>번역할수 있는 번역기 를</문법_맞춤법> 만들면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 설명한 미래 모습의 이름은 인간과 동물의 관계이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 설명한 <문법_맞춤법>미래모습의</문법_맞춤법> 이름은 인간과 동물의 관계이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_44147",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 340,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

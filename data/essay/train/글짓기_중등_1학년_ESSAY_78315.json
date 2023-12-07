@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시에서는 다양한 외계인들과의 만남이 자주 있을 것같다.#@문장구분# 그래서 도시 이름을 아예 UFO라고 지을 것이다.#@문장구분# 하늘을 나는 자동차는 물론이고 바닷속에 도로를 만들어 물고기 들이 옆에서 드라이브를 할 수도있고 불로장생약이 개발되어 몇몇부자들은 먹고 평생 죽을 걱정 없이 살지않을까 기대한다.#@문장구분# 그리고 기술이 발전해서 외계인들과도 소통 가능한 세상이 될것같다.#@문장구분# 지금 우리가 지구에서 다른 나라들과 무역을하고 교류를 하듯이 미래에는 외계인들과 무역을 하고 교류를 해 나갈 것같다.#@문장구분# 그리고 다른 행성을 자유롭게 다니면서 자연스레 외계인과도 같이 게임도 하고 운동도 하면서 친해질 것 같다.#@문장구분# 나는 평소에 유에프오에 대해서 관심이 많았고 외계인이 분명히 존재할것이라고 생각했는데 미래에는 외계인들과 우주의 정보들을 주고 받으면서 더욱 기술을 발전시킬 수 있을것 같은 희망을 가진다.#@문장구분# 외계인은 인간보다 더 발전된 기술을 가지고 있을 것 같다.#@문장구분#",
+      "paragraph_len": 623,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          1
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      23.85,
+      10
+    ],
+    "essay_scoreT_avg": 18.300001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_78315",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 464,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

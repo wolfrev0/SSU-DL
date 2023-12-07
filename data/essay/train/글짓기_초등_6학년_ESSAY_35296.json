@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "한 해변, 작은 알 무더기에서 작은 바다거북 한 마리가 부화했습니다.#@문장구분# 뒤따라 그의 가족들도 알에서 부화했습니다. #@문장구분#그들의 목표는 단 하나, 바다까지 무사히 입수하는 것입니다.#@문장구분# 그러나 과정이 만만치 않습니다.#@문장구분# 해변에는 그들의 무시무시한 천적인 갈매기와 게가 입맛을 다시며 기다리고 있거든요. #@문장구분#먼저 하늘에서 갈매기가 아기거북 한 마리를 낚아채갑니다.#@문장구분# 해변 모래사장에서는 게들이 집게로 아기거북을 집어서 자신의 입속으로 넣어버립니다.#@문장구분# 가족 아기거북들이 처참이 죽어나가도, 아이 바다거북들은 바다에 도달할 때 까지 직진합나다. #@문장구분#그들은 꼭 살아남아야 했습니다.#@문장구분# 드디어 바닷속에 입수한 아기거북들, 아기거북들은 이제 행복 힐링 라이프가 기다리고 있는가 했지만, 어림없는 소리. 바닷속에는 무시무시한 천적들이 기다리고 있습니다.#@문장구분# 하지만 지금의 아이거북들은 육지의 아이거북들이 아닙니다.#@문장구분# 아이거북들은 빠른 속도로 헤엄쳐서 천적들의 공격을 최대한 피합니다.#@문장구분# 물론 그중에서도 잡아먹히는 몇몇도 있겠지만. 아기거북들은 점점 살아가는 법을 배우며 점점 자라갑니다.#@문장구분# 그렇게 3년이 지나고, 그 작고 작던 최약체 바다거북이 성체가 되었습니다. #@문장구분#이제 그 바다거북은 천적이 거의 없고, 짝짓기를 해 알을 낳으러 해변으로 헤엄칩니다. #@문장구분#이 바다거북이 알을 낳고, 모래를 덮고 오랜 시간이 흐르면 작은 바다거북 알에서, 또 다시 작디 작은 바다거북이 알에서 태어납니다.#@문장구분#",
+      "paragraph_len": 1010,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.35,
+      22.1,
+      18.25
+    ],
+    "essay_scoreT_avg": 21.9,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "먼저 하늘에서 갈매기가 아기 거북 한 마리를 낚아채갑니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "먼저 하늘에서 갈매기가 <문법_맞춤법>아기거북</문법_맞춤법> 한 마리를 낚아채갑니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해변 모래사장에서는 게들이 집게로 아기 거북을 집어서 자신의 입속으로 넣어버립니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 해변 모래사장에서는 게들이 집게로 <문법_맞춤법>아기거북을</문법_맞춤법> 집어서 자신의 입속으로 넣어버립니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>가족 아기거북들이 처참이 죽어나가도, 아이 바다거북들은 바다에 도달할 때 까지 직진합나다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": " 그렇게 아기 거북들이 처참히 죽어나가도, 아기 바다거북들은 바다에 도달할 때까지 직진합니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 드디어 바닷속에 입수한 <스타일링_패러프레이징>아기거북들, 아기거북들은</스타일링_패러프레이징> 이제 행복 힐링 라이프가 기다리고 있는가 했지만, 어림없는 소리. 바닷속에는 무시무시한 천적들이 기다리고 있습니다.",
+      "sentence_corr_txt_styling": " 드디어 바닷속에 입수한 아기 거북들. 이제 행복 힐링 라이프가 기다리고 있는가 했지만, 어림없는 소리. 바닷속에는 무시무시한 천적들이 기다리고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 지금의 아기 거북들은 육지의 아기 거북들이 아닙니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 지금의 <문법_맞춤법>아이거북들은</문법_맞춤법> 육지의 아이거북들이 아닙니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아기 거북들은 빠른 속도로 헤엄쳐서 천적들의 공격을 최대한 피합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>아이거북들은</문법_맞춤법> 빠른 속도로 헤엄쳐서 천적들의 공격을 최대한 피합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 그중에서도 잡아먹히는 몇몇도 있겠지만. 아기 거북들은 점점 살아가는 법을 배우며 점점 자라갑니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 물론 그중에서도 잡아먹히는 몇몇도 있겠지만. <문법_맞춤법>아기거북들은</문법_맞춤법> 점점 살아가는 법을 배우며 점점 자라갑니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35296",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 691,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

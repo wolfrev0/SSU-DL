@@ -1,0 +1,183 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 언제든 원하는 음식을 먹을 수 있는 세상이 올 것이라 생각합니다.#@문장구분# 왜냐하면 음식은 사람에게 정말 중요한 것입니다.#@문장구분# 그리고 점점 그냥 사람이 전화를 해서 주문을 하고 배달이 오는 것이 지금은 배달앱도 있고 바로바로 배달을 받는 것까지 발전을 하게 되었습니다.#@문장구분#지금은 주변의 음식만 시킬 수 있는데 나중에는 분명 그때 그때 먹고싶은 음식을 먹을 수 있게 될 것입니다.#@문장구분# 배달도 위험한 오토바이 배달에서 진화해서 지금 상상 가능한 것은 드론으로 배달을 하는 것입니다.#@문장구분# 지금은 드론이 일반화가 되지 않아서 그렇지 드론을 이용하면 차도 안 막히고 배달이 가능할 것입니다.#@문장구분# 그리고 위험하게 배달을 하다가 오토바이 사고가 날 이유도 없고 로봇이 하는 것이니 더 안심이 될 것입니다.#@문장구분# 음식도 요즘은 무인 음식점이 많습니다.#@문장구분# 간단하게 음식을 만드는 키트가 많아져서 그런 것을 조리해서 주문받아 요리를 주는 그런 가게가 많아질 것이라 생각합니다.#@문장구분# 미래에는 맛없는 음식점이 없을 것이라고 생각합니다.#@문장구분# 이 도시는 맛나도시입니다.#@문장구분# 맛있는 음식을 집에서 바로 먹을 수 있기 때문입니다.#@문장구분#",
+      "paragraph_len": 778,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.15,
+      24,
+      21.3
+    ],
+    "essay_scoreT_avg": 22.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그리고 점점 그냥 사람이 전화를 해서 주문을 하고 배달이 오는 것이 지금은 배달앱도 있고 바로바로 배달을 받는 것까지 발전을 하게 되었습니다.",
+      "sentence_corr_txt_styling": " 그리고 점점 그냥 사람이 전화를 해서 주문을 하고 배달이 오는 것이 지금은 배달앱도 있고 바로바로 배달을 받는 것까지 발전을 하게 되었습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 간단하게 음식을 만드는 키트가 많아져서 그런 것을 조리해서 주문 받아 요리를 주는 그런 가게가 많아질 것이라 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 간단하게 음식을 만드는 키트가 많아져서 그런 것을 조리해서 <문법_맞춤법>주문받아</문법_맞춤법> 요리를 주는 그런 가게가 많아질 것이라 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_78461",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 540,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

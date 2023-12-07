@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래 도시는 알약 하나를 삼키면 수술을 할 수 있는 도시입니다.#@문장구분# 현재 사회에서 많이 연구 중인 부분인 의학 분야에서의 미래도시를 생각해봤습니다.#@문장구분# 지금은 수술을 하기 위해서는 칼이나 레이저로 피부의 일부를 절개하고 피를내가면서 수술을 해야합니다.#@문장구분# 흉터도 생기고 회복하는 데에 오랜 시간이 걸릴 수 밖에 없습니다.#@문장구분# 하지만 미래에는 그냥 조그마한 알약을 삼키면 알약이 녹으면서 알약 속에 있던 작은 미니 봇들이 몸 속을 돌아다니면서 수술해야 할 부위들을 수술해줄 것 같습니다.#@문장구분# 고통은 있겠지만 이건 마취를 하면 되는 부분이고 겉으로 보이는 흉터나 상처가 없고 회복이 빠르다는 점에서 엄청난 히트를 칠 것 같습니다.#@문장구분# 저도 수술을 해본 적이 있는데 피부를 절개한다는 게 너무 거부감 들고 무서웠어서 저 알약이 꼭 생겨나면 좋겠습니다.#@문장구분#",
+      "paragraph_len": 553,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.4,
+      18.4
+    ],
+    "essay_scoreT_avg": 23.6,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 현재 사회에서 많이 연구 중인 부분인 의학 분야에서의 미래도시를 생각해 봤습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 현재 사회에서 많이 연구 중인 부분인 의학 분야에서의 미래도시를 <문법_맞춤법>생각해봤습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금은 수술을 하기 위해서는 칼이나 레이저로 피부의 일부를 절개하고 피를내가면서 수술을 해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금은 수술을 하기 위해서는 칼이나 레이저로 피부의 일부를 절개하고 피를내가면서 수술을 <문법_맞춤법>해야합니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 흉터도 생기고 회복하는 데에 오랜 시간이 걸릴 수밖에 없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 흉터도 생기고 회복하는 데에 오랜 시간이 걸릴 <문법_맞춤법>수 밖에</문법_맞춤법> 없습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 미래에는 그냥 조그마한 알약을 삼키면 알약이 녹으면서 알약 속에 있던 작은 미니 봇들이 몸속을 돌아다니면서 수술해야 할 부위들을 수술해 줄 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 미래에는 그냥 조그마한 알약을 삼키면 알약이 녹으면서 알약 속에 있던 작은 미니 봇들이 <문법_맞춤법>몸 </문법_맞춤법>속을 돌아다니면서 수술해야 할 부위들을 수술해줄 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 수술을 해본 적이 있는데 피부를 절개한다는 게 너무 거부감 들고 무서워서 저 알약이 꼭 생겨나면 좋겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저도 수술을 해본 적이 있는데 피부를 절개한다는 게 너무 거부감 들고 <문법_맞춤법>무서웠어서 </문법_맞춤법>저 알약이 꼭 생겨나면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71253",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 414,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

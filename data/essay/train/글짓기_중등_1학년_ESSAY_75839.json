@@ -1,0 +1,242 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시의 이름은 사라져가는 지구입니다. #@문장구분#우리의 세상은 점점 살기 편해지고 있습니다.#@문장구분# 우리는 점점 더 편하게 살기를 원합니다.#@문장구분# 그러나 삶이 점점 편리 해질수록, 지구를 괴롭히는 환경오염이 심해지고 있습니다.#@문장구분#지금 우리 지구는 많은 동물과 식물들이 멸종위기에 처해있으며, 이미 멸종된 동물과 식물들이 많습니다.#@문장구분# 우리의 삶이 더 편해지고 발전될수록, 환경오염이 심해질것이고, 더 많은 동물들과 식물들이 사라지게 되는 자연이 살 수 없는 세상이 될 것입니다. #@문장구분#그럼 먹고 살게 없는 우리 인간마저도 사라지게 될 것입니다.#@문장구분# 그렇게 된다면 지구는 아무것도 살지않는 사라져가는 지구가 될것입니다.#@문장구분# 그래서 사라져가는 지구를 막기 위해 우리는 지속가능한 지구를 만들어가기 위해 노력해야한다고 생각합니다.#@문장구분#",
+      "paragraph_len": 571,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.1,
+      22.8,
+      19.2
+    ],
+    "essay_scoreT_avg": 22.033335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 미래도시의 이름은 '사라져가는 지구'입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "제가 생각하는 미래도시의 이름은 <문법_기타>사라져가는 지구입니다.</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "지금 우리 지구의 많은 동물과 식물들이 멸종 위기에 처해 있으며, 이미 멸종된 동물과 식물들도 많습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "지금 우리 <문법_조사>지구는</문법_조사> 많은 동물과 식물들이 <문법_맞춤법>멸종위기에</문법_맞춤법> 처해있으며, 이미 멸종된 동물과 식물들이 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리의 삶이 더 편해지고 발전될수록 환경오염이 심해질 것이고, 더 많은 동물들과 식물들이 사라지게 되어 자연이 살 수 없는 세상이 될 것입니다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 우리의 삶이 더 편해지고 <문법_기타>발전될수록,</문법_기타> 환경오염이 <문법_맞춤법>심해질것이고</문법_맞춤법>, 더 많은 동물들과 식물들이 사라지게 <문법_어미>되는</문법_어미> 자연이 살 수 없는 세상이 될 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럼 먹고 살 게 없는 우리 인간마저도 사라지게 될 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그럼 먹고 <문법_맞춤법>살게</문법_맞춤법> 없는 우리 인간마저도 사라지게 될 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 사라져 가는 지구를 막기 위해 우리는 지속가능한 지구를 만들어가기 위해 노력해야 한다고 생각합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>사라져가는</문법_맞춤법> 지구를 막기 위해 우리는 지속가능한 지구를 만들어가기 위해 노력해야한다고 생각합니다.",
+      "sentence_corr_txt_styling": " 그래서 사라져 가는 지구를 막기 위해 우리는 지속가능한 지구를 만들어가기 위해 노력해야 한다고 생각합니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75839",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 392,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

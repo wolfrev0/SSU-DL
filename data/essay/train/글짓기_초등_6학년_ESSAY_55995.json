@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 거북이를 좋아합니다. #@문장구분#보통 거북이는 땅에서도 움직이고 바다에서 해엄도 칩니다.#@문장구분# 저는 거북이를 땅에서 움직이는것만 봐서 그냥 느린 거북이로 봐왔습니다.#@문장구분# 그러다가 옛날에 있었던 만화중에서 닌자거북이라는 만화와 게임을 봤습니다. #@문장구분#거기서는 거북이가 기어다니는게 아니라 사람처럼 서서 다니고 뛰면서 날아다니기도 합니다. #@문장구분#진짜로 거북이가 닌자처럼 날아다니는걸 봤습니다.#@문장구분# 그래서 어쩌면 거북이가 땅에서 느리게 기어가는게 다가오는 적이 나타나면 닌자로 변신해서 악당들을 물리칠려고 평소에는 느림보처럼 위장을 하고 다니는 것이 아닐까하는 생각이 들었습니다. #@문장구분#그래서 저에게 반전의 매력을 보여준 거북이 특히 닌자거북이가 되보고 싶습니다",
+      "paragraph_len": 488,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      16.3,
+      16.6
+    ],
+    "essay_scoreT_avg": 19.633333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "보통 거북이는 땅에서도 움직이고 바다에서 헤엄도 칩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "보통 거북이는 땅에서도 움직이고 바다에서 <문법_맞춤법>해엄도</문법_맞춤법> 칩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 거북이를 땅에서 움직이는 것만 봐서 그냥 느린 거북이로 봐왔습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 거북이를 땅에서 <문법_맞춤법>움직이는것만</문법_맞춤법> 봐서 그냥 느린 거북이로 봐왔습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다가 옛날에 있었던 만화 중에서 닌자 거북이라는 만화와 게임을 봤습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러다가 옛날에 있었던 <문법_맞춤법>만화중에서</문법_맞춤법> 닌자거북이라는 만화와 게임을 봤습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "거기서는 거북이가 기어다니는 게 아니라 사람처럼 서서 다니고 뛰면서 날아다니기도 합니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "거기서는 거북이가 <문법_맞춤법>기어다니는게</문법_맞춤법> 아니라 사람처럼 서서 다니고 뛰면서 날아다니기도 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "진짜로 거북이가 닌자처럼 날아다니는 걸 봤습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "진짜로 거북이가 닌자처럼 <문법_맞춤법>날아다니는걸</문법_맞춤법> 봤습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 어쩌면 거북이가 땅에서 느리게 기어가는 게 다가오는 적이 나타나면 닌자로 변신해서 악당들을 물리치려고 평소에는 느림보처럼 위장을 하고 다니는 것이 아닐까하는 생각이 들었습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 어쩌면 거북이가 땅에서 느리게 <문법_맞춤법>기어가는게</문법_맞춤법> 다가오는 적이 나타나면 닌자로 변신해서 악당들을 물리칠려고 평소에는 느림보처럼 위장을 하고 다니는 것이 아닐까하는 생각이 들었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 저에게 반전의 매력을 보여준 거북이 특히 닌자 거북이가 돼보고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 저에게 반전의 매력을 보여준 거북이 특히 <문법_맞춤법>닌자거북이가 되보고 싶습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_55995",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 350,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

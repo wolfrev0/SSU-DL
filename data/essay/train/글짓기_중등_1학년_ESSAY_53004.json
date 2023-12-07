@@ -1,0 +1,318 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각한 미래도시의 이름은 아인슈타인#@문장구분# 왜냐하면 개인적으로 정말 좋아하는 과학자이기 떄문입니다.#@문장구분# 먼저 미래도시에는 차가 하늘로 날아다니고 지구온난화문제를 해결했거나 다른 행성에 있을 것같다.#@문장구분# 그 이유는 빠른 시일 내에 지구온난화에 대한 방안을 내놓지 않으면 정말 지구에서 살아가기는 어렵다고 생각한다.#@문장구분# 그리고 미래에도 제가 좋아하는 스포츠인 농구가 있고 그 농구를 인간이 아닌 로봇이 할 수 있을 정도의 기술까지 올라왔을 거라고 생각한다.#@문장구분# 하지만 외계인을 만날거라고는 생각하지 않는다.#@문장구분# 왜냐하면 개인적으로 외계인은 존재한다고 생각하지만 외계인은 있어도 몇천광년이 넘는 거리에 있을 것이고 인간이 아무리 빨라도 빛의 속도 근처도 못가기 때문에 외계인과의 교신 또는 교류는 거의 불가능할거라고 생각한다.#@문장구분# 만약 만날 수 있다면 태양계에 있어야 하는데 만약 태양계에 있다고 하면 가장 가능성이 높은 것은 목성의 어느 한 위성이라고 한다.#@문장구분# 제가 살아있을때 꼭 외계생명체를 구경하고싶네요.#@문장구분#",
+      "paragraph_len": 672,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.55,
+      22.9,
+      27.75
+    ],
+    "essay_scoreT_avg": 25.066666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각한 미래도시의 이름은 아인슈타인이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "높임법"
+      ],
+      "sentence_txt": "<문법_높임법>제가 </문법_높임법>생각한 미래도시의 이름은 <문법_어미>아인슈타인</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 개인적으로 정말 좋아하는 과학자이기 때문이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 왜냐하면 개인적으로 정말 좋아하는 과학자이기 <문법_맞춤법><문법_높임법>떄문입니다</문법_높임법></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 미래도시에는 차가 하늘에 날아다니고 지구온난화 문제를 해결했거나 다른 행성에 있을 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 먼저 미래도시에는 차가 하늘로 날아다니고 <문법_맞춤법>지구온난화문제를</문법_맞춤법> 해결했거나 다른 행성에 있을 것같다.",
+      "sentence_corr_txt_styling": " 먼저 미래도시에는 차가 하늘에 날아다니고 지구온난화 문제를 해결했거나 다른 행성에 있을 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그 이유는 빠른 시일 내에 지구온난화에 대한 방안을 내놓지 않으면 정말 지구에서 살아가기는 어렵다고 생각한다.",
+      "sentence_corr_txt_styling": " 그 이유는 빠른 시일 내에 지구온난화에 대한 방안을 내놓지 않으면 정말 지구에서 살아가기는 어렵다고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 미래에도 내가 좋아하는 스포츠인 농구가 있고 그 농구를 인간이 아닌 로봇이 할 수 있을 정도의 기술까지 올라왔을 거라고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "높임법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고 미래에도 <문법_높임법>제가 </문법_높임법>좋아하는 스포츠인 농구가 있고 그 농구를 인간이 아닌 로봇이 할 수 있을 정도의 기술까지 올라왔을 거라고 생각한다.",
+      "sentence_corr_txt_styling": " 그리고 미래에도 내가 좋아하는 스포츠인 농구가 있고 그 농구를 인간이 아닌 로봇이 할 수 있을 정도의 기술까지 올라왔을 거라고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 외계인을 만날 거라고는 생각하지 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 외계인을 <문법_맞춤법>만날거라고는 </문법_맞춤법>생각하지 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 개인적으로 외계인은 존재한다고 생각하지만 외계인은 있어도 몇천 광년이 넘는 거리에 있을 것이고 인간이 아무리 빨라도 빛의 속도 근처도 못 가기 때문에 외계인과의 교신 또는 교류는 거의 불가능할 거라고 생각한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 왜냐하면 개인적으로 외계인은 존재한다고 생각하지만 외계인은 있어도 <문법_맞춤법>몇천광년이 </문법_맞춤법>넘는 거리에 있을 것이고 인간이 아무리 빨라도 빛의 속도 근처도 못가기 때문에 외계인과의 교신 또는 교류는 거의 불가능할거라고 생각한다.",
+      "sentence_corr_txt_styling": " 왜냐하면 개인적으로 외계인은 존재한다고 생각하지만 외계인은 있어도 몇천 광년이 넘는 거리에 있을 것이고 인간이 아무리 빨라도 빛의 속도 근처도 못 가기 때문에 외계인과의 교신 또는 교류는 거의 불가능할 거라고 생각한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 만약 만날 수 있다면 태양계에 있어야 하는데 만약 태양계에 있다고 하면 가장 가능성이 높은 것은 목성의 어느 한 위성이라고 한다.",
+      "sentence_corr_txt_styling": " 만약 만날 수 있다면 태양계에 있어야 하는데 만약 태양계에 있다고 하면 가장 가능성이 높은 것은 목성의 어느 한 위성이라고 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 살아있을 때 꼭 외계 생명체를 구경하고 싶다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "높임법"
+      ],
+      "sentence_txt": " 제가 <문법_맞춤법>살아있을때 </문법_맞춤법>꼭 <문법_높임법>외계생명체를 구경하고싶네요.</문법_높임법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53004",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 493,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 바다생물 중에 문어가 되고 싶습니다.#@문장구분# 왜냐하면 문어는 똑똑해서 무척추동물 세계의 천재라고 불립니다.#@문장구분# 심지어 문어는 미로를 통과할수 있고 장난도 칠수있을 정도로 똑똑한 동물이라고 알려져 있습니다.#@문장구분# 또 문어의 특징은 팔기 8개로 길이가 모두 같으며 무척추 입니다.#@문장구분# 또 문어는 자신을 보호하기 위해 보호색과 먹물을 가지고 있습니다.#@문장구분# 다음으로 문어는 먹물을 먹물주머니 라는곳에 담아두었다가 천적이 나타나면 먹물을 쏩니다.#@문장구분# 먹물은 자신과 비슷한 형태로 쏜다고 합니다.#@문장구분# 그리고 먹물을 쏘더라도 생명에 지장이 없습니다#@문장구분#  또 먹물을 뿜지않는 유일한 문어는 앵수조개 입니다.#@문장구분# 그니고 문어가 뿜는 먹물의 색깔은 검은색입니다.#@문장구분# 왜냐하면 멜라닌이라는 색소가 들어있기 때문입니다.#@문장구분# 또 사람의 머리가 검은색인 이유도 멜라닌이 들어있기 때문입니다.#@문장구분# 또 문어의 표면에 미끄러운 액체가 묻어있는 이유는 몸을 보호하여 물과 마찰을 줄여 빠른 속도로 헤엄치도록 도와주는 것입니다#@문장구분# 또 문어의 먹이는 칠게등의 갑각류나 정어리, 고등어 같은 생선을 먹습니다.#@문장구분# 문어는 육식성으로 해조류는 전혀 먹지않습니다.#@문장구분# 여기까지 문어의 특징 이였습니다.#@문장구분#",
+      "paragraph_len": 882,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.9,
+      20,
+      24.65
+    ],
+    "essay_scoreT_avg": 24.183334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 심지어 문어는 미로를 통과할 수 있고 장난도 칠 수 있을 정도로 똑똑한 동물이라고 알려져 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 심지어 문어는 미로를 <문법_기타>통과할수 </문법_기타>있고 장난도 칠수있을 정도로 똑똑한 동물이라고 알려져 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 문어의 특징은 팔기 8개로 길이가 모두 같으며 무척추입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 또 문어의 특징은 팔기 8개로 길이가 모두 같으며 <문법_기타>무척추 입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다음으로 문어는 먹물을 먹물주머니 라는 곳에 담아두었다가 천적이 나타나면 먹물을 쏩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 다음으로 문어는 먹물을 먹물주머니 <문법_기타>라는곳에 </문법_기타>담아두었다가 천적이 나타나면 먹물을 쏩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  또 먹물을 뿜지 않는 유일한 문어는 앵무조개입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "  또 먹물을 <문법_기타>뿜지않는 </문법_기타>유일한 문어는 앵<문법_맞춤법>수조개 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 문어가 뿜는 먹물의 색깔은 검은색입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그니고 </문법_기타>문어가 뿜는 먹물의 색깔은 검은색입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 또 문어의 먹이는 <스타일링_담화 맥락 오류>칠게등의</스타일링_담화 맥락 오류> 갑각류나 정어리, 고등어 같은 생선을 먹습니다.",
+      "sentence_corr_txt_styling": " 또 문어의 먹이는   갑각류나 정어리, 고등어 같은 생선을 먹습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 문어는 육식성으로 해조류는 전혀 먹지 않습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 문어는 육식성으로 해조류는 전혀 <문법_기타>먹지않습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여기까지 문어의 특징이었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 여기까지 문어의 <문법_기타>특징 이였습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32784",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 563,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

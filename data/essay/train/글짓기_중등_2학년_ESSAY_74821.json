@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나의 꿈은 담탱이가 되는 것이다.#@문장구분#이렇게 이야기하면 참버릇없는 아이같지만 우리반친구들은 모두우리 담임선생님을 담탱이라고 부른다.#@문장구분#그렇지만 이것이 우리가 가장 사랑하는 선생님을 대하는 방법이다.#@문장구분#나뿐만 아니라 모든 애들이 우리 선생님을 가장존경한다.#@문장구분#그래서 나도 10년후에는 아이들을 가르치는 선생님이 되고 싶다.#@문장구분#우리선생님처럼 공부를 잘못하는 나이지만 요즘에는 선생님이 되려면 공부를 잘해야한다고 하기에 열심히 공부하는중이다.#@문장구분#20년후쯤 30년후쯤은 어느 조용한 시골마을에서 교장선생님이 돼서 얼마안되는 아이들이지만 그아이들의 꿈으로 남는 사람이 되고싶다.#@문장구분#공부잘하는 아이만 좋아하는 다른 선생님들에 비해서 우리 선생님은 정말 친구들하나하나를 모두다 잘알고 있고 그친구들이 진심으로 잘되길 바라는 마음이 나처럼 아무 존재감 없는 아이에게도 느껴진다.#@문장구분#그래서 선생님을 볼때마다 나도 그런선생님이 되고싶고 아이들에게 내가 너희들의 시작이되는 꿈이다.#@문장구분#언제든 힘이들면 나를 찾아와도 된다고 말하는 선생님이 되고싶다.",
+      "paragraph_len": 680,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.388889,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.61111,
+      26,
+      28.166668
+    ],
+    "essay_scoreT_avg": 25.925926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74821",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 501,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕? 나는 불가사리라고해. #@문장구분#스폰지밥에 나왔던 뚱이가 나를 표현한거지.#@문장구분#  불가사리는 해양 무척추동물이야.#@문장구분# 일반적으로 불가사리는 중앙에 있는 판 모양의 동체와 5개의 팔을 가지고 있지만, 일부 종은 수많은 팔을 가지고 있어.#@문장구분# 복부 또는 위 표피는 매끄럽거나, 과립형이거나, 가시가 있는 경우도 있으며, 여러 겹의 판으로 덮여 있어. #@문장구분#많은 종들이 다양한 색조의 밝은 적색이나 주황색을 띠는 반면, 일부 종은 청색, 회색 또는 갈색을 띠기도 해.#@문장구분# 불가사리는 유압 시스템으로 움직이는 관족과 구강 중앙 또는 아래 표면에 입을 가지고 있어 신기하지?. #@문장구분#이것들은 기회성 섭식을 하며, 대부분 해저 무척추동물의 포식자라고 불리어. #@문장구분#불가사리는 복잡한 수명 주기를 가지고 있으며, 유성생식과 무성생식 모두 가능하다. #@문장구분#대부분의 불가사리는 팔이 손상되거나 유실되면 이를 재생할 수 있으며, 방어 수단으로써 팔을 버리기도 하지 참 신기하지? 나 정말 멋지지?#@문장구분#",
+      "paragraph_len": 668,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.05,
+      22.65,
+      22.65
+    ],
+    "essay_scoreT_avg": 22.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_64256",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 469,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

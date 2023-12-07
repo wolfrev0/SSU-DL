@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다에는 정말 많은 생물들이 살고 있다.#@문장구분# 그래서 약 1주일만 바다생물이 되었다 생각하고 바다생물이 되어 바다로 탐험해 보겠다.#@문장구분# 난 거북이로 변신 했대.#@문장구분# 바다로 들어가 보니 정말 신세계였다.#@문장구분# 저기 옆에는 고래가 있었다.#@문장구분# 그래서 고래와 이야기도 하고 하다가 바다를 돌아다니던 중 코에 젓가락이 박힌 거북이를 보았다.#@문장구분# 그래서 빨리 코에 박힌 나무를 코에서 빼어서 도와주었다.#@문장구분# 그러고 거북이는 나에게 고맙다고 말하고 갔다.#@문장구분# 이렇게 바다에 쓰레기가 많다니 바다에 쓰레기가 있는건 알았지만 이렇게 많을 줄이라곤 상상도 하지 못했다.#@문장구분# 근데 생각 했던 것보다 많은 쓰레기들을 보고 나는 정말 놀라왔다.#@문장구분# 이렇게 많은 쓰레기들로 환경이 오염되고 있는 이 심각한 사태를 사람들은 알기나 할까?#@문장구분# 이 상황을 보고 난 이제 부디 환경을 지키기로 결심 했지만.. #@문장구분#나만 실천한다고 이 환경이 깨끗해지는 것은 아니다.#@문장구분# 그러니 우리가 다 같이 지구를 지키기 위해 다 같이 힘을 냅시다.#@문장구분#",
+      "paragraph_len": 757,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      28.15,
+      30
+    ],
+    "essay_scoreT_avg": 28.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_41254",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 479,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

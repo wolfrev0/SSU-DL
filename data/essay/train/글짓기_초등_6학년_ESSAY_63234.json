@@ -1,0 +1,232 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다에는 각기각종의 무수한 바다 생물들이 살고있다. #@문장구분#나는 그 중에서도 흔히 잘 알고 있는 돌고래를 선택해 소개를 해보려고 한다. #@문장구분#돌고래는 다른동물들과는 달리 인간과 친밀함을 많이가지고 있는 동물쪽에 속한다.#@문장구분#또 아이큐 순위도 동물 중에서 2위로 높은 순위를 가지고 있는 돌고래는 지능이 굉장히 높은 편에 속하고 있다. #@문장구분#인간의 아이큐는 110정도의 아이큐를 가지고 있는데 돌고래의 평균적인 아이큐는80~90까지 차지를 하고 있어서 인간과친밀하게 가까이 지낼 수 있다는 것도어떻게 생각하면 당연하다고 생각 할 수도 있을 것 같다는 생각이 든다.#@문장구분# 그 다음으로 돌고래의 특징 중 하나는인간과 같이 새끼를 낳는 포유류이다.#@문장구분#또한 무리를 지어서 생활을 하면서 우리가 높은 소리를 낼 때 돌고래 소리를 낸다는 것도 언어적인 표현으로도 쓸 정도로 돌고래 그들만의 언어인 초음파로 대화를 하며 소통을 하는 동물이다. #@문장구분#이러한 언어가 있는 이유는 아무래도 감정적인 의사소통을 하기 위함인데, 그만큼 본능적인 것 뿐만 아니라 다른 개체와의 소통을 할 만큼, 감정 공유가 될 만큼의 지능이 높다는것이 신기하기도 하다.#@문장구분# 위 내용과 같이 내가 바다 생물 중에 돌고래가 된다면 뛰어난 두뇌의 지능을 이용해 자유롭게 어디든 바다 속을 탐험하고 다닐 것 같다는 생각이 든다.",
+      "paragraph_len": 797,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      24.75,
+      25.75
+    ],
+    "essay_scoreT_avg": 26.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다에는 가지각색의무수한 바다 생물들이 살고 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다에는 <문법_맞춤법>각기각종의 </문법_맞춤법>무수한 바다 생물들이 살고있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 그중에서도 흔히 잘 알고 있는 돌고래를 선택해 소개를 해보려고 한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>그 중에서도 </문법_맞춤법>흔히 잘 알고 있는 돌고래를 선택해 소개를 해보려고 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "돌고래는 다른 동물들과는 달리 인간과 친밀함을 많이 가지고 있는 동물 쪽에 속한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "돌고래는 <문법_맞춤법>다른동물들과는 </문법_맞춤법>달리 인간과 친밀함을 많이가지고 있는 동물쪽에 속한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "인간의 아이큐는 110정도의 아이큐를 가지고 있는데 돌고래의 평균적인 아이큐는 80~90까지 차지를 하고 있어서 인간과 친밀하게 가까이 지낼 수 있다는 것도 어떻게 생각하면 당연하다고 생각할 수도 있을 것 같다는 생각이 든다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "인간의 아이큐는 110정도의 아이큐를 가지고 있는데 돌고래의 평균적인 <문법_맞춤법>아이큐는80~90까지 </문법_맞춤법>차지를 하고 있어서 인간과친밀하게 가까이 지낼 수 있다는 것도어떻게 생각하면 당연하다고 생각 할 수도 있을 것 같다는 생각이 든다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 다음으로 돌고래의 특징 중 하나는 인간과 같이 새끼를 낳는 포유류이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그 다음으로 돌고래의 특징 중 <문법_맞춤법>하나는인간과 </문법_맞춤법>같이 새끼를 낳는 포유류이다.",
+      "sentence_corr_txt_styling": " 그 다음으로 돌고래의 특징 중 하나는 인간과 같이 새끼를 낳는 포유류이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63234",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 638,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

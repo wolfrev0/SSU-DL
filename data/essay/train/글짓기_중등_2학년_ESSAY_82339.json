@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금의 사회에서는 본인의 재능을 발휘하여서 그것을 직업에 연관시켜 기본적으로 원초적인 의식주의 만족과, 더 나아가 2차적으로 개개인의 기준과 목표에 대한 만족이 모든 미래의 기반이라고 생각한다.#@문장구분# 나는 전통 음악인 사물놀이를 아주 어릴 때부터 꾸준히 해오고 있으며 제일 자신있는 나만의 재능이라고 생각하기 때문에 국악과 관련된 직업을 미래로 생각하고 있다.#@문장구분# 또한, 국악에 관련된 미술 고등학교에 진학하여 연관된 학과를 포함한 좋은 대학을 졸업하고 국악에 관련된 직업으로 살아가는 게 내가 생각하는 바람직한 본인의 미래의 모습이다. #@문장구분#시대에 따라 유행하는 직업이 제각각이고 달라지며 그에 맞추어서 살아가야 하기 때문에 미래의 모습을 완전히 예측 할 수는 없지만 무슨 일이 있어도 내 꿈을 위해서라면 최선을 다해 열정적으로 살 것임은 변함이 없다. #@문장구분#나의 음악을 들려줌으로써 다른 사람에게 기쁨과 행복을 주거나 본인에게도 만족을 안겨줄  때 행복을 느낀다고 나는 생각하기 때문에 이러한 자신의 행복의 기준을 목표로 삼아서 이루면서 살아가는 것이 나의 목표라고 확신하고 또 확신한다.",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.8333333,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.9444444,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.833332,
+      28,
+      30
+    ],
+    "essay_scoreT_avg": 27.277777,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.20",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_82339",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 544,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

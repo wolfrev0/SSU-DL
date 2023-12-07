@@ -1,0 +1,322 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래도시는 지금 우리가 살고있는 모형의 아파트나 주택이 새롭게 지어지고 노우화된 건물은 거의 없어지고 고층 아파트나 멋있는 주택 등이 생기고 식당, 편의점, PC방, 코인노래방, 미용실같은 장소도 많이들것이고 여러 회사나 공공기관이 더욱 늘어날 것이며 범죄가 많이생겨서 CCTV가 많아지고 경찰서나 파출소도 많이생길것같다.#@문장구분# 그리고 자기부상 열차가인천국제공황에서만 있지않고 여러도시에 있을것같다.#@문장구분# 그리고 서울을 포함한 수도권 과 인천, 부산, 울산, 대전, 대구, 광주 같은 광역시는 날아다니는 택시나 자동차 무인버스 나 드론택배등 이 생기기 시작해서 경기도, 충천북도, 충천남도, 전라북도, 전라남도, 경상북도, 경상남도, 제주, 울릉도 에도 생길것 같다.#@문장구분# 그리고 자동차가 많아짐에 따라 1~2차로에서 대부분 왕복10차선 으로 바뀔것같다.#@문장구분# 그리고 지금의 고속열차보다 빠른 고속열차가 나올것같다.#@문장구분# 그리고 만약 통일이 되면 기차로 세계일주 도할수있을것같다.#@문장구분# 그리고 인터넷이 더 욱 발전할것 같다.#@문장구분# 그리고 5G에서 6G, 7G로 바뀔것같다.#@문장구분# 그리고 지구 온난화로 친환경 미래도시로 바뀔것같다.#@문장구분#",
+      "paragraph_len": 740,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      30,
+      21.45
+    ],
+    "essay_scoreT_avg": 23.283335,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래도시는 지금 우리가 살고있는 모형의 아파트나 주택이 새롭게 지어지고 노후화된 건물은 거의 없어진 모습이다. 고층 아파트나 멋있는 주택 등이 생기고 식당, 편의점, PC방, 코인노래방, 미용실 같은 장소도 많이 생길 것이고 여러 회사나 공공기관이 더욱 늘어날 것이다. 범죄가 많이 생겨서 CCTV가 많아지고 경찰서나 파출소도 많이 생길 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "내가 생각하는 미래도시는 지금 우리가 살고있는 모형의 아파트나 주택이 새롭게 지어지고 <문법_맞춤법>노우화된</문법_맞춤법> 건물은 <문법_어미>거의 없어지고</문법_어미> 고층 아파트나 멋있는 주택 등이 생기고 식당, 편의점, PC방, 코인노래방, 미용실같은 장소도 많이들것이고 여러 회사나 공공기관이 더욱 늘어날 것이며 범죄가 많이생겨서 CCTV가 많아지고 경찰서나 파출소도 많이생길것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 자기 부상 열차가 인천 국제공항에만 있지 않고 여러 도시에 있을 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법><문법_조사>자기부상 열차가인천국제공황에서만</문법_조사></문법_맞춤법> 있지않고 여러도시에 있을것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 서울을 포함한 수도권과 인천, 부산, 울산, 대전, 대구, 광주 같은 광역시는 날아다니는 택시나 자동차, 무인 버스나 드론 택배 등이 생기기 시작할 것이다. 그렇게 되면 점차 경기도, 충청북도, 충청남도, 전라북도, 전라남도, 경상북도, 경상남도, 제주, 울릉도에도 생길 것 같다.",
+      "sentence_corr_reason": [
+        "붙여쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 서울을 포함한 <문법_맞춤법>수도권 과</문법_맞춤법> 인천, 부산, 울산, 대전, 대구, 광주 같은 광역시는 날아다니는 택시나 자동차 무인버스 나 드론택배등 이 생기기 <문법_어미>시작해서</문법_어미> <문법_기타>경기도, 충천북도, 충천남도, 전라북도, 전라남도, 경상북도, 경상남도, 제주, 울릉도 에도 생길것 같다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 자동차가 많아짐에 따라 1, 2차로에서 대부분 왕복 10차선으로 바뀔 것 같다.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 자동차가 많아짐에 따라 <문법_맞춤법>1~2차로</문법_맞춤법>에서 대부분 왕복10차선 으로 바뀔것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 지금의 고속열차보다 빠른 고속열차가 나올 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 지금의 고속열차보다 빠른 고속열차가 <문법_맞춤법>나올것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "   만약 통일이 되면 기차로 세계일주도 할 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고</스타일링_담화 맥락 오류> 만약 통일이 되면 기차로 <문법_맞춤법>세계일주 도할수있을것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "   만약 통일이 되면 기차로 세계일주도 할 수 있을 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 인터넷이 더욱 발전할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 인터넷이 <문법_맞춤법>더 욱 발전할것 같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서  5G에서 6G, 7G로 바뀔 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>그리고 </스타일링_담화 맥락 오류>5G에서 6G, 7G로<문법_맞춤법> 바뀔것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 그래서  5G에서 6G, 7G로 바뀔 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로, 지구 온난화로 친환경 미래도시로 바뀔 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>그리고</스타일링_패러프레이징> 지구 온난화로 친환경 미래도시로 <문법_맞춤법>바뀔것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 마지막으로, 지구 온난화로 친환경 미래도시로 바뀔 것 같다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36255",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 560,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시는 메타버스 미래 도시이다.#@문장구분# 지금 코로나로 인해 많은 비대면 활동들이 생겨나고 있다.#@문장구분# 그 중 빠르게 발전하고 있는 것이 메타버스이다.#@문장구분# 게임 속 아바타로 친구를 만나고 가상현실에서 노는 것은 일상이 되었다.#@문장구분# 어린 학생들 사이에서 메타버스는 어렵고 신기한 것이 아니라 그저 일상이다.#@문장구분# 미래에는 이런 메타버스가 더욱 발달해서 그 안에서 살게 될 것이다.#@문장구분# 내가 좋아하는 영화 중 '썸머워즈'라는 영화가 있다.#@문장구분# 이 영화에서는 모든 사람들이 메타버스 안에서 활동하고 일한다.#@문장구분# 대부분의 전세계인들이 메타버스에 가입하였고 심지어 병원 진료도 그 안에서 볼 수 있다.#@문장구분# 미래 도시는 썸머워즈에서 나오는 것 처럼 메타버스 도시가 될 것이다.#@문장구분# 앞으로 더욱 발전할 메타버스와 그 안에서 살아갈 생활이 정말 기대가 된다.#@문장구분# 메타버스 도시에 잘 적응하기 위해 그에 대해 더 공부해 볼 것이다.#@문장구분#",
+      "paragraph_len": 680,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.65,
+      23.7
+    ],
+    "essay_scoreT_avg": 26.116669,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그중 빠르게 발전하고 있는 것이 메타버스이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그 중</문법_맞춤법> 빠르게 발전하고 있는 것이 메타버스이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대부분의 전 세계인들이 메타버스에 가입하였고 심지어 병원 진료도 그 안에서 볼 수 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대부분의 <문법_맞춤법>전세계인들이 </문법_맞춤법>메타버스에 가입하였고 심지어 병원 진료도 그 안에서 볼 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래 도시는 썸머워즈에서 나오는 것처럼 메타버스 도시가 될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래 도시는 썸머워즈에서 나오는 <문법_맞춤법>것 처럼</문법_맞춤법> 메타버스 도시가 될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71529",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 441,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

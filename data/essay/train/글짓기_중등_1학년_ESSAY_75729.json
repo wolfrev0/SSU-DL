@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래의 도시이름은 스마트 시티입니다.#@문장구분# 미래에는 사람들의 지적수준이 높아져서 지금보다 더욱 더 사람들이 아는것도 많고 알고있는 정보도 많을 것입니다.#@문장구분# 그렇기 때문에 미래에는 지금처럼 백과사전이나 그런게 사라지고 사람들에게 물어보는게 더욱 더 효과있는 그런 세상이 올 것입니다.#@문장구분# 그래서 미래에는 질문을 하는 숫자가 줄어들고 시험같은 것도 지금과는 비교가 안되게 어려워 질 것 같습니다. #@문장구분#그래서 미래에는 시험공부도 하기 힘들고 책들도 엄청 두꺼워져서 선생님과 학생들이 고생을 할것같습니다. #@문장구분#그래서 미래에는 사람들의 지적수준이 상향평준화 되어서 면접볼때도 학력보다는 그사람의 인격과 그 사람의 성격을 더 많이보는 그런 인격이 더 중요한 세상이 올 것 같습니다.#@문장구분# 저는 미래에 공부만 하는 이런세상이 안왔으면 좋겠다고 생각합니다.#@문장구분#",
+      "paragraph_len": 550,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.65,
+      20.8,
+      21.85
+    ],
+    "essay_scoreT_avg": 23.099998,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 미래의 도시 이름은 스마트 시티입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 생각하는 미래의 <문법_맞춤법>도시이름은 </문법_맞춤법>스마트 시티입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래에는 사람들의 지적 수준이 높아져서 지금보다 더욱더 사람들이 아는 것도 많고 알고 있는 정보도 많을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래에는 사람들의<문법_맞춤법> 지적수준이</문법_맞춤법> 높아져서 지금보다 더욱 더 사람들이 아는것도 많고 알고있는 정보도 많을 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 미래에는 지금처럼 백과사전이나 그런 게 사라지고 사람들에게  물어보는 게 더욱더 효과 있는  그런 세상이 올 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 미래에는 지금처럼 백과사전이나 <문법_맞춤법>그런게</문법_맞춤법> 사라지고 사람들에게 물어보는게 더욱 더 효과있는 그런 세상이 올 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 미래에는 질문을 하는 숫자가 줄어들고 시험 같은 것도 지금과는 비교가 안되게 어려워질 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 미래에는 질문을 하는 숫자가 줄어들고 <문법_맞춤법>시험같은</문법_맞춤법> 것도 지금과는 비교가 안되게 어려워 질 것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 미래에는 시험공부도 하기 힘들고 책들도 엄청 두꺼워져서 선생님과 학생들이 고생을 할 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 미래에는 시험공부도 하기 힘들고 책들도 엄청 두꺼워져서 선생님과 학생들이 고생을 <문법_맞춤법>할것같습니다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 미래에는 사람들의 지적 수준이 상향 평준화되어서 면접 볼 때도  학력보다는 그사람의 인격과 그사람의 성격을 더 많이 보는 그런 인격이 더 중요한 세상이 올 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 미래에는 사람들의 <문법_맞춤법>지적수준이 상향평준화 되어서 면접볼때도</문법_맞춤법> 학력보다는 그사람의 인격과 그 사람의 성격을 더 많이보는 그런 인격이 더 중요한 세상이 올 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 미래에 공부만 하는 이런 세상이 안 왔으면 좋겠다고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 미래에 공부만 하는 <문법_맞춤법>이런세상이 안왔으면 </문법_맞춤법>좋겠다고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75729",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 411,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

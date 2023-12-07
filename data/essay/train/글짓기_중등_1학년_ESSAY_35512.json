@@ -1,0 +1,337 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시 하면 날아다니는 자동차, 오토바이 들고다닐필요없이, 화면으로 눈앞에 펼쳐지는 스마트폰을 많이 생각 하였다.#@문장구분# 그리고, 요즘은 자율주행자동차 까지도 연구되는 중이라고 합니다.#@문장구분# 그리고 100년전까지만 해도 오래 살지 못하였는데 요즘은 의학기술이 발달하여 100세 시대로 가고 있습니다.#@문장구분# 저는 사람이 늙어도 건강하고 잘살아서 다니는 그런미래를 원합니다.#@문장구분# 그리고 약 400만 년 전, 그때는 오스트랄로피테쿠스라는 사람의 진화 전모습이었고 약 1만년전, '크로마뇽인' 즉, 인간과 비슷해지는 사람이었고 지금은 완벽한 인간이 되었습니다.#@문장구분# 그래서 저의말은 조금많이 오래걸린다 해도 엄청 많이 발전할것을 예상 합니다.#@문장구분# 미래가 발전을 해도 나쁜쪽말고 좋은 쪽으로 바뀌었으면 좋겠습니다.#@문장구분# 또한 미래하면 \"도라에몽\"이라는 애니메이션이 있는데, 그만화는 미래에 대한 내용을 가지고 있는 만화입니다.#@문장구분# 21세기에는 시험내용을 찍어서 먹으면 바로 외워지는 빵도 있고 어디로든 떠날수있는 문 까지 있습니다.#@문장구분# 만화로 비유를 하였는데 거의8년전에는 옜날만화만 나오다가 미래에 만화가 나온것으로 보아하니, 미래가 만화까지 발전을 한것입니다.#@문장구분# 마지막으로 제가 원하는 미래는 만화나 영화 캐릭터가 실제도 사람처럼 날아 움직였으면 좋겠습니다!#@문장구분#",
+      "paragraph_len": 841,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.2,
+      22.7,
+      21.35
+    ],
+    "essay_scoreT_avg": 23.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.08",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래도시 하면 날아다니는 자동차나 오토바이, 들고 다닐 필요 없이 화면으로 눈앞에 펼쳐지는 스마트폰을 많이 생각했습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장 부호 ",
+        "띄어쓰기, 문장 부호 ",
+        "띄어쓰기, 종결 어미 통일 "
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": "미래도시 하면 날아다니는 <문법_맞춤법><문법_기타>자동차, 오토바이 들고다닐필요없이,</문법_기타></문법_맞춤법> 화면으로 눈앞에 펼쳐지는 스마트폰을 많이 <문법_어미>생각 하였다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고, 요즘은 자율주행 자동차까지도 연구되는 중이라고 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고, 요즘은 <문법_맞춤법>자율주행자동차 까지도</문법_맞춤법> 연구되는 중이라고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 100년 전까지만 해도 오래 살지 못하였는데 요즘은 의학기술이 발달하여 100세 시대로 가고 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>100년전까지만</문법_맞춤법> 해도 오래 살지 못하였는데 요즘은 의학기술이 발달하여 100세 시대로 가고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 사람이 늙어도 건강하게 잘 살 수 있는 그런 미래를 원합니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 저는 사람이 늙어도 <스타일링_담화 맥락 오류>건강하고 잘살아서 다니는</스타일링_담화 맥락 오류> <문법_맞춤법>그런미래를</문법_맞춤법> 원합니다.",
+      "sentence_corr_txt_styling": " 저는 사람이 늙어도 건강하게 잘 살 수 있는 그런 미래를 원합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 약 400만 년 전, 그때는 오스트랄로피테쿠스라는 사람의 진화 전 모습이었고 약 1만년 전, '크로마뇽인' 즉, 인간과 비슷해지는 사람이었고 지금은 완벽한 인간이 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 약 400만 년 전, 그때는 오스트랄로피테쿠스라는 사람의 진화 <문법_맞춤법>전모습이었고</문법_맞춤법> 약 1만년전, '크로마뇽인' 즉, 인간과 비슷해지는 사람이었고 지금은 완벽한 인간이 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 저의 말은 조금 많이 오래 걸린다 해도 엄청 많이 발전할 것을 예상합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 <문법_맞춤법>저의말은 조금많이 오래걸린다</문법_맞춤법> 해도 엄청 많이 발전할것을 예상 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래가 발전을 해도 나쁜 쪽 말고 좋은 쪽으로 바뀌었으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래가 발전을 해도 <문법_맞춤법>나쁜쪽말고</문법_맞춤법> 좋은 쪽으로 바뀌었으면 좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한 미래 하면 '도라에몽'이라는 애니메이션이 있는데, 그 만화는 미래에 대한 내용을 가지고 있는 만화입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장 부호 ",
+        "띄어쓰기, 문장 부호 "
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 또한 미래하면 \"도라에몽\"이라는 애니메이션이 있는데, 그만화는 미래에 대한 내용을 가지고 있는 만화입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 21세기에는 시험 내용을 찍어서 먹으면 바로 외워지는 빵도 있고 어디로든 떠날 수 있는 문까지 있습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 21세기에는 <문법_맞춤법>시험내용을</문법_맞춤법> 찍어서 먹으면 바로 외워지는 빵도 있고 어디로든 떠날수있는 문 까지 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만화로 비유를 하였는데 거의 8년 전에는 옛날 만화만 나오다가 미래에 만화가 나온 것으로 보아하니, 미래가 만화까지 발전을 한 것입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만화로 비유를 하였는데 <문법_맞춤법>거의8년전에는</문법_맞춤법> 옜날만화만 나오다가 미래에 만화가 나온것으로 보아하니, 미래가 만화까지 발전을 한것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 제가 원하는 미래는 만화나 영화 캐릭터가 실제로도  사람처럼 날아 움직였으면 좋겠습니다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 마지막으로 제가 원하는 미래는 만화나 영화 캐릭터가 <문법_조사>실제도</문법_조사> 사람처럼 날아 움직였으면 좋겠습니다!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35512",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 630,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래에 경찰이라는 직업을 가지는 것이 목표이다.#@문장구분# 경찰은 사회질서를 지키고 어려운 상황에 처한 사람을 도울 수 있는 사람이라고 생각하고 많은 사람들에게 도움을 줄 수 있는 직업이라고 생각한다.#@문장구분# 내가 경찰이 되어야 겠다고 생각한 이유는 요즘 묻지마 폭행이나 데이트 폭력과 같은 일이 자주 발생을 하고 있고 그 피해자가 대부분 여성이라는 점을 감안하면 그런 피해자들에게 다가갈 수 있는 것이 가해자와 같은 성별이었던 남성보다 피해자와 같은 성별인 여성이 다가가는 것이 그 사람들의 입장에서는 거부감이 덜 들것이라고 생각했기 때문입니다. #@문장구분#이렇게 경찰이 되어서 사회 곳곳에서 폭력을 당하고 있는 다양한 사람들을 돕고 싶다는 마음을 가지게 되었고 가장 가까이에서 도울 수 있는 사람이 경찰일 것이라고 생각을 했습니다. #@문장구분#그렇기 때문에 경찰이라는 직업을 가져야겠다고 다짐을 했고 저를 통해서 많은 사람이 폭력의 상황에서 벗어날 수 있었으면 좋겠다고 생각을 했습니다. #@문장구분#그리고 제가 사회에 폭력 상황을 줄이는데 도움이 되었으면 좋겠다는 생각을 가지고 있기 때문에 경찰이라는 직업을 선택하게 되었습니다.#@문장구분#",
+      "paragraph_len": 673,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.3333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7777777,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.88889,
+      23.38889
+    ],
+    "essay_scoreT_avg": 26.75926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_67891",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 553,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

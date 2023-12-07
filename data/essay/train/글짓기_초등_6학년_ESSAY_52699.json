@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 바다에서 좋아하는 동물은 돌고래 입니다.#@문장구분# 그 이유는 돌고래가 점프하는 모습이 아름답고 멋지기 때문입니다. #@문장구분#그래서 돌고래 쇼도 많이 보러 갔습니다 #@문장구분#그리고 뉴스에 한 기사를 보게 되었습니다. #@문장구분#그 기사는 돌고래에 관한 기사였습니다.#@문장구분# 돌고래는 쇼를 펼치는 그 작은 수조관이 엄청난 스트레스를 받아 많이 돌고래들이 죽어서 멸종위기에 다다랐다는 내용이였습니다. #@문장구분#저는 그 기사를 보고 미안한 마음이 가장 먼저들었습니다. #@문장구분#제가 쇼를 보러간 것이 돌고래들에게는 많은 스트레스를 주고 있다는 점에서 미안한 마음이 들었습니다. #@문장구분#만약 제가 돌고래가 되서 바다에 가게 된다면 가장 먼저 돌고래 무리들을 만나고 싶습니다. #@문장구분#만나서 미안하다고 전해주고 싶습니다. #@문장구분#그리고 같이 점프도 하고 밥도 같이 먹고 싶습니다.#@문장구분# 밥 먹으면서 수족관에서 힘들었던 점을 듣고 사람들에게 알려 돌고래 쇼를 멈추고 싶습니다.#@문장구분#",
+      "paragraph_len": 676,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.15,
+      29.75
+    ],
+    "essay_scoreT_avg": 29.300001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_52699",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 437,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 하늘을 나는 자동차가 비행기의 역할을 할 수 있을까?#@문장구분# 그리고 인공지능(로봇)을 인간의 직업을 로봇으로 대체할까?#@문장구분# 로봇이 만약 해킹 당한다면 어떻게 대처할까?#@문장구분#",
+      "paragraph_len": 152,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "미래에는 과연 하늘을 나는 자동차가 생길까?#@문장구분# 하늘을 나는 자동차는 계속 개발 되고있다.#@문장구분# 시험운전하는걸 뉴스에서 봤다.#@문장구분# 미래에 하늘을 나는 자동차가 생기면 하늘의 도로가 생길 것이다. #@문장구분#미래에 하늘을 나는 자동차가 생길것이다.#@문장구분#",
+      "paragraph_len": 224,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "미래에는 인공지능(로봇)은 인간의 직업을 로봇으로 대체 할까?#@문장구분# 그럼 인공지능(로봇)이 할 수 없는 직업은?#@문장구분# 결정을 하는 직업 예를 들어 판사 사람들의 마음을 읽고, 치료해주는 사람 예를 들어 심리치료사, 상담사, 사람들의 질병을 고치는 직업 의사, 간호사 등 만약 이런 직업을 제외하면 인공지능&로봇)이 나머지 직업을 대체한다는데 그 인공지능(로봇)에 오류, 해킹이 발생하면 어떻게  대처 해야할까?#@문장구분# 내가 생각하는 대처방안 그 인공지능(로봇)에 보안을 철저히 하자.#@문장구분# 그리고 무슨 일이 일어나면 문자를 보내자.#@문장구분#",
+      "paragraph_len": 388,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": "미래에는 하늘을 나는 자동차가 생길확률이 크다.#@문장구분# 인공지능(로봇)은 인간의 직업을 대체한다. #@문장구분#그리고 인공지능(로봇)에 보안을 철저히 하자!#@문장구분#",
+      "paragraph_len": 136,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      22,
+      24.25,
+      20.25
+    ],
+    "essay_scoreT_avg": 22.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "032",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "패러프레이징",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 <스타일링_조사><스타일링_패러프레이징><스타일링_기타>인공지능(로봇)을 인간의 직업을 로봇으로</스타일링_기타></스타일링_패러프레이징></스타일링_조사> 대체할까?",
+      "sentence_corr_txt_styling": " 그리고 인공지능(로봇)이 인간을 대체할까?",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 로봇이 만약 해킹당한다면 어떻게 대처할까?",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 로봇이 만약 <문법_맞춤법>해킹 당한다면</문법_맞춤법> 어떻게 대처할까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하늘을 나는 자동차는 계속 개발되고 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 붙여쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하늘을 나는 자동차는 계속 <문법_맞춤법>개발 되고있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하늘을 나는 자동차를 시험운전 하는 걸 뉴스에서 봤다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>시험운전하는걸</문법_기타></문법_맞춤법> 뉴스에서 봤다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결정을 하는 직업일 것이다. 예를 들어 판사와 사람들의 마음을 읽고 치료해주는 심리치료사, 상담사가 있을 것이다. 사람들의 질병을 고치는 직업인 의사, 간호사 등도 있을 것이다. 이런 직업을 제외하면 인공지능과 로봇이 나머지 직업을 대체한다는데 그 인공지능(로봇)에 오류, 해킹이 발생하면 어떻게  대처 해야할까?",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " <문법_조사><문법_어미>결정을 하는 직업</문법_어미></문법_조사> 예를 들어 판사 사람들의 마음을 읽고, 치료해주는 <스타일링_기타>사람 예를 들어 심리치료사, 상담사,</스타일링_기타> 사람들의 질병을 고치는 직업 의사, 간호사 등 만약 이런 직업을 제외하면 인공지능&로봇)이 나머지 직업을 대체한다는데 그 인공지능(로봇)에 오류, 해킹이 발생하면 어떻게  대처 해야할까?",
+      "sentence_corr_txt_styling": " 결정을 하는 직업일 것이다. 예를 들어 판사와 사람들의 마음을 읽고 치료해주는 심리치료사, 상담사가 있을 것이다. 사람들의 질병을 고치는 직업인 의사, 간호사 등도 있을 것이다. 이런 직업을 제외하면 인공지능과 로봇이 나머지 직업을 대체한다는데 그 인공지능(로봇)에 오류, 해킹이 발생하면 어떻게  대처 해야할까?",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각하는 대처방안은 그 인공지능(로봇)의 보안을 철저히 하자는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 내가 생각하는 <문법_조사>대처방안</문법_조사> 그 인공지능(로봇)에 보안을 철저히 <문법_어미>하자</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33647",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 583,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

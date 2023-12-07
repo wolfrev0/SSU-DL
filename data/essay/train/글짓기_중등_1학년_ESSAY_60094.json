@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 현재보다 더 뛰어난 의료기술로 인해 머나먼 미래라고 생각하던 생명 연장의 꿈이 현실로 이뤄질 수도 있을 것이라고 생각한다.#@문장구분# 현재에는 치료할 수 없는 병을 미래에는 약을 먹거나 어떠한 치료를 통해 모든 질환을 치료할 수 있는 환경이 마련되고 로봇이나 인공지능을 활용하여 수술을 시행하도록 하지 않을까 생각한다.#@문장구분# 또한 자신의 몸상태를 워치나 어떠한 의료기기로부터 확인 할 수 있으며 정기적으로 몸상태를 확인하고 결과를 자동적으로 의료정보에 올리는 것으로 병원에 직접 가지 않더라도 몸에 문제가 생긴다면 환자에게 화상으로 진단을 할 수 있는 미래가 오지 않을까 생각한다.#@문장구분# 더하여 입원병동을 돌면서 환자의 상태를 확인하는 회진이나 의사의 진료도 대면이 아닌 비대면을 통해서 환자의 상태를 확인 할 수 있지 않을까 하고 생각한다.#@문장구분# 현재의 배달력도 발전하게 되어 집에서 가까운 약국을 통해 약까지도 배달로 받는 시스템도 생길 수 있지 않을까 하는 생각도 하게 되었다.#@문장구분# 많은 인원이 들어가지 않는 수술이라면 의료팀간의 회의도 시간을 맞추고 얼굴을 보며 회의를 하는 것보다 비대면으로 온라인 회의를 진행 할 수 있지 않을까 하는 생각 또한 하게 되었다.#@문장구분#",
+      "paragraph_len": 706,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      23.05,
+      26
+    ],
+    "essay_scoreT_avg": 25.816666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_60094",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 587,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

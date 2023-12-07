@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래의 나를 상상해 본 적이 있다.#@문장구분# 나의 10년 뒤 모습은 쇼미더머니 시즌 10에 출전해 2만여 명 중 1등을 거머쥔 래퍼 조광일#@이름#처럼 쇼미더머니와 같은 랩 서바이벌 TV프로그램에 나가 1등을 거머쥐었을 것이다. #@문장구분#20년 뒤에는 쇼미더머니와 같은 랩 서바이벌 프로그램의 프로듀서로 출전하여 나와 같은 우승자가 될 수 있도록 옆에서 많은 도움을 줄 것이다. #@문장구분#30년 뒤에 나는 아이돌 중 랩을 담당하는 아이돌들의 랩 강사나, 래퍼들의 랩 강사로서 활동하고 있을 것이다. #@문장구분#또는 음악 관련 학과 교수로서 활동하고 있을 것이다.#@문장구분# 그때의 나의 가치관은 즐기며, 도전하며, 열정적으로 살자는 가치관을 가지고 살아가고 있을 것이다.#@문장구분# 나의 10년 뒤, 20년 뒤, 30년 뒤 내가 상상한 나의 모습을 이뤄내기 위해서는 실용음악과 졸업 이후에도 랩 학원이나 랩 기술을 계속해서 갈고 닦으며 쇼미더머니와 같은 랩 서바이벌 프로그램에 바로 나가도 전혀 손색이 없을 정도의 실력을 유지할 수 있도록 노력해야겠다. #@문장구분#그리고 향후에도 랩 프로듀서로서 활동을 하기 위해서는 나이가 들어도 트렌드에 뒤처지지 않도록 노력해야겠다.#@문장구분#",
+      "paragraph_len": 736,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      25.055555,
+      23.61111
+    ],
+    "essay_scoreT_avg": 25.555557,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_58901",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 559,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요.#@문장구분#오늘은 바다거북이를 소계해보겠습니다.#@문장구분#일단 거북이의 대해 알아보겠습니다#@문장구분#.거북이는 악어랑도마뱀과 같은 파충류 입니다.#@문장구분#그리고 거북이는 여러 종류가 있습니다. #@문장구분#크게 육지거북,바다거북,민물거북으로 나눕니다.#@문장구분#육지거북은 육지에 살고 바다거북은 바다에 민물거북은 민물의 삽니다.#@문장구분#그치만 저희가 알아볼꺼는 바다거북 입니다.#@문장구분#그럼이제 바다거북의 종류를 알아봅시다.#@문장구분#우리니라의 서식하는 종류는 5종류 입니다. #@문장구분#이름은 붉은 바다거북,푸른 바다거북,매부리바다거북,장수거북,올리브바다거북 입니다.#@문장구분#그중 올리브바다거북은 2019년의 우리나라 바다에서 서식하는 것이 확인되었습니다.#@문장구분#그리고 장수거북은 최대길이 3m 몸무게 900kg 까지 나간 다고합니다.#@문장구분#그리고 장수거북은 최대 수심1000m까지 내려갈수있고 또한 장수거북은 등껍진 단단하지 않고 말랑하다고 합니다.#@문장구분#그리고 모든 바다거북은 물속에서 오랫동안 숨을 쉴수 있고  물 밖에서 알을 남니다.#@문장구분#바다거북이들은 태어나자 마자 바다로 기어갑니다.#@문장구분#물론포식자들을 피하면서요.#@문장구분#그리고 혼자서 사냥하여 살아갑니다.#@문장구분#오늘 제가 준비한것은 여기까지 입니다.#@문장구분#감사합니다.#@문장구분#",
+      "paragraph_len": 944,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      16.55,
+      30,
+      18.15
+    ],
+    "essay_scoreT_avg": 21.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "오늘은 바다거북이를 소개해 보겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "오늘은 바다거북이를 <문법_맞춤법>소계해보겠습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단 거북이에 대해 알아보겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단 <문법_맞춤법>거북이의 대해</문법_맞춤법> 알아보겠습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "거북이는 악어, 도마뱀과 같은 파충류입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>.거북이는 악어랑도마뱀과 같은 파충류 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "크게 육지거북,바다거북,민물거북으로 나뉩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "크게 육지거북,바다거북,민물거북으로 <문법_맞춤법>나눕니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "육지거북은 육지에 살고 바다거북은 바다에, 민물거북은 민물에 삽니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "육지거북은 육지에 살고 바다거북은 <문법_맞춤법>바다에 민물거북은 민물의</문법_맞춤법> 삽니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 중 저희가 알아볼 것은 바다거북입니다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>그치만 저희가 알아볼꺼는</스타일링_담화 맥락 오류> <문법_맞춤법>바다거북 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "이 중 저희가 알아볼 것은 바다거북입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그럼 이제 바다거북의 종류를 알아봅시다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그럼이제</문법_맞춤법> 바다거북의 종류를 알아봅시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>우리니라의 서식하는 종류는 5종류 입니다.</스타일링_담화 맥락 오류> ",
+      "sentence_corr_txt_styling": "우리나라에 서식하는 바다거북의 종류는 5종류입니다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이름은 붉은 바다거북, 푸른 바다거북, 매부리 바다거북, 장수거북, 올리브바다거북입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이름은 붉은 바다거북,푸른 바다거북,매부리바다거북,장수거북,올리브바다거북 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그중 올리브바다거북은 2019년, 우리나라 바다에서 서식하는 것이 확인되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그중 올리브바다거북은 <문법_맞춤법>2019년의</문법_맞춤법> 우리나라 바다에서 서식하는 것이 확인되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "그리고 장수거북은 <스타일링_담화 맥락 오류>최대길이 3m 몸무게 900kg 까지 나간 다고합니다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "그리고 장수거북은 최대 길이가 3m이고 몸무게는 900kg까지 나간다고 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "장수거북은 최대 수심 1000m까지 내려갈 수 있고 장수거북의 등껍질은 단단하지 않고 말랑하다고 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그리고 장수거북은 최대 수심1000m까지 내려갈수있고</문법_맞춤법> 또한 장수거북은 등껍진 단단하지 않고 말랑하다고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 모든 바다거북은 물속에서 오랫동안 숨을 쉴 수 있고  물 밖에서 알을 납니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 모든 바다거북은 물속에서 오랫동안 숨을 <문법_맞춤법>쉴수</문법_맞춤법> 있고  물 밖에서 알을 남니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바다거북이들은 태어나자마자 바다로 기어갑니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다거북이들은 <문법_맞춤법>태어나자 마자</문법_맞춤법> 바다로 기어갑니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "<스타일링_패러프레이징>물론포식자들을 피하면서요.</스타일링_패러프레이징>",
+      "sentence_corr_txt_styling": "이는 포식자들을 피하기 위함입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "오늘 제가 준비한 것은 여기까지 입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "오늘 제가 <문법_맞춤법>준비한것은</문법_맞춤법> 여기까지 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36152",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 544,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 바다생물로 된다면 강치라는 독도에 살던 바다표범이되고 싶다.#@문장구분# 지금은 몇마리없지만, 독도를 지키는 수호신 처럼 앉아있고 싶다.#@문장구분# 옛날에 일본이 처들어오지않았다면 지금 강치는 무수히 많았을것이다.#@문장구분# 내가 아직 강치를\n 본적이없지만 내가 죽기전에 꼬옥 한번은 보고싶다.#@문장구분# 이젠 내가 강치로 변할것이다.#@문장구분# 뿅 안녕 나는 김강치야.#@문장구분#나는 독도에 살고있는데 내 부모님은 옛날에 일본인간에게 잡혀가셨어. #@문장구분#요즘엔 인간들이 날 찾더군 나 찾는건 좋지만 바다에 쓰레기좀 버리지마!#@문장구분#내 친구들이 바다에 떠다니는걸 먹다가 죽었다고 그러니까 이제 쓰레기를 버리지말아줘.#@문장구분# 저번엔 내 사촌친구 거북이의 코에 이상한 기다란게 박혀있었다고 물론 구해준건 인간이지만 그걸 버린 사람도 인간이잖아...#@문장구분# 우리가 없어지는걸 보고 싶지않으면 앞으로 버리지 말아줘!#@문장구분# 이제부터 나의 하루를 이야기 해줄게. #@문장구분#나는 아침에 일어나서 바다를 나가 모래쪽으로 가. #@문장구분#그리곤 편히쉬지,#@문장구분# 그리고 다른친구와 바다에 들어가서 수영을 하며 놀아. #@문장구분#얼마나 상퀘한지 아니?#@문장구분# 수영하면서 밥먹는것도 난가능해. #@문장구분#수영하다가 떠다니는 물고기를 \"냠냠\" 하며먹어.#@문장구분# 허기진 배를 수영하면서 채울 때 얼마나 행복한지 아니? #@문장구분#허기진 배를 다 채우고 나는 바다속을 순찰해.#@문장구분# 공식적으로 하는건 아니지만 짬짬히 하고있어.#@문장구분# 나는 수영을 굉장히 좋아해. #@문장구분#그래서 이행동을 하지.#@문장구분# 나만 수영을 좋아하냐고? #@문장구분#아니 내친구들도 좋아해.#@문장구분# 우리 강치들은 다 좋아한단다. #@문장구분#순찰을 돌다가 밖으로 나와서 시워.#@문장구분# 그럼 내하루는 마무리가 돼. #@문장구분#내하루를 들어보니 어때?#@문장구분# 재밌었지?#@문장구분# 강치에 대해서 더 관심 가져줘.#@문장구분# 고마워~!#@문장구분#",
+      "paragraph_len": 1425,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      22.85,
+      21.85
+    ],
+    "essay_scoreT_avg": 24.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 바다생물이 된다면 독도에 살던 강치라는 바다표범이되고 싶다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어순"
+      ],
+      "sentence_txt": "내가 <문법_조사>바다생물로</문법_조사> 된다면 <문법_어순>강치라는 독도에 살던</문법_어순> 바다표범이되고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금은 몇 마리 없지만, 독도를 지키는 수호신처럼 앉아있고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금은 <문법_맞춤법>몇마리없지만</문법_맞춤법>, 독도를 지키는 수호신 처럼 앉아있고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 옛날에 일본이 쳐들어오지 않았다면 지금 강치는 무수히 많았을것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 옛날에 일본이 <문법_맞춤법>처들어오지않았다면</문법_맞춤법> 지금 강치는 무수히 많았을것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 아직 강치를\n 본 적은 없지만 내가 죽기 전에 꼬옥 한 번은 보고 싶다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 내가 아직 강치를\n <문법_맞춤법><문법_조사>본적이없지만</문법_조사></문법_맞춤법> 내가 죽기전에 꼬옥 한번은 보고싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이젠 내가 강치로 변할 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이젠 내가 강치로 <문법_맞춤법>변할것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 뿅 안녕 나는 김강치야.",
+      "sentence_corr_txt_styling": " 뿅 안녕 나는 김강치야.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 독도에 살고있는데 내 부모님은 옛날에 일본인에게 잡혀가셨어. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "나는 독도에 살고있는데 내 부모님은 옛날에 <문법_기타>일본인간에게</문법_기타> 잡혀가셨어. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "요즘엔 인간들이 날 찾더군. 날 찾는 건 좋지만 바다에 쓰레기 좀 버리지 마.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "어미",
+        "맞춤법"
+      ],
+      "sentence_txt": "요즘엔 인간들이 날 <문법_기타>찾더군</문법_기타> <문법_어미>나</문법_어미> <문법_맞춤법>찾는건</문법_맞춤법> 좋지만 바다에 쓰레기좀 버리지마!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 친구들이 바다에 떠다니는걸 먹다가 죽었다고. 그러니까 이제 쓰레기를 버리지 말아줘.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "내 친구들이 바다에 떠다니는걸 먹다가 <문법_기타>죽었다고</문법_기타> 그러니까 이제 쓰레기를 <문법_맞춤법>버리지말아줘</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저번엔 내 사촌친구 거북이의 코에 이상한 기다란 게 박혀있었다고. 물론 구해준건 인간이지만 그걸 버린 사람도 인간이잖아.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 저번엔 내 사촌친구 거북이의 코에 이상한 <문법_맞춤법>기다란게</문법_맞춤법> <문법_기타>박혀있었다고</문법_기타> 물론 구해준건 인간이지만 그걸 버린 사람도 인간이잖아...",
+      "sentence_corr_txt_styling": " 저번엔 내 사촌친구 거북이의 코에 이상한 기다란 게 박혀있었다고. 물론 구해준건 인간이지만 그걸 버린 사람도 인간이잖아.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리가 없어지는 걸 보고 싶지 않으면 앞으로 버리지 말아줘!",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리가 <문법_맞춤법>없어지는걸</문법_맞춤법> 보고 싶지않으면 앞으로 버리지 말아줘!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제부터 나의 하루를 이야기해 줄게. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이제부터 나의 하루를 <문법_맞춤법>이야기 해줄게</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리곤 편히 쉬지.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그리곤 <문법_맞춤법><문법_기타>편히쉬지,</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "얼마나 상쾌한지 아니?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "얼마나 <문법_맞춤법>상퀘한지</문법_맞춤법> 아니?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수영하면서 밥 먹는 것도 난 가능해. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 수영하면서 <문법_맞춤법>밥먹는것도</문법_맞춤법> 난가능해. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "기타"
+      ],
+      "sentence_txt": "수영하다가 떠다니는 물고기를 \"냠냠\" 하며먹어.",
+      "sentence_corr_txt_styling": "수영하다가 떠다니는 물고기를 \"냠냠\" 하며먹어.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "허기진 배를 다 채우고 나는 바닷속을 순찰해.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "허기진 배를 다 채우고 나는 <문법_맞춤법>바다속을</문법_맞춤법> 순찰해.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공식적으로 하는 건 아니지만 짬짬이 하고있어.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 공식적으로 <문법_맞춤법>하는건</문법_맞춤법> 아니지만 짬짬히 하고있어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 이 행동을 하지.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 <문법_맞춤법>이행동을</문법_맞춤법> 하지.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아니, 내 친구들도 좋아해.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>아니</문법_기타> <문법_맞춤법>내친구들도</문법_맞춤법> 좋아해.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "순찰을 돌다가 밖으로 나와서 쉬어.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "순찰을 돌다가 밖으로 나와서 <문법_맞춤법>시워</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 내 하루는 마무리가 돼. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0028",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 <문법_맞춤법>내하루는</문법_맞춤법> 마무리가 돼. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "내 하루를 들어보니 어때?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0029",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>내하루를</문법_맞춤법> 들어보니 어때?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0031",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 강치에 대해서 더 관심 가져줘.",
+      "sentence_corr_txt_styling": " 강치에 대해서 더 관심 가져줘.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_39994",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 788,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

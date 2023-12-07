@@ -1,0 +1,225 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시를 생각해본다면 자동차가 스스로 운행을 하고 있는 것은 물론이고 사람들이 산소 부족으로 산소마스크를 쓰고 다닐 것 같다.#@문장구분# 현재도 미세먼지로 인해 사람들이 공기 마스크란 것이 개발돼 마스크를 끼고 다니는 사람도 있고 현시대는 다양한 이유로 인한 환경오염으로 피해가 있기 때문에 미래에선 환경오염이 전 세계를 뒤덮어서 지구를 장악할 것 같다.#@문장구분# 집이나 건물들은 동글동글한 캡슐 안에 들어가 살 수 있는 환경을 만들어 놓고 통로들을 연결해 사람들이 편리하게 이동할 수 있도록 만들어 놓았을 것이다.#@문장구분# 식물은 캡슐 안에서만 자라나고 있고 사람들이 현세대에 먹던 것들은 많이 바뀔 것으로 예상된다.#@문장구분# 자동차들이 자율주행과 스스로 운행은 물론 외계인들이 타고 다니는 UFO의 모습과도 흡사할 것 같다는 상상을 해본다.#@문장구분#",
+      "paragraph_len": 497,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.75,
+      21.85,
+      21.6
+    ],
+    "essay_scoreT_avg": 24.066666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 현재도 미세먼지로 인해 사람들이 공기 마스크란 것이 개발돼 마스크를 끼고 다니는 사람도 있고 현 시대는 다양한 이유로 인한 환경오염으로 피해가 있기 때문에 미래에선 환경오염이 전 세계를 뒤덮어서 지구를 장악할 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " 현재도 미세먼지로 인해 사람들이 공기 마스크란 것이 개발돼 마스크를 끼고 다니는 사람도 있고 <문법_맞춤법>현시대는</문법_맞춤법> 다양한 이유로 인한 환경오염으로 피해가 있기 때문에 미래에선 환경오염이 전 세계를 뒤덮어서 지구를 장악할 것 같다.",
+      "sentence_corr_txt_styling": " 현재도 미세먼지로 인해 사람들이 공기 마스크란 것이 개발돼 마스크를 끼고 다니는 사람도 있고 현 시대는 다양한 이유로 인한 환경오염으로 피해가 있기 때문에 미래에선 환경오염이 전 세계를 뒤덮어서 지구를 장악할 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집이나 건물들은 동글동글한 캡슐 안에 들어가 살 수 있는 환경을 만들어 놓고 통로들을 연결해 사람들이 편리하게 이동할 수 있도록 만들어 놓을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 집이나 건물들은 동글동글한 캡슐 안에 들어가 살 수 있는 환경을 만들어 놓고 통로들을 연결해 사람들이 편리하게 이동할 수 있도록 만들어 <문법_시제>놓았을</문법_시제> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 식물은 캡슐 안에서만 자라나고 사람들이 현 세대에서 먹는 것들은 많이 바뀔 것으로 예상된다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 식물은 캡슐 안에서만 <문법_시제>자라나고 있고</문법_시제> 사람들이 <문법_맞춤법><문법_조사>현세대에</문법_조사></문법_맞춤법> 먹던 것들은 많이 바뀔 것으로 예상된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 자동차들이 자율주행과 스스로 운행은 물론 외계인들이 타고 다니는 UFO의 모습과도 흡사할 것 같다는 상상을 해본다.",
+      "sentence_corr_txt_styling": " 자동차들이 자율주행과 스스로 운행은 물론 외계인들이 타고 다니는 UFO의 모습과도 흡사할 것 같다는 상상을 해본다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60104",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 398,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

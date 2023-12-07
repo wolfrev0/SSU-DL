@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래의 도시는 정말 발전만 할까?#@문장구분# ",
+      "paragraph_len": 39,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 우리나라는 1900년대 일제강점기와 6.25전쟁을 겪었지만 몇십년이라는 짧은 시간 안에 엄청난 발전을 했다.#@문장구분# 짧은 시간 안에 많은 발전을 한만큼 미래에 더 다양하고 최고의 기술들이 생길 거라고 생각된다.#@문장구분#",
+      "paragraph_len": 154,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 하지만 미래에는 이렇게 아무 문제없는 평화로운 세상일까?#@문장구분# 나는 아니라고 생각한다. #@문장구분#그 이유는 개발로 인해 환경이 심각하게 파괴되고 있다.#@문장구분# 미래에 기술의 발전을 위해서는 환경도 굉장히 중요하다고 생각한다.#@문장구분# 생태와 땅이 있어야 기술을 개발하고 여러 다양한 기계와 건물이 생길수 있기 때문이다.#@문장구분# 미래에 더 발전된 기술을 만들기 위해서는 사소하지만 환경부터 지켜나가야한다.#@문장구분#",
+      "paragraph_len": 325,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 미래는 환경을 지키며 발전해야한다.#@문장구분# 미래에는 다른 기술보다는 다양하고 유용한 건축물이 생길 것 같다.#@문장구분# 내 생각에는 건물 안에도 생태공원을 만들어 미래의 발전과 함께 환경도 지키면 좋겠다.#@문장구분# 생태공원이 지금도 많지는 않지만 기술의 발전으로 인해 더 보존하기 힘들텐데 발전된 기술을 환경에도 이용하면 환경과 발전된 기술 모두 잡을 수 있을거라 생각한다.#@문장구분# ",
+      "paragraph_len": 276,
+      "paragraph_id": "004"
+    },
+    {
+      "paragraph_txt": " 미래 도시는 환경도 같이 잊지않고 살아가자는 이미에서 GREEN-CITY(그린시티)라고 지었다. #@문장구분#미래에는 환경도 지키며 기술까지 발전시키는 그린시티가 되길 바란다.#@문장구분#",
+      "paragraph_len": 132,
+      "paragraph_id": "005"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "004"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "005"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      26.75,
+      27.7
+    ],
+    "essay_scoreT_avg": 28.15,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.14",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65685",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 634,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

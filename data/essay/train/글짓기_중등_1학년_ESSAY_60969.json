@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하기에 미래 도시는 '예술의 도시'일 것 같습니다.#@문장구분# 기술이 발달하면서 우리는 전세계적으로 더 많은 곡식을 만들고 더 많은 제품을 만들면서 먹고 사는데에는 거의 지장이 없을 정도로 부유해졌습니다.#@문장구분# 그래서 사람들은 영화나 드라마, 그리고 축구나 야구같은 여러 가지 스포츠를 즐기며 여유있는 삶을 살고 있는데, 미래에는 기술이 더욱 더 발전해서 전 세계가 평균적으로 지금보다 더 부유해지고 더 잘 먹고 살 것이라고 생각합니다.#@문장구분# 더 잘 먹고 잘 살게 되면 앞에서 말한 문화가 발전하게 될 건데 이렇게 문화가 발전하다보면 미래의 도시는 예술로 가득 찬 예술도시가 될 거 같다고 생각합니다.#@문장구분# 저도 미술을 좋아하기 때문에 나중에 제 미술 실력을 뽐내면서 잘 살 거 같습니다.#@문장구분# 결론적으로 제가 생각하는 미래 도시의 모습은 아릅다고 멋진 예술도시입니다.#@문장구분#",
+      "paragraph_len": 537,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      24.55,
+      23.5
+    ],
+    "essay_scoreT_avg": 25.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 기술이 발달하면서 우리는 전세계적으로 더 많은 곡식을 만들고 더 많은 제품을 만들면서 먹고 사는 데에는 거의 지장이 없을 정도로 부유해졌습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기술이 발달하면서 우리는 전세계적으로 더 많은 곡식을 만들고 더 많은 제품을 만들면서 먹고 <문법_맞춤법>사는데에는</문법_맞춤법> 거의 지장이 없을 정도로 부유해졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 사람들은 영화나 드라마, 그리고 축구나 야구 같은 여러 가지 스포츠를 즐기며 여유있는 삶을 살고 있는데, 미래에는 기술이 더욱 더 발전해서 전 세계가 평균적으로 지금보다 더 부유해지고 더 잘 먹고 살 것이라고 생각합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 사람들은 영화나 드라마, 그리고 축구나 <문법_맞춤법>야구같은</문법_맞춤법> 여러 가지 스포츠를 즐기며 여유있는 삶을 살고 있는데, 미래에는 기술이 더욱 더 발전해서 전 세계가 평균적으로 지금보다 더 부유해지고 더 잘 먹고 살 것이라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 결론적으로 제가 생각하는 미래 도시의 모습은 아름다고 멋진 예술도시입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 결론적으로 제가 생각하는 미래 도시의 모습은 <문법_맞춤법>아릅다고</문법_맞춤법> 멋진 예술도시입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60969",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 418,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

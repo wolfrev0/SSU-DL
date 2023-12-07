@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시는 마스크를 계속 쓰게 되는 도시일 거 같다.#@문장구분# 지금 세계는 새로운 바이러스로 인해 마스크를 벗지 못하며 살고 있다.#@문장구분# 미래에는 계속된 환경 파괴로 지구의 환경이 매우 안 좋아질 거 같다.#@문장구분# 지금도 중국에서 계속 날아오는 미세먼지로 인해 제대로 숨을 쉬기가 힘들다.#@문장구분# 또 지구온난화로 지구의 온도가 계속 올라가고 있다.#@문장구분# 하지만 사람들의 과학 발전을 멈추지 않고 있다.#@문장구분# 매일 아마존의 나무를 베고 쓰레기를 바다에 버리고 있다.#@문장구분# 이런 오염이 계속 되어서 미래에는 결국 큰 변화가 오게 될 것이다.#@문장구분# 바이러스가 아니더라도 사람들은 마스크를 쓰고 다니고 심지어는 깨끗한 공기를 사서 숨을 쉬게 될 것 같다.#@문장구분# 물론 로봇이나 인공지능으로 인해 생활은 더 편리해지겠지만 환경은 많이 망가질 거 같다.#@문장구분# 이러한 미래가 오지 않게 하기 위해서는 지금부터라도 지구를 지켜야 한다.#@문장구분# 모든 과학 기술을 발전을 멈추는 것은 아니라 환경을 지키면서 발전할 수 있는 방법을 찾아내야 한다.#@문장구분# 지구와 사람 모두 행복하게 살 수 있는 미래 도시가 된다면 좋을 거 같다.#@문장구분#",
+      "paragraph_len": 791,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      19.8,
+      20.9
+    ],
+    "essay_scoreT_avg": 23.566666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 이런 오염이 계속되어서 미래에는 결국 큰 변화가 오게 될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 오염이 <문법_맞춤법>계속 되어서</문법_맞춤법> 미래에는 결국 큰 변화가 오게 될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71528",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 532,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 바다에 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 돌고래가 되고 싶습니다.#@문장구분#저는 바다에서 위험천만한 모험을 하고 싶습니다.#@문장구분# \n 저는 돌고래 라는 바다생물에 관심이 있습니다.#@문장구분# 왜냐하면 돌고래는 정말 똑똑하고 귀여운 바다생물이기 때문입니다.#@문장구분# 저는 돌고래가 되면 물고기들을 구경하고, 바다 속을 탐험하고 싶습니다. #@문장구분#그리고 다시 인간으로 돌아가는 방법을 물고기 친구들과 함께 같이 연구할 것입니다.#@문장구분# 이제부터 모험이야기를 간단하게 쓸건데 일기처럼 쓸 것입니다.#@문장구분# 나는 어찌저찌 하다가 돌고래가 되어 버렸다.#@문장구분# 일단 물고기들과 친해져서 물어봐야지 물고기 친구들은 내 말을 믿지 않는다. #@문장구분#진짜인데.#@문장구분# 어? 저건 인어?#@문장구분#헐 다가가 봐야지! #@문장구분#인어의 이름은 엘리 라고한다.#@문장구분# 엘리도 내 말을 믿지는 않았는데 내가 계속 설명하니 믿어주었다.#@문장구분# 이런경우는 처음 이라고 한다. #@문장구분#사실 나에게는 일주일의 시간밖에 남지 않았다. #@문장구분#그래서 오늘부터 알아 보기로 했다.#@문장구분# 엘리가 몇일동안 수소문해서 알아 왔는데 그건 못된 문어 마녀를 한 짓 이라한다.#@문장구분# 당장 문어마녀한테 가서 따져야지.#@문장구분# 따지고 왔는데 장난으로 했다니?!#@문장구분# 문어바녀도 돌아가는 방법을 연구했는데, 무지개 미역이 필요하다고 해서 엘리랑 나랑 갔다오기로 했다. #@문장구분#구해왔다!#@문장구분# 큰일날뻔 했지만 어찌저찌해서 구해왔다.#@문장구분# 문어마녀도 물약을 다 만들었다고 했다. #@문장구분#이제 이 마다 속도 엘리랑도 안녕이네.... #@문장구분#잘 지내!#@문장구분# 눈 떠보니 집이다. #@문장구분#이제 행복한 시간 보내야지. #@문장구분#지금까지 저의 바다속 모험 이야기 였습니다.#@문장구분#",
+      "paragraph_len": 1322,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.85,
+      27.5,
+      22.65
+    ],
+    "essay_scoreT_avg": 22,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 바다에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 돌고래가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "저는 <문법_조사>바다에</문법_조사> 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 돌고래가 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제부터 모험 이야기를 간단하게 쓸 건데 일기처럼 쓸 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이제부터 <문법_맞춤법>모험이야기를</문법_맞춤법> 간단하게 쓸건데 일기처럼 쓸 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 어찌저찌 하다가 돌고래가 되어버렸다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 어찌저찌 하다가 돌고래가 <문법_맞춤법>되어 버렸다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 일단 물고기들과 친해져서 물어봐야지 물고기 친구들은 내 말을 믿지 않는다. ",
+      "sentence_corr_txt_styling": " 일단 물고기들과 친해져서 물어봐야지 물고기 친구들은 내 말을 믿지 않는다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 어? 저건 인어?",
+      "sentence_corr_txt_styling": " 어? 저건 인어?",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "헐 다가가 봐야지! ",
+      "sentence_corr_txt_styling": "헐 다가가 봐야지! ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "인어의 이름은 엘리라고 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "인어의 이름은 <문법_맞춤법>엘리 라고한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 엘리도 내 말을 믿지는 않았는데 내가 계속 설명하니 믿어주었다.",
+      "sentence_corr_txt_styling": " 엘리도 내 말을 믿지는 않았는데 내가 계속 설명하니 믿어주었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 경우는 처음이라고 한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>이런경우는</문법_맞춤법> 처음 이라고 한다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 오늘부터 알아보기로 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 오늘부터 <문법_맞춤법>알아 보기로</문법_맞춤법> 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엘리가 며칠동안 수소문해서 알아왔는데 그건 못된 문어 마녀가 한 짓이라고 한다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 엘리가 <문법_맞춤법>몇일동안 </문법_맞춤법>수소문해서 알아 왔는데 그건 못된 문어 <문법_조사>마녀를</문법_조사> 한 <문법_어미>짓 이라한다</문법_어미>.",
+      "sentence_corr_txt_styling": " 엘리가 며칠동안 수소문해서 알아왔는데 그건 못된 문어 마녀가 한 짓이라고 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 따지고 왔는데 장난으로 했다니?!",
+      "sentence_corr_txt_styling": " 따지고 왔는데 장난으로 했다니?!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 문어마녀도 돌아가는 방법을 연구했는데, 무지개 미역이 필요하다고 해서 엘리랑 나랑 갔다오기로 했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>문어바녀도</문법_기타> 돌아가는 방법을 연구했는데, 무지개 미역이 필요하다고 해서 엘리랑 나랑 갔다오기로 했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 큰일날 뻔 했지만 어찌저찌해서 구해왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>큰일날뻔</문법_맞춤법> 했지만 어찌저찌해서 구해왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이제 이 바닷속도 엘리랑도 안녕이네. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "이제 이 <문법_맞춤법>마다 속도</문법_맞춤법> 엘리랑도 <문법_기타>안녕이네....</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이제 행복한 시간을 보내야지. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0028",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "이제 행복한 <문법_조사>시간</문법_조사> 보내야지. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40002",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 745,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

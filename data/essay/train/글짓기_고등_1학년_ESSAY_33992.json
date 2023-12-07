@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 어렸을때 부모님께서 내가 할 수 있는 일, 내가 해야 할 일을 도와주고 해주는 것이 당연하다고 생각했던 것 같다.#@문장구분# 그래서 부모님께서 우리가 먹은것을 설거지하는 것, 과일을 잘라주시는 것, 음식물 쓰레기를 버리는 것 등의 나도 충분히 할 수 있고 도와줄 수 있는 일을 하는것은 부모님의 역할이라고 생각했던 것 같다.#@문장구분# 게다가 나는 귀찮음도 많은 성격이어서 쉬운 일도 잘하지 않고 시키면 화를 내었었던 기억이 있다.#@문장구분#그러다가 한번은 학교에 가져간 물통을 설거지하게 재때재때 내놓으라는 말을 너무 자주 잊어버려 내가 물통을 씻게 된적이 있다.#@문장구분# 그 물통 하나를 씻는것도 설거지를 많이 해본 경험이 없어 힘들고 귀찮았는데 부모님은 어떻게 그 많은 양의 그릇들을 매일 같이 씻고 힘든 티 하나 안내는 것이 존경스럽다는 생각을 했다.#@문장구분# 또 혼자있을 때 과일을 먹기 위해 껍질을 자르면서도 항상 아무말 없이 과일을 잘라주시는게 고맙다는 생각을 했다.#@문장구분# 그렇게 나는 사소한 것들도 아무 말 없이 해주시는 부모님들께 다시한번 고마움을 느끼게 되었고 꼭 그들만의 역할이 아니라는 것을 깨달았다.#@문장구분# 그 후로는 나도 시키는 일이 있으면 무조건 싫어하고 화를 내는 것이 아니라 최대한 돕기 위해 노력했고 익숙함에 속아 소중함을 잊지말자는 명언 (Do not get fooled by something familiar and forget what is priceless.) 처럼 행동하기 위해 노력했다.#@문장구분#",
+      "paragraph_len": 872,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.8333333,
+          2.8333333,
+          2.8333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.5,
+      25.777779,
+      27.166666
+    ],
+    "essay_scoreT_avg": 26.481482,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          1
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.13",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "051",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33992",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 713,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

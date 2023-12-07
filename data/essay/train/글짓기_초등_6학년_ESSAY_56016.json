@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아직 인간의 기술로는 매우 깊은 심연은 들여다보지 못했습니다.#@문장구분# 그래서 저는 매우 깊은 바닷속의 압력이나 열에도 끄덕없고 날쌘 물고기로 변해서 바닷속의 끝은 어디일지 한번 탐험해보고 싶습니다. #@문장구분#물론 천적하나 없이 누구에게도 먹힐 위험 없는 물고기로 변합니다.#@문장구분# 그렇게 무적 물고기로 변한 저는 바다의 밑으로 한없이 헤엄쳐갑니다.#@문장구분# 처음에는 푸른빛을 띄는 바다였지만 점점 내려갈수록 어두컴컴해지고 앞은 아무것도 보이지 않게 됩니다. #@문장구분#그리고 압력도 강해지고 온도도 점점 높아집니다. #@문장구분#그렇게 바다의 끝에 도달하면서 그곳에 사는 생물들과도 인터뷰를 합니다.#@문장구분# 우리가 몰랐던 존재도 있습니다. #@문장구분#아마 이 존재가 발견된다면 현재 과학계에 엄청난 빅 뉴스가 될 것입니다.#@문장구분# 역시 예상대로 바다 끝에는 엄청나고 신기한 것들이 많이 존재했습니다.#@문장구분# 하지만 얘기를 들어보니 너무 외롭고 심심하다는 말이 많습니다. #@문장구분#그래서 위로 올라가자고 요청했습니다.#@문장구분# 조만간 수위가 낮은 바다에서도 보일 예정입니다.",
+      "paragraph_len": 725,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24,
+      22.1,
+      21.85
+    ],
+    "essay_scoreT_avg": 22.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56016",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 486,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

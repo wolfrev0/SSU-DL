@@ -1,0 +1,249 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "\"패스트 시티\" 내가 생각하는 미래 도시의 이름이다.#@문장구분# 미래에는 지금보다 더 빠르게 일이 처리 될 것이다.#@문장구분# 지금도 한국에서는 모든 것이 빠르게 해결된다.#@문장구분# 그러나 사람들은 더 빠른 것들을 원하고 있다.#@문장구분# 잠깐만 인터넷이 안되거나 로딩이 걸려도 크게 화를 내고 10~15초의 광고를 기다리는 것이 힘들어서 돈을 결제한다.#@문장구분# 메일을 늦게 보거나 일이 늦게 처리 된다면 사람들은 큰 소리를 치기 시작한다.#@문장구분# 미래에서는 이렇게 일이 늦게 처리되는 현상이 아예 일어나지 않을 거 같다.#@문장구분# 모든 것들이 눈깜짝하면 해결될 것이다.#@문장구분# 쇼핑이나 물건을 구매할 때도 계산원이 일일히 계산하지 않고 자동으로 결제가 되고, 택배도 시키면 몇 시간 후에 집에 도착할 것이다.#@문장구분# 이처럼 빠르게 해결되는 거 때문에 문제도 일어나게 될 거 같다.#@문장구분# 빠른 일처리로 인한 오류같은 일들이 대표적일 것이다.#@문장구분# 그러나 지금보다 빠르게 일이 해결된다면 정말 편리할 거 같다.#@문장구분# 내가 생각한 패스트 도시같은 곳에서 꼭 살아보고 싶다.#@문장구분#",
+      "paragraph_len": 749,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      20.8,
+      24.4
+    ],
+    "essay_scoreT_avg": 25.066666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 미래에는 지금보다 더 빠르게 일이 처리될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래에는 지금보다 더 빠르게 일이 <문법_맞춤법>처리 될 것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 메일을 늦게 보거나 일이 늦게 처리된다면 사람들은 큰 소리를 치기 시작한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 메일을 늦게 보거나 일이 늦게 <문법_맞춤법>처리 된다면</문법_맞춤법> 사람들은 큰 소리를 치기 시작한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모든 것들이 눈 깜짝하면 해결될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모든 것들이 <문법_맞춤법>눈깜짝하면</문법_맞춤법> 해결될 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 쇼핑이나 물건을 구매할 때도 계산원이 일일이 계산하지 않고 자동으로 결제가 되고, 택배도 시키면 몇 시간 후에 집에 도착할 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 쇼핑이나 물건을 구매할 때도 계산원이 <문법_맞춤법>일일히</문법_맞춤법> 계산하지 않고 자동으로 결제가 되고, 택배도 시키면 몇 시간 후에 집에 도착할 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 빠른 일처리로 인한 오류 같은 일들이 대표적일 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 빠른 일처리로 인한 <문법_맞춤법>오류같은 </문법_맞춤법>일들이 대표적일 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각한 패스트 도시 같은 곳에서 꼭 살아보고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 생각한 패스트 <문법_맞춤법>도시같은</문법_맞춤법> 곳에서 꼭 살아보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71532",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 490,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나에게 가장 소중한 것은 가족 중에서도 특히 엄마인데, 큰 잘못을 했던 기억이 떠오른다.#@문장구분#",
+      "paragraph_len": 69,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 학원에서 집오는 길에 대중교통이나 엄마가 운전해주는 차를 타고 다니는데, 이동하는 시간이 꽤 길어서 항상 휴대폰 게임을 하면서 집에 오고는 했다.#@문장구분# 하루는 즐겨하던 휴대폰 게임이 내가 옛날부터 좋아하던 아이돌이랑 콜라보 상품을 내놓았고, 상품도 맘에 들고 추첨을 통해서 싸인도 선물로 준다고 하길래 내 용돈으로 사도 되는지 물었더니 엄마 카드가 연동되어 있으니 적당한 선에서 미리 말하면 그렇게 해주겠다고 했다.#@문장구분# 당첨은 되지 않았지만 상품이 너무 맘에 들어서 좋았던 기억이 있다.#@문장구분#",
+      "paragraph_len": 328,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 사실 여기까지는 별 이상한게 없는거 같지만 이 이후로 크게 잘못했던 것이 바로 최근 2차 콜라보 이벤트였다.#@문장구분# 이번 추석에 용돈을 꽤 많이 받았고 평소에는 꼭 저금을 해왔었는데 2차 콜라보 이벤트때 걸린 한정판 폴라로이드 싸인이 너무 맘에 드는 것이다.#@문장구분# 그래서 일주일동안 총 30만원 이라는 큰 금액을 사용한 것이다.#@문장구분# 그리고 문제는 이게 끝이 아니었다.#@문장구분# 나중에 드리면 되겠지 하고 선결제 후통보를 선택해버렸고 그 와중에 또 까먹고있었다.#@문장구분# 그렇게 잊고 산지 얼마 되지 않았을 때 휴대폰 고지서를 본 엄마는 처음으로 나한테 화를 냈다.#@문장구분# 금액이 큰 것도 큰 것이지만 약속을 안 지켰다는 점이 화가 났다고 하셨다.#@문장구분# 나도 변명 하는것도 너무 미안한 나머지 연신 죄송하다고 사과만 했던 기억이 있다.#@문장구분# 이 사건으로 나는 엄마와의 신뢰라는 가족관계에서 굉장히 중요한 부분을 잃을뻔했었다.#@문장구분# 다음부터는 학생이라는 본분에 맞게 행동하는 착한 아들이 되기로 결심했다.#@문장구분#",
+      "paragraph_len": 673,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.3333333,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2777777,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.1666667,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.2222223,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      27.11111,
+      25.055555,
+      28
+    ],
+    "essay_scoreT_avg": 26.722221,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "02",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_37711",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 795,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

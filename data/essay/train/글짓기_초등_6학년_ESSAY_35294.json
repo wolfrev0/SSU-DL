@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다는 정말 넓고 여러 생물이 있다.#@문장구분# 나는 많은 생물 중 에서 하나가 된다면 펭귄이 되어보고 싶다.#@문장구분# 펭귄은 물고기나 갑각류, 오징어가 먹이이고, 펭귄은 대부분이 남반구에 있고 한 종이 적도 부근에서 부근에서 발견된다.#@문장구분# 펭귄은 대부분의 시간을 바다에서 보낸다#@문장구분#하지만 해양 포유류와 같이 휴식을 취하기 위해, 번식을 위해, 새끼를 키우기 위해 육지로 올라간다.#@문장구분# 또 펭귄은 끊임없이 그들의 이웃에게 관심을 보인다.#@문장구분# 그리고 공격과 흥분상태의 동료를 진정 시키거나 무리속 한복판에 있는 동료나 자식을 인식하는 복잡한 행동이 발달되어 왔다,#@문장구분#펭귄은 먹이를 추적하고 있을때 깊게까지 가고 물 속에서 좀더 오래있는다.#@문장구분# 가장 오랜시간을 기록한 펭귄은 18분의 황제 펭귄이다.#@문장구분# 모든 펭귄은 해양환경에서의 생활에 적응된 해부학적 특성을 가진다. #@문장구분#견고하면서도 무거운 뼈를 가졌다.#@문장구분# 그리고 단단한 깃털은 방수 역할을 하고 완벽하게 물을 차단하는 물질을 생성한다.#@문장구분# 지금까지 펭귄에 대해 알아보았다.#@문장구분#",
+      "paragraph_len": 746,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      20,
+      22.5
+    ],
+    "essay_scoreT_avg": 20.300001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 나는 많은 생물 중에서 하나가 된다면 펭귄이 되어보고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 많은 생물 <문법_맞춤법>중 에서</문법_맞춤법> 하나가 된다면 펭귄이 되어보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 펭귄은 물고기나 갑각류, 오징어가 먹이이고, 펭귄은 대부분이 남반구에 있고 한 종이 적도 <스타일링_패러프레이징>부근에서 부근에서</스타일링_패러프레이징> 발견된다.",
+      "sentence_corr_txt_styling": " 펭귄은 물고기나 갑각류, 오징어가 먹이이고, 펭귄은 대부분이 남반구에 있고 한 종이 적도 부근에서 발견된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 펭귄은 대부분의 시간을 바다에서 보낸다.",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 펭귄은 대부분의 시간을 바다에서 <문법_기타>보낸다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 공격과 흥분 상태의 동료를 진정시키거나 무리 속 한복판에 있는 동료나 자식을 인식하는 복잡한 행동이 발달되어 왔다,",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 공격과 <문법_맞춤법>흥분상태의 동료를 진정 시키거나 무리속</문법_맞춤법> 한복판에 있는 동료나 자식을 인식하는 복잡한 행동이 발달되어 왔다,",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "펭귄은 먹이를 추적하고 있을 때 깊게까지 가고 물 속에서 좀 더 오래 있는다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "펭귄은 먹이를 추적하고 <문법_맞춤법>있을때</문법_맞춤법> 깊게까지 가고 물 속에서 좀더 오래있는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가장 오랜 시간을 기록한 펭귄은 18분의 황제 펭귄이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가장 <문법_맞춤법>오랜시간을</문법_맞춤법> 기록한 펭귄은 18분의 황제 펭귄이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모든 펭귄은 해양 환경에서의 생활에 적응된 해부학적 특성을 가진다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모든 펭귄은 <문법_맞춤법>해양환경에서의</문법_맞춤법> 생활에 적응된 해부학적 특성을 가진다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35294",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 488,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

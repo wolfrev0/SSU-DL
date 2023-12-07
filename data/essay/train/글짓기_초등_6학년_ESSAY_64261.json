@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "오징어 게임이 온 세상에 난리가 났습니다. #@문장구분#마른 오징어 구워서 질겅질겅 씹으면 짭쪼름하면서 구수한 맛이 정말 좋습니다.#@문장구분# 저는 오징어 게임을 직접 해보지는 못했습니다. #@문장구분#방법도 모르고요. #@문장구분#그런데 제가 좋아하는 간식이고 전세계적으로 인기를 받다보니 저도 오징어가 되어 보고 싶습니다.#@문장구분#\n 바다가 점점 따뜻해져서 이제 동해를 떠나야 할 것 같다. #@문장구분#정들었던 독도도 이제는 다시 못 볼지도 모르겠구나! 더 추운 북쪽 바다로 가면 새로운 세상이 펼쳐지겠지.#@문장구분# 먼 길을 떠나기 위해 에너지를 축적하려면 내 두 촉수를 더 열심히 사용해야겠다. 오늘도 작은 물고기 두 마리나 사냥에 성공했다. #@문장구분#물론 천적을 피하려고 먹물을 사용해 버려서 조금 아쉽기는 하지만 말이다. #@문장구분#한번 먹물을 사용하면 다시 충전하는데 시간이 오래 걸리니까 주의를 기울여서 사용해야겠다. #@문장구분#이것도 이제 익숙해 지니까 조절이 어느 정도 가능해진 것 같다. #@문장구분#내 몸에 맞는 수온을 찾아 안전한 영역을 찾아낼 때 까지 최선을 다해서 헤엄쳐 나가야 겠다.#@문장구분#",
+      "paragraph_len": 738,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.75,
+      25.45,
+      27.75
+    ],
+    "essay_scoreT_avg": 27.316666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_64261",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 499,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

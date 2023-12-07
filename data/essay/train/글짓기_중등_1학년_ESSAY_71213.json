@@ -1,0 +1,200 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래의 도시는 상상도 못할 만큼 발전해있을거 같다.#@문장구분# 지금 유행하는 것 중 하나가 '애플워치'라는 블루투스 기계이다.#@문장구분# 휴대폰과 연결해놓으면 휴대폰을 켜지 않아도 휴대폰으로 온 알람 내용을 확인한다거나, 전화를 받을 수 있다던가, 운동을 하면 운동량과 권장량 등을 알려주는 등. 블루투스 기계는 애플워치 말고도 에어팟, 갤럭시 버즈 등등 다양한 회사에서 가지각색의 블루투스 기계가 쏟아져 나오고 있다.#@문장구분# 이 블루투스 기계는 우리의 삶을 편리하게 만들어주는데, 미래 도시에는 이런 악세서리 느낌의 블루투스 기계가 아닌, 집이나 회사와 밀접하게 연결되어 사회의 주축을 담당할 거 같다.#@문장구분# 집과 연결하면 집안일 등과 같은 일을 제어할 수 있고, 회사와 연결된다면 회사에 가지 않더라도 회의 내용을 저절로 컴퓨터에 저장시켜 놓는다거나 내가 해야할 일을 실시간으로 집 컴퓨터 혹은 개인용 휴대전화로 옮길 수 있을 거 같다.#@문장구분# 나는 이러한 미래 사회를 <연결된 우리>라고 이름을 붙이고 싶다.#@문장구분#",
+      "paragraph_len": 614,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      25.6,
+      20.5
+    ],
+    "essay_scoreT_avg": 22.033333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          1,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래의 도시는 상상도 못할 만큼 발전해 있을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미래의 도시는 상상도 못할 만큼 <문법_맞춤법>발전해있을거 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 블루투스 기계는 우리의 삶을 편리하게 만들어주는데, 미래 도시에는 이런 액세서리 느낌의 블루투스 기계가 아닌, 집이나 회사와 밀접하게 연결되어 사회의 주축을 담당할 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이 블루투스 기계는 우리의 삶을 편리하게 만들어주는데, 미래 도시에는 이런 <문법_맞춤법>악세서리 </문법_맞춤법>느낌의 블루투스 기계가 아닌, 집이나 회사와 밀접하게 연결되어 사회의 주축을 담당할 거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집과 연결하면 집안일 등과 같은 일을 제어할 수 있고, 회사와 연결된다면 회사에 가지 않더라도 회의 내용을 저절로 컴퓨터에 저장시켜 놓는다거나 내가 해야 할 일을 실시간으로 집 컴퓨터 혹은 개인용 휴대전화로 옮길 수 있을 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집과 연결하면 집안일 등과 같은 일을 제어할 수 있고, 회사와 연결된다면 회사에 가지 않더라도 회의 내용을 저절로 컴퓨터에 저장시켜 놓는다거나 내가 <문법_맞춤법>해야할 </문법_맞춤법>일을 실시간으로 집 컴퓨터 혹은 개인용 휴대전화로 옮길 수 있을 거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71213",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 488,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

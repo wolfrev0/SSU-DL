@@ -1,0 +1,213 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 절대로 늙지 않은 기구가 생길 것이다.#@문장구분# 연예인이나 외모를 가꾸는 것에 관심이 많은 사람들은 모두 원래의 나이보다 어려보이는 일이 많다.#@문장구분# 많은 사람들이 늙는 것에 무서움을 느끼는 것 같다.#@문장구분# 그렇기 때문에 미래에는 절대 늙지 않는 기구가 생길 거 같다.#@문장구분# 주름이 생기고 피부가 늘어지는 거같은 것들을 주름을 없애도 피부를 다시 20대처럼 되돌리는 기술이 생겨서  이 기술을 기구에 넣어서 그 기구에 누워만 있어도 어려지는 기구가 생길 것이다.#@문장구분# 그렇게 된다면 모든 사람들이 20대처럼 젊고 예쁜 외모를 가질 거 같다.#@문장구분# 하지만 조금 무서울 수도 있을 거같다.#@문장구분# 모두 젊은 얼굴만 가지고 있고 누가 몇 살인지 알 수도 없을 거같기 때문이다.#@문장구분# 나의 할머니, 할아버지, 엄마, 아빠, 남동생 모두 어린 얼굴을 가지고 있다면 조금 무서울 거같다.#@문장구분# 늙은 얼굴을 가지는 게 꼭 나쁜 일만은 아닌거 같다는 생각을 했다.#@문장구분#",
+      "paragraph_len": 650,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      23.2,
+      21.6
+    ],
+    "essay_scoreT_avg": 22.4,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 하지만 조금 무서울 수도 있을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 조금 무서울 수도 있을 <문법_맞춤법>거같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모두 젊은 얼굴만 가지고 있고 누가 몇 살인지 알 수도 없을 것 같기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모두 젊은 얼굴만 가지고 있고 누가 몇 살인지 알 수도 없을 <문법_맞춤법>거같기</문법_맞춤법> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나의 할머니, 할아버지, 엄마, 아빠, 남동생 모두 어린 얼굴을 가지고 있다면 조금 무서울 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나의 할머니, 할아버지, 엄마, 아빠, 남동생 모두 어린 얼굴을 가지고 있다면 조금 무서울 <문법_맞춤법>거같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 늙은 얼굴을 가지는 게 꼭 나쁜 일만은 아닌 것 같다는 생각을 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 늙은 얼굴을 가지는 게 꼭 나쁜 일만은 <문법_맞춤법>아닌거 같다는</문법_맞춤법> 생각을 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60192",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 451,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

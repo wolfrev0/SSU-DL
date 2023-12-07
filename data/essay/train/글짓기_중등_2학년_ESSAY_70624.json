@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래에 마더 테레사 같은 투철한 봉사정신을 가지고 해외로 나가서 의료봉사를 하고 싶다.#@문장구분# 평소 해외의 어려워 하는 불우이웃의 영상을 많이 본 적이 있는데 나와 또래인 어린 아이들이 굶주려 하고 전염병에 걸려 죽어나가고 있지만 돈이 없어 치료를 마땅히 받지 못하는 현실에 안타까운 마음이 들었다.#@문장구분#그래서 나는 이러한 사실을 외면하고 있어서는 안 된다고 생각했다. #@문장구분#처음에는 돈으로 기부를 해야하나 라고 생각했지만 직접적으로 불우이웃을 도울 수 있는 방법이 무엇이 있을까 생각해보았다.#@문장구분# 이런 생각을 통해 나는 미래에 의학을 공부하여 유능한 의사가 되어 해외에서 무료로 많은 아이들을 치료해줄 수 있는 멋진 사람이 되고 싶다 라는 다짐을 할 수 있었다.#@문장구분# 쉽지 않은 일이라는 것을 잘 알고 있고, 이러한 봉사를 하게 되면서 내가 잃을 것이 얼마나 많은지도 알고 있지만 많은 아이들이 돈이 없다는 이유로 제대로 된 치료를 받지도 못하고 죽고 있다는 사실이 너무 마음이 아팠다. #@문장구분#때문에 30년 뒤에 나는 해외로 가서 아무런 보상도 바라지 않고 봉사하는 마음으로 임하는 마더 테레사를 본받아 의료봉사를 하는 의사가 되고 싶다.#@문장구분#",
+      "paragraph_len": 707,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      30,
+      30
+    ],
+    "essay_scoreT_avg": 28.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.27",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_70624",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 569,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

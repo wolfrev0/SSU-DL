@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다에서 딱 일주일 동안 바다생물이 될수있다면 고래가되고싶다. #@문장구분#외냐하면 고래가되면 크기가크기때문에 바다의 포식자인상어한테 잡아먹히지않기때문이다. #@문장구분#그리고 위험에처한 바다생물을 도와줄수도있기때문이다. #@문장구분#그리고 고래가되어서 다양한바다생물을 보고싶고 그리고 다른 바다생물이 어떡게생겼는지 어떻게 생활하는지보고싶다. #@문장구분#그리고 고래가되어서 바다에는 무엇이있는지모험을하고싶다. #@문장구분#그리고 바다를 헤엄치면서 고래는무엇을 먹고 또 다른바다생물들도 무엇을 먹는지 보고싶다. #@문장구분#그리고 작은바다생물들이 사냥을 어떡게하는지도 보고싶고 상어도 어떡게 사냥하는지도 보고싶다. #@문장구분#그리고 작은동물은 얼마나 작은지보고싶다. #@문장구분#그리고 큰바다생물은 얼마나 큰지보고싶고 사냥하는것도보고 사냥을 어떡게 하는지 배에서 직접 내가사냥을 해보고 싶다. #@문장구분#그리고 어부들이 낙시를해 위험에 처했을때에는 작은동물들은 어떡게숨는지 궁금하고 그리고 큰 바다생물은 어떡게 숨는지 궁금하다. #@문장구분#왜냐하면 큰 바다생물은 도망가도 크기가 커서 숨을곳이 거의 없으니까 어떡해 숨는지 궁금하다.",
+      "paragraph_len": 710,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      28.4,
+      26
+    ],
+    "essay_scoreT_avg": 27.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.22",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "054",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다에서 딱 일주일 동안 바다생물이 될 수 있다면 고래가 되고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다에서 딱 일주일 동안 바다생물이 <문법_맞춤법>될수있다면 고래가되고싶다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 고래가 되면 크기가 크기 때문에 바다의 포식자인 상어한테 잡아먹히지 않기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>외냐하면 고래가되면 크기가크기때문에 바다의 포식자인상어한테 잡아먹히지않기때문이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 위험에 처한 바다생물을 도와줄 수도 있기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>위험에처한 바다생물을 도와줄수도있기때문이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 고래가 되어서 다양한 바다생물을 보고 싶고 그리고 다른 바다생물이 어떻게 생겼는지 어떻게 생활하는지 보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>고래가되어서 다양한바다생물을 보고싶고 그리고 다른 바다생물이 어떡게생겼는지 어떻게 생활하는지보고싶다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 고래가 되어서 바다에는 무엇이 있는지 모험을 하고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>고래가되어서 바다에는 무엇이있는지모험을하고싶</문법_맞춤법>다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 바다를 헤엄치면서 고래는 무엇을 먹고 또 다른 바다생물들도 무엇을 먹는지 보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 바다를 헤엄치면서 <문법_맞춤법>고래는무엇을 먹고 또 다른바다생물들도 무엇을 먹는지 보고싶다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 작은 바다생물들이 사냥을 어떻게 하는지도 보고 싶고 상어도 어떻게 사냥하는지도 보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>작은바다생물들이 사냥을 어떡게하는지도 보고싶고 상어도 어떡게 사냥하는지도 보고싶다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 작은 동물은 얼마나 작은지 보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>작은동물은 얼마나 작은지보고싶다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 큰 바다생물은 얼마나 큰지 보고 싶고 사냥하는 것도 보고  사냥을 어떻게 하는지 배에서 직접 내가 사냥을 해보고 싶다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고<문법_맞춤법> 큰바다생물은 얼마나 큰지보고싶고 사냥하는것도보고 사냥을 어떡게 하는지 배에서 직접 내가사냥을 해보고</문법_맞춤법> 싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 어부들이 낚시를 해 위험에 처했을 때에는 작은 동물들은 어떻게 숨는지 궁금하고 그리고 큰 바다생물은 어떻게 숨는지 궁금하다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 <문법_맞춤법>어부들이 낙시를해 위험에 처했을때에는 작은동물들은 어떡게숨는지 궁금하고 그리고 큰 바다생물은 어떡게 숨는지</문법_맞춤법> 궁금하다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 큰 바다생물은 도망가도 크기가 커서 숨을 곳이 거의 없으니까 어떻해 숨는지 궁금하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 큰 바다생물은 <문법_맞춤법>도망가도 크기가 커서 숨을곳이 거의 없으니까 어떡해 숨는지</문법_맞춤법> 궁금하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_65074",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 511,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

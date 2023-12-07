@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 자연과 조화를 이루며 살아갈 필요가 있습니다.#@문장구분# 그리고 과학자들은 자연과 조화로운 발전을 이루기 위해서 노력을 하면서 연구를 진행하고 있습니다.#@문장구분# 이런 걸 보았을 때 미래는 자연과 조화를 이루는 도시가 되지 않을까요?#@문장구분# 그래서 도시는 초록색이 많이 보일 것 같습니다.#@문장구분# 이름은 그린 도시가 될 거 같습니다.#@문장구분# 나무가 많아서 산으로 가지 않아도 산에 간 거 같은 기분을 느낄 수 있을 것 같습니다.#@문장구분# 그리고 동물들을 위한 공간도 많이 생기지 않을까요?#@문장구분# 그러면 도시 경관은 자연스럽게 아름다워지고 공기도 좋아질 것 같습니다.#@문장구분# 환경을 생각해야 하니까 화석연료도 적게 쓸 겁니다.#@문장구분# 그럼 매연도 줄어들어서 공기가 좋아질 겁니다.#@문장구분# 또 매연을 내뿜는 자동차들 보다는 전기차나 수소 연료 자동차가 많이 돌아다니게 될 거 같습니다.#@문장구분# 미래의 도시는 자연 도시가 될 거라고 생각합니다.#@문장구분#",
+      "paragraph_len": 666,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.5,
+      28.4,
+      22.25
+    ],
+    "essay_scoreT_avg": 24.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71220",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 426,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

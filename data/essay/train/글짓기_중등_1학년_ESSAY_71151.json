@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 자율주행자동차를 일반인들도   이용할 수 있게 되고 많은 자동차들에 기본적으로 자율주행시스템이 들어가서 자동차들이 알아서 운전을 하여 교통사고도 줄어들고, 운전자들도 편하게   자동차를 탑승할 수 있는 일들이 생길 것이라고 생각한다.#@문장구분# 이것뿐만이 아니라 우리가 해외여행을 가기 위해 비행기를 타듯 달나라여행을 가기 위해 로켓을 타고 다닐 수도 있다고 생각한다.#@문장구분# 내가 이러한 이동수단에 큰 발전이 있을 것이라고 생각한 이유는 우리가 지금 우리가 이런 이동수단을 발달 시켜야 다른 나라와의 교류도 활성화 할 수 있고 혹시나 외계의 어떤 행성과의 교류가 활성화 된다면 우리가 얻을 수 있는 것이 클 것이라고 생각했기 때문이다.#@문장구분# 내가 생각하는 미래도시의 이름은 자유인데, 미래에는 이처럼   다양한 이동수단으로 자유롭게 이동이   가능할 것이라고 생각했기 때문이다.#@문장구분# 개인적으로 도라에몽이라는 만화에서 어디로든 문이라는 능력을 보면서 항상   나에게 어디로든 문이 생겼으면 좋겠다는 생각을 했었는데, 미래에는 이 같은 텔레포트도 발전해서 어디로든 다녔으면 좋겠다는 생각을 했다.#@문장구분#",
+      "paragraph_len": 646,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.15,
+      27.6,
+      26
+    ],
+    "essay_scoreT_avg": 26.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71151",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 546,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

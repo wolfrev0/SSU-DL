@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 사람들의 머리카락을 책임지는 미용사가 되고 싶습니다. #@문장구분#어릴 때부터 인형 놀이를 좋아하고 인형의 머리카락을 다양하게 묶어주며 놀았습니다. #@문장구분#요즘엔 친구들의 머리를 땋아주고 빗어주며 쉬는 시간을 보낼 때도 많습니다.#@문장구분# 머리카락을 만져주는 것을 좋아하고 친구들이 놀러 간다고 하면 머리카락에 웨이브도 넣어줍니다. #@문장구분#그래서 저는 미용을 하는 고등학교에 진학을 하려합니다. #@문장구분#미용고에 진학을 해서 헤어와 피부를 함께 겸비한 미용사를 준비하여 고등학교 입학 후 최대한 빨리 취업을 할 것입니다.#@문장구분# 10년 뒤에는 제가 미용실에서 계약을 하고 미용사를 하며 자금을 모아, 20년 뒤에는 모은 돈과 대출을 받은 돈으로 저만의 미용실을 동네에 작게 차릴 것이고, 30년 뒤에는 동네에서 가장 오래되고 단골도 많은 미용실 가게 사장님이 될 것입니다. #@문장구분#비록 아직은 친구들의 머리를 땋아주고 고데기를 해주는 정도이지만 여기에서도 충분히 재미를 보고 있기 때문에 염색을 해주고, 파마를 하는 방식에서도 재미를 느낄 것입니다.#@문장구분# 미용사가 되기 위해 노력하는 사람이 되겠습니다.",
+      "paragraph_len": 688,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.3333333,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.111111,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.333332,
+      23.944445,
+      24.055555
+    ],
+    "essay_scoreT_avg": 25.111113,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "043",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_72787",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 528,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

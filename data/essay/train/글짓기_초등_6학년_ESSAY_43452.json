@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 관심있는 바다생물은 고등어이다.#@문장구분# 왜냐하면 솔직히 고등어구이를 좋아하고 또 요즘 방사능 때문이다.#@문장구분# 그럼 이야기를 시작해 보겠다.#@문장구분#\n 나의 이름은 고등어.#@문장구분# 나는 지금 바다에 살고있어.#@문장구분# 그런데 예전부터 인간들이 우리 가족들과 친구들을 데려가는 것 같다.#@문장구분# 그래도 요즘엔 덜 사라지는 것 같기도 하다.#@문장구분# 한결 다행이라고 생각된다.#@문장구분# 갑자기 바다가 무언가 이상해진 느낌이다.#@문장구분# 멀리 인간들의 이야기를 들어보니 일본인가 뭐시긴가가 바다에 방사능을 방출했다고한다.#@문장구분# 그래서 요즘 가족들과 친구들이 덜 사라지는 것 같다.#@문장구분# 하지만 그래도 많은 고등어들이 사라지고있다.#@문장구분# 오늘은 나의 형제들 중 한명이 사라졌다.#@문장구분# 부모님께 물어봤더니 인간들에게 잡혀갔다고한다.#@문장구분# 그러시더니 눈물을 훔치셨다.#@문장구분# 평소에는 잘 보지도 않았던 형제지만 잡혀갔다하니 보고싶다 형제야.#@문장구분#",
+      "paragraph_len": 727,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.35,
+      30
+    ],
+    "essay_scoreT_avg": 28.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_43452",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 408,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

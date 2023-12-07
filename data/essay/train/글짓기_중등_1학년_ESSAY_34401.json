@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시의 모습은 건물이 높게 지어져 있고 자동차들이 도로가 아니라 하늘에서 주행을 할 것 같다.#@문장구분# 현재 지금은 높은 건물이나 아파트가 있기는 하지만 엄청 많지는 않지만 미래에는 빌라나 낮은 건물들은 없어지고 50층이 넘는 아파트는 기본일 것 같고 아파트에 있는 엘레베이터는 지금 처럼 천천히 올라가지 않고 자기 집의 층수를 누르면 0.5초 만에 그 층에 도착 할 것 같다.#@문장구분# 또 층마다 여러개의 집이 아니라 층하나당 자기집 한 채 일 것 같다.#@문장구분# 기술이 발달 되어 자동차가 하늘 주행이 가능해져 하늘을 주행 할 수 있는 자동차가 흔해지면 자동차들은 도로와 하늘을 떠다니며 주행을 할 것 같다.#@문장구분# 또한 하늘 주행이 가능한 자동차가 많아지면 지금같은 지하주차장이 아니라 하늘에 있는 하늘주차장이 생겨 자동차들이 하늘에 주차를 할 것 같다.#@문장구분# 하지만 자동차가 주차를 하지 않고 있었다가 없었다가 조작이 가능해지면 주차장은 사라져 버릴 것 이다.#@문장구분# 내가 생각하는 미래 도시의 모습은 건물과 아파트가 높게 지어져있고 엘레배이터는 순식간에 도착이 가능해지고 자동차는 도로에 있지 않고 하늘로 주행을 할 것 같다.#@문장구분#",
+      "paragraph_len": 704,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.5,
+      28.5,
+      22.65
+    ],
+    "essay_scoreT_avg": 25.550001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          1
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_34401",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 564,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

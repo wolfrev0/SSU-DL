@@ -1,0 +1,214 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래에 크리에이터가 되어 성공하고 싶습니다.#@문장구분# 크리에이터는 요즘 인기가 매우 많은 직업으로, 각자의 독창성과 개성으로 사람들이 재미 또는 흥미를 느끼게 하는 것이 가장 중요한 일입니다.#@문장구분# 스스로도 즐기며 할 수 있기 때문에 더욱 크리에이터라는 직업에 매력을 느낄 수 있었습니다.#@문장구분# \n 크리에이터는 나이와 상관없이 누구나 될 수 있어서 10년 후 나는 이미 크리에이터가 되어 있을 것입니다.#@문장구분# 주로 '브이로그'나 먹는 방송을 중심으로 사람들과 소통하고 싶습니다.#@문장구분# ",
+      "paragraph_len": 357,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 20년 후에는 구독자 수가 늘어 나름 인기있고 유명한 크리에이터가 되어 있을 것입니다.#@문장구분# 그리고 트렌드에 맞추어 사람들의 기호와 수요가 어떻게 되는지 알아보고 나름의 연구를 통해 더욱 대중성 있는 콘텐츠를 제작하려 노력할 것입니다.#@문장구분# ",
+      "paragraph_len": 170,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 30년 후에는 여러 크리에이터와 만나 축제에 참여하고 싶습니다.#@문장구분# 또한, 대중성을 넘어 독창적인 콘텐츠로 사람들의 마음을 사로잡을 것입니다.#@문장구분# 구독자들과 직접 만나보는 자리를 가져 화면 너머로가 아닌 대면으로도 소통해보고 싶습니다.#@문장구분# 또, 자극적인 다른 미디어와 다르게 건강하고 건전한 미디어를 제작하려 노력할 것입니다.",
+      "paragraph_len": 237,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.888889,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.888889,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.6666667,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.888889,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      27.777779,
+      27.61111,
+      29.555555
+    ],
+    "essay_scoreT_avg": 28.314814,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.13",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_78015",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 569,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

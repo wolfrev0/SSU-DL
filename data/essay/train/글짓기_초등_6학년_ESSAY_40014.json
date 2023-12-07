@@ -1,0 +1,482 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다는 지구 표면의 약70%를 차지한다고 한다.#@문장구분# 그 속에는 아주 많고 신기한 생물들이 무수히 많이 살고있는데 내가 바다에서 딱 일주일 동안 산다면 아주 예쁘고 투명한 해파리가 되고 싶다.#@문장구분# 나는 해파리가 정말 신기한 생물이라고 생각한다.#@문장구분#           \n왜냐하면 독도있고 투명하고 움직이는게 꽃 같기 때문이다.#@문장구분#        \n어쩌면 나는 어른이 되어서 해파리를 큰 수조에 놓고 키우고 싶을 지도 모른다.#@문장구분# 이 에세이의 주제처럼 딱 일주일 만 바다에서 사는것은 너무 조금 일것 같다는 생각도 든다.#@문장구분#    \n내가 해파리가 되어서 지금 바다 속을 돌아다니고 있다면 바다속을 구경하고 여행을 해볼 것이다. #@문장구분#나는 항상 바다생물이 깊은 바다속에서 어떻게 사는지 궁금하다.#@문장구분#아마도 지금나처럼 돌아다니겠지?#@문장구분# 또, 해파리가 되어서 다른 해파리들 한테 옷좀 입으라고 하고싶었다. #@문장구분#해파리들은 몸이랑 몸속이다 투명해서 몸안이 다 보여서 많이 쑥스러울 것도 같다.#@문장구분# 해파리들 종류도 다양한데 그 많은 해파리들이 있는데 거의 몸속이 투명하고 피가 붉은 색이 아니다.#@문장구분# 나는 지금 해파리고 바다속에 살고 있는 생물이니까 천으로 만든옷을 입기에는 천이 젖어서 무거울거같다.#@문장구분# 그래서 바다속에 사는 해초들이나 미역들로 몸을 감아서 옷을만드는것도 괜찮을것 같다. #@문장구분#옷입는것 말고도 하고 싶은것이 한개더 있다. #@문장구분#바다속에서 살고있는 생물들과 말해보고 또다른 신비한 생물들도 만나보는것이다.#@문장구분# 내가 해파리가되어서 가장 만나보고 싶은생물은 해마랑 새우이다.#@문장구분# 해마는 특이하게 생겨서이고, 새우는 살아있는 걸보지 못해서 바다에서는 어떻게 헤엄치고 다닐지 궁금하기 때문이다.#@문장구분# 내가 같이 말해보고 싶은 생물은 해파리이다.#@문장구분# 나와 똑같지만 어떤신호를 통해 말하는지 궁금하다.#@문장구분# 이렇게 바다를 탐험하고 생물들과 놀다보면 일주일이 1시간 처럼 갈것같다. #@문장구분#나의 바다속 여행 끝!#@문장구분#",
+      "paragraph_len": 1341,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      27.75,
+      24.4
+    ],
+    "essay_scoreT_avg": 26.716667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다는 지구 표면의 약 70%를 차지한다고 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다는 지구 표면의 <문법_맞춤법>약70%를</문법_맞춤법> 차지한다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 속에는 아주 많고 신기한 생물들이 무수히 많이 살고 있다. 내가 바다에서 딱 일주일 동안 산다면 아주 예쁘고 투명한 해파리가 되고 싶다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그 속에는 아주 많고 신기한 생물들이 무수히 많이 <문법_맞춤법><문법_어미>살고있는데</문법_어미></문법_맞춤법> 내가 바다에서 딱 일주일 동안 산다면 아주 예쁘고 투명한 해파리가 되고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "           \n왜냐하면 독도 있고 투명하고 움직이는 게 꽃같기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "           \n왜냐하면 <문법_맞춤법>독도있고</문법_맞춤법> 투명하고 움직이는게 꽃 같기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "        \n어쩌면 나는 어른이 되어서 해파리를 큰 수조에 놓고 키우고 싶을 지도 모른다.",
+      "sentence_corr_txt_styling": "        \n어쩌면 나는 어른이 되어서 해파리를 큰 수조에 놓고 키우고 싶을 지도 모른다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이 에세이의 주제처럼 딱 일주일만 바다에서 사는 것은 너무 조금일 것 같다는 생각도 든다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "불필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 이 에세이의 주제처럼 딱 일주일 만 바다에서 사는것은 너무 <문법_맞춤법>조금 일것</문법_맞춤법> 같다는 생각도 든다.",
+      "sentence_corr_txt_styling": " 이 에세이의 주제처럼 딱 일주일만 바다에서 사는 것은 너무 조금일 것 같다는 생각도 든다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "    \n내가 해파리가 되어서 지금 바닷속을 돌아다니고 있다면 바닷속을 구경하고 여행을 해볼 것이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "    \n내가 해파리가 되어서 지금 <문법_맞춤법>바다 속을</문법_맞춤법> 돌아다니고 있다면 바다속을 구경하고 여행을 해볼 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 항상 바다생물이 깊은 바닷속에서 어떻게 사는지 궁금하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 항상 바다생물이 깊은 <문법_맞춤법>바다속에서</문법_맞춤법> 어떻게 사는지 궁금하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또, 해파리가 되어서 다른 해파리들한테 옷 좀 입으라고 하고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 또, 해파리가 되어서 다른 <문법_맞춤법>해파리들 한테</문법_맞춤법> 옷좀 입으라고 <문법_시제>하고싶었다</문법_시제>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "해파리들은 몸이랑 몸속이 다 투명해서 몸안이 다 보여서 많이 쑥스러울 것도 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "해파리들은 몸이랑 <문법_맞춤법>몸속이다</문법_맞춤법> 투명해서 몸안이 다 보여서 많이 쑥스러울 것도 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 해파리들 종류도 다양한데 그 많은 해파리들이 있는데 거의 몸속이 투명하고 피가 붉은 색이 아니다.",
+      "sentence_corr_txt_styling": " 해파리들 종류도 다양한데 그 많은 해파리들이 있는데 거의 몸속이 투명하고 피가 붉은 색이 아니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 지금 해파리고 바닷속에 살고 있는 생물이니까 천으로 만든 옷을 입기에는 천이 젖어서 무거울 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 지금 해파리고 <문법_맞춤법>바다속에</문법_맞춤법> 살고 있는 생물이니까 천으로 만든옷을 입기에는 천이 젖어서 무거울거같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 바다속에 사는 해초들이나 미역들로 몸을 감아서 옷을 만드는 것도 괜찮을 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 바다속에 사는 해초들이나 미역들로 몸을 감아서 <문법_맞춤법>옷을만드는것도</문법_맞춤법> 괜찮을것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "옷 입는 것 말고도 하고 싶은 것이 한 개 더 있다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>옷입는것</문법_맞춤법> 말고도 하고 싶은것이 한개더 있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "바닷속에서 살고 있는 생물들과 말해보고 또 다른 신비한 생물들도 만나보는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>바다속에서</문법_맞춤법> 살고있는 생물들과 말해보고 또다른 신비한 생물들도 만나보는것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 해파리가 되어서 가장 만나보고 싶은 생물은 해마랑 새우이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법>해파리가되어서</문법_맞춤법> 가장 만나보고 싶은생물은 해마랑 새우이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해마는 특이하게 생겨서이고, 새우는 살아있는 걸 보지 못해서 바다에서는 어떻게 헤엄치고 다닐지 궁금하기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 해마는 특이하게 생겨서이고, 새우는 살아있는 <문법_맞춤법>걸보지</문법_맞춤법> 못해서 바다에서는 어떻게 헤엄치고 다닐지 궁금하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " 내가 같이 말해보고 싶은 생물은 해파리이다.",
+      "sentence_corr_txt_styling": " 내가 같이 말해보고 싶은 생물은 해파리이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나와 똑같지만 어떤 신호를 통해 말하는지 궁금하다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나와 똑같지만 <문법_맞춤법>어떤신호를</문법_맞춤법> 통해 말하는지 궁금하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이렇게 바다를 탐험하고 생물들과 놀다보면 일주일이 1시간처럼 갈 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이렇게 바다를 탐험하고 생물들과 놀다보면 일주일이 <문법_맞춤법>1시간 처럼</문법_맞춤법> 갈것같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나의 바닷속 여행 끝!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나의 <문법_맞춤법>바다속</문법_맞춤법> 여행 끝!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40014",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 903,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

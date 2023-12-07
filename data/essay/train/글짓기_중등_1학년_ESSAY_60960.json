@@ -1,0 +1,215 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 상상하고 꿈꿔오던 미래도시는 사람과 동물이 공존하는 도시입니다.#@문장구분#",
+      "paragraph_len": 58,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 지금 세상은 사람의 점령에 의해 동물들이 살 곳을 잃어가고 있습니다.#@문장구분# 하지만 제가 생각하고 있는 미래도시는 조금 다릅니다.#@문장구분# 동물은 동물 나름대로의 영역에서 살고 사람은 사람 나름대로의 도시에서 살며 서로가 공존하며 행복하게 사는 도시를 꿈꿉니다.#@문장구분# 인간은 지구의 주인이 아니기에 그들에게 빼앗온 것을 결국은 돌려주어야 합니다.#@문장구분# 그렇기 때문에 더 이상은 약탈은 그만두고 같이 살아가는 방법을 모색해야 한다고 생각합니다.#@문장구분# 그런 도시가 바로 제가 생각하고 꿈꿔왔던 미래도시라고 말할 수 있겠습니다.#@문장구분# 그런 도시가 온다면 저는 아주 행복하고 저뿐만아니라 모든사람과 모든 동물이 행복한 삶을 살 수 있지 않을까라는 생각이 들기도 합니다.#@문장구분#",
+      "paragraph_len": 490,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      25.35,
+      21.8,
+      19.75
+    ],
+    "essay_scoreT_avg": 22.300001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 인간은 지구의 주인이 아니기에 그들에게 빼앗은 것을 결국은 돌려주어야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인간은 지구의 주인이 아니기에 그들에게 <문법_맞춤법>빼앗온</문법_맞춤법> 것을 결국은 돌려주어야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 도시가 온다면 저는 아주 행복하고 저뿐만 아니라 모든사람과 모든 동물이 행복한 삶을 살 수 있지 않을까 하는 생각이 들기도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 도시가 온다면 저는 아주 행복하고 저뿐만아니라 모든사람과 모든 동물이 행복한 삶을 살 수 있지 <문법_맞춤법>않을까라는</문법_맞춤법> 생각이 들기도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60960",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 391,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

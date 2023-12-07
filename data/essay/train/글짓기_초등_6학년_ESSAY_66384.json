@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다거북은 멋지다. #@문장구분#열대어들이있는 바다에 가면 예쁜 열대어들과 헤엄칠수있고 예쁜 바닷속에서 원하는 만큼 자유롭게 헤엄칠수있다는점에서 멋지다는 생각이 들었다.#@문장구분#그래서 바다라는 아직 밝혀지지 않은것이 많은 바다에서 사는바다거북이 되고싶다.#@문장구분#열대어가 있는 바다에서 열대어들과 헤엄치고, 알록달록예쁜 산호를 보면서 자유롭게 헤엄치고 싶다.#@문장구분#그리고 배가 고프면 바다거북 주식인 해파리도 먹고, 육지에서 일광욕도 즐기며 육지와 바다를 자유롭게 왔다갔다하고 싶다. #@문장구분#또 주어진시간 일주일동안 마음 가는곳을 마음껏 다니고 싶다.#@문장구분#매일 여러가지를 발견하고 모험하며 살것같다.",
+      "paragraph_len": 427,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.4,
+      22.8,
+      19.75
+    ],
+    "essay_scoreT_avg": 21.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "열대어들이 있는 바다에 가면 예쁜 열대어들과 헤엄칠 수 있고 예쁜 바닷속에서 원하는 만큼 자유롭게 헤엄칠 수 있다는 점에서 멋지다는 생각이 들었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "열대어들이있는 바다에 가면 예쁜 열대어들과 <문법_맞춤법>헤엄칠수있고</문법_맞춤법> 예쁜 바닷속에서 원하는 만큼 자유롭게 헤엄칠수있다는점에서 멋지다는 생각이 들었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "그래서 바다라는 아직 밝혀지지 않은것이 많은 바다에서 사는바다거북이 되고싶다.",
+      "sentence_corr_txt_styling": "그래서 바다라는 아직 밝혀지지 않은것이 많은 바다에서 사는바다거북이 되고싶다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "열대어가 있는 바다에서 열대어들과 헤엄치고, 알록달록 예쁜 산호를 보면서 자유롭게 헤엄치고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "열대어가 있는 바다에서 열대어들과 헤엄치고, <문법_맞춤법>알록달록예쁜</문법_맞춤법> 산호를 보면서 자유롭게 헤엄치고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 배가 고프면 바다거북 주식인 해파리도 먹고, 육지에서 일광욕도 즐기며 육지와 바다를 자유롭게 왔다갔다 하고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 배가 고프면 바다거북 주식인 해파리도 먹고, 육지에서 일광욕도 즐기며 육지와 바다를 자유롭게 <문법_맞춤법>왔다갔다하고</문법_맞춤법> 싶다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 주어진 시간 일주일 동안 마음 가는 곳을 마음껏 다니고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 <문법_맞춤법>주어진시간 일주일동안 마음 가는곳을</문법_맞춤법> 마음껏 다니고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "매일 여러 가지를 발견하고 모험하며 살 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "매일 <문법_맞춤법>여러가지를 발견하고 모험하며 살것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_66384",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 307,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시는 2가지가 있는데, 긍정적인것과 부정적인것이다.#@문장구분# 시작은 긍정적인걸로 해보겠다. #@문장구분#먼저 유해할수도 있고 폐기물도 내는 기존의 핵 분해식 원전에서 더 효율적이고 더 친환경적인 핵 융합발전형식으로 바뀌고 그 선두는 우리나라가 차지할 것이다. #@문장구분#인터넷의 속도는 더욱 빨라져 8G가될것이고, 사회는 나날이 발전해 대통령등의 직업은 본사직으로 취급받는다.#@문장구분# 연구원들은 불사해파리의 유전인자를 분석해 인간에게 적용시킬 방안을 논의 한다.#@문장구분# COVID-19는 계절마다 돌아오는 질병이 되었고, 일론 머스크는 화성이주를 성공시킨다.#@문장구분# 그리고 모든 국민들은 일을 하지 않고도 쾌적한 삶을 누릴수있게 된다. #@문장구분#그러나 제1종, 제2종 영구기관을 만들자는 논의는 결국 열역학제1법칙(에너지보존법칙)과 열역학제2법칙에 의해 좌절된다.#@문장구분#",
+      "paragraph_len": 564,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 그 다음엔 부정적인 미래다.#@문장구분# 기후변화문제는 나날이 심각해져서 지구의 연평균 기온은 높아지고, 북극곰을 포함한 1440만개의 종들이 멸종한다.#@문장구분# 빈부격차는 끝까지 지속되어 가난한 사람들은 빈민가에서 고독사를 하는 반면, 부유한 사람들은 쾌락에 빠져 지낸다.#@문장구분# 세계각국의 정부는 붕괴했고, 일론 머스크의 화성 이주 계획도 넘쳐나는 우주쓰레기 때문에 무마된다. #@문장구분#그렇다할 의료 체계도 없어, 사람들은 쉽게 질병을 갖는다.#@문장구분#",
+      "paragraph_len": 330,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      25.85,
+      27.5
+    ],
+    "essay_scoreT_avg": 27.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.21",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "053",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_80006",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 636,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

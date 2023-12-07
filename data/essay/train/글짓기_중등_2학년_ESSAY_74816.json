@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 내가 좋아하는 팝스타가 한 명있다.#@문장구분#바로 포스트 말론이라는 미국 팝 가수이다.#@문장구분#포스트 말론은 싱잉 랩과 팝 장르를 즐겨 만드는데 포스트 말론이 발표한 앨범과 음원들은 대부분 성공했다.#@문장구분#포스트 말론 노래는 정말 좋다.#@문장구분# 그 중 내가 가장 좋아하는 곡은 sunflwoer이다.#@문장구분#노래가 너무 톡톡 튀고 신이난다.#@문장구분# 언제 한 번 포스트 말론이 공연을 하는 것을 보았는데 관객들이랑 함께 노래를 부루는 것이 정말 행복해보였다.#@문장구분# 그때 나도 포스트 말론 같은 랩퍼가 되고 싶었다.#@문장구분#왜냐하면 나도 공연을 하면서 관객들과 내가 만든 노래를 함께 즐기고 따라부르면서 행복할 것 같았기 때문이다.#@문장구분#따라서 나는 10년 뒤 미국 빌보드를 휩쓴 신인 싱잉 랩퍼가 되어있을 것 같다.#@문장구분#나는 빌보드를 휩쓸기 위해 먼저 나의 유튜브 채널을 개설하고 내가 작곡한 비트나 노래를 업로드 하면서 나의 팬층을 한 층 한층 쌓을 것 같다.#@문장구분#왜냐하면 유튜브는 잠재적 이용자가 전세계인이기 때문에 빨리 유명해질 수 있기 때문이다.#@문장구분#그리고 노래 연습도 정말 많이 할 것이다.",
+      "paragraph_len": 752,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.388889,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.166666,
+      25.777779,
+      23.333334
+    ],
+    "essay_scoreT_avg": 24.092592,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74816",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 513,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

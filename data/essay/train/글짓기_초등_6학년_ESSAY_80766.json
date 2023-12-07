@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 만약 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 날 수 있는 날치가 되고 싶습니다. #@문장구분#제가 날치를 고른 이유는 바다 생물이지만 날 수 있다는 것이 너무 좋기 때문입니다. #@문장구분#날치로 모험을 시작하면 나는 하늘에서 날아서 살고 싶은 암컷 날치입니다. #@문장구분#계속 날며 연습 하는 날치입니다. #@문장구분#소형 갑각류와 동물성 플랑크톤을 먹으며 다른 천적인 물고기를 피해 혼자 힘들게 나는 연습을 합니다. #@문장구분#그때 사랑하는 수컷 날치가 와서 사랑 하게 되었습니다.#@문장구분# 날치는 그래도 계속 나는 연습었습니다. #@문장구분#하지만 열심히 연습하던 암컷 날치는 4월 중순에 20m쯤 되는 수심의 암초지대의 해조가 무성한 곳에서 알을 낳아 산란 후 사망했습니다. #@문장구분#그렇게 수컷 날치는 혼자 남겨졌습니다. #@문장구분#이렇게 수컷 날치는 알에서 태어난 새끼 날치들을 잘 보살피며 수컷 날치도 세상을 뜨게 된 아주 슬픈 이야기 입니다. #@문장구분#그리고 새끼 날치에서 자라 날치가 된 날치들이 아직도 수컷 날치와 암컷 날치가 천국에 가기를 기도 합니다.",
+      "paragraph_len": 693,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.9,
+      26.75,
+      27.75
+    ],
+    "essay_scoreT_avg": 26.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.19",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "053",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_80766",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 495,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 컴퓨터를 하는 것을 좋아합니다. #@문장구분#그래서 코딩이나 이런 것을 배워서 컴퓨터로 할 수 있는 것을 이용해서 일하고 싶습니다. #@문장구분#일단 고등학생 때와 대학생 때 컴퓨터에 대해 많이 배우고 공부하고 익힙니다. #@문장구분#그러면 10년 뒤에는 컴퓨터 관련 자격증 같은 것을 따고 컴퓨터 쪽으로 어떤 직업이 있는지 찾아보고 회사에 들어갈 준비를 할 것입니다.#@문장구분# 그리고 20년 후에는 저는 대부분을 이 분야에 대해서 자부심을 가지고 일할 준비가 되어 있을 것입니다. #@문장구분#그래서 가고 싶은 회사에 들어갔을 것입니다. #@문장구분#그리고 일하는 방법을 배워서 더 높은 자리까지 올라가기 위해서 쉬지 않고 노력할 것입니다. #@문장구분#30년 후에는 그러면 높은 자리에 올라가서 새로 들어오는 사람들이 일을 잘 할 수 있게 가르치거나 컴퓨터로 할 수 있는 새로운 것을 만들어내지 않을까 합니다. #@문장구분#특히 이때는 돈을 가장 잘 벌어서 나중을 위해 돈을 많이 모아놓을 것입니다. #@문장구분#저는 그냥 욕심내지 않고 안정적으로 살아가고 싶습니다.#@문장구분# 괜히 욕심을 냈다가 실수를 한 적이 많기 때문입니다. #@문장구분#나중에 어른이 되어서는 절대 욕심을 내지 않고 지금에 집중하면서 살 것입니다.",
+      "paragraph_len": 779,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.055555,
+      28.055555,
+      30
+    ],
+    "essay_scoreT_avg": 28.703705,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.01",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_58886",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 560,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

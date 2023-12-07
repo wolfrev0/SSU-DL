@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 저의 미래 모습은 바로 치과의사가 되어있을 것 같습니다.#@문장구분# 저는 지금 치과의사를 장래희망으로 꿈꾸고 있는데 꿈을 이루기 위해서 열심히 노력중입니다.#@문장구분# 그래서 10년 뒤 25살에는 열심히 대학교를 다니며 치과의사가 되기위한 첫 발을 내딛으며 열심히 공부를 하고 있을 것 같습니다.#@문장구분# 그래서 대학을 졸업한 후 의사가 되는 시험을 치르고 저는 큰 대학 병원에서 일 하는 것이 목표입니다.#@문장구분# 아주 큰 대학 병원에서 다양한 과의 의사들을 만나서 이야기하고 좀 더 많은 환자들을 보살피고 싶습니다.#@문장구분# 그래서 30년 후인 45살에는 아마 큰 대학 병원에서 치과에서 가장 유명한 의사가 되어있을 것이라고 생각합니다.#@문장구분# 환자들과 많은 이야기를 하며 소통하고 어디가 어떻게 아픈지 매번 물어보지 않고도 단번에 알아차릴 수 있고 열린 생각을 가진 치과의사가 되는 것이 저의 꿈입니다.#@문장구분# 저는 앞으로 고등학교에 가서도 치과의사라는 꿈을 이루기 위해 꾸준히 매일매일 공부하며 저의 꿈임 소통하는 치과의사를 꼭 이루고 싶습니다.#@문장구분# 꿈이 현실이 되도록 더 열심히 더 오래 노력할 것입니다.",
+      "paragraph_len": 698,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.166666,
+      30,
+      28.666668
+    ],
+    "essay_scoreT_avg": 27.277777,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74853",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 539,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

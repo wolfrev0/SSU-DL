@@ -1,0 +1,301 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 고래가 될것이다 바다에서 1주일 동안 바다에서 생활을 하려면 무리를 지어서 다닐것이고 작은 물고기들을 먹으며 생활을 할것이다 #@문장구분#생존을 오래하고 싶으면 첫째, 상어들 무리는 피할것이다#@문장구분# 그 이유는 상어는 고래를 이길만한 무리가 있어서 피하는게 맞다 #@문장구분#둘째, 바다가 좋은곳에 가서 산다#@문장구분# 요즘들어서 더 바다가 환경오염이 계속 지속되서 깨끗한 바다에 무리를 지어서 살자 #@문장구분#셋째, 사람들을 공격하지 말고 지나가자 사람을 공격을 하면 사람도 당황을 할수도 있고 반격을 할수 있다 #@문장구분#고래로 1주일 동안 이 방법으로 살면 1주일은 살수 있을것 같다 #@문장구분#만약에 1주일을 못버티고 죽는다면 바다 생물들의 먹이가 되서 죽겠습니다",
+      "paragraph_len": 476,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      21.05,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.766668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 고래가 될 것이다 . 바다에서 1주일 동안 바다에서 생활을 하려면 무리를 지어서 다닐 것이고 작은 물고기들을 먹으며 생활을 할 것이다. ",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "나는 고래가 <문법_맞춤법><문법_기타>될것이다 </문법_기타></문법_맞춤법>바다에서 1주일 동안 바다에서 생활을 하려면 무리를 지어서 다닐것이고 작은 물고기들을 먹으며 생활을 할것이다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "생존을 오래 하고 싶으면 첫째, 상어들 무리는 피할 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "마침표"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "생존을 <문법_맞춤법>오래하고</문법_맞춤법> 싶으면 첫째, 상어들 무리는 <문법_기타>피할것이다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이유는 상어는 고래를 이길만한 무리가 있어서 피하는 게 맞다. ",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그 이유는 상어는 고래를 이길만한 무리가 있어서 <문법_맞춤법><문법_기타>피하는게 맞다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "둘째, 바다가 좋은 곳에 가서 산다.",
+      "sentence_corr_reason": [
+        "",
+        "마침표"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "둘째, 바다가 <문법_맞춤법>좋은곳에</문법_맞춤법> 가서 <문법_기타>산다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요즘 들어서 더 바다가 환경오염이 계속 지속돼서 깨끗한 바다에 무리를 지어서 살자 ",
+      "sentence_corr_reason": [
+        "",
+        "느낌표"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>요즘들어서</문법_맞춤법> 더 바다가 환경오염이 계속 지속되서 깨끗한 바다에 무리를 지어서<문법_기타> 살자</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "셋째, 사람들을 공격하지 말고 지나가자 사람을 공격을 하면 사람도 당황을 할 수도 있고 반격을 할 수 있다. ",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "셋째, 사람들을 공격하지 말고 지나가자 사람을 공격을 하면 사람도 당황을 <문법_맞춤법><문법_기타>할수도 있고 반격을 할수 있다</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "고래로 1주일 동안 이 방법으로 살면 1주일은 살수 있을 것 같다. ",
+      "sentence_corr_reason": [
+        "",
+        "마침표"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "고래로 1주일 동안 이 방법으로 살면 1주일은 살수 <문법_맞춤법>있을것</문법_맞춤법> <문법_기타>같다</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약에 1주일을 못버티고 죽는다면 바다 생물들의 먹이가 돼서 죽겠습니다.",
+      "sentence_corr_reason": [
+        "마침표",
+        "마침표"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "만약에 1주일을 못버티고 죽는다면 바다 생물들의 먹이가 <문법_맞춤법><문법_기타>되서 죽겠습니다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52680",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 336,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

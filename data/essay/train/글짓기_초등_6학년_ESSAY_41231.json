@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제목:초롱아귀 이야기#@문장구분#\n  옛날옛날 어느 바다 심해속에 초롱아귀가 살았습니다.#@문장구분# 초롱아귀는 친구들을 만나는것을 좋아했지만 친구들은 초롱아귀를 싫어했어요#@문장구분# 아귀는 많이 속상했어요.#@문장구분# 몇일동안 밖에도 안나가고 그런 아귀가 걱정되었던 엄마는 밖에 나가서 친구와 놀러다니라고 얘기를 했지만 초롱아귀는 계속해서 나가지 않았고 엄마도 반쯤 포기한 상태였습니다.#@문장구분# 어느날 초롱아귀는 갑자기 짐을싸더니 밖으로 나가버렸습니다.#@문장구분# 엄마는 갑자기 어디가냐고 물어보니 자신의 삶을 찾아서해로 떠난다고하였습니다.#@문장구분# 엄마는 초롱아귀가 너무 걱정되었습니다.#@문장구분# 서해에서는 어부들이 물고기를 많이 잡아가기 때문이였죠.#@문장구분# 몇일동안 아귀는 몇 번에 고난과 역경을 거쳐 드디어 서해바다로 도착했습니다.#@문장구분# 초롱아귀는 그곳에서 열심히 돈을 벌고 땅을사고 집을지어 자신만의 공간을 만들었습니다.#@문장구분# 하지만 초롱아귀는 아무리 돈을 날리고 놀러를 가봐도 뭔가 공허한 느낌이였습니다.#@문장구분# 초롱아귀는 몇일을 고민하고 생각하다가 생각하나가 났습니다.#@문장구분# 바로 외로움이었습니다.#@문장구분# 그 이후로 초롱아귀는 친구도 사귀고 아주 행복한 하루하루를 보냈답니다.#@문장구분#",
+      "paragraph_len": 842,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      20,
+      30
+    ],
+    "essay_scoreT_avg": 25.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.24",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제목:초롱 아귀 이야기",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제목:<문법_맞춤법>초롱아귀 </문법_맞춤법>이야기",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n  옛날 옛날 어느 바다 심해 속에 초롱 아귀가 살았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n  <문법_맞춤법>옛날옛날</문법_맞춤법> 어느 바다 심해속에 초롱아귀가 살았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초롱 아귀는 친구들을 만나는 것을 좋아했지만 친구들은 초롱 아귀를 싫어했어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>초롱아귀는</문법_맞춤법> 친구들을 만나는것을 좋아했지만 친구들은 초롱아귀를 싫어했어요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 몇칠 동안 밖에도 안 나가고 그런 아귀가 걱정되었던 엄마는 밖에 나가서 친구와 놀러 다니라고 얘기를 했지만 초롱 아귀는 계속해서 나가지 않았고 엄마도 반쯤 포기한 상태였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>몇일동안</문법_맞춤법> 밖에도 안나가고 그런 아귀가 걱정되었던 엄마는 밖에 나가서 친구와 놀러다니라고 얘기를 했지만 초롱아귀는 계속해서 나가지 않았고 엄마도 반쯤 포기한 상태였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 날 초롱 아귀는 갑자기 짐을 싸더니 밖으로 나가버렸습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느날 초롱아귀는</문법_맞춤법> 갑자기 짐을싸더니 밖으로 나가버렸습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마는 갑자기 어디 가냐고 물어보니 자신의 삶을 찾아서 서해로 떠난다고 하였습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마는 갑자기 <문법_맞춤법>어디가냐고</문법_맞춤법> 물어보니 자신의 삶을 찾아서해로 떠난다고하였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 엄마는 초롱 아귀가 너무 걱정되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 엄마는 <문법_맞춤법>초롱아귀가</문법_맞춤법> 너무 걱정되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 몇칠 동안 아귀는 몇 번에 고난과 역경을 거쳐 드디어 서해바다로 도착했습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>몇일동안</문법_맞춤법> 아귀는 몇 번에 고난과 역경을 거쳐 드디어 서해바다로 도착했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초롱 아귀는 그곳에서 열심히 돈을 벌고 땅을 사고 집을 지어 자신만의 공간을 만들었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>초롱아귀는</문법_맞춤법> 그곳에서 열심히 돈을 벌고 땅을사고 집을지어 자신만의 공간을 만들었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 초롱 아귀는 아무리 돈을 날리고 놀러를 가봐도 뭔가 공허한 느낌이었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>초롱아귀는</문법_맞춤법> 아무리 돈을 날리고 놀러를 가봐도 뭔가 공허한 느낌이였습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초롱 아귀는 몇칠을 고민하고 생각하다가 생각 하나가 났습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>초롱아귀는 몇일을 </문법_맞춤법>고민하고 생각하다가 생각하나가 났습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 이후로 초롱 아귀는 친구도 사귀고 아주 행복한 하루하루를 보냈답니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 이후로 <문법_맞춤법>초롱아귀는</문법_맞춤법> 친구도 사귀고 아주 행복한 하루하루를 보냈답니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_41231",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 545,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

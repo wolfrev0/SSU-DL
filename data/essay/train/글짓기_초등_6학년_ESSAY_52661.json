@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "만약에 진짜로 딱 일주일 동안 바다의 생물로 살아갈 기회가 있다면 나는 금붕어로 살것 같다.#@문장구분# 왜냐하면 금붕어는 지능이 떨어져 생각과기억을 못하기 때문에 학업과스트레스와걱정을 다 잊고, 큰 바다를 모험하고 싶어 금붕어로 살고 싶다.#@문장구분# 금붕어는 생각하는게 없어 스트레스도 안 받아 금붕어로 살고 싶다.#@문장구분# 넓은 바다를 생각도 없고 편하게 돌아다니며 놀면서 쉴거다.#@문장구분# 바다 속에는 내가 못보던 바다생물도 보고 바다에 있는 아름다운 관경을 볼것 같다. #@문장구분#아무생각 없이 방바닥에 뒹굴거리는 것처럼 금붕어로 돼서 바다를 어슬렁 어슬렁 거릴거다.#@문장구분# 내가 금붕어로 되서 바닷속에서 수영을 실컷하고, 그리고 금붕어와물고기 친구도 사귀고 싶다.#@문장구분# 그리고 바닷속은 어떻게 구성이 되있는지?#@문장구분# 바닷속에 있는 물고기는 무엇을 하고 있는지 볼것같다.",
+      "paragraph_len": 557,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      20.25,
+      24.4
+    ],
+    "essay_scoreT_avg": 24.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "만약에 진짜로 딱 일주일 동안 바다의 생물로 살아갈 기회가 있다면 나는 금붕어로 살 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약에 진짜로 딱 일주일 동안 바다의 생물로 살아갈 기회가 있다면 나는 금붕어로<문법_맞춤법> 살것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 금붕어는 지능이 떨어져  생각과 기억을 못 하기 때문에 학업과 스트레스와 걱정을  다 잊고, 큰 바다를 모험하고 싶어 금붕어로 살고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 금붕어는 지능이 떨어져 <문법_맞춤법>생각과기억을 못하기 때문에 학업과스트레스와걱정을</문법_맞춤법> 다 잊고, 큰 바다를 모험하고 싶어 금붕어로 살고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 금붕어는 생각하는 게 없어 스트레스도 안 받아 금붕어로 살고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 금붕어는 <문법_맞춤법>생각하는게 </문법_맞춤법>없어 스트레스도 안 받아 금붕어로 살고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 넓은 바다를 생각도 없고 편하게 돌아다니며 놀면서 쉴 거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 넓은 바다를 생각도 없고 편하게 돌아다니며 놀면서 <문법_맞춤법>쉴거다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바닷속에는 내가 못 보던 바다생물도 보고 바다에 있는 아름다운 관경을 볼 것 같다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>바다 속에는</문법_맞춤법> 내가 못보던 바다생물도 보고 바다에 있는 아름다운 관경을 볼것 같다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "아무 생각 없이 방바닥에 뒹굴거리는 것처럼 금붕어로 돼서 바다를 어슬렁어슬렁거릴 거다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>아무생각</문법_맞춤법> 없이 방바닥에 뒹굴거리는 것처럼 금붕어로 돼서 바다를 어슬렁 어슬렁 거릴거다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 금붕어로 돼서  바닷속에서 수영을 실컷 하고, 그리고 금붕어와 물고기 친구도 사귀고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>내가 금붕어로 되서</문법_맞춤법> 바닷속에서 수영을 실컷하고, 그리고 금붕어와물고기 친구도 사귀고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 바닷속은 어떻게 구성이 돼있는지?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 바닷속은 <문법_맞춤법>어떻게 구성이 되있는지</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바닷속에 있는 물고기는 무엇을 하고 있는지 볼 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바닷속에 있는 물고기는 무엇을 하고 있는지<문법_맞춤법> 볼것같다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_52661",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 397,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

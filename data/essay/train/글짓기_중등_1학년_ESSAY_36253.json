@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시는 온라인과 오프라인이 만나는 것이다.#@문장구분# 만약 온라인과 오프라인이 만나면 정말 편리할 것 같다.#@문장구분# 예를 들면, 옷 같은 것을 살때 옷의 사이즈와 나와 잘 어울리는지 가상 카메라로 확인하고, 마음에 들면 온라인에서 결제를 하고 자신이 지금 입을 옷을 휴대폰으로 조종하여 바꾼다.#@문장구분# 옷을 바꿀때는 원래 입던 옷이 무지개 색으로 막 빛나더니 내가 입고 싶어하는 옷을 적용 시키는 것이다.#@문장구분# 물론 원래 입던 옷은 스마트 안에 기록된다. 이런 시스템도 있고, 아니면 스마트폰이나 컴퓨터, TV 안에 있는 물체를 현실인 오프라인으로 가져다 놓을 수 있는 것이다.#@문장구분# 만약에 TV속에서 돈이 나왔다면 TV에 손을 넣어서 TV속에 있는 물건을 가져가는 것이다.#@문장구분# 그럼 배고플때 TV나 컴퓨터로 음식 채널 들어가서 먹고 싶은 음식을 꺼내오면 되는 식으로 편리할 것이다.#@문장구분# 2. 복사기 이다.#@문장구분# 복사기를 나만 가지고 있다면 얼마나 좋을까?#@문장구분# 돈 하나만 있어도 복사가 되서 금수저가 될 수 있다.#@문장구분# 또, 자기가 먹고 싶은 음식을 조금만 복사기에 넣어도 양이 많아져서 식량 문제도 없을 것이다.#@문장구분# 이렇게 미래 도시는 이럴 것 같다.#@문장구분#",
+      "paragraph_len": 806,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      30,
+      27.15
+    ],
+    "essay_scoreT_avg": 26.25,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.16",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_36253",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 567,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

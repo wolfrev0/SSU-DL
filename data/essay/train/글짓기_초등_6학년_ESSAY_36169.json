@@ -1,0 +1,330 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 문어가 되고싶다 #@문장구분#왜냐하면 문어는 유연하고 사람들한테 인기도많아서이다#@문장구분# 문어는 매일 혼자다닌다#@문장구분# 근데 유연한 몸으로 춤을춰서 인기를 얻고 바다의 생물들만 쓸수있는 코인도 많이벌었다#@문장구분#. 바다 친구들과 여행도 가고 모래찜질도하고 조개도 먹고 미역도 먹고 재미있게 놀며 하루하루 즐겁게 생활하고 있었는데 갑자기 생일이된 어느날 혼자였놀고 있었는데 친구들이와 깜짝 서프라이즈를 해주었다. #@문장구분#재밌게 놀다가 지나가던 문어 3마리가 춤추며 노래를 부르면 아이돌 놀이를 했다. #@문장구분#문어는 춤을 잘추고 싶은 마음이 높아서 질투가 났지만 같은 그룹이 돼어 열심히 춤과노래를 부르다가, 대뷔를하여 유명한 아이돌이 됐다.#@문장구분# 하지만 문어든 사람들에 그물망에 잡혀갔다 #@문장구분#그리고 문어가 속해있는 그룹은 문어가 죽은줄알았는데 어떤 해물탕 집에 잡혀서 먹힐 뻔했는데 기어나와 가까운 바다로 들어갔다 #@문장구분#또 혼자남은 문어는 일주일간 혼자 지내다가 도저히는 못참아서 택시를 타고가다 내렸는데 또잡혀서 쿠팡에 팔렸다#@문장구분# 나는 귀한 몸이다.#@문장구분#",
+      "paragraph_len": 715,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.6,
+      30,
+      13.3
+    ],
+    "essay_scoreT_avg": 21.633333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 문어가 되고 싶다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 문어가 <문법_맞춤법>되고싶다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 문어는 유연하고 사람들한테 인기도 많기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 문어는 유연하고 사람들한테 <문법_맞춤법>인기도많아서이다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 문어는 매일 혼자 다닌다.",
+      "sentence_corr_reason": [
+        "문장부호, 띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 문어는 매일 <문법_맞춤법>혼자다닌다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 유연한 몸으로 춤을 춰서 인기를 얻고 바다의 생물들만 쓸 수 있는 돈도 많이 벌었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 유연한 몸으로 <문법_맞춤법>춤을춰서</문법_맞춤법> 인기를 얻고 바다의 생물들만 쓸수있는 코인도 많이벌었다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바다 친구들과 여행도 가고 모래찜질도 하고 조개도 먹고 미역도 먹고 재미있게 놀며 하루하루 즐겁게 생활하고 있었다. 내 생일 날, 혼자 놀고 있었는데 친구들이 와서 깜짝 서프라이즈를 해주었다. ",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>. </문법_맞춤법>바다 친구들과 여행도 가고 모래찜질도하고 조개도 먹고 미역도 먹고 재미있게 놀며 하루하루 즐겁게 생활하고 <문법_어미>있었는데</문법_어미> <스타일링_담화 맥락 오류>갑자기 생일이된 어느날</스타일링_담화 맥락 오류> 혼자였놀고 <문법_어미>있었는데</문법_어미> 친구들이와 깜짝 서프라이즈를 해주었다<문법_맞춤법>. </문법_맞춤법>",
+      "sentence_corr_txt_styling": " 바다 친구들과 여행도 가고 모래찜질도 하고 조개도 먹고 미역도 먹고 재미있게 놀며 하루하루 즐겁게 생활하고 있었다. 내 생일 날, 혼자 놀고 있었는데 친구들이 와서 깜짝 서프라이즈를 해주었다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "재밌게 놀다가 지나가던 문어 3마리가 춤을 추고 노래를 부르면서 아이돌 놀이를 했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "재밌게 놀다가 지나가던 문어 3마리가<문법_조사> 춤추며 노래를 부르면</문법_조사> 아이돌 놀이를 했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "문어는 춤을 잘추고 싶은 마음이 커서 질투가 났지만, 같은 그룹이 되어 열심히 춤과 노래를 하다 데뷔를 해 유명한 아이돌이 됐다.",
+      "sentence_corr_reason": [
+        "잘못된 단어",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "문어는 춤을 잘추고 싶은 마음이 <문법_기타>높아서</문법_기타> 질투가 났지만 같은 그룹이 <문법_맞춤법>돼어</문법_맞춤법> 열심히 춤과노래를 부르다가, 대뷔를하여 유명한 아이돌이 됐다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 문어는 사람들의 그물망에 걸려 잡혀갔다. ",
+      "sentence_corr_reason": [
+        "오타",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>문어든</문법_맞춤법> <문법_조사>사람들에</문법_조사> 그물망에 잡혀갔다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  문어가 속해 있던 그룹은 문어가 죽은 줄 알았다. 하지만 문어는 어느 해물탕 집에서 잡아 먹힐 뻔했는데 기어 나와 가까운 바다로 들어갔다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>그리고</스타일링_담화 맥락 오류> 문어가 <문법_맞춤법><문법_시제>속해있는</문법_시제></문법_맞춤법> 그룹은 문어가 죽은줄알았는데 어떤 해물탕 집에 잡혀서 먹힐 뻔했는데 기어나와 가까운 바다로 들어갔다 ",
+      "sentence_corr_txt_styling": "  문어가 속해 있던 그룹은 문어가 죽은 줄 알았다. 하지만 문어는 어느 해물탕 집에서 잡아 먹힐 뻔했는데 기어 나와 가까운 바다로 들어갔다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다시 혼자 남은 문어는 일주일 간 혼자 지내다가 도저히 참을 수 없어 택시를 타고 가다 내렸는데 또 잡혀서 쿠팡에 팔렸다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>또</스타일링_담화 맥락 오류> <문법_맞춤법>혼자남은</문법_맞춤법> 문어는 일주일간 혼자 지내다가 도저히는 못참아서 택시를 타고가다 내렸는데 <스타일링_담화 맥락 오류>또</스타일링_담화 맥락 오류>잡혀서 쿠팡에 팔렸다",
+      "sentence_corr_txt_styling": "다시 혼자 남은 문어는 일주일 간 혼자 지내다가 도저히 참을 수 없어 택시를 타고 가다 내렸는데 또 잡혀서 쿠팡에 팔렸다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36169",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 496,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

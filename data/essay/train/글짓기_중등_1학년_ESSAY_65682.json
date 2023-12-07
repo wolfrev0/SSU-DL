@@ -1,0 +1,247 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 '미래 도시'의 이름은 '연하'이다.#@문장구분# 연하라고 지은 이유는 연꽃 연과 연꽃 하의 뜻을 가지고 있기 때문이다.#@문장구분# 연하, 즉 연꽃을 사용한 이유는 연꽃이 지닌 의미가 청결, 순결, 신성이기에 그도시가 아무 일도 없게하고 누가 지켜주는 것처럼 안전했으면 좋겠어서 연하라고 지었다.#@문장구분# 또한 연꽃이 아름답기에 아름다운 도시라고 지은 것도 있다.#@문장구분#",
+      "paragraph_len": 273,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 미래 도시의 모습은 차들은 완벽한 자율주행이고, 사람들의 음성, 심지어 생각 만으로도 모든 일이 진행되는 시대 모습이다.#@문장구분# 모든 도시들은 쓰레기 하나없이 깨끗하고 깔끔하게 포장되어 있다.#@문장구분# 사람들은 대부분 스케이트 보드 같은 것들을 타고 학교를 날아서 가거나 회사로 출근하고 있다.#@문장구분# 어떤살람은 로봇과 자연스럽게 보통 우리랑 대화하듯이 말하고 있고 또 어떠한 사람은 우주에 있는 자신의 친구하고 영상통화를 주고 받고 있다.#@문장구분# ",
+      "paragraph_len": 315,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 미래 도시이 모습이 위와 같은 이유는 자율주행자동차 기술이 점점 발전하고 있고 곧 안벽한 자율주행자동차가 나올 것같은 분위기이기 때문이다.#@문장구분#",
+      "paragraph_len": 98,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 또 날아다니는 스케이트 보드도 단10초이지만 만들어졌고 그것에 대한 연구가 계속 진행되고 있기에 미래 어느날에는 사용되어 질것이기 때문이다.#@문장구분# 쓰레기 같은 경우에는 로봇들이 떨어져 있는 쓰레기들을 주어 나르면 다른 로봇이 수시로 처리하면 쓰레기가 바닥에 굴러다닐 일이 없을 것 같다.#@문장구분# 지금도 모든 대화를 다 같이 할 수는 없지만 이들은 말을 할수 있는 로봇들은 이미 있기에 기술이 더 발전하면 당연히 가능하다고 생각한다.#@문장구분#",
+      "paragraph_len": 295,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      25.95,
+      23.3
+    ],
+    "essay_scoreT_avg": 26.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "02",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65682",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 747,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

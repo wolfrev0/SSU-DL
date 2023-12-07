@@ -1,0 +1,381 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "옛날 20세기에는 자동차가 가솔린과 디젤차만 타고 운전을 했다.#@문장구분# 20세기 사람들은 자동차가 자율운전과 전기차 소수차가 만들기 힘들다고 생각한다.#@문장구분# 20세기 사람들은 21세기가 미래이고 지금 우리가 살고 있는 세기는 21세기다.#@문장구분# 21세기에는 20세기 사람들이 만들기 힘들다고 하지만 21세기 사람들은 전기차와 소수차등을 만들었다.#@문장구분# 21세기 사람들은 전기차와 소수차를 타고 운전하는 사람들이 있다.#@문장구분# 하지만 지금도 가솔린과 디젤차를 운전하는 사람들이 더 많다.#@문장구분# 하지만 미래사회 21세기 중후반 22세기에는 가솔린과 디젤차가 없어지고 전기차와 수소차들만 운전을 하고 생활한다.#@문장구분# 지금은 전기차가 비싸고 배터리 충전하는 곳도 많이 없고 타기 힘들다.#@문장구분# 21세기중후반과 22세기는 전기차가 비싸지 않고 배터리 충전할 수 있는 곳 많이 있을 수 있다.#@문장구분# 수소차는 아직 개발이 되지는 않아지만 미래에는 수소차도 많이 운행 할 수 있다.#@문장구분#\n 21세기에는 환경오염이 심하다.#@문장구분# 환경오염의 주번은 플라스틱이다.#@문장구분# 하지만 미래사회에서는 플라스틱 대신에 다른 물건을 만들어 사용할 수 있다.#@문장구분# 그래서 점점 환경오염이 없어지고 친환경 생활을 할 수 있다.#@문장구분# \n 미래사회에서는 의학기술이 발달해서 편하게 병원에 가서 치료를 받을 수 있다.#@문장구분#",
+      "paragraph_len": 913,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.5,
+      30,
+      18.65
+    ],
+    "essay_scoreT_avg": 22.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          1,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.10",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "옛날 20세기에는 <스타일링_패러프레이징>자동차가</스타일링_패러프레이징> 가솔린과 디젤차만 타고 운전을 했다.",
+      "sentence_corr_txt_styling": "옛날 20세기에는   가솔린과 디젤차만 타고 다녔다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 20세기 사람들은 자동차가 자율주행을 하거나 전기차, 소수차와 같은 종류의 차를 만들기 힘들다고 생각했다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "시제"
+      ],
+      "sentence_txt": " 20세기 사람들은 자동차가 <스타일링_담화 맥락 오류>자율운전과 전기차 소수차가 </스타일링_담화 맥락 오류>만들기 힘들다고 <문법_시제>생각한다.</문법_시제>",
+      "sentence_corr_txt_styling": " 20세기 사람들은 자동차가 자율주행을 하거나 전기차, 소수차와 같은 종류의 차를 만들기 힘들다고 생각했다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 20세기 사람들에게 21세기는 미래이고 지금 우리가 살고 있는 세기는 21세기다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 20세기 <문법_조사>사람들은 </문법_조사>21세기가 미래이고 지금 우리가 살고 있는 세기는 21세기다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 21세기에는 20세기 사람들이 만들기 힘들다고 생각한 전기차와 소수차 등을 만들었다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징",
+        "맞춤법"
+      ],
+      "sentence_txt": " 21세기에는 20세기 사람들이 만들기 <스타일링_담화 맥락 오류>힘들다고 하지만</스타일링_담화 맥락 오류><스타일링_패러프레이징> 21세기 사람들은 </스타일링_패러프레이징>전기차와<문법_맞춤법> 소수차등을</문법_맞춤법> 만들었다.",
+      "sentence_corr_txt_styling": " 21세기에는 20세기 사람들이 만들기 힘들다고 생각한 전기차와 소수차 등을 만들었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " <스타일링_패러프레이징>21세기 사람들은</스타일링_패러프레이징> 전기차와 소수차를 타고 운전하는 사람들이 있다.",
+      "sentence_corr_txt_styling": " 21세기에는 전기차와 소수차를 타고 다니는 사람들이 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만  21세기 중후반이나 22세기에는 가솔린과 디젤차가 없어지고 전기차와 수소차로만 운전을 하고 생활할 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "조사",
+        "시제"
+      ],
+      "sentence_txt": " 하지만 <스타일링_패러프레이징>미래사회 21세기 중후반</스타일링_패러프레이징> 22세기에는 가솔린과 디젤차가 없어지고 전기차와 <문법_조사>수소차들만</문법_조사> 운전을 하고 <문법_시제>생활한다.</문법_시제>",
+      "sentence_corr_txt_styling": " 하지만  21세기 중후반이나 22세기에는 가솔린과 디젤차가 없어지고 전기차와 수소차로만 운전을 하고 생활할 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 21세기 중후반과 22세기에는 전기차가 비싸지도 않고 배터리를 충전할 수 있는 곳도 많이 있을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "시제"
+      ],
+      "sentence_txt": " <문법_맞춤법>21세기중후반과</문법_맞춤법> <문법_조사>22세기는 </문법_조사>전기차가 비싸지 않고 배터리 충전할 수 있는 곳 많이 <문법_시제>있을 수 있다.</문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 수소차는 아직 개발이 되지 않았지만 미래에는 수소차도 많이 타고 다닐 수 있을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "시제",
+        "기타"
+      ],
+      "sentence_txt": " 수소차는 아직 개발이 <문법_맞춤법><문법_조사>되지는 않아지만</문법_조사></문법_맞춤법> 미래에는 수소차도 많이 <문법_시제><문법_기타>운행 할 수 있다.</문법_기타></문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 환경오염의 주범은 플라스틱이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 환경오염의 <문법_맞춤법>주번은 </문법_맞춤법>플라스틱이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 미래사회에서는 플라스틱 대신에 다른 재료를 만들어 사용할 수 있을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 하지만 미래사회에서는 플라스틱 대신에 다른 <스타일링_담화 맥락 오류>물건을</스타일링_담화 맥락 오류> 만들어 사용할 수<문법_시제> 있다.</문법_시제>",
+      "sentence_corr_txt_styling": " 하지만 미래사회에서는 플라스틱 대신에 다른 재료를 만들어 사용할 수 있을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 점점 환경오염이 없어지고 친환경 생활을 할 수 있게 될 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 그래서 점점 환경오염이 없어지고 친환경 생활을 할 수 <문법_시제>있다.</문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 더불어 미래사회에서는 의학기술이 발달해서 편하게 병원에 가서 치료를 받을 수 있을 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " \n <스타일링_담화 맥락 오류>미래사회에서는</스타일링_담화 맥락 오류> 의학기술이 발달해서 편하게 병원에 가서 치료를 받을 수 <문법_시제>있다.</문법_시제>",
+      "sentence_corr_txt_styling": " \n 더불어 미래사회에서는 의학기술이 발달해서 편하게 병원에 가서 치료를 받을 수 있을 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36245",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 614,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

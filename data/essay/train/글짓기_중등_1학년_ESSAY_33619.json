@@ -1,0 +1,321 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시는 인공지능과 원격 적인 기술들로 이루어져았을것이다. #@문장구분#예를들어 하늘을 나는자동차나 자동원격운전등 최첨단기술들말이다.#@문장구분# 이런기술이 언제쯤 나올거라고 확신은 못하지만 언젠가 나올것이다.#@문장구분# 내가 상상하고 있는 기술으로는 경호형 로봇, 집 정리 시스템, 지하 정거장 등등 이있다. #@문장구분#설명해주자면 먼저 경호형로봇은 경호에 모든 것이 맞쳐져 있다.#@문장구분# 그럼이제 그 기술에대해 알아보겠다.#@문장구분# 집주인과 외부인의 관계도를 분석해 침입자를 찾아내고 주인의 신변과 집의 위험이 발생했을때, 재난이면 감지한 즉시 신고후 최대한 다치거나 손실없이 방어, 침입일시 죽음에 이를수까지있는 무기들로 방어하며 모든 상황을 녹화, 침입 사실을 신고하여 대처하는 스마트한 기술이다.#@문장구분# 두 번째로 집정리 시스템은 집의 위생을 분석후 더러운곳을 인공손들이 나와 청소후, 주인에게 사진전송, 더러워질곳을 미리예측기능까지 있는 최첨단 기술이다.#@문장구분# 마지막으로 지하 정거장은 말그대로 지하에 인공지능과 기술들을 투여해, 지하에도 우리가 가지고있는 최첨단 기술을 첨부한다.#@문장구분# 그 예로 지하에서 가고싶은 곳을 정하면 어디든 10분 안에 도착한다.#@문장구분# 이것이 지하 정거장이다. #@문장구분#비록 똑같은 것이 아니라도 이런것이 나올것이라고 더발전했음 좋겠다.#@문장구분#",
+      "paragraph_len": 845,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.15,
+      25.6,
+      22.65
+    ],
+    "essay_scoreT_avg": 24.800001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "032",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래도시는 인공지능과 원격 기술들로 이루어져 있을 것이다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기, 맞춤법"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "미래도시는 인공지능과 <스타일링_기타>원격 적인</스타일링_기타> 기술들로 <문법_맞춤법>이루어져았을것이다</문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "미래도시는 인공지능과 원격 기술들로 이루어져 있을 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "예를들어 하늘을 나는자동차나 자동원격운전등 최첨단 기술들 말이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "예를들어 하늘을 나는자동차나 자동원격운전등 <문법_맞춤법>최첨단기술들말이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런기술이 언제쯤 나올거라고 확신은 못하지만 언젠가 나올 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런기술이 언제쯤 나올거라고 확신은 못하지만 언젠가 <문법_맞춤법>나올것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 상상하고 있는 기술로는 경호형 로봇, 집 정리 시스템, 지하 정거장 등이 있다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 상상하고 있는 <문법_맞춤법>기술으로는</문법_맞춤법> 경호형 로봇, 집 정리 시스템, 지하 정거장 등등 이있다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "설명하자면 먼저 경호형로봇은 경호에 모든 것이 맞춰져 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>설명해주자면</문법_맞춤법> 먼저 경호형로봇은 경호에 모든 것이 맞쳐져 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 이제 그 기술에대해 알아보겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼이제</문법_맞춤법> 그 기술에대해 알아보겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 집주인과 외부인의 관계도를 분석해 침입자를 찾아내고 주인의 신변과 집의 위험이 발생했을때, 재난이면 감지한 즉시 신고 후 최대한 다치거나 손실없이 방어, 침입일 시 죽음에 이를수까지 있는 무기들로 방어하며 모든 상황을 녹화, 침입 사실을 신고하여 대처하는 스마트한 기술이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 집주인과 외부인의 관계도를 분석해 침입자를 찾아내고 주인의 신변과 집의 위험이 발생했을때, 재난이면 감지한 즉시 <문법_맞춤법>신고후</문법_맞춤법> 최대한 다치거나 손실없이 방어, 침입일시 죽음에 이를수까지있는 무기들로 방어하며 모든 상황을 녹화, 침입 사실을 신고하여 대처하는 스마트한 기술이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째로 집정리 시스템은 집의 위생을 분석후 더러운 곳을 인공손들이 나와 청소후, 주인에게 사진을 전송하고, 더러워질 곳을 미리 예측하는 기능까지 있는 최첨단 기술이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 두 번째로 집정리 시스템은 집의 위생을 분석후 <문법_맞춤법>더러운곳을</문법_맞춤법> 인공손들이 나와 청소후, 주인에게 <문법_조사>사진전송</문법_조사>, 더러워질곳을 미리예측기능까지 있는 최첨단 기술이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 지하 정거장은 말 그대로 지하에 인공지능과 기술들을 투여해, 지하에도 우리가 가지고있는 최첨단 기술을 첨부하는 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 마지막으로 지하 정거장은 <문법_맞춤법>말그대로</문법_맞춤법> 지하에 인공지능과 기술들을 투여해, 지하에도 우리가 가지고있는 최첨단 기술을 <문법_어미>첨부한다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "불필요",
+        "불필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": "비록 똑같은 것이 아니라도<스타일링_어미><스타일링_기타> 이런것이 나올것이라고 더발전했음</스타일링_기타></스타일링_어미> 좋겠다.",
+      "sentence_corr_txt_styling": "비록 똑같은 것이 아니라도 더 발전했으면 좋겠다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33619",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 606,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

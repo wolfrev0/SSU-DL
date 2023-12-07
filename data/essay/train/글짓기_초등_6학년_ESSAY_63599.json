@@ -1,0 +1,305 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 만약 일주일 동안 바다에서 어떤 생물로 살아갈 기회가 생긴다면 나는 고래로 살것이다.#@문장구분# 왜냐하면 넓은 바다에서 마음껏 헤엄치고 싶은데 크기가 작으면 헤엄칠 맛이 않나기 때문이다.#@문장구분# 고래로 바다룸서 살아가면 몸무게가 170톤인 고래가 하루에 8.5톤 정도의 양을 먹기 때문에 먹이를 엄청 많이 먹을 것이다.#@문장구분# 그렇기 때문에 나라면 내가 평소에 먹고 싶은 생선 참치, 고등어, 갈치등을 먹을 것이다.#@문장구분# 그리고 마음껏 헤엄치면서 다른 고래들하고 같이 다닐 것이다.#@문장구분#또 멋지게 등으로 물을 내뿜기도 하면서 놀것이다.#@문장구분# 위험이 있을때, 예를 들어 상어때가 공격하려고 하면 그럴땐 도망치거나 싸울것이다.#@문장구분# 일주일 동안 고래가 된 나는 전세계 바다를 누비며 다닐것이다.#@문장구분# 특히 유럽 쪽 바다에 가고싶다.#@문장구분# 왜냐하면 유럽 쪽 바다에 예전부터 가보고 싶었는데 이번에 고래로 되서 거기에 꼭 가보고 싶다.#@문장구분#",
+      "paragraph_len": 634,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.8,
+      24.35,
+      25.1
+    ],
+    "essay_scoreT_avg": 24.75,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.05",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 만약 일주일 동안 바다에서 어떤 생물로 살아갈 기회가 생긴다면 나는 고래로 살 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 만약 일주일 동안 바다에서 어떤 생물로 살아갈 기회가 생긴다면 나는 고래로 <문법_맞춤법>살것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 넓은 바다에서 마음껏 헤엄치고 싶은데 크기가 작으면 헤엄칠 맛이 안 나기 때문이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 넓은 바다에서 마음껏 헤엄치고 싶은데 크기가 작으면 헤엄칠 맛이 <문법_맞춤법>않나기</문법_맞춤법> 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고래로 바다에서 살아가면 몸무게가 170톤인 고래가 하루에 8.5톤 정도의 양을 먹기 때문에 먹이를 엄청 많이 먹을 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 고래로 <문법_조사>바다룸서</문법_조사> 살아가면 몸무게가 170톤인 고래가 하루에 8.5톤 정도의 양을 먹기 때문에 먹이를 엄청 많이 먹을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 나라면 내가 평소에 먹고 싶은 생선 참치, 고등어, 갈치 등을 먹을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 나라면 내가 평소에 먹고 싶은 생선 참치, 고등어, <문법_맞춤법>갈치등을</문법_맞춤법> 먹을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "또 멋지게 등으로 물을 내뿜기도 하면서 놀 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "또 멋지게 등으로 물을 내뿜기도 하면서 <문법_맞춤법>놀것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 위험이 있을 때, 예를 들어 상어 떼가 공격하려고 하면 그럴 땐 도망치거나 싸울 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 위험이 <문법_맞춤법>있을때</문법_맞춤법>, 예를 들어 상어때가 공격하려고 하면 그럴땐 도망치거나 싸울것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일주일 동안 고래가 된 나는 전세계 바다를 누비며 다닐 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일주일 동안 고래가 된 나는 전세계 바다를 누비며 <문법_맞춤법>다닐것이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 특히 유럽 쪽 바다에 가고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 특히 유럽 쪽 바다에 <문법_맞춤법>가고싶다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 유럽 쪽 바다에 예전부터 가보고 싶었는데 이번에 고래가 된다면 거기에 꼭 가보고 싶다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": " 왜냐하면 유럽 쪽 바다에 예전부터 가보고 싶었는데 이번에 <문법_조사><문법_어미>고래로 되서</문법_어미></문법_조사> 거기에 꼭 가보고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63599",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 436,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

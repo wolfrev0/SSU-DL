@@ -1,0 +1,405 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "솔직히 해양 생물 중 하나만 고르라고 하면 많이 고민 될것같습니다.#@문장구분# 그렇기에 그냥 바다의 포식자 상어의 이야기를 해보겠습니다. #@문장구분#상어는 바다의 최상히 포식자 입나다.#@문장구분# 일단 상어의 특징을 알아보죠#@문장구분# 일다 상어는 전세계 바다의 서식합니다.#@문장구분# 물론 각각의 상어의 종류는 다르지만요.#@문장구분# 일단 상어는 숨을 쉬기 위해서는 계속해서 움직여야 합니다.#@문장구분# 상어는 상기위해 평생 움직여야 합니다. #@문장구분#그리고 상어는 움직임을 감지하죠#@문장구분# 그 움직임을 감지하는 곳이바로 상어의 코 입니다.#@문장구분#그렇기에 실제로 상어를 맞닥드리면 움직이지 않는 것이 중요 합니다. #@문장구분#그래도 상어가 공격해 오면 상어의 코를 공격하면 됩니다.#@문장구분# 많은 사람들이 상어는 포악한 성격 때문에 상어가 사람들을 공격하는 거라고 생각하지만 상어는 실제로 사람별로 좋아하기 않습니다. #@문장구분#상어가 사람을 공격하는 이유는 사람을 커다란 물개라고 착각했기 때문이라 네요.#@문장구분# 그리고 맛이아주 좋다는 샥스핀 상어의 지느러미로 만든 음식인데요.#@문장구분# 그치만 이 샥스핀의 재료인 상어의 지느러미를 구하는 과정이 꾀 잔인한데요.#@문장구분# 왜냐하면 살아있는 상어를 잡아 지느러미만 자르고 상어는 버리기 때문인데요.#@문장구분# 아까 말씀 드렸다슾이 상어는 움직이자 못 하면 죽습니다.#@문장구분# 그러니 지느러미를 잃은 상어 그자리에서 발버붕치다가 죽게됩니다. #@문장구분#제가 준비한 것은 여기까지 입니다.#@문장구분# 봐주셔서 감사합니다.#@문장구분#",
+      "paragraph_len": 1077,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.8333334,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      18.4,
+      20,
+      13.55
+    ],
+    "essay_scoreT_avg": 17.316668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.06",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "솔직히 해양 생물 중 하나만 고르라고 하면 많이 고민될 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "솔직히 해양 생물 중 하나만 고르라고 하면 많이 <문법_맞춤법>고민 될것같습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "상어는 바다의 최상위 포식자입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "상어는 바다의 <문법_맞춤법>최상히 포식자 입나다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 상어의 특징을 알아보죠.",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 일단 상어의 특징을 <문법_기타>알아보죠</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일단 상어는 전 세계 바다에 서식합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>일다 상어는 전세계 바다의 서식합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 상어는 살기 위해 평생 움직여야 합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 상어는 <문법_맞춤법>상기위해</문법_맞춤법> 평생 움직여야 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 상어는 움직임을 감지하죠.",
+      "sentence_corr_reason": [
+        "문장 부호"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그리고 상어는 움직임을 <문법_맞춤법>감지하죠</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 움직임을 감지하는 곳이 바로 상어의 코입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 움직임을 감지하는 <문법_맞춤법>곳이바로 상어의 코 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기에 실제로 상어를 맞닥트리면 움직이지 않는 것이 중요합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇기에 실제로 상어를 <문법_맞춤법>맞닥드리면</문법_맞춤법> 움직이지 않는 것이 중요 합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 많은 사람들이 상어는 포악한 성격 때문에 상어가 사람들을 공격하는 거라고 생각하지만 상어는 실제로 사람 별로 좋아하지 않습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 많은 사람들이 상어는 포악한 성격 때문에 상어가 사람들을 공격하는 거라고 생각하지만 상어는 실제로 <문법_맞춤법>사람별로 좋아하기 않습니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "상어가 사람을 공격하는 이유는 사람을 커다란 물개라고 착각했기 때문이라네요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "상어가 사람을 공격하는 이유는 사람을 커다란 물개라고 착각했기 <문법_맞춤법>때문이라 네요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 맛이 아주 좋다는 샥스핀은 상어의 지느러미로 만든 음식인데요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>맛이아주 좋다는 샥스핀</문법_맞춤법> 상어의 지느러미로 만든 음식인데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그치만 이 샥스핀의 재료인 상어의 지느러미를 구하는 과정이 꽤 잔인한데요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그치만 이 샥스핀의 재료인 상어의 지느러미를 구하는 과정이 <문법_맞춤법>꾀</문법_맞춤법> 잔인한데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 살아 있는 상어를 잡아 지느러미만 자르고 상어는 버리기 때문인데요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>살아있는</문법_맞춤법> 상어를 잡아 지느러미만 자르고 상어는 버리기 때문인데요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아까 말씀 드렸다시피 상어는 움직이지 못하면 죽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아까 말씀 <문법_맞춤법>드렸다슾이 상어는 움직이자 못 하면 죽습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러니 지느러미를 잃은 상어는 그 자리에서 죽게 됩니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러니 지느러미를 잃은 <문법_맞춤법>상어 그자리에서 발버붕치다가 죽게됩니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제가 준비한 것은 여기까지입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "제가 준비한 것은 <문법_맞춤법>여기까지 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35291",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 658,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

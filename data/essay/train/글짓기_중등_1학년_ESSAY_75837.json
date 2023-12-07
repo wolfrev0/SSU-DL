@@ -1,0 +1,351 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시라니 생각만 해도 신기하고 재밌을것같고 많은 문명과 많은 기술이 있을 것 같습니다. #@문장구분#그만큼 많은 기술이 발전했을것이고 저희는 더 이상 석유나 석탄을 쓰지않고 새로운 자원을 쓰고 원자력 발전을 하지않고 친환경적인 태양광이나 풍력발전기로 전력을 공급받을 것 같습니다.#@문장구분# 하지만 그 모습을 가지고 있는건 몇몇 대도시일 뿐입니다.#@문장구분# 세상은 기술을 개발하면서 지구의 모든 자원을 써버렸고 지금 지구는 큰 혼란에 빠졌습니다.#@문장구분# 어디서는 전쟁이 일어나고 어디는 무법지대이며 어디서는 대기오염이 심해 사람들이 죽어나가고 있습니다.#@문장구분# 대도시에서 살아가는 사람들은 대도시밖이 어떻게 됐는지 모르고 평화롭게 살아갈  것 같습니다. 굳이 나쁜걸 보여줄 이유는 없죠.#@문장구분# 그걸 보여줬다가 혼란을 초래하면 대도시도 망할 수 있기 때문입니다.#@문장구분# 학생들은 단지 몇몇 대도시만 있다고 배우고 대도시에서 대도시로 이동할때도 창문없는 기차를 사용하거나 몇초만에 단숨에 이동할 수 있는 지하철이 있어서 실체를 보지 못하죠.#@문장구분# 지금까지 많은 기술발전 때문에 많은 자연이 회손됐고 복구를 못할 정도로 심해졌습니다.#@문장구분# 대도시에 사는 사람들은 단지 커다란 스크린에 띄워진 파란 하늘을 보며 살아가고 인공태양으로 광합성을 하고 동식물을 키워냅니다.#@문장구분# 심지어 남은 인간들은 새로운 행성을 찾아내서 이주할 생각을 하고 있습니다. #@문장구분#많은 것이 발전했지만 많은 것을 잃었습니다.#@문장구분# 누군가는 가족을 잃었고 누군가는 집을 잃었습니다.#@문장구분# 잃은게 많은 만큼 기술도 많이 발전됐지요.#@문장구분# 대기는 숨도 못쉴만큼 오염이 되었고 대도시는 큰 대기정화장치가 없으면 모든 사람이 죽어버릴게 뻔합니다.#@문장구분# 지금도 새로운 행성을 찾고 이주할 생각을 하고 있고 지구는 더 이상 제가 생각하던 지구가 아니게 될 것 같습니다.#@문장구분#",
+      "paragraph_len": 1173,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 이상으로 마치겠습니다.",
+      "paragraph_len": 13,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          0,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.5,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      26.75,
+      26,
+      19.3
+    ],
+    "essay_scoreT_avg": 24.016668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.06",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래도시라니 생각만 해도 신기하고 재밌을 것 같고 많은 문명과 많은 기술이 있을 것 같습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미래도시라니 생각만 해도 신기하고 <문법_맞춤법>재밌을것같고</문법_맞춤법> 많은 문명과 많은 기술이 있을 것 같습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그만큼 많은 기술이 발전했을 것이고 저희는 더 이상 석유나 석탄을 쓰지 않고, 새로운 자원을 쓰고, 원자력 발전을 하지 않고, 친환경적인 태양광이나 풍력발전기로 전력을 공급받을 것 같습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그만큼 많은 기술이 <문법_맞춤법>발전했을것이고</문법_맞춤법> 저희는 더 이상 석유나 석탄을 <문법_기타>쓰지않고</문법_기타> 새로운 자원을 쓰고 원자력 발전을 하지않고 친환경적인 태양광이나 풍력발전기로 전력을 공급받을 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세상은 기술을 개발하면서 지구의 모든 자원을 써 버렸고 지금 지구는 큰 혼란에 빠졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 세상은 기술을 개발하면서 지구의 모든 자원을 <문법_맞춤법>써버렸고</문법_맞춤법> 지금 지구는 큰 혼란에 빠졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대도시에서 살아가는 사람들은 대도시 밖이 어떻게 됐는지 모르고 평화롭게 살아갈  것 같습니다. 굳이 나쁜걸 보여 줄 이유는 없으니까요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 대도시에서 살아가는 사람들은 <문법_맞춤법>대도시밖이</문법_맞춤법> 어떻게 됐는지 모르고 평화롭게 살아갈  것 같습니다. 굳이 나쁜걸 보여줄 이유는 <문법_어미>없죠</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학생들은 단지 몇몇 대도시만 있다고 배우고 대도시에서 대도시로 이동할때도 창문없는 기차를 사용하거나 몇 초만에 단숨에 이동할 수 있는 지하철이 있어서 실체를 보지 못할 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 학생들은 단지 몇몇 대도시만 있다고 배우고 대도시에서 대도시로 이동할때도 창문없는 기차를 사용하거나 <문법_맞춤법>몇초만에</문법_맞춤법> 단숨에 이동할 수 있는 지하철이 있어서 실체를 보지 <문법_어미><문법_기타>못하죠</문법_기타></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금까지 많은 기술의 발전 때문에 많은 자연이 훼손됐고 복구를 못할 정도로 심해졌습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 지금까지 많은 <문법_맞춤법><문법_조사>기술발전</문법_조사></문법_맞춤법> 때문에 많은 자연이 회손됐고 복구를 못할 정도로 심해졌습니다.",
+      "sentence_corr_txt_styling": " 지금까지 많은 기술의 발전 때문에 많은 자연이 훼손됐고 복구를 못할 정도로 심해졌습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대도시에 사는 사람들은 단지 커다란 스크린에 띄워진 파란 하늘을 보며 살아가고 인공태양으로 광합성을 하고 동식물을 키워낼 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 대도시에 사는 사람들은 단지 커다란 스크린에 띄워진 파란 하늘을 보며 살아가고 인공태양으로 광합성을 하고 동식물을 <문법_어미><문법_기타>키워냅니다</문법_기타></문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 잃은게 많은 만큼 기술도 많이 발전할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 잃은게 많은 만큼 기술도 많이 <문법_어미>발전됐지요</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대기는 숨도 못 쉴만큼 오염이 되고 대도시는 큰 대기정화장치가 없으면 모든 사람이 죽어버릴 게 뻔합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 대기는 숨도 <문법_맞춤법>못쉴만큼</문법_맞춤법> 오염이 <문법_시제>되었고</문법_시제> 대도시는 큰 대기정화장치가 없으면 모든 사람이 죽어버릴게 뻔합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_75837",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 869,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

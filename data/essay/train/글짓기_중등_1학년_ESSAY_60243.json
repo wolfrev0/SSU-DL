@@ -1,0 +1,165 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "현재 일본이나 프랑스 같은 나라는 미래를 위해서 바다속에서 살수 있는 해저도시를 개발중이라는 글을 본적이 있다.#@문장구분# 일본 같은 경우 자꾸 여러 가지 자연재해에 의해서 땅이 줄어들고 있는 현실이라고도 들었다 해저도시가 사람들이 새롭게 살아가는 공간이 될 것이다.#@문장구분# 땅위에서 살때처럼 똑같은 환경을 만들어서 바닷속에서 산다고 생각하니 어쩌면 상상처럼 너무 신기하고 좋을 것도 같지만 어찌보면 땅위에서 살지못하는 환경이 먼미래에 된다면 바다라는 자연도 마찬가지로 해일이나 새로운 생명에 의해서 침해당할수 있지 않을까한다.#@문장구분# 우리인간이 바닷속에 사는 무수히 많은 생물들의 공간을 빼앗는 일이 될지도 모르니까 또는 바다고 오염이 되고 많은 방사선으로 많은 변이된 생물이 나올지도 모른다는 공포가 생긴다.#@문장구분# 조심하고 조심하자.#@문장구분#",
+      "paragraph_len": 495,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.75,
+      22.1,
+      20
+    ],
+    "essay_scoreT_avg": 22.283333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "현재 일본이나 프랑스 같은 나라는 미래를 위해서 바닷속에서 살 수 있는 해저도시를 개발중이라는 글을 본 적이 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "현재 일본이나 프랑스 같은 나라는 미래를 위해서 <문법_맞춤법>바다속에서 살수</문법_맞춤법> 있는 해저도시를 개발중이라는 글을 본적이 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60243",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 396,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

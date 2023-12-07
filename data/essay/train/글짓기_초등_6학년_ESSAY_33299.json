@@ -1,0 +1,305 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "현재까지 탐사된 바다지역은 고작 10%정도라고 합니다.#@문장구분# 우리가 알고 있는 바다 생물은 150만종이지만 많게는 일억종까지 있을거라고 과학자들은 예상하죠#@문장구분# 생물중 80%가 바다 생물이라고하는데 전 그중에서 범고래가 되고 싶습니다.#@문장구분# 범고래는 IQ가 대략 90정도라고 합니다.#@문장구분# 범고래는 최상위 포식자로써 백상아리도 한입에 사냥할수 있다고 알려져 있고요.#@문장구분# 북금곰, 바다사자 거의 모든 해양동물과 육지동물 할것없이 다 사냥할수 있다고 하는데 오직 인간만 안 사냥한다고 알려져있어서 가끔씩 인간을 공격하는건 물개랑 착각해서 그렇다네요.#@문장구분# 범고래는 진짜 귀엽기도 하고 강하기도 하고 똑똑하기도 하고 사람들에게 이쁨도 많이 받는 동물이라서 저는 범고래가 되고 싶습니다.#@문장구분# 아직 칸이 남아서 하나 더 하고 마치겠습니다.#@문장구분# 범고래 머리쪽 하얀부문이 눈이 아니고 밑쪽 검은 부분에 눈이 있다고 합니다.#@문장구분# 그리고 범고래는 혼자서도 북극곰을 사냥할 정도로 강력한데 평균 18마리의 무리로 무리지어 다닌다고 해요.#@문장구분# 이상으로 다시 태어난다면 되고싶은 바다동물 쓰기 마치겠습니다.#@문장구분#",
+      "paragraph_len": 746,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.8,
+      26.9,
+      24.25
+    ],
+    "essay_scoreT_avg": 23.65,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.05",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "현재까지 탐사된 바다지역은 고작 10% 정도라고 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "현재까지 탐사된 바다지역은 고작 1<문법_맞춤법>0%정도라고 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리가 알고 있는 바다 생물은 150만 종이지만 많게는 일억 종까지 있을 거라고 과학자들은 예상하죠.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "문장 부호"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 우리가 알고 있는 바다 생물은 <문법_맞춤법>150만종이지만</문법_맞춤법> 많게는 일억종까지 있을거라고 과학자들은 <문법_기타>예상하죠</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 생물 중 80%가 바다 생물이라고 하는데 전 그중에서 범고래가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>생물중 </문법_맞춤법>80%가 바다 생물이라고하는데 전 그중에서 범고래가 되고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 범고래는 IQ가 대략 90 정도라고 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 범고래는 IQ가 대략 <문법_맞춤법>90정도라고</문법_맞춤법> 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 범고래는 최상위 포식자로서 백상아리도 한입에 사냥할 수 있다고 알려져 있고요.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 범고래는 최상위 <문법_조사>포식자로써 </문법_조사>백상아리도 한입에 <문법_맞춤법>사냥할수 </문법_맞춤법>있다고 알려져 있고요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 북극곰, 바다사자 거의 모든 해양 동물과 육지동물 할 것 없이 다 사냥할 수 있다고 하는데 오직 인간만 안 사냥한다고 알려져 있어서 가끔씩 인간을 공격하는 건 물개랑 착각해서 그렇다네요.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법>북금곰</문법_맞춤법>, 바다사자 거의 모든 <문법_기타>해양동물과 육지동물 할것없이 다 사냥할수 있다고 하는데 오직 인간만 안 사냥한다고 알려져있어서 가끔씩 인간을 공격하는건 물개랑 착각해서 그렇다네요</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 범고래 머리 쪽 하얀 부분이 눈이 아니고 밑쪽 검은 부분에 눈이 있다고 합니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 범고래 <문법_맞춤법><문법_기타>머리쪽 하얀부문이</문법_기타></문법_맞춤법> 눈이 아니고 밑쪽 검은 부분에 눈이 있다고 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 범고래는 혼자서도 북극곰을 사냥할 정도로 강력한데 평균 18마리의 무리로 무리 지어 다닌다고 해요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 범고래는 혼자서도 북극곰을 사냥할 정도로 강력한데 평균 18마리의 무리로 <문법_맞춤법>무리지어 </문법_맞춤법>다닌다고 해요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이상으로 다시 태어난다면 되고 싶은 바다동물 쓰기 마치겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이상으로 다시 태어난다면 <문법_맞춤법>되고싶은 </문법_맞춤법>바다동물 쓰기 마치겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33299",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 526,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

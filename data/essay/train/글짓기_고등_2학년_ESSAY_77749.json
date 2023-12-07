@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "가끔 밤하늘에 고개를 들어 올리면 꼭 깊은 바다를 보고 있는 듯 한 느낌과 신비롭고 반짝이는 별들과  행성들 은하계, 별똥별 등 아름다운 것들을 볼 수 있어서 행복했다.#@문장구분# ",
+      "paragraph_len": 115,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "    우주는 과학적으로 또는 철학적으로 존재하는 모든 만물의 근원이라 정의할 수도 있다. #@문장구분#표준국어대사전은 유한한 시간과 만물을 포함하고 있는 끝없는 공간의 총체로 정의하는데 나는 여기서 의문이 들었다.#@문장구분# 우주는 아무 것도 없는 공간에서 빅뱅이 일어나 시간이 흐르고 우주가 탄생했지만 우주를 뒤덮고 있는 공간은 무엇이지 라는 생각이 떠올랐다.#@문장구분#어쩌면 우주는 은하계 속에 있는 별 들처럼 우주를 덮고 있는 아무것 도 없는 공간에 또다른 세계아니면 우주가 존재 할 수 도 있다는 생각이 들었다.#@문장구분# ",
+      "paragraph_len": 353,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "  어렸을 때 나는 공룡말고 우주에 관심이 많았었는데 그때 우주는 나에게 또 다른 나만의 세상이었다.#@문장구분#",
+      "paragraph_len": 76,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 그래서 우주에 관련된 책이나 박물관을 자주 가곤 했었다.#@문장구분# 박물관을 갔을 때는 항상 기념품 사는곳을 항상 기웃 거리다가 운 좋으면은 부모님이 사주고는 했다. #@문장구분#그때 산 기념품으로는 아폴론 11호인 우주선과 지구본 우주왕복선 모형등을 사주셨다. #@문장구분#우주는 나에게 어릴적 즐거운 추억이면서도 나의 재미있는 장난감이었다.#@문장구분# 또 별똥별들을 볼 때 마다 소원을 빌었었는데 그때는 왜 소원을 빌었었는지 모르겠었지만 언젠가는 이루지지 않을까 라는 생각으로 빌었던거 같다.#@문장구분#",
+      "paragraph_len": 352,
+      "paragraph_id": "004"
+    },
+    {
+      "paragraph_txt": "  우주와 관련된 사진들을 보면 은하계 성운이 있는데 거기서 장미성운, 독수리성운등 아름답게 생긴 것이 많았다. #@문장구분# 그성운들이 왜 그이름으로 불리는지 몰랐지만 통합과학을 배우면서 그것들의 이름과 생김새가 비슷하게 생겼다는 것을 알게되었다. #@문장구분#우주는 나에게 스승과 같은 존재이다.",
+      "paragraph_len": 193,
+      "paragraph_id": "005"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.7142856,
+          2.7142856,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6190474,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          2.7142856,
+          2.7142856,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6190474,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.7142856,
+          2.7142856,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6190474,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          2.7142856,
+          2.7142856,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6190474,
+        "paragraph_id": "004"
+      },
+      {
+        "paragraph_scoreT": [
+          2.7142856,
+          2.7142856,
+          2.4285715
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6190474,
+        "paragraph_id": "005"
+      }
+    ],
+    "essay_scoreT": [
+      23.079365,
+      26.468254,
+      23.103174
+    ],
+    "essay_scoreT_avg": 24.216932,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.23",
+    "student_educated": true,
+    "student_grade": "고등_2학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "고등_2학년",
+    "organization_weight": {
+      "org_paragraph": 3,
+      "org": 2,
+      "org_essay": 3,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "우주에 대한 나의 생각",
+    "expression_weight": {
+      "exp_style": 2,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_77749",
+    "essay_prompt": " 여러분은 '우주'라는 것에 대해 어떻게 생각하나요?\n\n 한 번도 생각해보지 않은 사람도 있을 것이고 평소에 우주의 신비에 대해 궁금해하는 사람도 있을 것 같아요.\n\n '우주'라는 공간은 아직 밝혀진 것도 많이 없고 많은 과학자에게 숙제 같은 곳이랍니다. 많은 SF영화에서는 저명한 우주학자들을 초빙하고 수많은 회의를 기반으로 다양한 해석을 통해 우주를 설명하고는 하지요. 인터스텔라나 마블유니버스의 스토리 처럼요!\n\n 여러분은 외계인이 있다고 생각하나요? 블랙홀이나 화이트홀은 어떻게 생각하나요? 우주여행이 가능하다고 생각하시나요? 아바타 같은 영화처럼 새로운 문명이 있다고 생각하나요? 진짜로 화성에 새로운 지구를 만들 수 있다고 생각하나요?\n\n 여러분은 이미 우주에 대한 영화나 책으로 많이 접해보았을 것 같아요. 그리고 10년, 20년 후의 우주에 대해 상상해 본 적이 있을 것 같아요. 우주에 대한 본인의 생각이나 미래의 일들을 자유롭게 작성해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 838,
+    "essay_main_subject": "우주에 대한 나의 생각"
+  }
+}

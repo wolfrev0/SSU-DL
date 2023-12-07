@@ -1,0 +1,267 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 바닷가 근처로 가서 거북이를 관찰하고 있었는데 갑자기 몸이 거북이로 변하게 되면서 이야기가 시작되었다.#@문장구분# 나는 거북이로 변해서 당황하고 어리둥절 하였다.#@문장구분# 그래도 나는 재미있는 모험이 될 것 같아 무작정 바다속으로\n 들어갔다.#@문장구분# 들어갔는데 한 거북이가 나를 데리고 갑자기 어디론가 데려갔다.#@문장구분# 나를 데리고 온 것은 거북이들이 많이 살고있는 거북이 마을이었고 다양한 거북이들이 살고 있었다.#@문장구분# 그곳은 인간 세상과 다름없이 아파트들이 높게 세워져 있었고, 거북이들이 타는 교통수단도 많이 있었다.#@문장구분# 날 데려온 거북이는 이 나라의 대왕이었다.#@문장구분# 내가 왔다는 소식을 듣고 날 데리러 온 것이다.#@문장구분# 나는 궁전으로 들어갔고 친절하게 거북이 세상을 보았다.#@문장구분# 그리고 한 거북이 신하가 거북이가 등껍질이 있는 이유를 설명해주었다.#@문장구분#\"신이 옛날에 다른 바다생물에게는 특징을 주었는데 우리 거북이 족만 주지 않았어요.#@문장구분#그래서 우리는 잡고 잡아먹히는 날이 반복 되었죠.#@문장구분# 그러던 어느날 신이 이 모습을 보고 너무 안타까워서 우리에게 절대 깨지지 않는 등껍질을 주었답니다.#@문장구분#\" 나는 그 이야기를 듣고 참 신기했다. #@문장구분#왜냐하면 인간에게만 신화나 역사가 있을줄 알았는데 바다생물에게도 있어서 말이다.#@문장구분#그렇게 일주일 동안 거북이 마을도 둘러보고 또 갖가지 역사를 들으며 지냈다. #@문장구분#그리고 안전하게 해변으로 갔고, 다시 인간으로 돌아올 수 있게 되었다.#@문장구분#내가 거북이가 되고 싶었던 이유는 거북이를 떠올리면 느린모습과 딱딱한 등껍질이 생각나는데 그 등껍질 속에는 어떤 비밀이 숨겨져 있을지 궁금해서 나의 상상에 맡겨보려고 거북이를 선택하게 되었다.#@문장구분#",
+      "paragraph_len": 1139,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      23.1,
+      21.6
+    ],
+    "essay_scoreT_avg": 24.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 나는 거북이로 변해서 당황하고 어리둥절하였다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 거북이로 변해서 당황하고 <문법_맞춤법>어리둥절 하였다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래도 나는 재미있는 모험이 될 것 같아 무작정 바다로\n 들어갔다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그래도 나는 재미있는 모험이 될 것 같아 무작정 <문법_맞춤법><문법_조사>바다속으로</문법_조사></문법_맞춤법>\n 들어갔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 나를 데리고 온 것은 거북이들이 많이 살고있는 거북이 마을이었고 다양한 거북이들이 살고 있었다.",
+      "sentence_corr_txt_styling": " 나를 데리고 온 것은 거북이들이 많이 살고있는 거북이 마을이었고 다양한 거북이들이 살고 있었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 날 데려온 거북이는 이 나라의 대왕이었다.",
+      "sentence_corr_txt_styling": " 날 데려온 거북이는 이 나라의 대왕이었다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 내가 왔다는 소식을 듣고 날 데리러 온 것이다.",
+      "sentence_corr_txt_styling": " 내가 왔다는 소식을 듣고 날 데리러 온 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 나는 궁전으로 들어갔고 친절하게 거북이 세상을 보았다.",
+      "sentence_corr_txt_styling": " 나는 궁전으로 들어갔고 친절하게 거북이 세상을 보았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 인간에게만 신화나 역사가 있을 줄 알았는데 바다생물에게도 있어서 말이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "왜냐하면 인간에게만 신화나 역사가 <문법_맞춤법>있을줄</문법_맞춤법> 알았는데 바다생물에게도 있어서 말이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40001",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 781,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

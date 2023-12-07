@@ -1,0 +1,267 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다는 지구 표면의 약 70%를 차지합니다.#@문장구분# 그 속에는 무수히 많은 생물이 살고 있고, 아직까지 밝혀지지않은 생물이 무수히 많습니다. #@문장구분#정말 넓고 신비로운 바다라는 곳에 있는 생물로 단 1주일만 변신할 수 있다면 당신은 무엇으로 변신할건가요?#@문장구분#\n하지만 이 넓은 바다가 죽어가고 있다는 사실을 아나요?#@문장구분#\n이러한 바다를 지키려면 어떻게 해야 하나요.#@문장구분#\n 첫째 쓰래기를 바다에 버리지 맙시다.#@문장구분# 쓰래기를 바다에 버려 바다가 오염돼 생물이 죽습니다.#@문장구분# 쓰래기만 쓰래기통에 잘버리면 바다오염을 막을 수 있습니다.#@문장구분# \n 둘째 에너지를 절약하자#@문장구분# 에너지는 공장에서 생산되고 공장에서 오염물질이 많이 나옵니다.#@문장구분# 공장에서 오염물질이많이 지금도 많이 나오는데 에너지를 많이 쓰게되면 공장은 더욱더 늘어나 바다가 심각하게 오염될것입니다.#@문장구분#\n 이러한 방법으로 바다오염을 막아야 합니다.#@문장구분#",
+      "paragraph_len": 658,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.5,
+      20
+    ],
+    "essay_scoreT_avg": 24.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.25",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그 속에는 무수히 많은 생물이 살고 있고, 아직까지 밝혀지지 않은 생물이 무수히 많습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 속에는 무수히 많은 생물이 살고 있고, 아직까지 <문법_맞춤법>밝혀지지않은</문법_맞춤법> 생물이 무수히 많습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "정말 넓고 신비로운 바다라는 곳에 있는 생물로 단 1주일만 변신할 수 있다면 당신은 무엇으로 변신할 건가요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "정말 넓고 신비로운 바다라는 곳에 있는 생물로 단 1주일만 변신할 수 있다면 당신은 무엇으로 <문법_맞춤법>변신할건가요?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째 쓰레기를 바다에 버리지 맙시다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 첫째 <문법_맞춤법>쓰래기를</문법_맞춤법> 바다에 버리지 맙시다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 쓰레기를 바다에 버려 바다가 오염돼 생물이 죽습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>쓰래기를</문법_맞춤법> 바다에 버려 바다가 오염돼 생물이 죽습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 쓰레기만 쓰레기통에 잘 버리면 바다 오염을 막을 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>쓰래기만 쓰래기통에 잘버리면 바다오염을</문법_맞춤법> 막을 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공장에서 오염물질이 많이 지금도 많이 나오는데 에너지를 많이 쓰게 되면 공장은 더욱더 늘어나 바다가 심각하게 오염될 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류",
+        "기타"
+      ],
+      "sentence_txt": " 공장에서 <문법_맞춤법>오염물질이많이 지금도 많이 나오는데 에너지를 많이 쓰게되면 공장은 더욱더 늘어나 바다가 심각하게 오염될것입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 공장에서 오염물질이 많이 지금도 많이 나오는데 에너지를 많이 쓰게 되면 공장은 더욱더 늘어나 바다가 심각하게 오염될 것입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이러한 방법으로 바다 오염을 막아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이러한 방법으로 <문법_맞춤법>바다오염을</문법_맞춤법> 막아야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_43516",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 419,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

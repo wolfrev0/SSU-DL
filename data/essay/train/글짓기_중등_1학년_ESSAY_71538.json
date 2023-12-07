@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 이번 코로나를 통해서 병원의 원격 진료가 가능할지도 모르겠다고 생각을 했다.#@문장구분# 지금도 조금씩 말이 나오고 있기는 하지만 원격 진료를 사용하는 병원은 있는지 없는지 모르겠지만 거의 없을 것이다.#@문장구분# 하지만 코로나로 인해서 사람들이 누군가를 만나기를 꺼려하고 병원에 오는것은 더 꺼려한다.#@문장구분# 그래서 나는 코로나를 계기로 원격 진료를 하려는 움직임이 강해질 것 같다고 생각을 한다.#@문장구분# 원격진료를 하면 집에서 병원 진료를 볼 수 있는 것인데 감기와 같은 간단한 진료를 굳이 병원까지 가지 않고 진료를 받을 수 있기 때문에 편할 것 같다고 생각을 한다.#@문장구분# 물론 CT를 찍거나 MRI를 찍어야 하는 경우에는 전문적인 장비가 필요하기 때문에 병원에 방문을 해야겠지만 그렇지 않은 간단한 진료는 집에서 편하게 볼 수 있을 것이다.#@문장구분# 그리고 원격 진료는 시골에 살고 있는 사람들에게 더 좋은 진료 방법이 될 것이다.#@문장구분# 사실 시골에 살고 있는 사람들은 도시로 나가서 진료를 보는 것이 힘들다.#@문장구분# 오가는 시간도 계산을 해야하고 개인 차량이 없으면 교통 시간도 맞춰야할텐데 원격 진료를 시행하면 그럴 필요가 없어질 것이다.#@문장구분#",
+      "paragraph_len": 734,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28.15,
+      19.7
+    ],
+    "essay_scoreT_avg": 25.950003,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71538",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 555,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕하세요?#@문장구분# 저는 #@소속#에 다니고 있는 #@이름#이라고 합니다.#@문장구분# 제가 어렸을 때부터 좋아하고,신기해하는 바다속 생물이 있습니다.#@문장구분# 그 생물은 바로 해파리 입니다.#@문장구분# 제가 왜 많고 많은 생물들 중에 해파리를 선택한 이유는 반투명한 색깔이 아릅답고 자유롭게 물속을 탐험하는 해파리가 부러워서 입니다.#@문장구분# 해파리 중에도 전 독이   있는 해파리가 되었으면 좋겠습니다.#@문장구분# 자신을 보호할 수있는 능력이 있기에 자신을 해칠려고 하면 필사적으로 자신을 보호하는 모습이 멋있기 때문입니다.#@문장구분# 제가 해파리가 된다면 가장 먼저 제일 수심이 깊은 곳을 탐험할 것입니다.#@문장구분# 지금은 물속에서 숨을 오랫동안 참을 수가 없었지만 해파리가 되면 숨을 오랫동안 참으면서 바다속에 얼마 나 많은 생물들이 살고,또 그 생물들 이 무엇을 먹으면서 살아가는지,잠은 어떻게 자는지 얼마나 자는지 관찰해보고 싶습니다.#@문장구분# 해파리가 엄청 가벼워 보였는데 내가 해파리가 된다면 얼마나 가벼워 졌는지 느껴보고 싶습니다.#@문장구분# 제가 지은 바다속 이야기를 들어보실래요?#@문장구분# 어느날 한 소년이 잠만 자고 있었어요.#@문장구분# 그 소년은 바다에 대해 엄청 나게 관심이 많았죠.#@문장구분# 어느날 그 사람이 잠시 고민했어요.#@문장구분# '나는 바다에 산다면 무슨 생물로 살까?' 라고 말이죠.#@문장구분# 그 소년은 한참동안 고민하다가 결국 잠이 들어버렸죠.#@문장구분# 그 소년은 뜨거운 빛을 받고 있는 것같아서 잠에서 깼어요.#@문장구분# 그 순간! 쏴아~ 그때 소년에게 파도가 덮쳤어요!#@문장구분# 소년은 물을 무서워 했지요.#@문장구분# 하지만 몸이 자유롭게 움직일 수있어서 몰랐어요!#@문장구분# 그 소년은 무슨 일인지 짐작이 않됬죠.#@문장구분# 소년은 어젯밤 말한게 생각 났어요.#@문장구분# '아참! 내가 생물이 되었구나''내가 뭐지?' 생각했어요#@문장구분# '아! 물속을 자유롭게 다니는 해파리구나!' 라고요.#@문장구분# 사람으로 돌아가는 방법을 알지 못했죠 .#@문장구분# 그 해파리 소년은 다짐했어요.#@문장구분# '그래! 뭐. 이렇게 해파리가 된이상 평생 재미있고 신기한 모험을 하면서 살아야지!' 라고 말이에요~#@문장구분#",
+      "paragraph_len": 1507,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.75,
+      29.75,
+      24.25
+    ],
+    "essay_scoreT_avg": 27.25,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕하세요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>안녕하세요?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 어렸을 때부터 좋아하고, 신기해하는 바닷속 생물이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 어렸을 때부터 <문법_맞춤법>좋아하고,신기해하는 바다속 생물이</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 생물은 바로 해파리입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 생물은 바로 <문법_맞춤법>해파리 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 왜 많고 많은 생물들 중에 해파리를 선택한 이유는 반투명한 색깔이 아릅답고 자유롭게 물속을 탐험하는 해파리가 부러워서입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 제가 왜 많고 많은 생물들 중에 해파리를 선택한 이유는 반투명한 색깔이 아릅답고 자유롭게 물속을 탐험하는 해파리가 <문법_맞춤법>부러워서 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 제가 왜 많고 많은 생물들 중에 해파리를 선택한 이유는 반투명한 색깔이 아릅답고 자유롭게 물속을 탐험하는 해파리가 부러워서입니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자신을 보호할 수 있는 능력이 있기에 자신을 해치려고 하면 필사적으로 자신을 보호하는 모습이 멋있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자신을 <문법_맞춤법>보호할 수있는</문법_맞춤법> 능력이 있기에 자신을 해칠려고 하면 필사적으로 자신을 보호하는 모습이 멋있기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금은 물속에서 숨을 오랫동안 참을 수가 없지만 해파리가 되면 숨을 오랫동안 참으면서 바닷속에 얼마나 많은 생물들이 살고, 또 그 생물들이 무엇을 먹으면서 살아가는지, 잠은 어떻게 자는지, 얼마나 자는지 관찰해보고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제",
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금은 물속에서 숨을 오랫동안 참을 수가 <문법_시제>없었지만</문법_시제> 해파리가 되면 숨을 오랫동안 참으면서 <문법_맞춤법>바다속에 얼마 나</문법_맞춤법> 많은 생물들이 살고,또 그 생물들 이 무엇을 먹으면서 살아가는지,잠은 어떻게 자는지 얼마나 자는지 관찰해보고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 해파리가 엄청 가벼워 보였는데 제가 해파리가 된다면 얼마나 가벼워지는지 느껴보고 싶습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " 해파리가 엄청 가벼워 보였는데 <문법_맞춤법>내가</문법_맞춤법> 해파리가 된다면 얼마나 <문법_시제>가벼워 졌는지</문법_시제> 느껴보고 싶습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 지은 바닷속 이야기를 들어보실래요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 제가 지은 <문법_맞춤법>바다속 </문법_맞춤법>이야기를 들어보실래요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 날 한 소년이 잠만 자고 있었어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느날</문법_맞춤법> 한 소년이 잠만 자고 있었어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 소년은 바다에 대해 엄청나게 관심이 많았죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 소년은 바다에 대해<문법_맞춤법> 엄청 나게</문법_맞춤법> 관심이 많았죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 날 그 사람이 잠시 고민했어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어느날</문법_맞춤법> 그 사람이 잠시 고민했어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '나는 바다에 산다면 무슨 생물로 살까?'라고 말이죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " '나는 바다에 산다면 무슨 생물로 살까?'<문법_맞춤법> 라고 말이죠.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 소년은 한참 동안 고민하다가 결국 잠이 들어버렸죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 소년은 <문법_맞춤법>한참동안</문법_맞춤법> 고민하다가 결국 잠이 들어버렸죠.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 소년은 뜨거운 빛을 받고 있는 것 같아서 잠에서 깼어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 소년은 뜨거운 빛을 받고 있는 <문법_맞춤법>것같아서</문법_맞춤법> 잠에서 깼어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그 순간! 쏴아~ 그때 소년에게 파도가 덮쳤어요!",
+      "sentence_corr_txt_styling": " 그 순간! 쏴아~ 그때 소년에게 파도가 덮쳤어요!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 소년은 물을 무서워했지요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 소년은 물을<문법_맞춤법> 무서워 했지요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 몸을 자유롭게 움직일 수 있어서 몰랐어요!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_조사>몸이</문법_조사> 자유롭게 <문법_맞춤법>움직일 수있어서</문법_맞춤법> 몰랐어요!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 소년은 무슨 일인지 짐작이 안됐죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그 소년은 무슨 일인지 짐작이 <문법_맞춤법>않됬죠</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 소년은 어젯밤 말한 게 생각났어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 소년은 어젯밤 <문법_맞춤법>말한게 생각 났어요</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '아참! 내가 생물이 되었구나, 나는 뭐지?'라고 생각했어요",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " '아참! 내가 생물이 <문법_맞춤법><문법_조사>되었구나''내가 뭐지?</문법_조사></문법_맞춤법>' 생각했어요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '아! 물속을 자유롭게 다니는 해파리구나!'라고요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " '아! 물속을 자유롭게 다니는 해파리구나!<문법_맞춤법>' 라고요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " '아! 물속을 자유롭게 다니는 해파리구나!'라고요.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람으로 돌아가는 방법을 알지 못했죠.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람으로 돌아가는 방법을 알지 <문법_맞춤법>못했죠 .</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '그래! 뭐 이렇게 해파리가 된 이상 평생 재미있고 신기한 모험을 하면서 살아야지!'라고 말이에요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " '그래! <문법_맞춤법>뭐. 이렇게 해파리가 된이상</문법_맞춤법> 평생 재미있고 신기한 모험을 하면서 살아야지!' 라고 말이에요~",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_53057",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 943,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

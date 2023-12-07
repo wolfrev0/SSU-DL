@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "운전면허를 따기 위해서는 도로에서 주행 연습을 해야하는데 나는 미래에 직접 도로에서 주행연습을 하는 것이 사라질 수도 있을 것 같다고 생각을 한다.#@문장구분# 그 대신 도로주행 가상현실을 개발해서 그걸로 도로 주행 연습을 대신할 수도 있을 것 같다고 생각을 한다.#@문장구분# 왜냐하면 도로주행을 연습하는 사람들은 아직 정식 면허를 가지지 않은 사람들이고 다른 많은 차들과 섞이기에는 운전을 한 경력이 매우 짧다.#@문장구분# 그렇기 때문에 그런 초보 중에서 엄청난 초보가 일반 도로에서 운전 연습을 하게 되면 사고를 발생시킬 가능성이 높고 도로 정체의 요인이 될 수 있다고 생각을 한다.#@문장구분# 하지만 가상현실을 사용한다면 실제로 도로에서 주행을 하는 것은 아니지만 실제 도로에서 주행을 하는 느낌을 받을 수 있을 것이다.#@문장구분# 신호에 걸리는 것도 좌회전과 우회전을 하는 것도 그리고 실제 교통상황을 반영하여 만든다면 실제만큼 생생한 프로그램을 통해서 연습을 할 수 있으며 다른 사람들에게 피해를 줄 수 있는 요인과 가능성은 최대한 줄이고 안전하게 운전 연습을 할 수 있다.#@문장구분# 그리고 운전자도 걱정을 덜 하고 연습을 할 수 있을 것이다.#@문장구분#",
+      "paragraph_len": 693,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      19.8,
+      26
+    ],
+    "essay_scoreT_avg": 25.266668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "운전면허를 따기 위해서는 도로에서 주행 연습을 해야 하는데 나는 미래에 직접 도로에서 주행연습을 하는 것이 사라질 수도 있을 것 같다고 생각을 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "운전면허를 따기 위해서는 도로에서 주행 연습을 <문법_맞춤법>해야하는데 </문법_맞춤법>나는 미래에 직접 도로에서 주행연습을 하는 것이 사라질 수도 있을 것 같다고 생각을 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71539",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 554,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

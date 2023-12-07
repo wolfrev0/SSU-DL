@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래에 19살에 겁나 좋은 대학에 합격해서 즐거운 대학생활을 즐기다가 4년후에 좋은 대기업에 취직하여 월당 5000만원씩 월급 받으면서 행복하게 살며 효도하며 가족들이랑 아주 행복한 삶을 살 것이다. #@문장구분#아마 나의 가치관은 뭐든 있을때 잘하자 일 것 이다.#@문장구분# 이런 삶을 살기 위해서는 많은 노력이 필요했을 것이다.#@문장구분# 아마도 나는 공부를 열심히 했을 것 같다.#@문장구분# 왜냐하면 수능도 잘보고 좋은 대학에 가기위해서도 공부가 아주 아주 아주 중요하기 때문이다.#@문장구분# 또 다른 노력으로는 열정과 끈기일 것이다.#@문장구분# 나는 쉽게 포기하는 성격이어서 공부를 포기하지 않고 하기가 힘들었을텐데 겁나 좋은 대학에 합격 할 정도로 공부를 한 것이니 열정과 끈기를 잃지 않으려고 노력 했을 것이다. #@문장구분#또 다른 노력들도 많겠지만 가장 대표적인 것은 공부와 열정, 노력이 었을 것이다.",
+      "paragraph_len": 556,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.3333333,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4444444,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.11111,
+      24.5,
+      30
+    ],
+    "essay_scoreT_avg": 24.537039,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.04",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_54570",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 418,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

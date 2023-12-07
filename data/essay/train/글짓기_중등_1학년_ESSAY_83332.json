@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 지금보다 훨씬 편하고 통신이 빠른 세상에서 살게 될 것이다.#@문장구분# 그리고 사람의 일을 대신하는 인공지능이 개발되어 노동력이 줄어들고 사람들은 편리하게 살 수 있을 것이다.#@문장구분# 먼 미래에는 자동차나 비행기 등 이동수단이라는 개념이 바꿔서 순간이동을 하는 것으로 될 수도 있다.#@문장구분# 그리고 투명해지거나 초능력을 살수있게 될수도 있다.#@문장구분# 머리에 유심칩을 심어서 사람 모두가 모르는 것 없이 똑같은 지능이 된다.#@문장구분# 무분별한 자연파괴로 인하여 산소가 부족해져서 인공 나무씨를 만들어 다시 심게 될 수도 있다.#@문장구분# 이때 과학기술이 발전 되어서 나무를 10초만에 자라게 할수도 있을 것이다.#@문장구분# 동물들은 먹이 사슬과 관계없이 부족한 먹이는 알아서 제공받을 수 있게 하는 시스템도 개발 될 것이다.#@문장구분# 캡슐 하나만 먹어도 한달은 배가 부른 그런 캡슐이 개발될 수도 있다.#@문장구분# 우주를 넘어서 목성까지 가는 통로도 만들 수 있을 것이다.#@문장구분# 그리고 외계인을 만나서 교류를 하는 경우도 있을 것이다.#@문장구분#",
+      "paragraph_len": 698,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.5,
+      28.4,
+      30
+    ],
+    "essay_scoreT_avg": 28.966667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.20",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "053",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_83332",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 478,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

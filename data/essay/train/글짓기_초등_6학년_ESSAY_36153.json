@@ -1,0 +1,560 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "안녕!! 나는 쭈꾸미야.#@문장구분#나는 몸이 유연해서  슥슥 다닐수가 있어.#@문장구분#나는 바다 생물 학교에 전학왔어#@문장구분# 아직은 낮설지만 잘 적응 할수있을 거야#@문장구분#그러니깐나는 오늘꼭 친구를 사귈거야 #@문장구분#너희도 응 원해 줄거지? #@문장구분#나는 학교에 가자마자 친구들이 나를 반겨 줬어#@문장구분# 안녕 꾸미야 나랑 잘지네 보자'#@문장구분#나는 너무 기분이 쏫아 올랐어 #@문장구분#학교를 끝나고 집에가는  길이 였어#@문장구분# 근데 어떤 검은색옷을 입은 사림이 나를 잡아 갔어#@문장구분#(참고로 검은색 사람은 해녀#@문장구분#)나는 재 단짝친구 산낙지도 같이 잡혀있었다.#@문장구분# 나는 곳! 목숨을 잃겠지???#@문장구분#    나는 너무 무서웠다.#@문장구분#단짝 산낙지가 얘기 했다.#@문장구분#야우리는 죽어서 만나자ㅠㅠㅠ#@문장구분#나는 철판 쭈꾸미가 되었고 내 단짝 산.낙.지는 낙지라면이 되었다#@문장구분#   사람들은 아주 맛있게 먹어 주니기분이좋았다.#@문장구분#나는 죽었지만 사람들 만 행복하게 먹을 수만 있다면 나는 죽어도된다#@문장구분#.나도 차라라 쭈꾸미 라면이되 었 으면 더 좋을 거라는 생각이든다#@문장구분#.사림들말 와 이쭈꾸미 정말 맛있다.#@문장구분# 딱 내스타일이 야#@문장구분# 애 라면이 더맛있어#@문장구분# 그러네 참말로 맛있네.#@문장구분#끝!",
+      "paragraph_len": 1009,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      30,
+      14.1
+    ],
+    "essay_scoreT_avg": 21.366667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          1,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.23",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "안녕! 나는 쭈꾸미야.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>안녕!!</문법_맞춤법> 나는 쭈꾸미야.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 몸이 유연해서  슥슥 다닐 수가 있어.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 몸이 유연해서  슥슥 <문법_맞춤법>다닐수가</문법_맞춤법> 있어.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 바다 생물 학교에 전학을 왔어.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "나는 바다 생물 학교에 <문법_맞춤법><문법_조사>전학왔어</문법_조사></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아직은 낮설지만 잘 적응할 수 있을 거야.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아직은 낮설지만 잘 <문법_맞춤법>적응 할수있을 거야</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기, 접속사 오류",
+        "띄어쓰기, 접속사 오류"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_맞춤법><스타일링_담화 맥락 오류>그러니깐</스타일링_담화 맥락 오류></스타일링_맞춤법>나는 오늘꼭 친구를 사귈거야 ",
+      "sentence_corr_txt_styling": "그래서 나는 오늘 꼭 친구를 사귈 거야. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "너희도 응원해 줄 거지? ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "너희도 <문법_맞춤법>응 원해 줄거지?</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 학교에 가자마자 친구들이 나를 반겨줬어.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 학교에 가자마자 친구들이 나를 <문법_맞춤법>반겨 줬어</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " '안녕, 꾸미야. 나랑 잘 지내 보자'",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>안녕 꾸미야</문법_맞춤법> 나랑 잘지네 보자'",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 기분이 솟아올랐어. ",
+      "sentence_corr_reason": [
+        "",
+        "문장부호"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "나는<스타일링_담화 맥락 오류> 너무 </스타일링_담화 맥락 오류>기분이 쏫아 <문법_맞춤법>올랐어</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "나는 기분이 솟아올랐어. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "학교가 끝나고 집에 가는  길이었어.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_조사>학교를 </문법_조사>끝나고 <문법_맞춤법>집에가는</문법_맞춤법>  길이 였어",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 어떤 검은색 옷을 입은 사람이 나를 잡아 갔어.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 어떤 <문법_맞춤법>검은색옷을</문법_맞춤법> 입은 사림이 나를 잡아 갔어",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "(참고로 검은색 사람은 해녀이다.)",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "(참고로 검은색 사람은 <문법_맞춤법>해녀</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내 단짝 산낙지도 같이 잡혀있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>)나는 </문법_맞춤법>재 단짝친구 산낙지도 같이 잡혀있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 곧 목숨을 잃겠지?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>곳!</문법_맞춤법> 목숨을 잃겠지???",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "단짝 산낙지가 말했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "단짝 산낙지가 <문법_맞춤법>얘기 했다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"야, 우리는 죽어서 만나자.\" ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>야우리는</문법_맞춤법> 죽어서 만나자<스타일링_담화 맥락 오류>ㅠㅠㅠ</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": "\"야, 우리는 죽어서 만나자.\" ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 철판 쭈꾸미가 되었고, 내 단짝 산낙지는 낙지 라면이 되었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 철판 쭈꾸미가 <문법_맞춤법>되었고</문법_맞춤법> 내 단짝 산.낙.지는 낙지라면이 되었다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "   사람들이 아주 맛있게 먹어 주니 기분이 좋았다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "   <문법_조사>사람들은</문법_조사> 아주 맛있게 먹어 <문법_맞춤법>주니기분이</문법_맞춤법>좋았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 죽었지만 사람들이 행복하게 먹을 수만 있다면, 나는 죽어도 된다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 죽었지만 <문법_조사>사람들 만</문법_조사> 행복하게 먹을 수만 <문법_맞춤법>있다면 </문법_맞춤법>나는 죽어도된다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나도 차라리 쭈꾸미 라면이 되었으면 더 좋았을 거라는 생각이 든다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": "<문법_맞춤법>.나도</문법_맞춤법> 차라라 쭈꾸미 라면이되 었 으면 더 <문법_시제>좋을 거라는</문법_시제> 생각이든다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "사람들이 말했다. \"와! 이 쭈꾸미 정말 맛있다.\"",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>.사림들말</스타일링_담화 맥락 오류> <문법_맞춤법>와 이쭈꾸미 정말 맛있다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "사람들이 말했다. \"와! 이 쭈꾸미 정말 맛있다.\"",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"딱 내 스타일이야.\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>딱 내스타일이 야</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"이 라면이 더 맛있어.\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>애 라면이 더맛있어</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"그렇네. 참말로 맛있네.\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그러네 참말로 맛있네.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36153",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 509,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

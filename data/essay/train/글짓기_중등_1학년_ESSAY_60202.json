@@ -1,0 +1,311 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "앞으로 내가 살아가는 곳이 미래도시일까? #@문장구분#그보다 더먼 미래 100년후쯤이 미래도시일까?#@문장구분#",
+      "paragraph_len": 88,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 지금보다 훨씬 후겠지.#@문장구분# 그때는 지금 내가 있는 이곳에도 모든 것이 로봇과 반반 썩여서 실제로 내가 할수 있는 일은 별로 없겠지싶다.#@문장구분# 친구도 로봇하고 놀아야하나 그럼 인간은 과연 왜 존재하는걸까 하는 생각에 차츰 세계인구가 줄어들 것이다.#@문장구분# 그러면 아마 우리지구에는 인간이 만들어놓은 모든 것들안에서 실패도 안하고 다들 머리좋은 로봇만이 존재하겠지.#@문장구분#",
+      "paragraph_len": 274,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 또다른면에서는 너무 기계화된걸 싫어하는 하나의 나라가 존재해서 원시시대처럼 모든걸 자연과 더불어사는 그런 종족이 나오지 않을까 한다.#@문장구분# 나는 처음것보다는 뒤에처럼 되는 세상이 오길바란다.#@문장구분# 조금 발전이 느리더라도 도시에도 시골에도 나무와 내가 그리고 필요에따라서 로봇이 공존하는 세상이되길바란다.#@문장구분#",
+      "paragraph_len": 224,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      18.4,
+      20
+    ],
+    "essay_scoreT_avg": 22.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.03",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그보다 더 먼 미래 100년 후 쯤이 미래도시일까?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그보다 <문법_맞춤법>더먼 미래 100년후쯤이</문법_맞춤법> 미래도시일까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때는 지금 내가 있는 이곳에도 모든 것이 로봇과 반반 섞여서 실제로 내가 할 수 있는 일은 별로 없겠지 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때는 지금 내가 있는 이곳에도 모든 것이 로봇과 반반 <문법_맞춤법>썩여서 실제로 내가 할수</문법_맞춤법> 있는 일은 별로 없겠지싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구도 로봇하고 놀아야하나 그럼 인간은 과연 왜 존재하는 걸까 하는 생각에 차츰 세계인구가 줄어들 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구도 로봇하고 놀아야하나 그럼 인간은 과연 왜 <문법_맞춤법>존재하는걸까</문법_맞춤법> 하는 생각에 차츰 세계인구가 줄어들 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 아마 우리 지구에는 인간이 만들어놓은 모든 것들 안에서 실패도 안 하고 다들 머리 좋은 로봇만이 존재하겠지.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 아마 <문법_맞춤법>우리지구에는</문법_맞춤법> 인간이 만들어놓은 모든 것들안에서 실패도 안하고 다들 머리좋은 로봇만이 존재하겠지.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "002"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 처음 것보다는 뒤처럼 되는 세상이 오길 바란다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <문법_맞춤법>처음것보다는 뒤에처럼 되는 세상이 오길바란다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    },
+    {
+      "sentence_corr_txt_grammar": " 조금 발전이 느리더라도 도시에도 시골에도 나무와 내가 그리고 필요에 따라서 로봇이 공존하는 세상이 되길 바란다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 조금 발전이 느리더라도 도시에도 시골에도 나무와 내가 그리고 <문법_맞춤법>필요에따라서 로봇이 공존하는 세상이되길바란다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "003"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60202",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 411,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

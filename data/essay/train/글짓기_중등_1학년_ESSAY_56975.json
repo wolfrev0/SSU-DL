@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래엔 지갑이나 카드, 현금을 꼭 모두 들고 다닐 필요는 없을 것 같다.#@문장구분# 한 영화에서 봤는데 사람 몸에 칩을 인식시켜서 그 칩을 손에 삽입하여 그 칩으로만 위치도 알 수 있고 몸이 어디가 아픈지도 알 수 있고, 물건도 사고 팔 수 있었다.#@문장구분# 그것을 보니 왠지 미래는 저렇게 될 수도 있을 것만 같은 생각이 들었다.#@문장구분# 그래서 미래는 저런 칩이 발명 되어서 우리가 정말 지갑이나 이런 것들을 굳이 들고 다니지 않아도 될 거 같다.#@문장구분# 그러면 지갑이나 카드를 깜빡해서 집에 다시 다녀 올 필요가 없을 것 같다.#@문장구분# 그리고 몸이 아픈 것을 알려 주어서 수명도 늘어날 것 같다.#@문장구분# 그러면 아픈 것을 알려주니 병원도 시기를 놓치지 않고 제때 갈 수 있을 것이다.#@문장구분# 그렇기 때문에 심하게 아픈 환자들을 수도 줄어들 것이다.#@문장구분# 그리고 그 칩으로 운전을 하거나 그럴 때 속도도 감지 해주어 사고를 밀 예방할 수도 있을 것 같다.#@문장구분# 그래서 과속운전에 대한 사고들을 예방할 수 있을 것 같다.#@문장구분#",
+      "paragraph_len": 678,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.65,
+      22.1,
+      28.15
+    ],
+    "essay_scoreT_avg": 24.966667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 한 영화에서 봤는데 사람 몸에 칩을 인식시켜서 그 칩을 손에 삽입하여 그 칩으로만 위치도 알 수 있고 몸이 어디가 아픈지도 알 수 있고, 물건도 사고팔 수 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한 영화에서 봤는데 사람 몸에 칩을 인식시켜서 그 칩을 손에 삽입하여 그 칩으로만 위치도 알 수 있고 몸이 어디가 아픈지도 알 수 있고, 물건도 <문법_맞춤법>사고 팔</문법_맞춤법> 수 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 미래는 저런 칩이 발명되어서 우리가 정말 지갑이나 이런 것들을 굳이 들고 다니지 않아도 될 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 미래는 저런 칩이 <문법_맞춤법>발명 되어서</문법_맞춤법> 우리가 정말 지갑이나 이런 것들을 굳이 들고 다니지 않아도 될 거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 지갑이나 카드를 깜빡해서 집에 다시 다녀올 필요가 없을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 그러면 지갑이나 카드를 깜빡해서 집에 다시 <문법_맞춤법>다녀 올 </문법_맞춤법>필요가 없을 것 같다.",
+      "sentence_corr_txt_styling": " 그러면 지갑이나 카드를 깜빡해서 집에 다시 다녀올 필요가 없을 것 같다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 심하게 아픈 환자들의 수도 줄어들 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그렇기 때문에 심하게 아픈 <문법_조사>환자들을 </문법_조사>수도 줄어들 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 그 칩으로 운전을 하거나 그럴 때 속도도 감지해줘 사고를 미리 예방할 수도 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 그 칩으로 운전을 하거나 그럴 때 속도도 <문법_맞춤법><문법_어미>감지 해주어</문법_어미></문법_맞춤법> 사고를 밀 예방할 수도 있을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_56975",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 479,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

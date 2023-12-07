@@ -1,0 +1,197 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 바다 생물 중 돌고래, 바다거북이가 되고 싶습니다. #@문장구분#왜냐하면 최근에 바다 쓰레기가 많아지면서 바다에 사는 생물들이 바다에서 살기 어려워졌습니다.#@문장구분# 돌고래는 바닷속에서 쓰레기를 먹고, 입에 낚시줄이 걸리고, 지느러미에 비닐봉지 등이 걸립니다. #@문장구분#바다거북이도 쓰레기를 먹고, 코에 플라스틱 빨대가 박힙니다.#@문장구분# 가끔 바다 생물들은 도움을 청하기 위해 해안가로 옵니다.#@문장구분# 그리고 해양 환경공단에서는 부산항, 인천항, 여수항, 광양항 등 총 22척이 운영되고 있으며 하루에 많으면 20만 톤까지 있다고 합니다.#@문장구분# 해 마다는 약 5천 톤의 쓰레기를 수거한다고 합니다. #@문장구분#해양 수산부에 따르면 지난해 전국 바다 쓰레기 수거량은 13만 8천3백61톤, 지난해 해양 환경공단 마산지사에서 수거한 바다 쓰레기는 1천1백 톤이 된다고 합니다.#@문장구분# 이런 쓰레기들을 바다 생물들이 먹으면 사람들은 그 생물을 잡고 우리에게로 옵니다.#@문장구분# 그럼 우리는 우리가 버린 쓰레기를 먹는 것과 다름 없습니다.#@문장구분# 저는 돌고래, 바다거북이가 되어서 바다에서 지내는 것이 얼마나 힘들고 고통스러운 일인지 알게되었습니다.#@문장구분# 이제 저는 쓰레기는 쓰레기통에, 일회용품을 줄이겠습니다.#@문장구분#",
+      "paragraph_len": 811,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      20,
+      21.75
+    ],
+    "essay_scoreT_avg": 21.199999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 돌고래는 바닷속에서 쓰레기를 먹고, 입에 낚싯줄이 걸리고, 지느러미에 비닐봉지 등이 걸립니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 돌고래는 바닷속에서 쓰레기를 먹고, 입에 <문법_맞춤법>낚시줄이 </문법_맞춤법>걸리고, 지느러미에 비닐봉지 등이 걸립니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 우리는 우리가 버린 쓰레기를 먹는 것과 다름없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그럼 우리는 우리가 버린 쓰레기를 먹는 것과 <문법_기타>다름 없습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 돌고래, 바다거북이가 되어서 바다에서 지내는 것이 얼마나 힘들고 고통스러운 일인지 알게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 저는 돌고래, 바다거북이가 되어서 바다에서 지내는 것이 얼마나 힘들고 고통스러운 일인지 <문법_기타>알게되었습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32780",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 572,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

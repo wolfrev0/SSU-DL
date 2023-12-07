@@ -1,0 +1,198 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시는 어떨까?#@문장구분# 예전에 한 신문에서 '서기 2000년대의 생활 이모저모'라는 만화를 본 적이 있다.#@문장구분# 그 만화에는 태양열을 이용한 집, 전기 자동차, 소형 TV 전화기, 원격치료, 로봇 청소 등을 예상해서 그린 한 컷으로 된 만화이다.#@문장구분# 그때 당시 사람들은 불가능하다고 생각해서 그림으로 그렸던 것들이, 지금 보면 전부 다 가능한 것들이다.#@문장구분# 그래서 나도 이 만화를 보고 50년 후의 미래 도시를 생각해보았다.#@문장구분# 나는 미래 도시에게 <하늘 날다>라는 이름을 지어주고 싶다.#@문장구분# 먼저, 미래 도시에는 하늘에 도로가 만들어 질 거 같다.#@문장구분# 자동차가 날아 다닐 뿐만 아니라 개인용 비행기가 상용화 되어서 날아다니는데에도 질서가 필요해지게 되자, 하늘에도 도로와 신호등 같은 것이 생길 거 같다.#@문장구분# 그리고 현재 비행기의 연료는 가솔린인데, 미래에는 음식물 쓰레기나 낡은 자제물을 이용해서 연료로 쓸 거 같다.#@문장구분#",
+      "paragraph_len": 628,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.05,
+      29.2,
+      18
+    ],
+    "essay_scoreT_avg": 23.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.26",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그래서 나도 이 만화를 보고 50년 후의 미래 도시를 생각해 보았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나도 이 만화를 보고 50년 후의 미래 도시를 <문법_맞춤법>생각해보았다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저, 미래 도시에는 하늘에 도로가 만들어질 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 먼저, 미래 도시에는 하늘에 도로가 <문법_맞춤법>만들어 </문법_맞춤법>질 거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자동차가 날아다닐 뿐만 아니라 개인용 비행기가 상용화되어서 날아다니는 데에도 질서가 필요해지게 되자, 하늘에도 도로와 신호등 같은 것이 생길 거 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자동차가 <문법_맞춤법>날아 </문법_맞춤법>다닐 뿐만 아니라 개인용 비행기가 상용화 되어서 날아다니는데에도 질서가 필요해지게 되자, 하늘에도 도로와 신호등 같은 것이 생길 거 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71209",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 442,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

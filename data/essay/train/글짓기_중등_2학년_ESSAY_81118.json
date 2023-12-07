@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 일단 10년 뒤 스물다섯살에 대학교를 졸업하고 나서, 취업을 할 것 같습니다. #@문장구분#대학교에서 열심히 쌓아온 스펙이나 커리어 때문에 직장에서도 저를 좋게 봐줘서, 저는 남들보다 취업을 빨리 할 것 같습니다. #@문장구분#저는 대기업의 금융팀에 취업을 해서 그 기업에서 돈이 돌아가는 것을 책임지는 팀에 신입으로서 열심히 일을 할 것입니다. #@문장구분#그리고 두 번째로 20년 뒤에 서른다섯살이 되면 여전히 그 기업에서 연차를 늘려가며 개미처럼 꾸준히 열심히 일하고 있을 것 같습니다.#@문장구분# 그때쯤의 저는 일하는데 요령이 생기고, 후배들도 많아서 일하는 것을 가르치면서 회사에서 뼈를 묻겠다는 생각으로 일을 하면서 돈을 아껴서 재산을 불릴 것 같습니다.#@문장구분# 마지막으로 제가 30년 뒤에 마흔다섯살이 되면 저는 여전히 그 회사에서 연차 높은 직장인이 되어서 한 팀을 직접 이끌면서 회사에 큰 도움이 될 것 같습니다. #@문장구분#또한 저는 결혼을 하지 않을 것이기 때문에, 고양이와 같은 귀여운 동물친구 한 마리를 인생의 동반자로 데리고 와서 애지중지 키우면서 주변에 사는 친구도 자주 만나서 운동을 하는 등 건강도 챙기고 하며 부모님께도 용돈을 드리면서 효도할 것 같습니다.",
+      "paragraph_len": 695,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      25.61111,
+      28.666668
+    ],
+    "essay_scoreT_avg": 27.425926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.04",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_81118",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 577,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

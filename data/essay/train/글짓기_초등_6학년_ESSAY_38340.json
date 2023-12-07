@@ -1,0 +1,320 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 일주일 동안 바다 생물로 살 수 있다면 돌고래로 변신 하고 싶다.#@문장구분# 왜냐하면 돌고래는 커서 상어같은 동물들에게 잡아먹히지 않기 때문이다. #@문장구분#그리고 싶은 바다를 구경도 해보고 싶기 때문이다.#@문장구분# 나는 바다 생물인 돌고래가 되어 다른 물고기들과 바닷속을 구경하고 바닷물도 먹어보고 싶다. #@문장구분#그리고 등으로 물을 뿜을 때 어떤 느낌인지 느껴 보고 싶은 것이 내가 고래가 도고 싶어한 가장 큰 이유이다.#@문장구분# 그리고 고래는 가끔 물 밖으로 나와 숨을 쉬니까 다시 돌아와도 숨쉬는 방법을 까먹지는 않을 것이다.#@문장구분# 그리고 바다에 빠진 사람들도 구해줄 것이다. #@문장구분#그리고 바다 생물 친구들도 많이 만들 것이다.#@문장구분# 그리고 바다 곳곳을 여행하고 남극에 가서 오로라와 펭귄들도 보고 올 것이다#@문장구분# 그리고 북극도 가서 북극곰도 볼 것이고 아프리카도 가서 멀리에서 사막과 사막여우도 보고 올 것이다.#@문장구분#",
+      "paragraph_len": 623,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.85,
+      30,
+      21.8
+    ],
+    "essay_scoreT_avg": 24.549997,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          1,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.18",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 일주일 동안 바다 생물로 살 수 있다면 돌고래로 변신하고 싶다.",
+      "sentence_corr_reason": [
+        "붙여 써야 합니다."
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 일주일 동안 바다 생물로 살 수 있다면 돌고래로 <문법_맞춤법>변신 하고</문법_맞춤법> 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 돌고래는 커서 상어 같은 동물들에게 잡아먹히지 않기 때문이다. ",
+      "sentence_corr_reason": [
+        "띄어 써야 합니다."
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 돌고래는 커서 <문법_맞춤법>상어같은</문법_맞춤법> 동물들에게 잡아먹히지 않기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "'싶은'은 불필요합니다."
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>그리고 싶은</스타일링_기타> 바다를 구경도 해보고 싶기 때문이다.",
+      "sentence_corr_txt_styling": "그리고 바다를 구경해 보고 싶기도 하기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 돌고래가 되어 다른 물고기들과 바닷속을 구경하고 바닷물도 먹어 보고 싶다. ",
+      "sentence_corr_reason": [
+        "수식은 생략해도 됩니다.",
+        "띄어 쓰는 것이 원칙입니다."
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 <스타일링_기타>바다 생물인 돌고래가</스타일링_기타> 되어 다른 물고기들과 바닷속을 구경하고 바닷물도 <문법_맞춤법>먹어보고</문법_맞춤법> 싶다. ",
+      "sentence_corr_txt_styling": " 나는 돌고래가 되어 다른 물고기들과 바닷속을 구경하고 바닷물도 먹어 보고 싶다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "분열문 구성이 자연스럽습니다."
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>그리고 등으로 물을 뿜을 때 어떤 느낌인지 느껴 보고 싶은 것이</스타일링_기타> 내가 고래가 도고 싶어한 가장 큰 이유이다.",
+      "sentence_corr_txt_styling": "내가 고래가 되고 싶은 가장 큰 이유는 등으로 물을 뿜을 때 어떤 느낌인지 느껴 보고 싶기 때문이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "'그리고'가 많이 반복됩니다."
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고</스타일링_기타> 고래는 가끔 물 밖으로 나와 숨을 쉬니까 다시 돌아와도 숨쉬는 방법을 까먹지는 않을 것이다.",
+      "sentence_corr_txt_styling": " 또한 고래는 가끔 물 밖으로 나와 숨을 쉬니까 다시 인간으로 돌아와도 숨쉬는 방법을 까먹지는 않을 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 고래가 된다면 첫째, 바다에 빠진 사람들을 구해줄 것이다. ",
+      "sentence_corr_reason": [
+        "'그리고'가 많이 반복됩니다.",
+        "'을'이 자연스럽습니다."
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고</스타일링_기타> 바다에 빠진 <문법_조사>사람들도</문법_조사> 구해줄 것이다. ",
+      "sentence_corr_txt_styling": " 내가 고래가 된다면 첫째, 바다에 빠진 사람들을 구해줄 것이다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "'그리고'가 많이 반복됩니다."
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<스타일링_기타>그리고</스타일링_기타> 바다 생물 친구들도 많이 만들 것이다.",
+      "sentence_corr_txt_styling": "둘째, 바다 생물 친구들도 많이 만들 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "'그리고'가 많이 반복됩니다."
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고</스타일링_기타> 바다 곳곳을 여행하고 남극에 가서 오로라와 펭귄들도 보고 올 것이다",
+      "sentence_corr_txt_styling": " 셋째, 바다 곳곳을 여행하고 남극에 가서 오로라와 펭귄들도 보고 올 것이다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "'그리고'가 많이 반복됩니다."
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>그리고</스타일링_기타> 북극도 가서 북극곰도 볼 것이고 아프리카도 가서 멀리에서 사막과 사막여우도 보고 올 것이다.",
+      "sentence_corr_txt_styling": " 마지막으로, 북극도 가서 북극곰도 볼 것이고 아프리카도 가서 멀리에서 사막과 사막여우도 보고 올 것이다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38340",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 423,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 요즘에 친구들과 함께 미래에 하고 싶은 일에 대해서 소소하게 대화를 나누는 것을 좋아합니다.#@문장구분# 친구들은 각자 꿈이 있습니다.#@문장구분# 어떤 친구는 드라마 작가가 하고 싶다고 했고, 아이돌이 하고 싶다는 친구들도 있었고, 선생님이 되고 싶다고 한 친구들도 있었습니다.#@문장구분# 저는 어렸을 때부터 의사가 하고 싶었습니다.#@문장구분# 나이를 먹을수록 의사가 되고싶다는 저의 꿈은 확고해졌습니다.#@문장구분# 의사가 되는 과정은 분명히 순탄하진 않겠지만 저는 아프고 힘든 사람들이 저의 치료를 받고 행복하게 생활할 수 있는 모습을 상상하면 의사가 되기 위해 노력하는 과정을 참고 이겨낼 수 있을 것 같습니다.#@문장구분# 힘든 사람들을 도와주고, 생사의 갈림길을 마주한 사람들에게 한 번 더 살 수 잇는 기회를 주는 의사가 신 다음으로 인간의 생사에 관려할 수 있는 사람이 아닌가 생각햇습니다.#@문장구분# 저는 의사가 되어서 아픈 사람들을 도와주는 사람이 되고 싶습니다.#@문장구분# 우리 사회에서 도움을 주는 사람들이 늘어나 아플 때 병원에 가지 못해 고통 받는 사람들이 줄어들것입니다.#@문장구분# 저는 우리 사회 속에서 도움이 되는 사람이 되고 싶습니다.",
+      "paragraph_len": 722,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.6666667
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7222223,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.166666,
+      28.055555,
+      20.666668
+    ],
+    "essay_scoreT_avg": 23.962961,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_74849",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 543,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

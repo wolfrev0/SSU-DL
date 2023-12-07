@@ -1,0 +1,181 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 미래도시가 막 멋있고 환상적이고 완벽할 것 이라고는 생각하지않아요.#@문장구분# 우리가 생각하는 것처럼 이상적이지도 않을것입니다.#@문장구분# 언제인지는 잘 모르겠지만 아버지에게 이런말을 들은 적이 있어요.#@문장구분# \"아빠는 20년전에는 20년후쯤엔 차가 날아다니겠지? 라고 생각했는데 지금보면 한참멀었네.\" 라고 말씀하시더군요.#@문장구분# 그래서 제가 생각하는 미래시대는 이렇습니다.#@문장구분# 로봇공학기술은 많이발전해서 길안내 로봇도있고 가정에 로봇이 하나씩 있을것같습니다.#@문장구분# 또 지금보다 물가들도 월등히 높겠죠.#@문장구분# 하지만 그로인해 사회적빈부격차는 더욱 커지고 해결되지 않는 사회문제들은 더욱 악화될것같습니다.#@문장구분# 그리고 우리의 과학이 발전한 만큼 환경파괴와 그로인한 문제들은 더욱더 심할것같습니다.#@문장구분# 하지만 이런 암울할것만같은 미래에도 저는 한가지 생각을합니다.#@문장구분#",
+      "paragraph_len": 596,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " \"아마도 그때쯤엔 통일을 하겠지\"라고요.#@문장구분#",
+      "paragraph_len": 43,
+      "paragraph_id": "002"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          1,
+          1,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.3333334,
+        "paragraph_id": "002"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      16.65,
+      15.75
+    ],
+    "essay_scoreT_avg": 18.933332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.26",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_76517",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 422,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

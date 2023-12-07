@@ -1,0 +1,247 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "익숙함에 속아 소중함을 잊지말자\"(Do not get fooled by something familiar and forget what is priceless.) 라는 명언이 있다.#@문장구분# 이것은 어린왕자에서 나왔던 명언이다.#@문장구분# 이 책에서 나온 이 구절의 의미는 아주 가까운 관계에서 당연시하게 느껴졌던 관계들이 점점 소홀해 지면서 자연스럽게 끊어지고 뒤늦게 후회나 반성을 하지 말자라는 의미로서 있을 때 잘 하고, 우리에게 소중한사람 일수록 그 사람의 중요성을 알고 무시하지 않으며, 항상 고마운 마음을 가지고 대하여야 된다는 것이다.#@문장구분#우리는 어렸을때는 이런것에 대해 깊게 생각해본 적이 없을것이다.#@문장구분# 하지만 살면서 이말의 의미를 알아가고 있다고 생각한다.#@문장구분#물론 많은 사람들이 실천하지 못하는 일일 꺼라는 생각도 든다.#@문장구분# 우리가 살면서 얼마나 많은 것들을 잃어 가고 있는지 모를 것이다.#@문장구분# 당연히 인간관계 에서도 큰 영향을 미칠 것이라고 생각한다.#@문장구분#하지만 그뿐만은 아니다.#@문장구분#",
+      "paragraph_len": 657,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "우리는 삶을 살아가면서 물, 공기, 전기 등 자연들도 있고, 사랑 기쁨 우정 등 관계와 마음 이렇게 익숙한 것들도 있다.#@문장구분#하지만 우리는 이런것들은 너무 익숙해서 인지 소홀히 여기고 있다고 생각한다.#@문장구분#",
+      "paragraph_len": 149,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "예를 들어 자연에서 오는 자원은 한정된 자원이 아니며 이대로 가다간 정말  부족해 질 수 있다.#@문장구분# 자원을 막 사용하다 결국 나중에 자원이 줄어들고 정말 아껴써야 할 때 그때 가서 분명히 후회할 것이다.#@문장구분# 따라서 우리는 어떤 것이든 당연하게 생각 하지말고 아껴 써야 한다.#@문장구분# 자원이던 사람이던 간에 나중에 잃고 나서 후회하지 않기 위해서는 무엇이든 소중히 생각 해야 한다고 느낀다.#@문장구분#",
+      "paragraph_len": 289,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": "나부터가 먼저 실천해야 할 것이다.#@문장구분#",
+      "paragraph_len": 39,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      24.666666,
+      27.11111
+    ],
+    "essay_scoreT_avg": 25.925924,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "소중함을 잃었던 경험",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71990",
+    "essay_prompt": " 익숙함에 속아 소중함을 잊지 말자는 명언 (Do not get fooled by something familiar and forget what is priceless.)이 있습니다.\n\n 부모님께서 매일 해주시는 아침밥이나, 너무 친해서 매일 맛있는 간식을 사주는 친구 등 처음에는 매우 감사했지만 반복되는 호의에 우리는 소중함을 잊어가기도 합니다.\n\n 작은 소중함일지라도 그 소중함을 잃게 되면 호의를 베푸는 사람 입장에서는 매우 당황스럽고 기분이 나쁠 수 있어요.\n\n 여러분은 익숙함에 속아 소중함을 잊었던 사례와 그로 인해 상대방의 기분을 나쁘게 했던 경험이 있나요? 만약 있다면 관계를 회복하기 위해 어떤 노력을 하셨나요? 본인의 경험을 작성해주세요.\n\n 만약 그런 적이 없다면 주변의 이야기나 본인에게 소중함을 주는 사람들에 관해 설명해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 820,
+    "essay_main_subject": "소중함을 잃었던 경험"
+  }
+}

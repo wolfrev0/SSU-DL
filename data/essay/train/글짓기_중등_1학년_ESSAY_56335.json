@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에 도시는 사람대신 로봇이 사람이 하는 일을대신할것같고 그러면 사람이 못가는 위험한곳이나 바닷속 우주 같은 곳을 로봇으로 탐사를 할것같다.#@문장구분# 그리고 공장이 늘어나고 아파트나 높은 건물 때문에 지구는 점점 나빠질 것이다.#@문장구분# 그것뿐만이아니라 공장의서 나온 온실가스가 지구를 병들게해 거의 모든 동물이 멸종해 우리가 먹을 가축이나 우리가 애완으로 키우는 동물도 찾아볼수 없고 다 로봇이 강아지나 고양이 처럼나와 그 로봇을 키울것같다.#@문장구분# 그리고 택배나 장보기등 실생활에 필요한 일을 로봇이 빠르게해결 할것같다.#@문장구분# 그래도 미래에는 휘발유로 움직이는 차는 없어지고 다 전기로 움직이는 하늘에 건물과건물사이에 도로를 연결해 차도를 만들고 그 차로 차가다닐것이고 그 차도로 인해 사람에게 오는 햇빛이 적어지고 낮에도 전등을켜 에너지 가 많이 소모될 것이다.#@문장구분# 이처럼 미래 도시 에는 좋은점도 있지만 나쁜점도 있다.#@문장구분#",
+      "paragraph_len": 564,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.1,
+      29.75,
+      30
+    ],
+    "essay_scoreT_avg": 28.616667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "042",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56335",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 445,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

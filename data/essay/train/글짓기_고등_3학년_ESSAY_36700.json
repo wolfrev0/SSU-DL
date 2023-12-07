@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 이번에 영어 수업에서 배운 로블링 가문에 대해 대단하다고 생각한다.#@문장구분# 왜냐하면 처음에 존 로블링이라는 사람이 있었는데 그 사람은 그 사람이 실던 지역에 인구가 갑자기 증가하였다. #@문장구분#그래서 다리를 지어야겠다고 생각을 했고, 다리 건설은 불가능해 보였지만, 존 로블링은 끝까지 포기하지 않았다#@문장구분#. 하지만 존 로블링은 다리 건설을 시작하려고 했지만 죽었다#@문장구분#. 그리고 이것을 아들 워싱턴 로블링이 맡았는데 워싱턴 로블링도 다리건설 중에 다쳐서 이어가지 못하였다#@문장구분#. 이제 워싱턴의 아내 에밀리 로블링이 다리 건설을 맡게 되었다.#@문장구분# 에밀리는 대학을 나오지 않았다.#@문장구분# 그래서 다리 건설을 하기 전에 고등 수학과 공학을 공부하면서 다리 건설을 하였다.#@문장구분# 이것처럼 로블링 가문은 포기하지 않고 다리를 건설하였기 때문에 나는 이 로블링 가문처럼 어떤 일을 시작하면 절대로 포기하지 않는 그런 끈기를 가져야겠다고 생각했다.#@문장구분#",
+      "paragraph_len": 624,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.2857144,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.095238,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.587303,
+      19.777779,
+      18.277779
+    ],
+    "essay_scoreT_avg": 19.880953,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.16",
+    "student_educated": true,
+    "student_grade": "고등_3학년",
+    "location": "063",
+    "student_grade_group": "고등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "고등_3학년",
+    "organization_weight": {
+      "org_paragraph": 3,
+      "org": 2,
+      "org_essay": 3,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "나의 위인전",
+    "expression_weight": {
+      "exp_style": 2,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_36700",
+    "essay_prompt": " 요즘은 책을 통해서뿐만 아니라 유튜브, 강의와 같이 다양한 매체를 통해 자신만의 롤모델을 찾을 수 있습니다.\n\n 여러분도 자신만의 롤모델이 있을 것 같은데요. 자신의 롤모델인 인물처럼 되었다고 생각하고 나만의 위인전을 작성해보세요. 본인이 그 사람이 되었다고 생각하고 작성해도 좋고, 제 3자의 입장에서 바라보는 형식으로 작성해도 좋아요.\n\n 나의 롤모델은 목표를 이루기 위해 어떤 노력을 했을지, 어떤 행운이 있었을지, 목표를 이루고 난 다음에 어떤 기분이 들었을지 마음 껏 상상해보시고 작성해주세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 444,
+    "essay_main_subject": "나의 위인전"
+  }
+}

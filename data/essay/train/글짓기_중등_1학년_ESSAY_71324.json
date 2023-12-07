@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 항상 이런 생각을 해봅니다.#@문장구분# 저 머나먼 별에 우리가 살게 되지 않을까?#@문장구분# 영화 마션을 보고 제 꿈은 점점 더 현실이 되어가는 기분이었습니다.#@문장구분# 단순하게 생각했던 다른 행성에서의 거주라니!#@문장구분# 생각만 해도 정말 설레고 아름답지 않습니까?#@문장구분# 사실 저는 외계인과 같은 경우를 논하고 싶지는 않습니다.#@문장구분# 제가 볼 수 있는 최근의 미래에서는 최소한 없을테니까요.#@문장구분# 저희가 물리적으로 도달해봐야 태양계일텐데 말이죠.#@문장구분# 최소한 과학자들은 태양계에는 외계인이 없다는 것을 압니다.#@문장구분# 그렇다면 저는 그 부분까지는 생각할 필요가 없을 것입니다.#@문장구분# 결론을 말해보자면 저는 화성에 지어진 미래 도시의 모습이 상상이 됩니다.#@문장구분# 더 이상 붉은 행성이 아니라 초록 행성으로 말이죠.#@문장구분# 정말 생각만 해도 흥분되고 멋진 일인 것 같습니다.#@문장구분# 화성뿐만 아니라 태양계 어디든 원하면 갈 수 있는 시대가 빨리 오길 희망해 봅니다.#@문장구분#",
+      "paragraph_len": 714,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      29.2,
+      27.15,
+      28.7
+    ],
+    "essay_scoreT_avg": 28.35,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_71324",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 435,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 중고등학생들에게 국어를 가르치는 선생님이 되고 싶습니다. #@문장구분#저는 제꿈인 중고등 국어 교사라는 꿈을 이루기 위해서 지속적으로 학생들이 읽으면 좋은 소설책을 읽고 분석해본다던지 여러 가지 논설문이나 설명하는글을 간단하게 요약해보는 활동들을 지속적으로 하고 있습니다. #@문장구분#그러다 보니 자연스럽게 국어 성적이 아주 올랐습니다.#@문장구분# 그렇게 해서 제가 가지고있는 국어에대한 흥미는 날로 상승하고 있습니다. #@문장구분#저는 단지 학생들에게 국어에대한 정보를 전달하는 강사가 되기 보다는 진정으로 학생들을 올바른 길로 인도하고 국어를 즐길 수 있도록 하는 선생님이 되자고 다짐했습니다.#@문장구분# 그러기 위해서는 제가 공부를 열심히 해서 사범대학교에 가야한다는 것을 너무나도 잘 알고 있었습니다.#@문장구분# 왜냐하면 제 어머니께서 현재 중고등 국어 선생님을 하고 있기 때문입니다.#@문장구분# 어머니의 영향을 아예 받지 않았다면 거짓말이겠지만 꼭 그이유 때문만은 아닌 진정으로 청소년기의 학생들을 바른 방향으로 이끌어보고 싶기 때문입니다.#@문장구분# 저는 그리하여 곡 훌륭한 강의력을 가진 선생님이자 아이들을 바른길로 인도하는 사람이 될것입니다.",
+      "paragraph_len": 704,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.277779,
+      28.5,
+      30
+    ],
+    "essay_scoreT_avg": 28.925926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.20",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_82385",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 544,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

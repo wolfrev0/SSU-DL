@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래 도시는 핵전쟁으로부터 황폐해진 미래일것이라고 생각합니다.#@문장구분# 물론 눈부신과학의 발전으로 인해서 풍족해지고 눈도 즐겁고 몸도 마음도 즐거운 긍정적인 미래를 상상할수도 있겠지만 지금 현실에 맞게 조금 더 현실을 직시한다면 지금의 국제 정세대로라면 마냥 평화로운 미래가 기다리고 있을 것이라고 예상되는 것은 아닙니다.#@문장구분# 제가 그렇게 생각하는 이유는 현재 너무 많은 국가들이 국제 관계의 현실주의에 입각하여 힘의 균형만으로 국젳평화를 실현하려고 하기 때문입니다.#@문장구분# 국제 관계에서의 현실주의가 얼마나 무서운 말이냐면 만약 핵을 보유한 어느 나라가 모두 자멸할 목적으로 핵을 하나 발사했을 때 전 세계의 핵 보유국들이 각각 국가의 안보를 위해 핵을 발사하게 되고 그렇게 되면 지구는 형체도 알아볼 수 없을 정도로 황폐해질것입니다.#@문장구분# 그렇다면 그렇게 되지 않기 위해서 우리는 국제관계를 어떤 자세로 대해야할까요.#@문장구분# 정답은 바로 국제관계를 자유주의적 관점으로 보는 것이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 612,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      25.55,
+      23.3
+    ],
+    "essay_scoreT_avg": 26.283333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65553",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 492,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

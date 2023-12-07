@@ -1,0 +1,705 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 한 초등학생 6학년이다. #@문장구분#그런데 어느날 보지못한 가게가 생겨 들어가봤다. #@문장구분#근데 아주머니가 물고기 모양의 쿠키를 주고 나가라고 했다. #@문장구분#당황했지만 받고 나가니 그 가게가 사라져있었다... #@문장구분#너무나 당황해 쿠키를 먹었더니 참 맛있었다.#@문장구분#그냥 집으로 갔다 . #@문장구분#가다보니 숨을 못쉴것 같이 숨이 막혔다.#@문장구분# 그래서 잠시 기절하고 일어나보니 바다였다...#@문장구분# 나는 물고기로 변신 되어 있었다.#@문장구분# 그래서 둘러보니 아까 처럼 똑같이 생긴 가게가 있었다.#@문장구분# 그래서 들어가 봤다.#@문장구분# 거기 아이가 대답했다.#@문장구분#\"안녕,왜여기왔어?#@문장구분# 설마.. 우리 엄마가 주신 쿠키 먹고 왔어?\"#@문장구분#\" 그 분이 너의 어머니셔?\"#@문장구분# 웅 우리 엄마는 좀 특별한 사람눈에만 보이고 나도 마찬가지 그가게를 들어가면 쿠키주고 나가라 그래 거기 오래 있으면 다른 사람들도 볼수 있거든\"#@문장구분#나는 그 쿠키를 먹고 온사람들은 당당해 많이 혼란 스러울 거아니야!#@문장구분# 그 쿠키의 종류는 동물인데 땅에서사는 동물 그리고 바다에서 사는 동물, 하늘에서 살고 있는 동물 등등 나는 첫째라 바다 둘째는 땅에서사는 동물 3째는 하늘 이렇게 나눠져있어!#@문장구분# 그 중에 너는 바다고 이쿠키는 1년의 시간을 줘 그뒤로는 누구나 날 잊게 되지 1년의 한번씩 오는 사람도 있어 2년 정도 오면 날 기억하게되!\"#@문장구분#\"아그래? 신기하네\" #@문장구분#그치? 그사람들 에게 물어보면 자기가 사는 나라가 싫고 힘든데 여긴 좋데 여기서 가장 많이온 사람은 마니칸 인데 20년 정도? 된것 같아.#@문장구분# 너의 이름은 뭐야?#@문장구분# 나는\"사리나야\" #@문장구분#응! 이제 저 문을로 들어가#@문장구분# \"알았어\"#@문장구분#우와~ ! 이쁘다. #@문장구분#어? 저분 마니칸님 아닌가? 어? 누구야?#@문장구분# 저요?#@문장구분# 그래너 아 저는 사리나 라고 이 세계에 처음 온 갖 물고기 입니다 마니칸님 맞으세요? #@문장구분#응 나야 여기 25년차 이세계에서 있으면 너가 살고 있는 나라 에서는 널 없는 세상이 되는거야 #@문장구분#아... 여기서 잘 살아봐 \"그럼 난 이만\"#@문장구분#네! 여기는 아름답고 이쁜 세상이네 정말 꿈같아. #@문장구분#산호도 있고 해초도 있고 바다물은 깔끔하고 1년이아니라 10년도 있을수 있어!#@문장구분#",
+      "paragraph_len": 1640,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.7,
+      18.7,
+      18.95
+    ],
+    "essay_scoreT_avg": 20.45,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나는 6학년의 한 초등학생이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": "나는 <문법_어순>한 초등학생 6학년이다</문법_어순>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 어느 날 보지 못한 가게가 생겨 들어가봤다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 <문법_맞춤법>어느날</문법_맞춤법> 보지못한 가게가 생겨 들어가봤다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "근데 아주머니가 물고기 모양의 쿠키를 주며 나가라고 했다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "근데 아주머니가 물고기 모양의 쿠키를 <문법_어미>주고</문법_어미> 나가라고 했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "당황했지만 받고 나가니 그 가게가 사라져 있었다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "당황했지만 받고 나가니 그 가게가 <문법_맞춤법><문법_기타>사라져있었다...</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "너무나 당황했지만 쿠키를 먹었더니 참 맛있었다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "시제"
+      ],
+      "sentence_txt": "너무나 <문법_어미><문법_시제>당황해</문법_시제></문법_어미> 쿠키를 먹었더니 참 맛있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그냥 집으로 갔다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그냥 집으로 <문법_맞춤법>갔다 </문법_맞춤법>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "가다보니 숨을 못쉴것 같이 숨이 막혔다.",
+      "sentence_corr_txt_styling": "가다보니 숨을 못쉴것 같이 숨이 막혔다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 잠시 기절했다 일어나보니 바다였다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "시제",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 잠시 <문법_어미><문법_시제>기절하고</문법_시제></문법_어미> 일어나보니 <문법_기타>바다였다...</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 물고기로 변신해 있었다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 나는 물고기로 <문법_맞춤법><문법_기타>변신 되어</문법_기타></문법_맞춤법> 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 둘러보니 아까와 똑같이 생긴 가게가 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 그래서 둘러보니 <문법_조사>아까 처럼</문법_조사> 똑같이 생긴 가게가 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기 있던 아이가 대답했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>거기</문법_기타> 아이가 대답했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"안녕, 왜 여기 왔어?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\"안녕,왜여기왔어?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 설마, 우리 엄마가 주신 쿠키 먹고 왔어?\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>설마..</문법_기타> 우리 엄마가 주신 쿠키 먹고 왔어?\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"응. 우리 엄마는 좀 특별한 사람 눈에만 보이고 나도 마찬가지야. 그 가게를 들어가면 쿠키주고 나가라 그래. 거기 오래 있으면 다른 사람들도 볼 수 있거든\"",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "어미"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>웅</문법_기타></문법_맞춤법> 우리 엄마는 좀 특별한 사람눈에만 보이고 나도 <문법_어미>마찬가지</문법_어미> 그가게를 들어가면 쿠키주고 나가라 그래 거기 오래 있으면 다른 사람들도 볼수 있거든\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"그 쿠키를 먹고 온 사람들은 당당해 많이 혼란스러울 거 아니야!\"",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_기타>나는</문법_기타> 그 쿠키를 먹고 <문법_맞춤법>온사람들은</문법_맞춤법> 당당해 많이 혼란 스러울 거아니야!",
+      "sentence_corr_txt_styling": "\"그 쿠키를 먹고 온 사람들은 당당해 많이 혼란스러울 거 아니야!\"",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 쿠키의 종류는 동물인데 땅에서사는 동물 그리고 바다에서 사는 동물, 하늘에서 살고 있는 동물 등등 나는 첫째라 바다 둘째는 땅에서사는 동물 셋째는 하늘 이렇게 나눠져 있어!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그 쿠키의 종류는 동물인데 땅에서사는 동물 그리고 바다에서 사는 동물, 하늘에서 살고 있는 동물 등등 나는 첫째라 바다 둘째는 땅에서사는 동물 <문법_맞춤법>3째는</문법_맞춤법> 하늘 이렇게 나눠져있어!",
+      "sentence_corr_txt_styling": " 그 쿠키의 종류는 동물인데 땅에서사는 동물 그리고 바다에서 사는 동물, 하늘에서 살고 있는 동물 등등 나는 첫째라 바다 둘째는 땅에서사는 동물 셋째는 하늘 이렇게 나눠져 있어!",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 중에 너는 바다고 이 쿠키는 1년의 시간을 줘. 그 뒤로는 누구나 날 잊게 되지. 1년에 한 번씩 오는 사람도 있어. 2년 정도 오면 날 기억하게 돼!\"",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": " 그 중에 너는 바다고 <문법_맞춤법>이쿠키는</문법_맞춤법> <문법_조사>1년의</문법_조사> 시간을 <문법_기타>줘</문법_기타> 그뒤로는 누구나 날 잊게 되지 <문법_조사>1년의</문법_조사> 한번씩 오는 사람도 있어 2년 정도 오면 날 기억하게되!\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"아 그래? 신기하네.\" ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "\"<문법_맞춤법>아그래</문법_맞춤법>? <문법_기타>신기하네</문법_기타>\" ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"그치? 그 사람들에게 물어보면 자기가 사는 나라가 싫고 힘든데 여긴 좋대. 여길 가장 많이 온 사람은 마니칸인데 20년 정도 된 것 같아.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": "그치? <문법_맞춤법>그사람들 에게</문법_맞춤법> 물어보면 자기가 사는 나라가 싫고 힘든데 여긴 <문법_기타>좋데</문법_기타> <문법_조사>여기서</문법_조사> 가장 많이온 사람은 마니칸 인데 20년 정도? 된것 같아.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 너의 이름은 뭐야?\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0022",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 너의 이름은 <문법_기타>뭐야?</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"나는 사리나야.\" ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0023",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 나는\"사리나야\" ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"이제 저 문으로 들어가.\"",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>응! 이제 저 문을로 들어가</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"알았어.\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0025",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " \"알았어\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"우와! 예쁘다.\" ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0026",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>우와~ ! 이쁘다.</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"어? 저분 마니칸님 아닌가? 어? 누구야?\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>어? 저분 마니칸님 아닌가? 어? 누구야?</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"저요?\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0028",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>저요?</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \"그래 너.\" \"아 저는 사리나라고 이 세계에 처음 온 갓 물고기 입니다. 마니칸님 맞으세요?\" ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0029",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그래너</문법_기타></문법_맞춤법> 아 저는 사리나 라고 이 세계에 처음 온 갖 물고기 입니다 마니칸님 맞으세요? ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"응 나야. 여기 25년째 있으면 네가 살고 있는 나라에서는 네가 없는 세상이 되는거야. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0030",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>응 나야 여기 25년차 이세계에서 있으면 너가 살고 있는 나라 에서는 널 없는 세상이 되는거야</문법_기타></문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여기서 잘 살아봐. 그럼 난 이만.\"",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0031",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "아... 여기서 잘 살아봐 \"그럼 난 이만\"",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\"네!\" 여기는 아름답고 예쁜 세상이네. 정말 꿈같아. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0032",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>네!</문법_기타> 여기는 아름답고 <문법_맞춤법>이쁜</문법_맞춤법> 세상이네 정말 꿈같아. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "산호도 있고 해초도 있고 바닷물은 깔끔하고 1년이 아니라 10년도 있을 수 있어!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0033",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "산호도 있고 해초도 있고 <문법_맞춤법>바다물은</문법_맞춤법> 깔끔하고 1년이아니라 10년도 있을수 있어!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_40018",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 982,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

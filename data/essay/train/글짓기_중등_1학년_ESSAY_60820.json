@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각한 미래 도시 이름은 지현 시티입니다.#@문장구분# 왜냐하면 나중에 제가 미래도시를 직접 만들것이기 때문입니다.#@문장구분# 제가 상상한 지현시티의 모습을 설명해 드리겠습니다.#@문장구분# 저는 인성이 이상한 사람을 싫어합니다.#@문장구분# 제가 만든 지현시티는 인성이 바른 사람만 들어 올 수 있습니다.#@문장구분# 하지만 인성이 바르지 않아도 들어올 수 있는 방법이 있는데요.#@문장구분# 그 방법은 바로 인성교육을 100시간 수료한 다음 지현시티로 입성할 수 있습니다.#@문장구분# 지현시티는 지문을 사용하여 시티의 입구를 열 수 있는데요.#@문장구분# 그렇기 때문에 꼭 지문 등록을 해야하고, 보완도 철저하고, 꼭 인성이 좋은 사람들만 들어올 수 있습니다.#@문장구분#하지만 인성이 좋은지 안 좋은지 파악할 수 있는 방법은 지현시티에 들어오기전에 이력서를 봅니다. #@문장구분#전과가 있는지 없는지 보고 인성 모의고사를 봅니다.#@문장구분# 그렇게 해서 80점을 넘은 사람들만 들어올 수 있습니다.#@문장구분# 인성 모의고사는 지현시티에 살고있는 주민들도 3년에 한 번씩은 꼭 쳐야합니다.#@문장구분#",
+      "paragraph_len": 738,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.35,
+      26.75,
+      26.15
+    ],
+    "essay_scoreT_avg": 26.416666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_60820",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 480,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

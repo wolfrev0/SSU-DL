@@ -1,0 +1,214 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "10년 후 나는 대학교에서 만난 남자친구와 예쁘게 연애를 하다가 헤어졌을 것 같다. #@문장구분#국어교사가 꿈인 나는 임용고시를 칠 거니까 시험 공부에 집중하기 위해 그런 선택을 했을 것이다. #@문장구분#모교에 실습도 나가고 많은 학생들을 만나며 내가 어떤 국어 선생님이 되야 할지 느끼며 성장할 것 같고 그 곳에서 깨달은 가치를 통해 멋진 국어교사가 되겠다는 다짐에 힘을 보탤 것 같다. #@문장구분#그런 사람이 되기 위해 뭐든지 열심히 할 거지만 임용고시를 한 번에 붙을 수 있을지는 아무리 상상해봐도 예측이 안 돼서 잘 모르겠다. #@문장구분#그 누구보다 열심히 할테니 한 번에 붙을 거라 장담해야겠다.#@문장구분#",
+      "paragraph_len": 413,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "  20년 뒤 국어 선생님이 된 나는 아침에 출근할 때마다 너무 설렐 것 같다. #@문장구분#나를 좋아해주는 많은 아이들과 동료 선생님들이 가득 할 것 같기 때문이다. #@문장구분#좋은 선생님이 되겠다는 다짐을 실현시키기 위해 나는 학생 한 명 한 명의 목소리를 귀담아 듣고 정성으로 학생들을 대할 수 있도록 노력할 것이다. #@문장구분#또 학생들이 물어보면 모르는 것 하나 없이 술술 답변해줄 수 있도록 선생님이 되어서도 계속해서 공부할 것이다.#@문장구분#",
+      "paragraph_len": 309,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "  30년 후 45살이 된 나는 자식이 있을까? 결혼도 안 했을 수도 있겠다. #@문장구분#만약 안 했다면 5년만 더 학교를 다니다가 나와서 국어학원 원장 선생님이 되고 싶다. #@문장구분#학생들이 세상에 전달하고자 하는 내용을 글로 더 잘 표현할 수 있도록 틀에 박힌 교육보다는 학생 중심의 수업을 할 것이다.#@문장구분#",
+      "paragraph_len": 220,
+      "paragraph_id": "003"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.8333333,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.9444444,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.8333333,
+          2.3333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.722222,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.8333333,
+          2.8333333
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8888886,
+        "paragraph_id": "003"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      28,
+      27.166666
+    ],
+    "essay_scoreT_avg": 28.388887,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.12",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_67843",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 706,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

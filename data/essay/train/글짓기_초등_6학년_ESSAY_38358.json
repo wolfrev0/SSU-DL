@@ -1,0 +1,362 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다는 아주 신비로운 곳 입니다.#@문장구분# 바다에 대해서 잘알고있다고 생각하지만 바다에는 아직 잘 밝혀지지 않은 사실들이 무수한 미지의 세계입니다.#@문장구분# 그중에서도 바닷속 아주 깊은 곳인 심해는 아직 까지도 인간의 손이 많이 닿지 않은 곳 입니다. #@문장구분#심해는 아주 높은 압력으로 강철로 이루어진 잠수함 조차도 페트병마냥 찌그러트리는 위험한 곳입니다.#@문장구분# 그래서 인구는 심해라는곳을 아직도 개척하지 못했습니다.#@문장구분# 하지만 심해에도 심해의 압력을 견딜수있는 심해생물들이 살고 있습니다. #@문장구분#그 심해새물들은 어둡고 위험한 심해에서 살수있도록 적응하여 심해의 압력을 견딜수 있게 되었습니다. #@문장구분#그래서 전는 심해아귀가 되어서 잘알려지지 않는 심해를 탐험하여 아직 밝혀지지 않은 많은 심해의 미스터리를 풀고 싶습니다. #@문장구분#물론 아귀가 못생겼지만 심해를 탐험하기에 그만한 물고기가 없습니다#@문장구분# 아무튼 아귀로 변신한다면 해보고싶은 일은 심해의 흙을 어떤지 심해생물들의 맛은 어떤지 심해괴물이 실존하는 지에 대한것들을 조사해보고 싶습니다. #@문장구분#만약 심해 괴물이 실존한다면 아귀의 역겨운 외모와 날카로운 이빨로 괴물을 혼쭐 내주어 심해에 평화를 가져가겠 습니다.#@문장구분# 그리고 1주일이 지나면 내가 탐험한 내용을 책으로 내서 베스트셀러 작가가 되겠습니다.#@문장구분#",
+      "paragraph_len": 849,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      27.75,
+      30,
+      20
+    ],
+    "essay_scoreT_avg": 25.916666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다는 아주 신비로운 곳입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다는 아주 신비로운 <문법_맞춤법>곳 입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 바다에 대해서 잘알고있다고 생각하지만 바다는 아직 잘 밝혀지지 않은 사실들이 무수한 미지의 세계입니다.",
+      "sentence_corr_reason": [
+        "주어 필요",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사"
+      ],
+      "sentence_txt": " <문법_기타>바다에</문법_기타> 대해서 잘알고있다고 생각하지만 <문법_기타>바다에</문법_기타>는 아직 잘 밝혀지지 않은 사실들이 무수한 미지의 세계입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 중에서도 바닷속 아주 깊은 곳인 심해는 아직까지도 인간의 손이 많이 닿지 않은 곳입니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그중에서도</문법_맞춤법> 바닷속 아주 깊은 곳인 심해는 아직 까지도 인간의 손이 많이 닿지 않은 곳 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "심해는 아주 높은 압력으로 강철로 이루어진 잠수함조차도 페트병마냥 찌그러트리는 위험한 곳입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "심해는 아주 높은 압력으로 강철로 이루어진 <문법_맞춤법>잠수함 조차도</문법_맞춤법> 페트병마냥 찌그러트리는 위험한 곳입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 인간은 심해를 아직도 개척하지 못했습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 <문법_조사><문법_기타>인구는</문법_기타></문법_조사> 심해라는곳을 아직도 개척하지 못했습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 심해에도 심해의 압력을 견딜 수 있는 심해생물들이 살고 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 심해에도 심해의 압력을 <문법_맞춤법>견딜수있는</문법_맞춤법> 심해생물들이 살고 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 심해생물들은 어둡고 위험한 심해에서 살 수 있도록 적응하여 심해의 압력을 견딜 수 있게 되었습니다. ",
+      "sentence_corr_reason": [
+        "오타",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "그 <문법_기타>심해새물들은</문법_기타> 어둡고 위험한 심해에서 <문법_맞춤법>살수있도록</문법_맞춤법> 적응하여 심해의 압력을 견딜수 있게 되었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 전는 심해아귀가 되어서 잘 알려지지 않은 심해를 탐험하여 아직 밝혀지지 않은 많은 심해의 미스터리를 풀고 싶습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "그래서 전는 심해아귀가 되어서 <문법_맞춤법>잘알려지지</문법_맞춤법> <문법_조사>않는</문법_조사> 심해를 탐험하여 아직 밝혀지지 않은 많은 심해의 미스터리를 풀고 싶습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 아귀가 못생겼지만 심해를 탐험하기에 그만한 물고기가 없습니다.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "물론 아귀가 못생겼지만 심해를 탐험하기에 그만한 물고기가 <문법_기타>없습니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무튼 아귀로 변신한다면 해 보고 싶은 일은 심해의 흙은 어떤지, 심해생물들의 맛은 어떤지, 심해괴물이 존재하는지에 대한것들을 조사해보고 싶습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "쉼표 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 아무튼 아귀로 변신한다면 <문법_맞춤법>해보고싶은</문법_맞춤법> 일은 심해의 <문법_조사>흙을</문법_조사> <문법_기타>어떤지</문법_기타> 심해생물들의 맛은 <문법_기타>어떤지</문법_기타> 심해괴물이 실존하는 지에 대한것들을 조사해보고 싶습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "만약 심해 괴물이 실존한다면 아귀의 역겨운 외모와 날카로운 이빨로 괴물을 혼쭐내주어 심해에 평화를 가져오겠습니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": "만약 심해 괴물이 실존한다면 아귀의 역겨운 외모와 날카로운 이빨로 괴물을 혼쭐 내주어 심해에 평화를 <문법_맞춤법><문법_어미>가져가겠 습니다</문법_어미></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 일주일이 지나면 내가 탐험한 내용을 책으로 내서 베스트셀러 작가가 되겠습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>1주일</문법_맞춤법>이 지나면 내가 탐험한 내용을 책으로 내서 베스트셀러 작가가 되겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38358",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 611,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

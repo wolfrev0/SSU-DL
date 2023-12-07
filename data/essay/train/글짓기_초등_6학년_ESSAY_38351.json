@@ -1,0 +1,292 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제:바다 생물 이야기 짓기#@문장구분#\n 내가 만약 일주일동안 바다생물로 변한다면 돌고래가 되고싶다.#@문장구분# 돌고래가 디어 하고싶은일은 사람들에게 내 모습을 많이 보여주는 것이다.#@문장구분# 돌고래가 너무나도 되고싶은나는 마법의 물약을 먹었다.#@문장구분# 우리집앞이 바다라 변신한 뒤 바다로 들어갔고 그 세상은 정말 아름다웠다. #@문장구분#색깔이 알록달록한 물고기들과 해마,문어,낙지 등등의 많은 바다생물들이 나를 반겨주었다. #@문장구분#하지만 그 기쁨도 잠시 나는 바다 아랫속이 궁금하여 더 밑으로 내려가보았다. #@문장구분#그런데 갑자기 내려가는 도중에 엄청큰 눈이 떳다. #@문장구분#그러면서 그 알수없는 생물이 깨어나며 바다부터 육지까지 다 알수없는 생물이 파괴해버렸다.#@문장구분#",
+      "paragraph_len": 511,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.5,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.35,
+      22.25,
+      14.3
+    ],
+    "essay_scoreT_avg": 17.3,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          1,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n 내가 만약 일주일동안 바다생물로 변한다면 돌고래가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 내가 만약 일주일동안 바다생물로 변한다면 돌고래가 <문법_맞춤법>되고싶다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돌고래가 되어 하고 싶은 일은 사람들에게 내 모습을 많이 보여주는 것이다.",
+      "sentence_corr_reason": [
+        "오타 추정",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 돌고래가 <문법_기타>디어</문법_기타> <문법_맞춤법>하고싶은일</문법_맞춤법>은 사람들에게 내 모습을 많이 보여주는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 돌고래가 너무나도 되고 싶은 나는 마법의 물약을 먹었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 돌고래가 너무나도 <문법_맞춤법>되고싶은나는</문법_맞춤법> 마법의 물약을 먹었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 집 앞이 바다라 변신한 뒤 바다로 들어갔고 그 세상은 정말 아름다웠다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>우리집앞이</문법_맞춤법> 바다라 변신한 뒤 바다로 들어갔고 그 세상은 정말 아름다웠다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "색깔이 알록달록한 물고기들과 해마, 문어, 낙지 등등의 많은 바다생물들이 나를 반겨주었다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "색깔이 알록달록한 물고기들과 <문법_맞춤법>해마,문어,낙지</문법_맞춤법> 등등의 많은 바다생물들이 나를 반겨주었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 그 기쁨도 잠시 나는 바다 아래가 궁금하여 더 밑으로 내려가보았다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "어미"
+      ],
+      "sentence_txt": "하지만 그 기쁨도 잠시 나는 바다 <문법_조사><문법_어미>아랫속이</문법_어미></문법_조사> 궁금하여 더 밑으로 내려가보았다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 내려가는 도중에 갑자기 엄청 큰 눈이 나타났다. ",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "그런데 <문법_어순>갑자기 내려가는 도중에</문법_어순> <문법_맞춤법>엄청큰 눈이</문법_맞춤법> <문법_기타>떳다</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 알 수 없는 생물이 깨어나며 바다부터 육지까지 다 파괴해 버렸다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 접속어 및 어미 중복",
+        "띄어쓰기, 접속어 및 어미 중복"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_패러프레이징>그러면서 그 알수없는 생물이 깨어나며</문법_패러프레이징></문법_맞춤법> 바다부터 육지까지 다 알수없는 생물이 파괴해버렸다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_38351",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 332,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

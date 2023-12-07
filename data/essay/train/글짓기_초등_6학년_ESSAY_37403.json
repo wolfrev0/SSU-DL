@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리 가족은 수영을 못한다.#@문장구분#그래서 우리 집안은 대대로 바다에 가까이 가지 못한게 한다.#@문장구분# 우리 가족은 바닷가 옆에 작은 횟집을 운영하고 있다.#@문장구분# 나에겐 비밀이 있다.#@문장구분#바다 생물의 목소리가 들린다. #@문장구분#바다에 가면 하하, 호호 많은 생물의 목소리가 들린다. #@문장구분#사람들은 상어가 사람을 먹고 죽이는 무서운 생물이라 생각한다. #@문장구분#하지만 상어는 순한 생물이다. #@문장구분#상어의 이야기를 들어보면 생각보다 날카롭지 않고 온순하다는 것을 알 수 있다.#@문장구분#7월 화창한 아침 소리가 들렸다.#@문장구분# 대부분 바다생물들의 소리는 바다에 가까이 가서만 들리는데 이러한 경우는 처음이었다.#@문장구분#나는 이불을 박차고 잠옷차림으로 바닷가로 뛰어나갔다.#@문장구분# 바닷가에 가 보니 아무소리도 들리지않았다.#@문장구분# 바다 파도 소리말고는 바다생물이 얘기하는 소리가 들리지 않았다.#@문장구분#쿠루릉 소리가 들렸다.#@문장구분#나는 무ᅟᅳᆫ일이 일어난 것을 직감했다.#@문장구분#나는 마을사람들을 불렀다.#@문장구분#쓰나미가 일어날거라고 어른들게 말씀드렸다. #@문장구분#하지만 아무도 내 말을 믿지 않았다. #@문장구분#그래도 나느 어른들께 피크닉을 가자고 해서 우리가족, 이웃집 사람들 10명고 함께 산 위로 올라왔다.#@문장구분# 순간 귀가 너무 아팠다. #@문장구분#나는 그 순간 기절을 했다. #@문장구분#내가 기절을 한지 2시간 후에 가족들은 사색이 되어 있었다. #@문장구분#엄마 말로는 내가 기절한 후 5분후에 쓰나미가 일어났다 했다.#@문장구분# 엄마, 아빠는 죽은 사람들이 살려달라고 외치는 모습이 아직도 기억난다 했다.#@문장구분# 모두 큰 중격을 먹은 것 같았다.#@문장구분#스나미 후 더 이상 바다소리가 들리지 않는다. #@문장구분#나는 20면니 지난 지금도 이 일만 생각하념 등골이 오싹하다.#@문장구분#",
+      "paragraph_len": 1317,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.4,
+      23.75,
+      24.25
+    ],
+    "essay_scoreT_avg": 24.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.10.07",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "그래서 우리 집안은 대대로 바다에 가까이 가지 못하게 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 우리 집안은 대대로 바다에 가까이 가지 <문법_맞춤법>못한게</문법_맞춤법> 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바닷가에 가 보니 아무 소리도 들리지 않았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바닷가에 가 보니 <문법_맞춤법>아무소리도 들리지않았다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 무슨 일이 일어난 것을 직감했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>무ᅟᅳᆫ일이</문법_맞춤법> 일어난 것을 직감했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 마을 사람들을 불렀다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>마을사람들을</문법_맞춤법> 불렀다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "쓰나미가 일어날 거라고 어른들께 말씀드렸다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "쓰나미가 <문법_맞춤법>일어날거라고 어른들게</문법_맞춤법> 말씀드렸다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래도 나는 어른들께 피크닉을 가자고 해서 우리 가족, 이웃집 사람들 10명과 함께 산 위로 올라왔다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래도 <문법_맞춤법>나느</문법_맞춤법> 어른들께 피크닉을 가자고 해서 우리가족, 이웃집 사람들 10명고 함께 산 위로 올라왔다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "엄마 말로는 내가 기절한 후 5분 후에 쓰나미가 일어났다 했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "엄마 말로는 내가 기절한 후 <문법_맞춤법>5분후에</문법_맞춤법> 쓰나미가 일어났다 했다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 모두 큰 충격을 먹은 것 같았다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0026",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 모두 큰 <문법_맞춤법>중격을</문법_맞춤법> 먹은 것 같았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "쓰나미 후 더 이상 바다소리가 들리지 않는다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>스나미</문법_맞춤법> 후 더 이상 바다소리가 들리지 않는다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 20년이 지난 지금도 이 일만 생각하면 등골이 오싹하다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0028",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 <문법_맞춤법>20면니</문법_맞춤법> 지난 지금도 이 일만 생각하념 등골이 오싹하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_37403",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 759,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

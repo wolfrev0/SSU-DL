@@ -1,0 +1,277 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 생각하는 미래 도시의 모습은 첫번째 인공지능의 발전이다.#@문장구분# 내가 생각한 미래 도시의 모습은 인공지능이 발전된 모습일 것 같다.#@문장구분# 미래가 아닌 현재에도 인공지능이 우리의 일상에 많이 스며 들어 있는데 미래엔 더 발전하여 많이 보일 것 같다.#@문장구분# 두번째 편리한 이동수단 두번째로 내가 상상한 미래도시의 모습은 편리해진 이동수단이다.#@문장구분# 지금 현재의 이동수단은 기차,비행기 등 여러개가 있지만 대부분 자동차를 이용한다.#@문장구분# 자동차를 타면 차가 막히거나 불편함이 조금씩 있는데 미래엔 그런점이 발전되어 더욱 편리해진 이동수단이 생길 것 같다.#@문장구분# 세번째는 건물의 변화이다.#@문장구분# 현재에도 신기하고 재미있는 건물이 많은데 미래엔 더 신기하고 특별한 건물의 변화가 있을 것 같다.#@문장구분#네번째로 상상한 모습은 편리해진 생활이다.#@문장구분# 앞에서 말한것과 같이 인공지능,로봇 등이 발전하면 지금 우리가 하는 요리,청소 등 집안일 등을 로봇이 대신 해주고 현재에도 사용되고 있는 유형을 찾아 볼 수 있다.#@문장구분# 예를 들면 요즘엔 기술의 발전으로 사람이 운전하지 않아도 운전이 되는 자동차 등을 찾아 볼 수 있다.#@문장구분# 이렇게 내가 상상한 미래 도시의 모습은 이러하다.#@문장구분#",
+      "paragraph_len": 804,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      25.85,
+      24.65
+    ],
+    "essay_scoreT_avg": 23.85,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 생각하는 미래 도시의 모습은 첫 번째 인공지능의 발전이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 생각하는 미래 도시의 모습은 <문법_맞춤법>첫번째 </문법_맞춤법>인공지능의 발전이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두 번째 편리한 이동 수단 두 번째로 내가 상상한 미래도시의 모습은 편리해진 이동 수단이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두번째 </문법_맞춤법>편리한 이동수단 두번째로 내가 상상한 미래도시의 모습은 편리해진 이동수단이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금 현재의  이동 수단은 기차, 비행기 등 여러 개가 있지만 대부분 자동차를 이용한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 지금 현재의 <문법_맞춤법>이동수단은 기차,비행기 등 여러개가</문법_맞춤법> 있지만 대부분 자동차를 이용한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자동차를 타면 차가 막히거나 불편함이 조금씩 있는데 미래엔 그런 점이 발전되어 더욱 편리해진 이동 수단이 생길 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자동차를 타면 차가 막히거나 불편함이 조금씩 있는데 미래엔 <문법_맞춤법>그런점이 </문법_맞춤법>발전되어 더욱 편리해진 이동수단이 생길 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세 번째는 건물의 변화이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>세번째는 </문법_맞춤법>건물의 변화이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "네 번째로 상상한 모습은 편리해진 생활이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>네번째로 </문법_맞춤법>상상한 모습은 편리해진 생활이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞에서 말한 것과 같이 인공지능, 로봇 등이 발전하면 지금 우리가 하는 요리, 청소 등 집안일 등을 로봇이 대신해주고 현재에도 사용되고 있는 유형을 찾아볼 수 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 앞에서 <문법_맞춤법>말한것과 같이 인공지능,로봇 등이 발전하면 지금 우리가 하는 요리,청소 등 집안일 등을 로봇이 대신 해주고 현재에도 사용되고 있는 유형을 찾아 볼 수 있다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들면 요즘엔 기술의 발전으로 사람이 운전하지 않아도 운전이 되는 자동차 등을 찾아볼 수 있다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들면 요즘엔 기술의 발전으로 사람이 운전하지 않아도 운전이 되는 자동차 등을 <문법_맞춤법>찾아 볼</문법_맞춤법> 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33377",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 567,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

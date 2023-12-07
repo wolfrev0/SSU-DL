@@ -1,0 +1,261 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 미래 도시에서 거의 모든 사람들이 AR 기계가 만들어져서 AR 기계를 착용하고 길거리를 돌아다닐 것 같다.#@문장구분# AR은 현실에서 우리가 보는 화면에 애니메이션을 넣는 건데 대표작으론 포켓몬 고 가 있다.#@문장구분# 대부분 사람들이 AR을 사용하고 있어서 AR 속에서는 나를 이쁘게 꾸며서 다른 사람들한테 이쁜 캐릭터만 보여주는 것이다. 정말 재밌을 것 같다.#@문장구분# 2. AR 상점이 생길 것 같다.#@문장구분# 대부분 많은 사람들이 AR 기계를 쓰는데 남한테 내가 더 이쁘게 보이려고 상점에 가서 실제 돈으로 옷들이나 캐릭터 등등을 사서 착용하는 상점이 나올 것 같다.#@문장구분# 그리고 AR을 위한 가게도 많을 것이다.#@문장구분# 예를 들어서 AR로 몬스터 잡는 게임방이나, AR 화면으로만 노래 가사가 나오는 AR 노래방 등등이 많이 생길 것 같다.#@문장구분# 3. 수 많은 약들이 있을 것이다.#@문장구분# 예를 들어, 너무 배고파서 포만감 약을 먹으면 엄청 배부르게 해주는 약이나 음식 맛이 나는 약이다. 대체로 카레, 수박, 복숭아 맛 등등이 아닐까? #@문장구분#그 외로 바로 잠들게 해주는 약, 몇 분동안 초능력을 쓸 수 있는 약, 원하는 꿈을 꾸게 해주는 약 등등이 있을 것 같다.#@문장구분# 정말로 이런게 생기면 좋을 것 같다.#@문장구분#",
+      "paragraph_len": 806,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28,
+      20,
+      18.4
+    ],
+    "essay_scoreT_avg": 22.133333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.09",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "031",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " AR은 현실에서 우리가 보는 화면에 애니메이션을 넣는 건데 대표작으론 포켓몬 고가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " AR은 현실에서 우리가 보는 화면에 애니메이션을 넣는 건데 대표작으론 <문법_맞춤법>포켓몬 고 가</문법_맞춤법> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대부분 사람들이 AR을 사용하고 있어서 AR 속에서는 나를 예쁘게  꾸며서 다른 사람들한테 예쁜 캐릭터만 보여주는 것이다. 정말 재밌을 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대부분 사람들이 AR을 사용하고 있어서 AR 속에서는 나를 <문법_맞춤법>이쁘게</문법_맞춤법> 꾸며서 다른 사람들한테 이쁜 캐릭터만 보여주는 것이다. 정말 재밌을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 대부분 많은 사람들이 AR 기계를 쓰는데 남한테 내가 더 예쁘게  보이려고 상점에 가서 실제 돈으로 옷들이나 캐릭터 등등을 사서 착용하는 상점이 나올 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 대부분 많은 사람들이 AR 기계를 쓰는데 남한테 내가 더 <문법_맞춤법>이쁘게</문법_맞춤법> 보이려고 상점에 가서 실제 돈으로 옷들이나 캐릭터 등등을 사서 착용하는 상점이 나올 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3. 수많은 약들이 있을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 3. <문법_맞춤법>수 많은</문법_맞춤법> 약들이 있을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 예를 들어, 너무 배고파서 <스타일링_담화 맥락 오류>포만감 약을 먹으면</스타일링_담화 맥락 오류> 엄청 배부르게 해주는 약이나 음식 맛이 나는 약이다. 대체로 카레, 수박, 복숭아 맛 등등이 아닐까? ",
+      "sentence_corr_txt_styling": " 예를 들어, 너무 배고파서 먹으면 엄청 배부르게 해주는 약이나 음식 맛이 나는 약이다. 대체로 카레, 수박, 복숭아 맛 등등이 아닐까? ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 외로 바로 잠들게 해주는 약, 몇 분 동안 초능력을 쓸 수 있는 약, 원하는 꿈을 꾸게 해주는 약 등등이 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그 외로 바로 잠들게 해주는 약, <문법_맞춤법>몇 분동안</문법_맞춤법> 초능력을 쓸 수 있는 약, 원하는 꿈을 꾸게 해주는 약 등등이 있을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말로 이런 게 생기면 좋을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 "
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말로 <문법_맞춤법>이런게</문법_맞춤법> 생기면 좋을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_35552",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 586,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

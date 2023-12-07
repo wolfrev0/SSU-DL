@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "한 10년쯤 뒤에는 새로운 에너지 자원을 찾아낼 것이다.#@문장구분# 지금 우리가 유용하게 사용하고 있는 에너지 자원은 석탄과 석유, 천연가스가 있다.#@문장구분# 하지만 이 에너지 자원은 곧 다 사용하게 되어 고갈될 것이라고 기사를 통해 많이 접할 수 있다.#@문장구분# 독도 밑에 메탄 하이 하이드레이트와 비슷한 에너지 자원이 다른 나라에서 나올 것이다.#@문장구분# 현재 우리는 좋은 에너지 자원을 가지고 있지만 이를 유통하게 된다면 이미 한 번 에너지 자원의 고갈을 맛 본 우리는 비싼 값을 주고 판매를 할 것이고, 다른 나라들은 금전적으로 부담이 되어 새로운 에너지 자원을 찾으려고 노력하거나 새로운 에너지 자원을 만들어 낼 수도 있을 것이다.#@문장구분# 현재의 기술로는 아직 만들 수 없을 것 같지만 우리의 과학 기술은 나날일 발전하고 있는 중이기에 이런 예상까지 해볼 수 있다는 것이 대단하게 느껴진다.#@문장구분# 나도 나중에 커서 새로운 에너지 자원을 개발하거나 찾는 과학자나 기술자가 되고 싶다.#@문장구분#",
+      "paragraph_len": 610,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      29.2,
+      28.4,
+      30
+    ],
+    "essay_scoreT_avg": 29.199999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.30",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_60993",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 471,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

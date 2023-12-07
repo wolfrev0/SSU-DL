@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 요즘의 우리 사회에는 고독하게 홀로 남아서 도움이 필요한데도 불구하고 도움을 받고있지 못하는 많은 사람들이 있다고 생각합니다. #@문장구분#그렇게 고독하고 도움이 필요함에도 불구하고 도움을 받지 못하는 사람들에게 도움의 건내는 사람이 되고자 합니다.#@문장구분# 제가 생각하기에 우리나라의 복지는 너무나 많은 흠이 있다고 생각합니다. #@문장구분#실질적으로 복지 혜택이 주어져야 하지만 여러 가지 행정의 오류나 행정의 모순등으로 인해서 도움을 받고있지 못하는 독거노인이라던지 전혀 복지 혜택을 받을 필요가 없는 사람들이 꼼수를 이용해서 복지체계의 허점을 노려서 복지지출을 야금야금 갉아먹고 있는 경우를 말합니다.#@문장구분# 저는 이런 우리나라의 복지 모순을 해결하기 위해서 꼭 정치인이 되고 싶습니다.#@문장구분# 제가 정치인이 돼서 흠결이 없는 복지 법안을 새로 발의하고 싶습니다. #@문장구분# 정치인이 되기위한 역량을 쌓기위해서 저는 리더십에 관한 독서를 하고 있습니다.#@문장구분# 이런 제 꿈이 실현되서 모두가 웃을 수 있는 대한민국을 만들고싶습니다.#@문장구분# 저는 앞으로 계속 나아가서 나중엔 결국 모두에게 도움이 될 수 있는 한국의 정치인이 되어 있을것이라고 생각합니다.",
+      "paragraph_len": 716,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.3333333,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              2
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7777777,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.277779,
+      28.5,
+      30
+    ],
+    "essay_scoreT_avg": 26.925926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.20",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_82377",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 556,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "가족들과 같이 봤던 연극에서 뒤에 배경과 소품이 너무 정교해 보다가 놀랐던 기억이 있습니다.#@문장구분# 앞의 배우들을 더 돋보여주고 그 내용과 주제에 맞게 준비하고 연구하는 것이 무척 감동적이었습니다.#@문장구분# 그렇기에 저는 사람들에게 감동을 주고 여운을 남기는 연극연출가가 되고 싶습니다.#@문장구분# 10년 뒤인 25살에는 연극연출과를 졸업할 것입니다.#@문장구분# 한 달에 한 번씩은 연극 혹은 영화관람 등 정기적으로 작품을 관람하고 분석하는 노트를 만들 것입니다.#@문장구분# 20년 뒤인 35살에는 연극의 주제를 맞추어 음향, 안무, 특수효과에 관련된 상황을 배우들과 협의하여 연극 무대를 만들어 나갈 것입니다.#@문장구분# 30년 뒤인 45살에는 새로운 작품을 기획하며 실행시키기 위해 노력할 것입니다.#@문장구분# 이 과정에서 모험정신과 추진력을 발휘하여 창의적인 작품을 만들어낼 것입니다.#@문장구분# 이 직업은 실험정신과 추진력 등 스스로 일하는 능동적인 직업 성향이 두드러지므로 끊임없는 자기 계발과 다른 작품에 관한 관심을 기울일 것입니다.#@문장구분# 전체적인 상황을 종합적으로 관찰하고 평가할 수 있는 사고능력과 판단력을 잃지 않으며 계속하여 노력할 것입니다.",
+      "paragraph_len": 726,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      27.38889,
+      23.166666
+    ],
+    "essay_scoreT_avg": 26.851852,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.11",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_67984",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 546,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시는 모든 사물에 똑똑한 인공지능이 탑재되어 사람이 원하는 대로 모든 사물이 자동조정되는 곳 이라고 생각합니다.#@문장구분# 현재에도 사물인터넷 서비스가 많이 각광받고 있습니다.#@문장구분# 예를들어 냉장고 안에있는 재료들로 만들 수 있는 요리를 자동으로 추천해주는 냉장고, 이용자의 수면 패턴에 따라 자동으로 조명이 켜졌다 꺼졌다 하는 기능등이 있습니다.#@문장구분# 이러한 사물인터넷의 활용범주는 더더욱 넓어질 것으로 기대되고 있습니다.#@문장구분# 제가 생각하는 사물인터넷이 활용될 수 있는 범주는 필기구 인 것 같습니다.#@문장구분# 요즘에도 예쁘지 않은 글씨체 때문에 고민인 사람들이 많습니다.#@문장구분#이를 보완하기 위해서 샤프나 볼펜에 인공지능을 달아서 손떨림을 미세하게 보정한다던지 아니면 아예 손글씨로 쓰더라도 원하는 글씨체를 미리 정할 수 있어서 그 글씨체에 맞게 글자가 출력 되도록 하는 방법 말입니다.#@문장구분# 만약 그런한 것이 가능해진다면 누구보다도 제가 먼저 사용할 것입니다.#@문장구분# 왜냐하면 저는 평소에도 글씨체가 예쁘지 않아서 저는 나름 정성들여서 썼는데도 불구하고 성의가 없이 썼다는 지적을 받아 속상한 경험이 많았기 때문입니다.#@문장구분#",
+      "paragraph_len": 726,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      28.4,
+      30,
+      30
+    ],
+    "essay_scoreT_avg": 29.466667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.28",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_65508",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 548,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 지난번에 문어가 되고 싶다고 하였다.#@문장구분# 내가 되고 싶은 바다 생물 1위는 문어였지만 2위는 바로...... 범고래이다!#@문장구분# 그 이유가 무엇인지 설명해 주겠다.#@문장구분#\n 범고래가 되고 싶은 이유 첫번째, 바로 '바다의 왕'이기 때문이다. #@문장구분#대부분 어린이들은 상어가 바다에서 제일 강하다고 말하지만 실제로는 범고래가 상어를 잡아먹고, 심지어 북금곰까지 잡아먹기 때문에 범고래는 '바다의 왕'이라고 책에 나와있다.#@문장구분# 그러므로, 나는 생존하기 위해서 '바다의 왕'인 범고래가 되고 싶다.#@문장구분# \n 범고래가 되고 싶은 이유 두번째, 바로 멋있기 때문이다. #@문장구분#범고래는 멋있기 때문에 공연장에서 '돌고래 쇼'처럼 범고래도 '범고래 쇼'를 하는 범고래가 있다. #@문장구분#나도 '범고래 쇼'에서 나의 쇼를 뽐내고 싶다.#@문장구분# \n 이렇게 범고래도 문어처럼 좋은 점이 참 많다. #@문장구분#물론 문어나 범고래도 정말 좋지만 아무리 그래도 지금의 나보다는 좋지 않다.#@문장구분# 나는 지금 내모습이 제일 좋다~!#@문장구분#",
+      "paragraph_len": 708,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.2,
+      30,
+      14.8
+    ],
+    "essay_scoreT_avg": 21.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 내가 되고 싶은 바다 생물 1위는 문어이고, 2위는 바로 범고래이다!",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 내가 되고 싶은 바다 생물 1위는<문법_조사> 문어였지만</문법_조사> 2위는<문법_맞춤법> 바로...... 범고래이다!</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 범고래가 되고 싶은 첫 번째 이유는 바로 '바다의 왕'이기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": "\n 범고래가 되고 싶은 <문법_어순>이유 첫번째,</문법_어순> 바로 '바다의 왕'이기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "어린이들은 대부분 상어가 바다에서 제일 강하다고 말하지만 실제로는 범고래가 상어를 잡아먹고, 심지어 북금곰까지 잡아먹기 때문에 범고래는 '바다의 왕'이라고 책에 나와있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": "<문법_어순>대부분 어린이들은</문법_어순> 상어가 바다에서 제일 강하다고 말하지만 실제로는 범고래가 상어를 잡아먹고, 심지어 북금곰까지 잡아먹기 때문에 범고래는 '바다의 왕'이라고 책에 나와있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " \n 범고래가 되고 싶은 두 번째 이유는 바로 멋있기 때문이다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순"
+      ],
+      "sentence_txt": " \n 범고래가 되고 싶은 <문법_어순>이유 두번째, </문법_어순>바로 멋있기 때문이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징"
+      ],
+      "sentence_txt": "범고래는 멋있기 때문에 공연장에서 '돌고래 쇼'처럼 범고래도 '<스타일링_패러프레이징>범고래 쇼</스타일링_패러프레이징>'를 하는 범고래가 있다. ",
+      "sentence_corr_txt_styling": "범고래는 멋있기 때문에 공연장에서 '돌고래 쇼'처럼 범고래도 '쇼'를 하는 범고래가 있다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " \n <스타일링_담화 맥락 오류>이렇게</스타일링_담화 맥락 오류> 범고래도 문어처럼 좋은 점이 참 많다. ",
+      "sentence_corr_txt_styling": " \n 이처럼 범고래도 문어처럼 좋은 점이 참 많다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 지금 내 모습이 제일 좋다!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>나는 지금 내모습이 제일 좋다~!</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36166",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 469,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

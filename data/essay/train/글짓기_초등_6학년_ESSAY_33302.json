@@ -1,0 +1,359 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "바다에 대해 사람들이 모르는 거와 게속 신비한 것들이 발견 되기도 합니다#@문장구분# 또 우리가 알고 있는 것 보다 바다는 훨씬 넓어요.#@문장구분# 그리고 미스 태리중 제일 유명한 \"인어\"가되고 싶다.#@문장구분# 내가 바다 생물이 되면 \"인어\"가 되구 싶다.#@문장구분# 사람 얼굴을 한 생명채가 물속 에서 숨쉬는 거니까 나두 되보고 싶다는 생각이 들었 었다.#@문장구분# 그리구 인어 공주 이야기가 어린이들이 볼수 있게 각색 된거여도 어린이들 볼수 있게 한거는 해피 엔딩 이니까 나도 인어(공주)가 되고 싶었다#@문장구분# 예전에 인어가 발견 된적 있었 는데 아주 못생기고(못생긴건기준이 없지만 못생 기다 함.#@문장구분#) 꾀 기괴 했다.#@문장구분# 알고 보니 영화에 쓰고 처리 된 소품이 바다로 떠내려 간건데 어부의 그물에 걸려서 발견 된거 였다.#@문장구분# 어느 박물관 에도 인어가 전시되었 었는데(외국박물관) 알고 보니 그거두 돈 뜯어 내려고 일부로 모형을 만든 것 이다.#@문장구분# 그래서 더 궁금 하다. 인어가 되면 바다 온곳을 돌아 다니면서 신기한 물고 기도 보고고기 칭구 들고 만들 어서 매일 고부도 안해도 되고 대학 안가서 무시도 안받고 행복 하게 살고 싶다.#@문장구분# 그리고 인어가 바다 에서 젤 이뿔거 같다.#@문장구분# -끝-",
+      "paragraph_len": 806,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.65,
+      25.7,
+      22.65
+    ],
+    "essay_scoreT_avg": 23.666666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.05",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "바다에 대해 사람들이 모르는 거와 계속 신비한 것들이 발견 되기도 합니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "바다에 대해 사람들이 모르는 거와 <문법_맞춤법>게속 </문법_맞춤법>신비한 것들이 발견 되기도 합니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 우리가 알고 있는 것보다 바다는 훨씬 넓어요.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 우리가 알고 있는 <문법_맞춤법>것 보다</문법_맞춤법> 바다는 훨씬 넓어요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 미스테리 중 제일 유명한 \"인어\"가 되고 싶다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법><문법_기타>미스 태리중</문법_기타></문법_맞춤법> 제일 유명한 \"인어\"가되고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 바다 생물이 되면 \"인어\"가 되고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 내가 바다 생물이 되면 \"인어\"가 <문법_어미>되구 </문법_어미>싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람 얼굴을 한 생명체가 물 속에서 숨 쉬는 거니까 나도 돼보고 싶다는 생각이 들었다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 사람 얼굴을 한 <문법_맞춤법>생명채가 </문법_맞춤법>물속 에서 숨쉬는 거니까 나두 되보고 싶다는 생각이 <문법_어미>들었 었다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 인어 공주 이야기가 어린이들이 볼 수 있게 각색된 거여도 어린이들 볼 수 있게 한 거는 해피 엔딩이니까 나도 인어(공주)가 되고 싶었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 문장 부호",
+        "띄어쓰기, 문장 부호"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그리구 인어 공주 이야기가 어린이들이 볼수 있게 각색 된거여도 어린이들 볼수 있게 한거는 해피 엔딩 이니까 나도 인어(공주)가 되고 싶었다</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예전에 인어가 발견 된적 있었는데 아주 못생기고(못생긴 건 기준이 없지만 못생기다 함.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예전에 인어가 발견 된적 <문법_맞춤법>있었 는데</문법_맞춤법> 아주 못생기고(못생긴건기준이 없지만 못생 기다 함.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ") 꽤 기괴했다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": ") <문법_맞춤법><문법_기타>꾀 기괴 했다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 알고 보니 영화에 쓰고 처리된 소품이 바다로 떠내려간 건데 어부의 그물에 걸려서 발견된 거였다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 알고 보니 영화에 쓰고 <문법_맞춤법>처리 된</문법_맞춤법> 소품이 바다로 떠내려 간건데 어부의 그물에 걸려서 발견 된거 였다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 박물관에도 인어가 전시되었었는데(외국박물관) 알고 보니 그것도 돈 뜯어내려고 일부로 모형을 만든 것이다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어느 <문법_맞춤법>박물관 에도</문법_맞춤법> 인어가 전시되었 었는데(외국박물관) 알고 보니 그거두 돈 뜯어 내려고 일부로 모형을 만든 것 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 더 궁금하다. 인어가 되면 바다 온 곳을 돌아다니면서 신기한 물고기도 보고 고기 친구들도 만들어서 매일 공부도 안해도 되고 대학 안가서 무시도 안받고 행복하게 살고 싶다.",
+      "sentence_corr_reason": [
+        "붙여쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그래서 더 <문법_맞춤법>궁금 하다</문법_맞춤법>. 인어가 되면 바다 온곳을 돌아 다니면서 신기한 <문법_기타>물고 기도 보고고기 칭구 들고 만들 어서</문법_기타> 매일 고부도 안해도 되고 대학 안가서 무시도 안받고 행복 하게 살고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 인어가 바다에서 제일 이쁠 거 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 인어가 <문법_맞춤법><문법_기타>바다 에서 젤 이뿔거</문법_기타></문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33302",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 567,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

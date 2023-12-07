@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래의 우리는 어떻게 살고있을까?#@문장구분# 도라에몽이라는 만화를 보면 미래 세상에선 로봇을 정말 많이 사용한다.#@문장구분# 도라에몽도 로봇이니까 말이다.#@문장구분# 그래서 현실 세계도 나중엔 로봇이 엄청나게 상용화되지 않을까? 라고 생각해본다.#@문장구분# 로봇이 많아진다면 도시는 기계가 늘어나게 될 것이다.#@문장구분# 왜냐하면 로봇은 기계이고, 에너지를 기계로 얻게 될 것이기 때문이다.#@문장구분# 미래의 도시는 '기계 도시'가 될 거다.#@문장구분# SF 영화는 기계가 인류를 지배하는 내용이 많은데, 나는 이 일은 일어나지 않을 거라고 생각한다.#@문장구분# 로봇의 기본 시스템에는 인간을 해쳐서는 안 된다는 항목이 있기 때문이다.#@문장구분# 그래서 우리는 로봇과 조화를 이루면서 살 거 같다.#@문장구분# 인간이 하기 힘든 일을 로봇이 해주게 되면서 우리 생활은 엄청 편하게 변할 것이다.#@문장구분# 또 로봇을 사용하게 된다면 많은 에너지를 필요로 할 거기 때문에, 한 번에 많은 에너지를 얻을 수 있는 연료가 개발되지 않을까?#@문장구분# 그리고 환경도 생각하면서 발전을 해야하니까 친환경 적인 것도 생각을 하면서 발전이 되야 한다.#@문장구분#",
+      "paragraph_len": 768,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.4,
+      30,
+      27.75
+    ],
+    "essay_scoreT_avg": 28.050001,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.25",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_56315",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 509,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

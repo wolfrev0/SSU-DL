@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 되고 싶은 바다 생물은 바다 거북이입니다.#@문장구분# 왜냐하면 거북이처럼 약간은 느긋하게 지내고 또 거북이는 오래 사니까 장수하는 기분을 느끼고 싶어서 입니다.#@문장구분# 그리고 생각해 보니 거북이는 사실 느긋하지 않은 동물이란 것을 다 쓴 다음에 생각났네요.#@문장구분# 어쨌든 제가 알고있는 거북이라는 생물의 이야기는 거북이는 알을 깨고 태어나자마자 온 갖 포식자들이 도사리는 곳에서 빠른 속도로 도망쳐서 바다로 간 후 그 곳에서 거북이 등 껍질에 숨는 연습등을 혼자서 깨달아 가면서 살다가 어른인 성체가 되어 짝을 만들고 그후 자신의 고향에 돌아가 알을 낳는다는 것입니다.#@문장구분# 여기서 태어난 거북이에 비하여 이렇게 성체가 되어 살아남은수는 아주 적다고 합니다.#@문장구분# 제가 이러한 위험한 삶을 사는 거북이가 되고 싶다고 한 이유는 거북이는 살기 위해서 수 없이 살아남기 위해서 혼자서 자신의 힘으로 살아가는 방법을 터득하고 살아가는 거북이들이 안쓰러워 보이지만 그렇게 해서라도 살아 남은 모습이 멋있기 때문입니다.#@문장구분# 저는 이렇게 거북이가 포기하지 않는 모습이 멋지다고 생각했기 때문에 제가 되고 싶은 바다 생물 중 거북이를 골랐습니다.#@문장구분#",
+      "paragraph_len": 699,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.65,
+      30,
+      24.4
+    ],
+    "essay_scoreT_avg": 27.016668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.09",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_32729",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 559,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

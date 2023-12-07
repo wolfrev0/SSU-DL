@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래도시에는 기술의 발전에 따라 지금과 같은 도시의 모습은 찾아볼수 없을 것입니다.#@문장구분# 사람들의 이동권은 더이상 육지에만 한정되지 않게되었습니다.#@문장구분# 물론 비행기나 헬리콥터로 지금도 하늘을 날아다닐 수 있지만, 이것이 대중교통으로 사용되지는 않잖아요?#@문장구분# 그러나 미래도시에서는 하늘을 나는 대중교통들이 생겨날 것입니다.#@문장구분# 기차와 자동차 뿐만 아니라 자전거와 오토바이까지도 하늘을 날 수 있게 되었고, 그렇기 때문에 항로에 대해서 도로와 같은 교통체계가 새로이 만들어졌습니다.#@문장구분# 또한 항로를 벗어날 수 없게 공기의 흐름을 조정하기 때문에, 도로보다도 교통사고의 위험이 적어 모두들 항로를 선호합니다.#@문장구분# 고소공포증만 없는 사람이라면요.#@문장구분# 그렇게 교통체증과 같은 문제도 해결되었으며, 주차 부족 문제도 하늘위에 주차를 할 수 있게 기술이 발전하면서 해결 할 수 있게 되었습니다.#@문장구분# 미래도시는 생각보다 더 멋진 곳일것입니다.#@문장구분#",
+      "paragraph_len": 626,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      24.1,
+      21.05
+    ],
+    "essay_scoreT_avg": 25.049997,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래도시에는 기술의 발전에 따라 지금과 같은 도시의 모습은 찾아볼 수 없을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미래도시에는 기술의 발전에 따라 지금과 같은 도시의 모습은 <문법_맞춤법>찾아볼수 </문법_맞춤법>없을 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들의 이동권은 더 이상 육지에만 한정되지 않게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람들의 이동권은 <문법_맞춤법>더이상</문법_맞춤법> 육지에만 한정되지 않게되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기차와 자동차뿐만 아니라 자전거와 오토바이까지도 하늘을 날 수 있게 되었고, 그렇기 때문에 항로에 대해서 도로와 같은 교통 체계가 새로이 만들어졌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기차와 <문법_맞춤법>자동차 뿐만</문법_맞춤법> 아니라 자전거와 오토바이까지도 하늘을 날 수 있게 되었고, 그렇기 때문에 항로에 대해서 도로와 같은 교통체계가 새로이 만들어졌습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 고소공포증만 없는 사람이라 하면요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 고소공포증만 없는 <문법_조사>사람이라면요</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 교통체증과 같은 문제도 해결되었으며, 주차 부족 문제도 하늘 위에 주차를 할 수 있게 기술이 발전하면서 해결할 수 있게 되었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇게 교통체증과 같은 문제도 해결되었으며, 주차 부족 문제도 <문법_맞춤법>하늘위에 </문법_맞춤법>주차를 할 수 있게 기술이 발전하면서 해결 할 수 있게 되었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미래도시는 생각보다 더 멋진 곳일 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미래도시는 생각보다 더 <문법_맞춤법>멋진 곳일것입니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71553",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 447,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

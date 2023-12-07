@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 아마 인간과 로봇이 친구처럼 지내는 사회로 바뀌어 있을 것 같다.#@문장구분# 지금 현재 휴대폰이나 기계에 음성인식 기술이 많이 발달 되어 있다.#@문장구분# 예를 들면 시리나 오케이 구글 같은 것들이 있다.#@문장구분# 심심할 때 한 번씩 그 기계들과 대화를 시도하면 굉장히 재미있다.#@문장구분# 그래서 아마 기술이 더 많이 발전 된 미래 사회에는 그 기계들과 실제로 일상 생활을 공유하며 재밌는 이야기를 나누고 고민을 이야기하며 수다를 떠는 아주 좋은 친구가 될 것 이라고 예상한다.#@문장구분# 그리고 여러 기계들과 모두 의사소통을 하며 살 것 같다.#@문장구분# 청소기와 대화를 나누고 냉장고와 대화를 나누고 여러 운동 기구들과도 대화를 나누며 기계가 말동무를 대신하는 사회가 온다면 혼자 사는 사람들이 더 이상 외로움을 겪지 않아도 되는 등 많은 혜택이 있을 것이라고 예상한다.#@문장구분# 그렇게 되면 독거노인 분들이나 가족과 떨어져 사는 사람들이 우울증에 걸리거나 하지 않을 수도 있다.#@문장구분#",
+      "paragraph_len": 620,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.1,
+      23.05,
+      30
+    ],
+    "essay_scoreT_avg": 25.383333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.15",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_78328",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 460,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

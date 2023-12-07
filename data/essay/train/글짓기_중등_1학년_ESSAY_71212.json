@@ -1,0 +1,166 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 미래도시는 사람보다 로봇이 더 많은 로봇세상이 될 것 같습니다.#@문장구분# 요즘 저출산이 엄청난데 로봇이 더 발전하고 나면 아이를 로봇으로 대체하거나 로봇 덕에 혼자 사는 것이 외롭지 않게 느껴져서 더욱 더 저출산이 심해지고 결국 먼 미래에는 사람보다 로봇이 더 많아질 것 같습니다.#@문장구분# 하지만  만약 그 사회가 진짜 오고 그 사회가 지속된다면 이것은 좀 문제가 될 수 있기 때문에 어느정도 로봇세상이 되고나면 나라에서 심각성을 느끼고 로봇 보급을 중지시키거나 출산 장려 정책을 만들 것 같습니다.#@문장구분# 하지만 아이를 낳고 기르는 것보다 고통도 없고 비용적으로나 뭐로나 로봇을 가족으로 두는 게 더 좋기 때문에 로봇의 보급을 바라는 가정들이 많을 것 같습니다.#@문장구분# 아무래도 나이가 들거나 아프면 죽는 사람과 달리 로봇은 평생 함께 할 수 있기 때문이죠.#@문장구분#",
+      "paragraph_len": 516,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2.5,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.5,
+      22.5,
+      13.75
+    ],
+    "essay_scoreT_avg": 20.25,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          1
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.07",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 하지만  만약 그 사회가 진짜 오고 그 사회가 지속된다면 이것은 좀 문제가 될 수 있기 때문에 어느 정도 로봇세상이 되고 나면 나라에서 심각성을 느끼고 로봇 보급을 중지시키거나 출산 장려 정책을 만들 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만  만약 그 사회가 진짜 오고 그 사회가 지속된다면 이것은 좀 문제가 될 수 있기 때문에 어<문법_맞춤법>느정도 로봇세상이 되고나면</문법_맞춤법> 나라에서 심각성을 느끼고 로봇 보급을 중지시키거나 출산 장려 정책을 만들 것 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_71212",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 417,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

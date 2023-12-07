@@ -1,0 +1,378 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "나는 상어이다.#@문장구분#사람들은 나를 무서워하는데 나는 나를 공격하는 사람들만 문답니다.#@문장구분#나는 올해 10살이 되었다. #@문장구분#나는 학교에 가지 못한다.#@문장구분#왜냐하믄 다른 바다 생물들이 나를 무서워 해서 나는 그 이유 하나 때문에 학교에 가지 못 해서 속상하다.#@문장구분#나는 돈을 벌기 위해 밖에서 춤을 춰서 돈을 번다. #@문장구분#하지만 다들 무서워서 오지못한다 #@문장구분#근데 한 상어가 나를 캐스팅을 했다#@문장구분#.나는 그래서 아이돌로  데뷔를 하여서 상어 가족이라는 곡을 냈다. #@문장구분# 그 노래로 성공하여서 나는 인싸가 되었다.#@문장구분#  나는 너무 기분이 좋았다.#@문장구분# 나는 이제 사람들이 무서워 하지 않았다.#@문장구분#나는 다른 친구들과  룰루 랄라 놀고있다#@문장구분#.나는 드디어 얘들하고  친해져서  내생일날 생일 선물을 엄청엄~~~~청 많이 주웠다.#@문장구분#      나는 내생일이 좋다  친구들과 생일 파티도 하고 놀고 파자마 파티 까지 하였으니기분이 날아갈것같다. #@문장구분#    역시 하면  된다라는 말이 배신이아니여서 넘 좋다 #@문장구분#여러분들도 열심히 노력해서 행복한 생일되세요.#@문장구분#",
+      "paragraph_len": 828,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          1.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      30,
+      15.35
+    ],
+    "essay_scoreT_avg": 21.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          1
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.24",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "031",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "왜냐하면 다른 바다 생물들이 나를 무서워하기 때문에 학교에 가지 못해서 속상하다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>왜냐하믄</문법_맞춤법> 다른 바다 생물들이 나를 <문법_어미><문법_담화 맥락 오류>무서워 해서 나는 그 이유 하나 때문에 </문법_담화 맥락 오류></문법_어미>학교에 가지 못 해서 속상하다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 나는 돈을 벌기 위해 밖에서 춤을 추며 돈을 번다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "어미"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>나는</스타일링_담화 맥락 오류> 돈을 벌기 위해 밖에서 춤을 <문법_어미>춰서 </문법_어미>돈을 번다. ",
+      "sentence_corr_txt_styling": "그래서 나는 돈을 벌기 위해 밖에서 춤을 추며 돈을 번다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 다들 무서워서 오지 못한다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "하지만 다들 무서워서<문법_맞춤법> 오지못한다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러던 중, 한 상어가 나를 캐스팅했다..",
+      "sentence_corr_reason": [
+        "문장부호",
+        "접속사 오류"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>근데</스타일링_담화 맥락 오류> 한 상어가 나를 캐스팅을<문법_맞춤법> 했다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "그러던 중, 한 상어가 나를 캐스팅했다..",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이후 나는 아이돌로  데뷔를 해서 상어 가족이라는 곡을 냈다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": "<스타일링_담화 맥락 오류>.나는 그래서</스타일링_담화 맥락 오류> 아이돌로  데뷔를 <문법_맞춤법>하여서</문법_맞춤법> 상어 가족이라는 곡을 냈다. ",
+      "sentence_corr_txt_styling": "이후 나는 아이돌로  데뷔를 해서 상어 가족이라는 곡을 냈다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 노래로 성공해 나는 친구가 많아졌다.",
+      "sentence_corr_reason": [
+        "",
+        "잘못된 표현"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그 노래로 <문법_맞춤법>성공하여서</문법_맞춤법> 나는 <스타일링_기타>인싸가 되었다</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 그 노래로 성공해 나는 친구가 많아졌다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이제 사람들이 나를 무서워하지 않는다.",
+      "sentence_corr_reason": [
+        "",
+        "붙여쓰기",
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "맞춤법",
+        "시제"
+      ],
+      "sentence_txt": " <문법_어순>나는 이제 사람들이 무서워 </문법_어순>하지 <문법_시제>않았다.</문법_시제>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 다른 친구들과  룰루랄라 놀고 있다.",
+      "sentence_corr_reason": [
+        "붙여쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 다른 친구들과  <문법_맞춤법>룰루 랄라</문법_맞춤법> 놀고있다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 드디어 애들하고  친해져서  내 생일 날 생일 선물을 엄청 많이 받았다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "<문법_맞춤법>.</문법_맞춤법>나는 드디어 얘들하고  친해져서  내생일날 생일 선물을 엄청엄~~~~청 많이 주웠다<문법_맞춤법>.</문법_맞춤법>",
+      "sentence_corr_txt_styling": " 나는 드디어 애들하고  친해져서  내 생일 날 생일 선물을 엄청 많이 받았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "      나는 내 생일이 좋다.  친구들과 생일 파티도 하고, 파자마 파티까지 했더니 기분이 날아갈 것 같다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징",
+        "조사"
+      ],
+      "sentence_txt": "      나는 <문법_맞춤법>내생일이</문법_맞춤법> 좋다  친구들과 생일 파티도 하고<스타일링_패러프레이징> 놀고 </스타일링_패러프레이징>파자마 파티 까지<문법_조사> 하였으니기분이</문법_조사> 날아갈것같다. ",
+      "sentence_corr_txt_styling": "      나는 내 생일이 좋다.  친구들과 생일 파티도 하고, 파자마 파티까지 했더니 기분이 날아갈 것 같다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "    역시 '하면  된다'라는 말이 거짓이 아니어서 너무 좋다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": "    역시 <문법_맞춤법>하면  된다</문법_맞춤법>라는 말이 <스타일링_담화 맥락 오류>배신이아니여서</스타일링_담화 맥락 오류> 넘 좋다 ",
+      "sentence_corr_txt_styling": "    역시 '하면  된다'라는 말이 거짓이 아니어서 너무 좋다. ",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "여러분들도 열심히 노력해서 행복한 생일 되세요.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "여러분들도 열심히 노력해서 행복한 <문법_맞춤법>생일되세요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_36154",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 490,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 저의 미래 모습을 이야기해보겠습니다. #@문장구분#우선 저의 가장 큰 목표는 바로 경찰이 되는 것 입니다. #@문장구분#이를 위해서 저는 경찰 대학교에 입하기 위해서 현제의 학업을 충실히 임할 것입니다.#@문장구분# 단순히 공부를 열심히 한다 아니라 좀 더 구체적으로 생각해 보았습니다.#@문장구분#  경찰대 시험에는 국영수만 시험을 치루기 때문에 이를 위주로 공부 할 것입니다.#@문장구분# 다음으로 경찰대학교는 체력도 필 수 입니다. #@문장구분#그래서 아침에 300M를 전속력으로 달리는 것을 필수적으로 이루어 내도록 하겠습니다. #@문장구분#10년 후에는 이미 합격을 하거나 만약 하지 못했더라면 경찰이 되기 위해서 3수는 각오할 자신이 있습니다. #@문장구분#10년 후에는 한 경찰서의 서장으로 학교를 마치고 앉아서 한 사회의 바르고 법이 지켜진 질성정연한 사회를 위해서 힘쓰고 있을 것 같습니다.#@문장구분# 경찰이 되고 난 뒤에서는 저는 은퇴를 하고 편안하고 한적한 삶을 살 것 입니다.#@문장구분#  30년 후에 벌어낸 돈으로 저는 시골로 내려와서 악기를 배우고 시를 쓰며 생활을 할 것입니다.#@문장구분# 이것이 저의 미래의 계획입니다. #@문장구분#이것을 단순히 상상만으로 남겨두지 않고 실행해 보도록 하겠습니다.",
+      "paragraph_len": 797,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      25.5,
+      23.61111
+    ],
+    "essay_scoreT_avg": 25.037039,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.08",
+    "student_educated": true,
+    "student_grade": "중등_2학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_2학년",
+    "organization_weight": {
+      "org_paragraph": 2,
+      "org": 2,
+      "org_essay": 4,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 1
+    },
+    "essay_main_subject": "미래의 나의 모습",
+    "expression_weight": {
+      "exp_style": 1,
+      "exp_grammar": 2,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_72803",
+    "essay_prompt": " 우리는 모두 미래의 나를 한 번씩 상상해보곤 합니다. 유명한 사람이 돼서 많은 사람과 소통하는 상상, 훌륭한 의사가 돼서 많은 사람을 살리는 상상 등 어떤 사람이 되고 싶다는 미래를 생각하지요.\n\n 여러분은 미래의 나를 상상해보신 적이 있으신가요? 10년 뒤, 20년 뒤, 30년 뒤에 여러분은 어떤 일을 하고 어떤 가치관을 가지고 살아가고 있을까요?\n\n 나의 10년 뒤, 20년 뒤, 30년 뒷모습을 각각 상상해보고 어떤 일을 하고 있을지, 그러한 모습을 갖추기 위해 어떤 노력을 하였을지 작성해보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 557,
+    "essay_main_subject": "미래의 나의 모습"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "다들 한번쯤은 다른 세계의 사람 또는 동물에 빙의하게 되는 소설을 잃어본 적이 있을 것이다. #@문장구분#놀랍겠지만, 난 실제로 다른 이의 몸에 빙의되 적이 있었다.#@문장구분# 물론 지금은 되돌아왔지만아직도 그 기억을 잊지 못할 만큼 매우 인상적이였다.#@문장구분# 이쯤 되면 무척 궁금해할텐데, 그럼 얘기를 시작해 보자. #@문장구분#그래. 분명 나는 깊은 심연 속으로가라앉고 있었다.#@문장구분# 평소의 나라면 마구버둥거리며 어떻게든 살기 위해서 노력했을 것이다.#@문장구분# 하지만 이번은 달랐다.#@문장구분# 이 깊은 암흑이 마치 내 집인 것 마냥 자연스레 헤엄을 치고 있었다.#@문장구분# 뭔가 이상했다. #@문장구분#그제서야 나는 내 팔 대신에 자리잡고 있는 지느러미와 다리대신 있는 꼬리를 보았다.#@문장구분# 아직 잘 실감이 나지 않았다.#@문장구분# 저 수면 위로 올라가서 나의 다리. 즉 꼬리로 해수면을 박차여 뛰었다. #@문장구분#그 순간, 내 심장은 미칠 듯이 두근거렸다.#@문장구분#\n 이 짧은 시간동안 나는 무척이나 행복했다. #@문장구분#내가 무슨 일을 하는지도 모른 채로 즐기고 있었다.#@문장구분# 저 멀리 북유럽에 가서 환상적인 오로라도 보고 또 다른 고래들 무리에 끼어 같이 재미있게 놀곤 했다.#@문장구분#\n 행복도 잠시. #@문장구분#내가 너무 무모해진 탓일까? #@문장구분#저 깊은 심해에 들어가보고 싶다는 충동에 휩쓸려 아득한 심해에 빠져버리고 말았다. #@문장구분#그러면서 이 몽환적인 꿈에서 차가운 현실로 돌아오게 되었다.#@문장구분#\n 꿈일까?#@문장구분# 꿈이라기엔 너무 진짜 같았고 가짜라기엔 너무 세심하게 잘 짜여진 경험이었다.#@문장구분# \n 그 뒤로 난 한 번도 이런 꿈을 꿔보지 못했다.#@문장구분# 만약 내가 심해로 들어가지만 않았더라면 모든 것이 바뀔 수있었을까?#@문장구분#미련을 버리지 못해 얇은 희망의 끈만 찾아가며 걷는 나이다.",
+      "paragraph_len": 1262,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      20.25,
+      23.45
+    ],
+    "essay_scoreT_avg": 23.233332,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.12.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "042",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "바다 생물 이야기 짓기",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "다들 한 번쯤은 다른 세계의 사람 또는 동물에 빙의하게 되는 소설을 읽어본 적이 있을 것이다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다들 <문법_맞춤법>한번쯤은 </문법_맞춤법>다른 세계의 사람 또는 동물에 빙의하게 되는 소설을 잃어본 적이 있을 것이다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "놀랍겠지만, 난 실제로 다른 이의 몸에 빙의된 적이 있었다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": "놀랍겠지만, 난 실제로 다른 이의 몸에 <문법_어미>빙의되 </문법_어미>적이 있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 지금은 되돌아왔지만 아직도 그 기억을 잊지 못할 만큼 매우 인상적이었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 물론 지금은 <문법_맞춤법>되돌아왔지만아직도 </문법_맞춤법>그 기억을 잊지 못할 만큼 매우 <문법_어미>인상적이였다.</문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래. 분명 나는 깊은 심연 속으로 가라앉고 있었다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래. 분명 나는 깊은 심연 <문법_맞춤법>속으로가라앉고 </문법_맞춤법>있었다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 평소의 나라면 마구 버둥거리며 어떻게든 살기 위해서 노력했을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 평소의 나라면 <문법_맞춤법>마구버둥거리며 </문법_맞춤법>어떻게든 살기 위해서 노력했을 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그제서야 나는 내 팔 대신에 자리잡고 있는 지느러미와 다리 대신 있는 꼬리를 보았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그제서야 나는 내 팔 대신에 자리잡고 있는 지느러미와 <문법_맞춤법>다리대신 </문법_맞춤법>있는 꼬리를 보았다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저 수면 위로 올라가서 나의 다리. 즉 꼬리로 해수면을 박차며 뛰었다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 저 수면 위로 올라가서 나의 다리. 즉 꼬리로 해수면을 <문법_어미>박차여 </문법_어미>뛰었다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 이 짧은 시간 동안 나는 무척이나 행복했다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 이 짧은 <문법_맞춤법>시간동안 </문법_맞춤법>나는 무척이나 행복했다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 내가 심해로 들어가지만 않았더라면 모든 것이 바뀔 수 있었을까?",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 만약 내가 심해로 들어가지만 않았더라면 모든 것이 바뀔 <문법_맞춤법>수있었을까?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_63212",
+    "essay_prompt": " 바다는 지구 표면의 약 70%를 차지합니다. 그 속에는 무수한 생물이 살고 있는데 아직 밝혀지지 않은 종류도 많이 있습니다.\n\n 정말 넓고 신비로운 바다라는 곳에서 딱 일주일 동안 바다의 생물로 살아갈 기회가 주어진다면 여러분은 어떤 생물로 변신하고 싶으신가요?\n\n 원하는 생물을 정했다면 바다에서 어떤 모험을 하고 싶나요? 깊은 바다에 들어갈 수도 있고 아주 큰 고래가 되어 위험한 바다생물들을 도와줄 수도 있을 것 같아요.\n\n 관심 있는 바다 생물을 정하여 이유를 작성해주세요. 그리고 그 바다생물이 되어 바다를 모험하는 이야기를 상상하여 지어보세요.",
+    "essay_type": "글짓기",
+    "essay_level": "3",
+    "essay_len": 784,
+    "essay_main_subject": "바다 생물 이야기 짓기"
+  }
+}

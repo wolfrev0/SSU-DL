@@ -1,0 +1,229 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래 도시가 오면,나도 로봇 친구가 생기지 않을까?#@문장구분#지금도 인공지능이라고 해서 인간과 대화할 수 있는 로봇이 존재하지만,그때는 지금보다 더 자연스럽게 이야기를 나눌 수 있을 것 같아서 기대된다.#@문장구분# 근데 사람과 똑같이 생긴 로봇이 나와서 인간을 지배하게 될 수도 있다는 영화와 책을 본 적이 있다.#@문장구분# 나는 그게 무섭다.#@문장구분#로봇이 친구가 된다면 너무너무 재밌고 좋겠지만,로봇이 나한테 나쁜 짓을 하고 명령을 하면 정말 무서울 것 같다.#@문장구분# 인간보다 로봇이 더 똑똑해지면 나는 무슨 일을 하면서 살아야할까.#@문장구분# 그래서 나는 미래 세계가 오는게 무조건 좋고 기대되지만은 않는다.#@문장구분# 또 예전에는 사계절이 확실하게 있었다는데 요즘은 봄,가을이 없어졌다고 한다.#@문장구분# 또 북극에 사는 친구들이 살 곳도 없어지고 있다고 한다.#@문장구분# 너무 너무 슬프다.#@문장구분#나는 어른이 되면,꼭 이런 친구들을 지켜주고 싶다.#@문장구분# 미래세계가 오더라도 지구를 지키면서 함께 같으면 좋겠다.#@문장구분# 왜냐하면 지구는 함께 쓰는 거니까!#@문장구분#",
+      "paragraph_len": 736,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      20.25,
+      20.25
+    ],
+    "essay_scoreT_avg": 22.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.11.29",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "054",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "지금도 인공지능이라고 해서 인간과 대화할 수 있는 로봇이 존재하지만, 그때는 지금보다 더 자연스럽게 이야기를 나눌 수 있을 것 같아서 기대된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "지금도 인공지능이라고 해서 인간과 대화할 수 있는 로봇이 <문법_맞춤법>존재하지만,그때는</문법_맞춤법> 지금보다 더 자연스럽게 이야기를 나눌 수 있을 것 같아서 기대된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인간보다 로봇이 더 똑똑해지면 나는 무슨 일을 하면서 살아야 할까.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인간보다 로봇이 더 똑똑해지면 나는 무슨 일을 하면서 <문법_맞춤법>살아야할까.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 나는 미래 세계가 오는 게 무조건 좋고 기대되지만은 않는다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 나는 미래 세계가 <문법_맞춤법>오는게</문법_맞춤법> 무조건 좋고 기대되지만은 않는다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 예전에는 사계절이 확실하게 있었다는데 요즘은 봄, 가을이 없어졌다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 예전에는 사계절이 확실하게 있었다는데 요즘은 <문법_맞춤법>봄,가을이</문법_맞춤법> 없어졌다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "나는 어른이 되면, 꼭 이런 친구들을 지켜주고 싶다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "나는 어른이 <문법_맞춤법>되면,꼭</문법_맞춤법> 이런 친구들을 지켜주고 싶다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_60173",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 477,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}
