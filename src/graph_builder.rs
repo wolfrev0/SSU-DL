@@ -190,7 +190,7 @@ pub fn build_encoder(
 	wo: usize,
 	bo: usize,
 ) -> usize {
-	let att = build_4_head_attention8(g, input, wq, wk, wv, wo, bo);
+	let att = build_4_head_attention200(g, input, wq, wk, wv, wo, bo);
 
 	let resi = g.alloc();
 	g.adj[resi].op = (eltw_add_fwd, eltw_add_bwd);

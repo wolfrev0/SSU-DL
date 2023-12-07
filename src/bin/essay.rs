@@ -23,7 +23,7 @@ struct EssayData {
 
 fn main() {
 	let batch_size = 16;
-	let learning_rate = 0.005;
+	let learning_rate = 0.0003;
 	let mut rng = StdRng::seed_from_u64(133);
 
 	println!("Reading data");
@@ -77,65 +77,65 @@ fn main() {
 	//Create Graph
 	let mut g = ComputationGraph::new();
 	let word_num = 2;
-	let hidden_size = 8;
+	let hidden_size = 200;
 
 	let input = g.alloc();
 
 	let wq1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wq1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 	];
 
 	let wk1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wk1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 	];
 
 	let wv1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wv1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 	];
 	let wo1 = g.alloc();
 	let mut wo1_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-		rng.gen_range(-0.1..=0.1)
+		rng.gen_range(-0.03..=0.03)
 	})
 	.permuted_axes([0, 1, 3, 2]);
 	let bo1 = g.alloc();
 	let mut bo1_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.1..=0.1));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..=0.03));
 
 	let encoder1 = build_encoder(&mut g, input, wq1, wk1, wv1, wo1, bo1);
 
@@ -146,11 +146,11 @@ fn main() {
 	let gemm1_weight = g.alloc();
 	let mut gemm1_weight_data =
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		});
 	let gemm1_bias = g.alloc();
 	let mut gemm1_bias_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.1..=0.1));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..=0.03));
 	let gemm1 = build_gemm(&mut g, relu1a, gemm1_weight, gemm1_bias);
 
 	let relu1b = g.alloc();
@@ -160,57 +160,57 @@ fn main() {
 	let wq2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wq2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 	];
 
 	let wk2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wk2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 	];
 
 	let wv2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wv2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		}),
 	];
 	let wo2 = g.alloc();
 	let mut wo2_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-		rng.gen_range(-0.1..=0.1)
+		rng.gen_range(-0.03..=0.03)
 	});
 	let bo2 = g.alloc();
 	let mut bo2_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.1..=0.1));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..=0.03));
 
 	let encoder2 = build_encoder(&mut g, relu1b, wq2, wk2, wv2, wo2, bo2);
 
@@ -221,11 +221,11 @@ fn main() {
 	let gemm2_weight = g.alloc();
 	let mut gemm2_weight_data =
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-			rng.gen_range(-0.1..=0.1)
+			rng.gen_range(-0.03..=0.03)
 		});
 	let gemm2_bias = g.alloc();
 	let mut gemm2_bias_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.1..=0.1));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..=0.03));
 	let gemm2 = build_gemm(&mut g, relu2a, gemm2_weight, gemm2_bias);
 
 	let sigsum = g.alloc();
@@ -245,11 +245,13 @@ fn main() {
 					embvec.extend(vocab[i].1.clone().into_iter());
 				}
 			}
-			let input_data =
-				Array4::<f32>::from_shape_vec((1, 1, word_num, hidden_size), embvec[..16].to_vec())
-					.unwrap()
-					.permuted_axes([0, 1, 3, 2])
-					.to_owned();
+			let input_data = Array4::<f32>::from_shape_vec(
+				(1, 1, word_num, hidden_size),
+				embvec[..word_num * hidden_size].to_vec(),
+			)
+			.unwrap()
+			.permuted_axes([0, 1, 3, 2])
+			.to_owned();
 			let (res, grad) = g.run_essay(
 				vec![
 					(input, input_data.clone()),
@@ -286,7 +288,7 @@ fn main() {
 					(gemm2_weight, gemm2_weight_data.clone()),
 					(gemm2_bias, gemm2_bias_data.clone()),
 				],
-				0.15,
+				0.95,
 			);
 			// dbg!(&res);
 			// dbg!(&res[encoder2]);
