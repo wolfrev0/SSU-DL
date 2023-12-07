@@ -1,3 +1,5 @@
+use std::slice::SliceIndex;
+
 use ndarray::{concatenate, s, Array3, Array4, Axis};
 
 //fwd와 bwd 설명
@@ -178,30 +180,48 @@ pub fn softmax_y_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[0]=input
 //output[0]=input_grad
 //[Derivation of softmax]: dS_j/dx_i = S_j*(d_ij-S_i) where d_ij = kronecker delta
+//dy_j/dx_i*dz/dy_j = sum_j( (d_ij - y_i)*y_j*dz/dy_j
+//=-y_i*sum_j(y_j*dz/dy_j)+y_i*dz/dy_i
+//sum_j(y_j*dz/dy_j)를 전처리해두면 O(1)에 계산가능
 pub fn softmax_y_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
-	let s = softmax_y_fwd(&vec![input[0].clone()]);
-	let mut ret = Array4::zeros([s.shape()[0], s.shape()[1], s.shape()[2], s.shape()[3]]);
+	let o = softmax_y_fwd(&vec![input[0].clone()]);
+	let g = input[1].clone();
+	let mut ret = Array4::zeros([
+		input[0].shape()[0],
+		input[0].shape()[1],
+		input[0].shape()[2],
+		input[0].shape()[3],
+	]);
 	for b in 0..ret.shape()[0] {
 		for f in 0..ret.shape()[1] {
 			for x in 0..ret.shape()[3] {
-				let scur = s.slice(s![b, f, .., x]);
+				let z = (o.slice(s![b, f, .., x]).to_owned() * g.slice(s![b, f, .., x])).sum();
 				for y in 0..ret.shape()[2] {
-					let cur = s.get([b, f, y, x]).unwrap();
-					*ret.get_mut([b, f, y, x]).unwrap() = scur
-						.iter()
-						.enumerate()
-						.map(|(i, v)| {
-							(if i == y {
-								v * (1. - cur)
-							} else {
-								v * (0. - cur)
-							}) * input[1].get([b, f, i, x]).unwrap()
-						})
-						.sum();
+					*ret.get_mut((b, f, y, x)).unwrap() = z * -o.get((b, f, y, x)).unwrap()
+						+ o.get((b, f, y, x)).unwrap() * g.get((b, f, y, x)).unwrap();
 				}
 			}
 		}
 	}
+	// 			let scur = s.slice(s![b, f, .., x]);
+	// 			for y in 0..ret.shape()[2] {
+	// 				let cur = s.get([b, f, y, x]).unwrap();
+	// 				*ret.get_mut([b, f, y, x]).unwrap() = scur
+	// 					.iter()
+	// 					.enumerate()
+	// 					.map(|(i, v)| {
+	// 						(if i == y {
+	// 							v * (1. - cur)
+	// 						} else {
+	// 							v * (0. - cur)
+	// 						}) * input[1].get([b, f, i, x]).unwrap()
+	// 					})
+	// 					.sum();
+	// 			}
+	// 		}
+	// 	}
+	// }
+
 	vec![ret]
 }
 
@@ -434,35 +454,27 @@ pub fn layer_norm_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 		input[0].shape()[3],
 	);
 	let mut ret = Array4::zeros((b, f, y, x));
+	/* ChatGPT: Write backward kernel function for layer normalization operation.
+	def layer_norm_backward(dy, x, gamma, beta, mean, variance, epsilon=1e-5):
+		dgamma = np.sum(dy * ((x - mean) / np.sqrt(variance + epsilon)), axis=0)
+		dbeta = np.sum(dy, axis=0)
+		dx_normalized = dy * gamma
+		dvariance = np.sum(dx_normalized * (x - mean) * -0.5 * np.power(variance + epsilon, -1.5), axis=0)
+		dmean = np.sum(dx_normalized * -1 / np.sqrt(variance + epsilon), axis=0)
+		dx = dx_normalized / np.sqrt(variance + epsilon) + dvariance * 2.0 * (x - mean) / x.shape[0] + dmean / x.shape[0] #/x.shape[0] is wrong
+		return dx, dgamma, dbeta*/
+	//https://triton-lang.org/main/getting-started/tutorials/05-layer-norm.html
+	//https://gist.github.com/domarps/8e390411940a6c3b712cdaf95f009040
 	for bi in 0..b {
-		let cur = input[0].slice(s![bi, .., .., ..]);
-		let mu = cur.mean().unwrap();
-		let std = cur.std(0.);
-		for fi in 0..f {
-			for yi in 0..y {
-				for xi in 0..x {
-					for fj in 0..f {
-						for yj in 0..y {
-							for xj in 0..x {
-								let tmp0 = if fi == fj && yi == yj && xi == xj {
-									(f * y * x) as f32
-								} else {
-									0.
-								} - 1.;
-								let tmp0 = tmp0 / (f * y * x) as f32 / std;
-
-								let tmp1 = (*input[0].get((bi, fj, yj, xj)).unwrap() - mu)
-									* (*input[0].get((bi, fi, yi, xi)).unwrap() - mu);
-								let tmp1 = tmp1 / (f * y * x) as f32 / std.powi(3);
-
-								*ret.get_mut((bi, fi, yi, xi)).unwrap() +=
-									(tmp0 - tmp1) * input[1].get((bi, fj, yj, xj)).unwrap();
-							}
-						}
-					}
-				}
-			}
-		}
+		let n = f * y * x;
+		let dy = input[1].slice(s![bi, .., .., ..]);
+		let x = input[0].slice(s![bi, .., .., ..]);
+		let m = x.mean().unwrap();
+		let std = x.std(0.);
+		let dvar = (dy.to_owned() * x.map(|i| i - m) * -0.5 * std.powi(-3)).sum();
+		let dmean = (dy.to_owned() * -1. / std).sum();
+		let dx = dy.to_owned() / std + dvar * 2. * (x.to_owned() - m) / n as f32 + dmean / n as f32;
+		ret.slice_mut(s![bi..bi + 1, .., .., ..]).assign(&dx);
 	}
 	vec![ret]
 }
