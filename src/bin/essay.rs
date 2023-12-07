@@ -6,7 +6,7 @@ use std::{
 use dlrs::{
 	computation_graph::ComputationGraph,
 	graph_builder::{build_encoder, build_gemm},
-	operation::{relu_bwd, relu_fwd, sigsum_bwd, sigsum_fwd},
+	operation::{relu_bwd, relu_fwd, sigmean_bwd, sigmean_fwd},
 };
 use ndarray::{Array4, Axis};
 use rand::{rngs::StdRng, seq::SliceRandom, Rng, SeedableRng};
@@ -22,9 +22,8 @@ struct EssayData {
 }
 
 fn main() {
-	let batch_size = 16;
-	let learning_rate = 0.0003;
-	let mut rng = StdRng::seed_from_u64(133);
+	let learning_rate = 0.01;
+	let mut rng = StdRng::seed_from_u64(1333);
 
 	println!("Reading data");
 	let mut file = File::open("data/ko.vec").unwrap();
@@ -43,10 +42,10 @@ fn main() {
 	let n = asdf.parse::<usize>().unwrap();
 	let m = it.next().unwrap().parse::<usize>().unwrap();
 	let mut vocab = Vec::with_capacity(n);
-	for i in 0..n {
+	for _ in 0..n {
 		let word = it.next().unwrap();
 		let mut vec = Vec::with_capacity(m);
-		for j in 0..m {
+		for _ in 0..m {
 			vec.push(it.next().unwrap().parse::<f32>().unwrap());
 		}
 		vocab.push((word.to_owned(), vec));
@@ -73,10 +72,10 @@ fn main() {
 	let data_test = data_train
 		.drain(0..data_train.len() / 100)
 		.collect::<Vec<_>>();
+	let _ = data_test;
 
 	//Create Graph
 	let mut g = ComputationGraph::new();
-	let word_num = 2;
 	let hidden_size = 200;
 
 	let input = g.alloc();
@@ -84,58 +83,58 @@ fn main() {
 	let wq1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wq1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 	];
 
 	let wk1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wk1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 	];
 
 	let wv1 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wv1_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 	];
 	let wo1 = g.alloc();
 	let mut wo1_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-		rng.gen_range(-0.03..=0.03)
+		rng.gen_range(-0.03..0.03)
 	})
 	.permuted_axes([0, 1, 3, 2]);
 	let bo1 = g.alloc();
 	let mut bo1_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..=0.03));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..0.03));
 
 	let encoder1 = build_encoder(&mut g, input, wq1, wk1, wv1, wo1, bo1);
 
@@ -146,11 +145,11 @@ fn main() {
 	let gemm1_weight = g.alloc();
 	let mut gemm1_weight_data =
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		});
 	let gemm1_bias = g.alloc();
 	let mut gemm1_bias_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..=0.03));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..0.03));
 	let gemm1 = build_gemm(&mut g, relu1a, gemm1_weight, gemm1_bias);
 
 	let relu1b = g.alloc();
@@ -160,57 +159,57 @@ fn main() {
 	let wq2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wq2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 	];
 
 	let wk2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wk2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 	];
 
 	let wv2 = [g.alloc(), g.alloc(), g.alloc(), g.alloc()];
 	let mut wv2_data = [
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 		Array4::<f32>::from_shape_fn((1, 1, hidden_size / 4, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
+			rng.gen_range(-0.03..0.03)
 		}),
 	];
 	let wo2 = g.alloc();
 	let mut wo2_data = Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-		rng.gen_range(-0.03..=0.03)
+		rng.gen_range(-0.03..0.03)
 	});
 	let bo2 = g.alloc();
 	let mut bo2_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..=0.03));
+		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..0.03));
 
 	let encoder2 = build_encoder(&mut g, relu1b, wq2, wk2, wv2, wo2, bo2);
 
@@ -220,21 +219,19 @@ fn main() {
 
 	let gemm2_weight = g.alloc();
 	let mut gemm2_weight_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, hidden_size), |_| {
-			rng.gen_range(-0.03..=0.03)
-		});
+		Array4::<f32>::from_shape_fn((1, 1, 1, hidden_size), |_| rng.gen_range(-0.03..0.03));
 	let gemm2_bias = g.alloc();
 	let mut gemm2_bias_data =
-		Array4::<f32>::from_shape_fn((1, 1, hidden_size, 1), |_| rng.gen_range(-0.03..=0.03));
+		Array4::<f32>::from_shape_fn((1, 1, 1, 1), |_| rng.gen_range(-0.03..0.03));
 	let gemm2 = build_gemm(&mut g, relu2a, gemm2_weight, gemm2_bias);
 
 	let sigsum = g.alloc();
-	g.adj[sigsum].op = (sigsum_fwd, sigsum_bwd);
+	g.adj[sigsum].op = (sigmean_fwd, sigmean_bwd);
 	g.connect(gemm2, sigsum);
 
-	for epoch in 0..10000 {
+	for epoch in 0..5 {
 		data_train.shuffle(&mut rng);
-		for data in data_train.clone() {
+		for (data_idx, data) in data_train.clone().into_iter().enumerate() {
 			let mut embvec = Vec::new();
 			for line in data.paragraph.split('#') {
 				for word in line.split('@') {
@@ -245,6 +242,7 @@ fn main() {
 					embvec.extend(vocab[i].1.clone().into_iter());
 				}
 			}
+			let word_num = embvec.len() / hidden_size;
 			let input_data = Array4::<f32>::from_shape_vec(
 				(1, 1, word_num, hidden_size),
 				embvec[..word_num * hidden_size].to_vec(),
@@ -288,14 +286,13 @@ fn main() {
 					(gemm2_weight, gemm2_weight_data.clone()),
 					(gemm2_bias, gemm2_bias_data.clone()),
 				],
-				0.95,
+				0.35,
 			);
 			// dbg!(&res);
 			// dbg!(&res[encoder2]);
 			// dbg!(&grad[gemm2_weight]);
 			// dbg!(&grad[encoder2]);
 			// dbg!(&res[gemm2]);
-			dbg!(&res[sigsum]);
 			wq1_data[0] -= &(grad[wq1[0]].clone() * learning_rate);
 			wq1_data[1] -= &(grad[wq1[1]].clone() * learning_rate);
 			wq1_data[2] -= &(grad[wq1[2]].clone() * learning_rate);
@@ -331,6 +328,16 @@ fn main() {
 			gemm2_weight_data -= &(grad[gemm2_weight].clone() * learning_rate);
 			gemm2_bias_data -=
 				&(grad[gemm2_bias].sum_axis(Axis(3)).insert_axis(Axis(3)) * learning_rate); //sum_axis required because it is broadcasted
+
+			for i in sigsum - 4..=sigsum {
+				dbg!(i, grad[i].iter().take(5).collect::<Vec<_>>());
+			}
+			println!(
+				"epoch {epoch} {:.3}%, output: {:.3}, train error: {:.3}",
+				data_idx as f32 / data_train.len() as f32 * 100.,
+				res[sigsum].get((0, 0, 0, 0)).unwrap(),
+				(res[sigsum].get((0, 0, 0, 0)).unwrap() - data.score).powi(2)
+			);
 		}
 	}
 }

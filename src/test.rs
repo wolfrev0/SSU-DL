@@ -1547,7 +1547,7 @@ mod tests {
 	}
 	#[test]
 	#[ignore = "TODO"]
-	fn test_sigsum() {
+	fn test_sigmean() {
 		todo!();
 	}
 }
