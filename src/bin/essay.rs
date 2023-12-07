@@ -22,7 +22,6 @@ struct EssayData {
 }
 
 fn main() {
-	let learning_rate = 0.01;
 	let mut rng = StdRng::seed_from_u64(1333);
 
 	println!("Reading data");
@@ -286,13 +285,15 @@ fn main() {
 					(gemm2_weight, gemm2_weight_data.clone()),
 					(gemm2_bias, gemm2_bias_data.clone()),
 				],
-				0.35,
+				data.score,
 			);
 			// dbg!(&res);
 			// dbg!(&res[encoder2]);
 			// dbg!(&grad[gemm2_weight]);
 			// dbg!(&grad[encoder2]);
 			// dbg!(&res[gemm2]);
+			let learning_rate_base = 0.05;
+			let learning_rate = learning_rate_base / (10.0 as f32).powi(epoch);
 			wq1_data[0] -= &(grad[wq1[0]].clone() * learning_rate);
 			wq1_data[1] -= &(grad[wq1[1]].clone() * learning_rate);
 			wq1_data[2] -= &(grad[wq1[2]].clone() * learning_rate);
@@ -329,9 +330,6 @@ fn main() {
 			gemm2_bias_data -=
 				&(grad[gemm2_bias].sum_axis(Axis(3)).insert_axis(Axis(3)) * learning_rate); //sum_axis required because it is broadcasted
 
-			for i in sigsum - 4..=sigsum {
-				dbg!(i, grad[i].iter().take(5).collect::<Vec<_>>());
-			}
 			println!(
 				"epoch {epoch} {:.3}%, output: {:.3}, train error: {:.3}",
 				data_idx as f32 / data_train.len() as f32 * 100.,
