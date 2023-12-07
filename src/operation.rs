@@ -416,7 +416,7 @@ pub fn layer_norm_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 	let mut ret = input[0].clone();
 	ret.map_axis_mut(Axis(3), |mut x| {
 		let m = x.mean().unwrap();
-		let std = x.std(0.);
+		let std = x.std(0.) + 0.00001;
 		x.map_mut(|i| *i = (*i - m) / std);
 	});
 	ret
@@ -451,7 +451,7 @@ pub fn layer_norm_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 		let dy = input[1].slice(s![bi, .., .., ..]);
 		let x = input[0].slice(s![bi, .., .., ..]);
 		let m = x.mean().unwrap();
-		let std = x.std(0.);
+		let std = x.std(0.) + 0.00001;
 		let dvar = (dy.to_owned() * x.map(|i| i - m) * -0.5 * std.powi(-3)).sum();
 		let dmean = (dy.to_owned() * -1. / std).sum();
 		let dx = dy.to_owned() / std + dvar * 2. * (x.to_owned() - m) / n as f32 + dmean / n as f32;
@@ -526,15 +526,16 @@ pub fn concat4y_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 
 //input[0]=input
 //output[0]=sigmoid(sum(input[0]))
-pub fn sigsum_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
-	Array4::from_elem((1, 1, 1, 1), 1. / (1. + input[0].sum().exp()))
+pub fn sigmean_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
+	Array4::from_elem((1, 1, 1, 1), 1. / (1. + (-input[0].mean().unwrap()).exp()))
 }
 
 //input[-1]=output_grad_sum
 //input[0]=input
 //output[0]=input grad
-pub fn sigsum_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
-	let y = 1. / (1. + input[0].sum().exp());
+pub fn sigmean_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
+	// dbg!(&input[0], input[0].sum());
+	let y = 1. / (1. + (-input[0].mean().unwrap()).exp());
 	vec![Array4::from_elem(
 		(
 			input[0].shape()[0],
@@ -542,7 +543,7 @@ pub fn sigsum_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 			input[0].shape()[2],
 			input[0].shape()[3],
 		),
-		input[1].get((0, 0, 0, 0)).unwrap() * y * (1. - y),
+		input[1].get((0, 0, 0, 0)).unwrap() * y * (1. - y) / input[0].len() as f32,
 	)]
 }
 
