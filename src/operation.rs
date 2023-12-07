@@ -179,7 +179,7 @@ pub fn softmax_y_fwd(input: &Vec<Array4<f32>>) -> Array4<f32> {
 //input[-1]=output_grad_sum
 //input[0]=input
 //output[0]=input_grad
-//[Derivation of softmax]: dS_j/dx_i = S_j*(d_ij-S_i) where d_ij = kronecker delta
+//[Derivation of softmax]: dy_j/dx_i = y_j*(d_ij-y_i) where d_ij = kronecker delta
 //dy_j/dx_i*dz/dy_j = sum_j( (d_ij - y_i)*y_j*dz/dy_j
 //=-y_i*sum_j(y_j*dz/dy_j)+y_i*dz/dy_i
 //sum_j(y_j*dz/dy_j)를 전처리해두면 O(1)에 계산가능
@@ -203,25 +203,6 @@ pub fn softmax_y_bwd(input: &Vec<Array4<f32>>) -> Vec<Array4<f32>> {
 			}
 		}
 	}
-	// 			let scur = s.slice(s![b, f, .., x]);
-	// 			for y in 0..ret.shape()[2] {
-	// 				let cur = s.get([b, f, y, x]).unwrap();
-	// 				*ret.get_mut([b, f, y, x]).unwrap() = scur
-	// 					.iter()
-	// 					.enumerate()
-	// 					.map(|(i, v)| {
-	// 						(if i == y {
-	// 							v * (1. - cur)
-	// 						} else {
-	// 							v * (0. - cur)
-	// 						}) * input[1].get([b, f, i, x]).unwrap()
-	// 					})
-	// 					.sum();
-	// 			}
-	// 		}
-	// 	}
-	// }
-
 	vec![ret]
 }
 
