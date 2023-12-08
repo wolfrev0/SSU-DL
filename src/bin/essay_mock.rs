@@ -76,7 +76,6 @@ fn main() {
 
 	//Create Graph
 	let mut g = ComputationGraph::new();
-	let word_num = 2;
 	let hidden_size = 200;
 
 	let input = g.alloc();
@@ -243,6 +242,18 @@ fn main() {
 						i -= 1;
 					}
 					embvec.extend(vocab[i].1.clone().into_iter());
+				}
+			}
+			let word_num = embvec.len() / hidden_size;
+			for i in 0..word_num {
+				for j in 0..hidden_size {
+					embvec[i * hidden_size + j] *= if j % 2 == 0 {
+						f32::sin(i as f32 / (10000 as f32).powf(j as f32 / hidden_size as f32))
+					} else {
+						f32::cos(
+							i as f32 / (10000 as f32).powf((j - 1) as f32 / hidden_size as f32),
+						)
+					};
 				}
 			}
 			let input_data = Array4::<f32>::from_shape_vec(
