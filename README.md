@@ -19,9 +19,9 @@ Deep learning implementation from scratch by Rust
 ## Getting Started
 1. Install rust and cargo.
 2. Clone this repository to your local machine.
-3. run `cargo run --bin mnist`
+3. run `cargo run --bin mnist` or `cargo run --bin essay_mock` or `cargo run --bin essay`
 
-## src/bin/mnist.rs Output
+## MNIST Output
 ```
 ##### Test #####
 Cross Entropy Error: 2.0229712

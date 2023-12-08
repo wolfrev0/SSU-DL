@@ -227,8 +227,72 @@ fn main() {
 	let sigsum = g.alloc();
 	g.adj[sigsum].op = (sigmean_fwd, sigmean_bwd);
 	g.connect(gemm2, sigsum);
-
-	for epoch in 0..5 {
+	let mut mse_sum = 0.;
+	for data in data_test.clone() {
+		let mut embvec = Vec::new();
+		for line in data.paragraph.split('#') {
+			for word in line.split('@') {
+				let mut i = vocab.partition_point(|x| x.0.as_str() < word);
+				if i == vocab.len() {
+					i -= 1;
+				}
+				embvec.extend(vocab[i].1.clone().into_iter());
+			}
+		}
+		let word_num = embvec.len() / hidden_size;
+		let input_data = Array4::<f32>::from_shape_vec(
+			(1, 1, word_num, hidden_size),
+			embvec[..word_num * hidden_size].to_vec(),
+		)
+		.unwrap()
+		.permuted_axes([0, 1, 3, 2])
+		.to_owned();
+		let (res, grad) = g.run_essay(
+			vec![
+				(input, input_data.clone()),
+				(wq1[0], wq1_data[0].clone()),
+				(wq1[1], wq1_data[1].clone()),
+				(wq1[2], wq1_data[2].clone()),
+				(wq1[3], wq1_data[3].clone()),
+				(wk1[0], wk1_data[0].clone()),
+				(wk1[1], wk1_data[1].clone()),
+				(wk1[2], wk1_data[2].clone()),
+				(wk1[3], wk1_data[3].clone()),
+				(wv1[0], wv1_data[0].clone()),
+				(wv1[1], wv1_data[1].clone()),
+				(wv1[2], wv1_data[2].clone()),
+				(wv1[3], wv1_data[3].clone()),
+				(wo1, wo1_data.clone()),
+				(bo1, bo1_data.clone()),
+				(gemm1_weight, gemm1_weight_data.clone()),
+				(gemm1_bias, gemm1_bias_data.clone()),
+				(wq2[0], wq2_data[0].clone()),
+				(wq2[1], wq2_data[1].clone()),
+				(wq2[2], wq2_data[2].clone()),
+				(wq2[3], wq2_data[3].clone()),
+				(wk2[0], wk2_data[0].clone()),
+				(wk2[1], wk2_data[1].clone()),
+				(wk2[2], wk2_data[2].clone()),
+				(wk2[3], wk2_data[3].clone()),
+				(wv2[0], wv2_data[0].clone()),
+				(wv2[1], wv2_data[1].clone()),
+				(wv2[2], wv2_data[2].clone()),
+				(wv2[3], wv2_data[3].clone()),
+				(wo2, wo2_data.clone()),
+				(bo2, bo2_data.clone()),
+				(gemm2_weight, gemm2_weight_data.clone()),
+				(gemm2_bias, gemm2_bias_data.clone()),
+			],
+			data.score,
+		);
+		mse_sum += (res[sigsum].get((0, 0, 0, 0)).unwrap() - data.score).powi(2);
+	}
+	println!(
+		"epoch {} avg test error: {}",
+		0,
+		mse_sum / data_test.len() as f32
+	);
+	for epoch in 0..10 {
 		data_train.shuffle(&mut rng);
 		for (data_idx, data) in data_train.clone().into_iter().enumerate() {
 			let mut embvec = Vec::new();
@@ -293,7 +357,7 @@ fn main() {
 			// dbg!(&grad[encoder2]);
 			// dbg!(&res[gemm2]);
 			let learning_rate_base = 0.05;
-			let learning_rate = learning_rate_base / (10.0 as f32).powi(epoch);
+			let learning_rate = learning_rate_base / (10.0 as f32).powi(epoch / 2);
 			wq1_data[0] -= &(grad[wq1[0]].clone() * learning_rate);
 			wq1_data[1] -= &(grad[wq1[1]].clone() * learning_rate);
 			wq1_data[2] -= &(grad[wq1[2]].clone() * learning_rate);
@@ -331,11 +395,78 @@ fn main() {
 				&(grad[gemm2_bias].sum_axis(Axis(3)).insert_axis(Axis(3)) * learning_rate); //sum_axis required because it is broadcasted
 
 			println!(
-				"epoch {epoch} {:.3}%, output: {:.3}, train error: {:.3}",
+				"epoch {} {:.3}%, output: {:.3}, train error: {}",
+				epoch + 1,
 				data_idx as f32 / data_train.len() as f32 * 100.,
 				res[sigsum].get((0, 0, 0, 0)).unwrap(),
 				(res[sigsum].get((0, 0, 0, 0)).unwrap() - data.score).powi(2)
 			);
 		}
+
+		let mut mse_sum = 0.;
+		for data in data_test.clone() {
+			let mut embvec = Vec::new();
+			for line in data.paragraph.split('#') {
+				for word in line.split('@') {
+					let mut i = vocab.partition_point(|x| x.0.as_str() < word);
+					if i == vocab.len() {
+						i -= 1;
+					}
+					embvec.extend(vocab[i].1.clone().into_iter());
+				}
+			}
+			let word_num = embvec.len() / hidden_size;
+			let input_data = Array4::<f32>::from_shape_vec(
+				(1, 1, word_num, hidden_size),
+				embvec[..word_num * hidden_size].to_vec(),
+			)
+			.unwrap()
+			.permuted_axes([0, 1, 3, 2])
+			.to_owned();
+			let (res, grad) = g.run_essay(
+				vec![
+					(input, input_data.clone()),
+					(wq1[0], wq1_data[0].clone()),
+					(wq1[1], wq1_data[1].clone()),
+					(wq1[2], wq1_data[2].clone()),
+					(wq1[3], wq1_data[3].clone()),
+					(wk1[0], wk1_data[0].clone()),
+					(wk1[1], wk1_data[1].clone()),
+					(wk1[2], wk1_data[2].clone()),
+					(wk1[3], wk1_data[3].clone()),
+					(wv1[0], wv1_data[0].clone()),
+					(wv1[1], wv1_data[1].clone()),
+					(wv1[2], wv1_data[2].clone()),
+					(wv1[3], wv1_data[3].clone()),
+					(wo1, wo1_data.clone()),
+					(bo1, bo1_data.clone()),
+					(gemm1_weight, gemm1_weight_data.clone()),
+					(gemm1_bias, gemm1_bias_data.clone()),
+					(wq2[0], wq2_data[0].clone()),
+					(wq2[1], wq2_data[1].clone()),
+					(wq2[2], wq2_data[2].clone()),
+					(wq2[3], wq2_data[3].clone()),
+					(wk2[0], wk2_data[0].clone()),
+					(wk2[1], wk2_data[1].clone()),
+					(wk2[2], wk2_data[2].clone()),
+					(wk2[3], wk2_data[3].clone()),
+					(wv2[0], wv2_data[0].clone()),
+					(wv2[1], wv2_data[1].clone()),
+					(wv2[2], wv2_data[2].clone()),
+					(wv2[3], wv2_data[3].clone()),
+					(wo2, wo2_data.clone()),
+					(bo2, bo2_data.clone()),
+					(gemm2_weight, gemm2_weight_data.clone()),
+					(gemm2_bias, gemm2_bias_data.clone()),
+				],
+				data.score,
+			);
+			mse_sum += (res[sigsum].get((0, 0, 0, 0)).unwrap() - data.score).powi(2);
+		}
+		println!(
+			"epoch {} avg test error: {}",
+			epoch + 1,
+			mse_sum / data_test.len() as f32
+		);
 	}
 }
