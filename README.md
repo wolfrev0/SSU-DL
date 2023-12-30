@@ -1,5 +1,5 @@
-# dl.rs
-Deep learning implementation from scratch by Rust
+# SSU-DL
+Deep learning implementation from scratch using Rust.
 
 ## Implemented operations
 - Identity
@@ -41,7 +41,7 @@ Cross Entropy Error (test): 0.0011330106
 ```
 
 ## Project Description
-https://github.com/wolfrev0/dl.rs/blob/main/ProjectDescription.pdf
+https://github.com/wolfrev0/SSU-DL/blob/main/ProjectDescription.pdf
 
 ## Report
-https://docs.google.com/document/d/1CtcD79BKG_9Bd9S9RZ5lz2RGdapsw-nDpxiD_O2_K0Y/edit?usp=sharing
+https://github.com/wolfrev0/SSU-DL/blob/main/report.pdf
